@@ -1,3 +1,7 @@
 pytest
 pytest-cov
 docstr-coverage
+pandas
+numpy
+requests
+bs4
