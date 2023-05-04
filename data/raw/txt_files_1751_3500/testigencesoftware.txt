@@ -1,0 +1,217 @@
+PikeTec | Testing embedded software with TPT | MiL, SiL, HiL, automotive
+ 
+ 
+        Close    
+MENUMENUTPT
+TPT OverviewTPT TrainingTPT VideosUser StoriesTPT CustomizationTPT Licensing 
+Supported Test Environments
+Simulink/TargetLink TestingASCET Model TestingC/C++ Code TestingAUTOSAR SW Component TestingCo-Simulation with TPT/FUSIONADAS TestingTesting Processor-in-the-Loop (PiL)Testing Hardware-in-the-Loop (HiL)CAN Functional TestingAutomation of Driving Tests 
+ 
+TPT Features
+Test ModelingTest Case GenerationTest AssessmentMeasurement Data AssessmentTest ReportingSafety & ISO 26262Code CoverageRequirements CoverageDashboardSignal ViewerCI/CT & Cloud Testing 
+ 
+ 
+Use Cases
+Simulink/TargetLink TestingASCET Model TestingC/C++ Code TestingAUTOSAR SW Component TestingCo-Simulation with TPT/FUSIONADAS TestingTesting Processor-in-the-Loop (PiL)Testing Hardware-in-the-Loop (HiL)CAN Functional TestingAutomation of Driving TestsMeasurement Data Assessment
+DownloadAbout Us
+CompanyCareerTesting Services
+SupportBlog
+English
+Deutsch
+ 
+ 
+ 
+MENUMENUTPT
+TPT OverviewTPT TrainingTPT VideosUser StoriesTPT CustomizationTPT Licensing 
+Supported Test Environments
+Simulink/TargetLink TestingASCET Model TestingC/C++ Code TestingAUTOSAR SW Component TestingCo-Simulation with TPT/FUSIONADAS TestingTesting Processor-in-the-Loop (PiL)Testing Hardware-in-the-Loop (HiL)CAN Functional TestingAutomation of Driving Tests 
+ 
+TPT Features
+Test ModelingTest Case GenerationTest AssessmentMeasurement Data AssessmentTest ReportingSafety & ISO 26262Code CoverageRequirements CoverageDashboardSignal ViewerCI/CT & Cloud Testing 
+ 
+ 
+Use Cases
+Simulink/TargetLink TestingASCET Model TestingC/C++ Code TestingAUTOSAR SW Component TestingCo-Simulation with TPT/FUSIONADAS TestingTesting Processor-in-the-Loop (PiL)Testing Hardware-in-the-Loop (HiL)CAN Functional TestingAutomation of Driving TestsMeasurement Data Assessment
+DownloadAbout Us
+CompanyCareerTesting Services
+SupportBlog
+English
+Deutsch
+ 
+ Search
+ 
+ Close
+ 
+ 
+Download TPT
+ 
+Meet Us
+New Release!
+ 
+Download TPT
+ 
+Meet Us
+ 
+Embedded testing?You have come to the right place. 
+We have been specialists for testing embedded control software for more than 14 years. Testing has been our passion ever since. We believe that perfect software quality requires perfect testing. And that is what we are committed to. 
+We are the developers of the testing software TPT. TPT is the perfect test tool suite for all development phases of control software. You can use TPT for all kinds of test environments, whether MiL, SiL, PiL, HiL and even for vehicle testing. 
+ 
+Download TPT
+TPT 19  is out now! 
+Learn more
+TPT: Test and verify embedded control software. 
+TPT is the user-friendly tool suite for functional testing of embedded control software. With TPT test cases can be modeled graphically or generated automatically, for example from Simulink models or from C-code. Even complex tests are easy to model and to maintain. TPT assists you with creating appropriate assessment rules to evaluate your test results. TPT generates test reports, links tests with requirements, interacts with tons of development tools, handles safety standards and much, much more. 
+ 
+More about TPT
+TPT: There is something for everyone. 
+ 
+Our test tool TPT is a clever, fully integrated testing solution. We designed TPT to be the best testing solution that supports you from early test levels (MiL, SiL) to system integration (HiL, ViL). You don’t have to adapt your test processes, because TPT adapts to your needs. Just choose the ingredients of your taste. 
+Features of TPT 
+				Modeling tests, link them to requirements, monitor them by assessment rules, generate test data automatically, and much more.​					
+ 
+More about TPT
+Download 
+Do you have a user license already? Or do you want to give TPT a try?  
+ 
+All downloads
+Join a TPT training 
+Learn how to get the most out of TPT. We offer trainings for beginners, advanced users, and also individual trainings. 
+ 
+More about TPT trainings
+Our customers 
+Our customers are mainly from the automotive industry: interior, body, driving dynamics, driver assistance systems, ADAS, conventional and electric power trains. 
+We have thousands of users all over the world. Big OEMs, tier-1 suppliers, engineering companies — they use TPT to streamline their test processes and to ensure that testing is also fun (again). 
+ 
+What our customers say 
+						"Using TPT saves me a lot of time during maintenance”					
+Csongor PokóTest Manager, Software Testing at Ypsomed AG 
+						“We have purchased the TPT testing software and have been ramping up our work with the tools for our customers.  It’s an amazing package.  And we got 'Wow' from our other customers – they are impressed.  It helps us accelerate our software testing effectively.”​					
+Ping Yu​Founder, Chairman, CEO & Chief Engineer of Jing-Jin Electric, a world leader of motor systems and electric drive assembly for new energy vehicles (NEV)​ 
+ Previous
+ Next
+What's new? 
+				Understanding Assesslets: An Innovative Approach to Test Documentation in the Automotive Industry			
+			03/05/2023		
+Are you tired of the traditional way of documenting expected values in automotive testing? Introducing Assesslets – a new approach that simplifies the process and saves time!  Our latest blog post provides an in-depth overview of what Assesslets are, their advantages, and how they compare to traditional methods.  
+			Read More »		
+				Collaboration partners Model Engineering Solutions GmbH (MES) and PikeTec GmbH			
+			28/04/2023		
+[Press Release] Now for the first time as a complete solution: Seamlessly interoperating quality solution for model-based automotive software engineering projects. Collaboration partners Model Engineering
+			Read More »		
+				Skipping the Hardware with Virtual PiL Testing			
+			26/04/2023		
+With Virtual PiL you can execute existing test cases for your models or your C/C++ code, also for any target architectures and, if desired, automatically compare them directly with previous test runs (MiL and SiL) in a back-to-back procedure.
+			Read More »		
+Read our blog here
+Formal Requirements: Autogenerated Test Cases
+Multi-Execution of Parameter Sets
+Worst Case Execution Time Indicator
+All Target-Compiler Support
+Back to top
+ 
+About TPT 
+Videos
+Download
+Services 
+Testing Services
+ 
+TPT Support
+ 
+Glossary of Test Terms
+Company 
+Company Facts
+ 
+Career
+ 
+Blog
+ 
+Newsletter
+Legal 
+Site Notice
+Privacy  Statement
+ 
+Sitemap
+Cookie Settings 
+ 
+info@piketec.com
+ 
++49 30 394 096 830
+ 
+PikeTec GmbH, Waldenserstraße 2-4, 10551 Berlin, Germany
+ 
+Visitors' reception desk: entrance D, 3rd floor
+© 2023 PikeTec       All rights reserved 
+ 
+ 
+ 
+ 
+                                                Privacy Preference                                            
+We use cookies on our website. Some of them are essential (such as the cookie that stores your answer to this question), while others help us to improve this website and your experience. If you are under 16 and wish to give consent to optional services, you must ask your legal guardians for permission. We use cookies and other technologies on our website. Some of them are essential, while others help us to improve this website and your experience. Personal data may be processed (e.g. IP addresses), for example for personalized ads and content or ad and content measurement. You can find more information about the use of your data in our privacy policy. You can revoke or adjust your selection at any time under Settings. 
+Privacy Preference
+                                                            Essential                                                            
+                                                            Marketing                                                            
+                                            Accept all                                        
+                                            Save                                        
+                                            Accept only essential cookies                                        
+                                        Individual Privacy Preferences                                    
+                                        Cookie Details                                    
+                                            Privacy Policy                                        
+                                            Imprint                                        
+Privacy Preference
+If you are under 16 and wish to give consent to optional services, you must ask your legal guardians for permission. We use cookies and other technologies on our website. Some of them are essential, while others help us to improve this website and your experience. Personal data may be processed (e.g. IP addresses), for example for personalized ads and content or ad and content measurement. You can find more information about the use of your data in our privacy policy. Here you will find an overview of all cookies used. You can give your consent to whole categories or display further information and select certain cookies. 
+                                            Accept all                                        
+                                        Save                                    
+                                            Accept only essential cookies                                        
+                                        Back                                    
+Privacy Preference
+Essential (1)
+Essential cookies enable basic functions and are necessary for the proper function of the website.
+                                                        Show Cookie Information                                                    
+                                                        Hide Cookie Information                                                    
+Name
+                                                                Cookie Box Cookie                                                            
+Provider
+PikeTec GmbH, Imprint
+Purpose
+Saves the visitors preferences selected in the Cookie Box
+Cookie Name
+borlabs-cookie
+Cookie Expiry
+1 Year
+Marketing (2)
+Marketing
+Marketing cookies are used by third-party advertisers or publishers to display personalized ads. They do this by tracking visitors across websites.
+                                                        Show Cookie Information                                                    
+                                                        Hide Cookie Information                                                    
+Accept
+Google Tag Manager and Google Analytics
+Name
+                                                                Google Tag Manager and Google Analytics                                                            
+Provider
+Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland
+Purpose
+Cookie by Google used to control advanced script and event handling.
+Privacy Policy
+                                                                    https://policies.google.com/privacy?hl=en                                                                
+Cookie Name
+_ga,_gat,_gid
+Cookie Expiry
+2 Years
+Accept
+HubSpot
+Name
+                                                                HubSpot                                                            
+Provider
+HubSpot Inc., 25 First Street, 2nd Floor, Cambridge, MA 02141, USA
+Purpose
+HubSpot is a user database management service provided by HubSpot, Inc. We use HubSpot on this website for our online marketing activities.
+Privacy Policy
+                                                                    https://legal.hubspot.com/privacy-policy                                                                
+Host(s)
+*.hubspot.com, hubspot-avatars.s3.amazonaws.com, hubspot-realtime.ably.io, hubspot-rest.ably.io, js.hs-scripts.com
+Cookie Name
+__hs_opt_out, __hs_d_not_track, hs_ab_test, hs-messages-is-open, hs-messages-hide-welcome-message, __hstc, hubspotutk, __hssc, __hssrc, messagesUtk
+Cookie Expiry
+13 Months
+                                Privacy Policy                            
+                                Imprint                            

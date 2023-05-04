@@ -1,0 +1,90 @@
+ 
+pixolus - Datenerfassung und Bilderkennung per Smartphone-Kamera
+ 
+Start Services Projects Company References Jobs Contact Blog
+Mobile Visual Data Capture
+Just scan it.
+Data capture made simple
+Do your employees or customers collect data on their way?In the future this could work less tedious, time-consuming and error-prone. In mass processes with decentralized data collection, pixolus supports you in the best way.
+The result: Data is captured comfortably, quickly, reliably and including a reference photo taken by the camera. More in our brochure:  »Data capture made simple«
+Services
+Mobile image recognition
+We develop customized image recognition solutions for mobile data capturing. We use the state-of-the-art technologies such as machine learning and augmented reality. Examples are the automatic collection of meter readings (pixometer), IBAN (pixiban), pressure gauges or type plates via camera of smartphones or tablets.
+Customer-specific apps
+Others develop colourful apps. We develop solutions under iOS and Android tailored to your processes. Our apps improve your processes and reduce costs. We also take care of the corresponding system integration. This is how we bring your business into the digital world.
+Advice on digitization
+We analyze and optimize your processes – preferably in agile projects. In a workshop we identify your problems and work out the goals together. In manageable 2-4 weeks sprints, we perform improvements iteratively. In this approach you prioritize the next steps and always have transparency regarding project progress.
+ 
+Projects
+Products & selected projects
+pixometer SDK: plugin for scanning metersChef
+By integrating 
+pixometer SDK
+, your app will be able to read meters (power, gas, water, heat, operating hours) via smartphone camera. The technology is available as a software module for iOS and Android as well as Cordova, Titanium and Xamarin. Find more details in the
+ 
+pixometer SDK brochure
+ or 
+contact us
+.
+Product video: MIA Meter Reader App
+pixometer cloud solution for collecting meter readingsChef
+pixometer is the lean cloud solution (iOS, Android) for simplified collection, management, and billing of consumption data. It is an all-in-one software-as-a-service solution for utilities and meter reading services, energy managers, landlords and housing administrations.
+Try pixometer for free
+.
+ 
+Aareal Meter for Housing Companies & utilitiesChef
+Aareal Meter is the new platform for meter reading for the energy and housing industry as well as caretakers and meter reading service providers commissioned by them. Aareal Meter consists of an order portal and a meter reading app.
+Software development for a medical deviceChef
+ODI Medical
+ develops a highly innovative tool for medical diagnosis — and we create the acquisition software and the backend for it. The development is set up such that it will stand in a later audit for approval for medical device.
+pixiban: the IBAN scannerChef
+pixiban scans IBANs via smartphone camera. No need to retype 20-30 digits or letters.
+Just scan and paste.
+Intensive care documentationChef
+In a joint project with the RWTH Aachen hospital and Philips Healthcare, we will develop an app for support and quality assurance in the intensive care documentation.This three-year project is funded in the programme Leitmarkt­wettbewerb.NRW Gesundheit.
+Module for scanning manometerChef
+Even mostly automated businesses, not every measuring point is digitalized – if it does not pay off. For a big player in the chemical industry, we have developed a scan module prototype for a more efficient collection and documentation of manometer readings.
+Mobile warehouse management AppChef
+Customers of aescoLOGIC use the m.o.p.s inventory management App developed by us for easily ordering medical supplies. They can scan QR codes or just take a picture of the product – either directly in their warehouse or conveniently wherever they go. Furthermore, aescoLOGIC employees use the app on mobile devices with integrated hardware scanners for keeping the warehouses of their clients stocked.
+Scan 2 KEM – App for Energy ManagementChef
+The new 
+App Scan 2 KEM supports the municipal energy management of networks BW / EnBW: Meter readers of municipalities simply scan relevant meter readings monthly via app. Data collected this way is directly transferred to the municipal energy data system.
+Trade Fair App
+»SOPHOS Interactive«Chef
+Together with WAVELINE-MAR.COM, we created a multimedia app for the interactive trade fair presence of SOPHOS TECHNOLOGY. Visitors can watch product videos on a provided tablet. They select the product by pointing the tablet camera at the respective icon at the stand.
+Company
+We are a team of 15 experts: Skilled engineers and computer scientists, renowned business professionals and senior app and backend developers. We bring the necessary expertise for innovative, digital solutions – plus a lot of creativity and enthusiasm. We can live these out in a relaxed atmosphere on three floors in our office near Neumarkt in Cologne.
+ 
+The photo top center shows a part of the pixolus team on an terrace of the Dorint Hotel in Cologne – with a spectacular view of Cologne Cathedral in the background – at the first pixolus User Day in November 2022.
+The photo bellow center shows pixolus founder team. From left to right: Dr. Mark Asbach, Dr. Barbara Krausz, Dr.-Ing. Steffen Kamp, Dr. Stefan Krausz, Dipl.-Ing. Marco Lierfeld, Dr.-Ing. Markus Beermann.
+References
+(examples)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contact
+pixolus GmbH
+Große Brinkgasse 2b
+D-50672 Köln
++49 221 949992-0
+info@pixolus.de Tel. +49 221 949992 0 pixolus GmbHEupener Straße 16550933 Cologne, GermanyTel. +49 221 949992 0 
+Nachricht
+					Press				
+					Imprint			
+					Privacy Statement			
+Deutsch
+English

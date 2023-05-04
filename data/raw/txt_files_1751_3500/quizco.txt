@@ -1,0 +1,82 @@
+Content-Processor: jetzt noch nutzerfreundlicher! | QuizCo
+   
+Content generieren in Moodle
+Teste den Content-Creator
+Aktuelles
+ 
+ 
+Content generieren in Moodle
+Teste den Content-Creator
+Aktuelles
+Apr
+04
+ 
+Content-Processor: jetzt noch nutzerfreundlicher!
+4. April 2022
+In den letzten Wochen hat sich bei unserem Content-Processor einiges getan. Verschiedene Meilensteine wurden erreicht, beispielsweise durch das neue API Dashboard und die Integration eines Onboarding-Tools. Doch was verbirgt sich dahinter und was bedeuten die Neuerungen für Nutzer*innen?
+Was ist der Content-Processor?
+Der Content-Processor Studio von QuizCo bietet durch den Einsatz von Künstlicher Intelligenz die Möglichkeit, individuelle Lerninhalte aus vorhandenen Materialien wie z. B. Lernzetteln zu erstellen. Die Erstellung der Inhalte erfolgt unkompliziert, kostenlos und innerhalb weniger Sekunden. Dazu gehören Quizfragen, Kernaussagen, Variationen und Zusammenfassungen. Diese Funktion kommt nicht nur Studierenden in der Klausurenphase zugute, sondern auch Lehrkräften im Rahmen der Unterrichtsvorbereitung.
+Für komplexere Anforderungen eignet sich hingegen der Content-Processor Premium. Auch dieser arbeitet mithilfe Künstlicher Intelligenz. Im Gegensatz zum Content-Processor Studio können hier längere und ausführlichere Textdokumente verarbeitet werden. So können komplexe Sachverhalte leichter zugänglich gemacht werden. Die individuell generierten Lerninhalte umfassen Karteikarten, Quizfragen, Kernaussagen, Zusammenfassungen und verschiedene Variationen des eingelesenen Textes.
+API Dashboard: Integration einer Schnittstelle
+Der erste Meilenstein, auf den wir genauer eingehen wollen, ist die Erstellung einer Schnittstelle innerhalb vom Content-Processor Studio. Durch die Nutzung sogenannter HTTP-Anfragen können die erzeugten Inhalte wie z. B. Quizfragen auch außerhalb des Content-Processor, beispielsweise in eigener geschriebener Software oder in bereits vorhandenen Lernsystemen wie Moodle, von Nutzer*innen verwendet werden.
+Die Funktionen, auf die Nutzer*innen von Studio über diese Schnittstelle zugreifen können sind:
+Lückenfragen
+Kernaussagen
+Offene Fragen
+Zusammenfassungen
+Variationen
+Um diesen Dienst nutzen zu können, muss innerhalb des Content-Processors ein Schlüssel (API-Key) auf dem API-Dashboard generiert werden. Dieser Schlüssel dient als Verifizierung für den Zugriff auf den Content-Processor. Darüber hinaus können auf dem neuen API Dashboard auch bisherige Funktionsanfragen nachvollzogen werden.
+Onboarding-Tool bietet unkomplizierten Einstieg
+Eine weitere wichtige Neuheit ist die Integration des Onboarding-Tools Kompassify in die Bedienüberfläche des Content-Processors Premium. Das Onboarding ist besonders geeignet für Personen, die das erste Mal einen Auftrag im Content-Processor Premium erstellen wollen und mit den einzelnen Schritten noch nicht vertraut sind.
+Die Möglichkeit, die Tour im Rahmen des Onboarding-Prozess zu beginnen, öffnet sich mit der Auswahl eines neuen Auftrags automatisch, so dass nicht lange danach gesucht werden muss. Mit dem Start der Tour wird jetzt in jedem einzelnen Schritt bzw. mit jedem Klick eine Erklärung gegeben, was genau an dieser Stelle passiert, was getan werden kann und welche Schritte als nächstes folgen. So werden Nutzer*innen durch die gesamte Auftragserstellung begleitet und Unklarheiten innerhalb der Nutzung eliminiert.
+ 
+Live-Chat für schnelle Unterstützung bei Fragen
+Um die Nutzung unserer Produkte noch angenehmer und reibungsloser zu gestalten haben wir zudem einen Live-Chat innerhalb des Content-Processors integriert. Der Button zum Starten eines Chats findet sich links unten innerhalb des Programms.
+Bei offenen Fragen oder Anmerkungen ist es nun möglich, in Echtzeit über die Chatfunktion mit unserem Team zu kommunizieren und in kürzester Zeit Hilfestellung zu bekommen. Innerhalb unserer Geschäftszeiten erhalten Nutzer*innen in der Regel innerhalb weniger Minuten eine Antwort. Das Schreiben ausführlicher und langer E-Mails ist somit nicht mehr nötig und der schnelle, persönliche Austausch steht im Vordergrund.
+ 
+ 
+Internationalisierung: Content-Processor jetzt auch in Englisch nutzbar
+Die letzte große Neuerung, die auf die Verbesserung der Nutzungsfreundlichkeit abzielt, ist die Möglichkeit, den Content-Processor komplett in englischer Sprache zu nutzen. Die Sprachauswahl erfolgt direkt beim Login.
+ 
+ 
+ 
+ 
+Stay tuned! 
+Trotz dieser umfangreichen neuen Features innerhalb der Nutzung des Content-Processors arbeiten wir natürlich weiterhin daran, unsere Produkte zu optimieren und die Nutzung für dich einwandfrei zu gestalten.
+Weitere News und Highlights zu den Produkten von QuizCo findest du auf unserer Website und auf unseren Social-Media-Kanälen.
+ Facebook
+ Twitter
+ LinkedIn
+ E-Mail
+Comments are closed.
+  
+Über QuizCo QuizCo bringt Künstliche Intelligenz in Unternehmen, Bildungseinrichtungen und zu dir nach Hause. Wir haben eine Vielzahl von Algorithmen entwickelt, die es ermöglichen automatisiert Inhalte zu erstellen. Lies alle interessanten Themen hier im Blog.
+Weitere Beiträge
+Wie einfach in Moodle automatisiert Content erstellt werden kann
+Der September ist da – und das erwartet euch
+QuizCo Content-Processor – Jetzt auch im Onlinefachhandel
+Neues Preismodell und verbesserte Menüführung für den Content-Processor
+Pitches, Pitches, Pitches – QuizCo auf Erfolgskurs
+Messemonat Juni – Endlich, es geht wieder los
+Das ist neu beim Content-Processor
+Spielerisches Lernen durch Gamification
+Die neue QuizCo-Website ist online
+Content-Processor: jetzt noch nutzerfreundlicher!
+ 
+Weitere Infos Impressum
+Datenschutzerklärung
+AGB
+Kontakt
+Über uns Team
+Jobs bei QuizCo
+Newsletter
+QuizCo GmbH Standort Dortmund:
+Emil-Figge-Str. 80
+44227 Dortmund
+Standort Hannover:
+Walderseestraße 7
+30163 Hannover
+info@quizco.de
+ 
+QuizCo GmbH © 2023 Copyright | Impressum | Datenschutzerklärung 
+ 

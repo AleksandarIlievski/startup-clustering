@@ -1,0 +1,115 @@
+Qdrant - Vector Database
+Product
+Use cases
+Solutions
+Benchmarks
+Demos
+Pricing
+Resources
+Documentation
+Articles
+Blog
+Roadmap
+Changelog
+Community
+ 
+Github
+ 
+Discord
+ 
+Twitter
+ 
+Newsletter
+ 
+Contact us
+ Cloud
+ Github
+Vector DatabasePowering the next generation of AI applications
+with advanced and high-performant vector similarity search technology.
+docker pull qdrant/qdrant
+docker run -p 6333:6333 qdrant/qdrant
+Take a look at our Quick Start Guide
+or build your own neural search  with our step-by-step Tutorial
+Benchmarks
+Demos
+Make the most of your Unstructured DataQdrant is a vector database & vector similarity search engine.
+It deploys as an API service providing search for the nearest high-dimensional vectors. With Qdrant, embeddings or neural network encoders can be turned into full-fledged applications for matching, searching, recommending, and much more!
+Easy to Use API
+Provides the OpenAPI v3 specification to generate a client library in almost any programming language.
+Alternatively utilise ready-made client for Python or other programming languages with additional functionality.
+Fast and Accurate
+Implement a unique custom modification of the HNSW algorithm for Approximate Nearest Neighbor Search.
+Search with a State-of-the-Art speed and apply search filters without compromising on results.
+Filtrable
+Support additional payload associated with vectors.
+Not only stores payload but also allows filter results based on payload values. 
+Unlike Elasticsearch post-filtering, Qdrant guarantees all relevant vectors are retrieved.
+Rich data types
+Vector payload supports a large variety of data types and query conditions, including string matching, numerical ranges, geo-locations, and more.
+Payload filtering conditions allow you to build almost any custom business logic that should work on top of similarity matching.
+Distributed
+Cloud-native and scales horizontally. 
+No matter how much data you need to serve - Qdrant can always be used with just the right amount of computational resources.
+Efficient
+Effectively utilizes your resources.
+Developed entirely in Rust language, Qdrant implements dynamic query planning and payload data indexing.
+Hardware-aware builds are also available for Enterprises.
+Challenges and tasks solved with QdrantHere are just a few examples of how Qdrant vector search database can help your Business
+Similar Image SearchSometimes text search is not enough. Qdrant vector database allows you to find similar images, detect duplicates, or even find a picture by text description.Qdrant filters enable you to apply arbitrary business logic on top of a similarity search.
+Look for similar clothes cheaper than $20? Search for a similar artwork published in the last year?
+Qdrant handles all possible conditions!For the Demo, we put together a food discovery service - it will show you a lunch suggestion based on what you visually like or dislike. It can also search for a place near you.
+Demo
+Contact us
+Semantic Text SearchFull-text search does not always provide the desired result.
+Documents may have too few keywords, or queries might be too large.One way to overcome these problems is a neural network-based semantic search, which can be used in conjunction with traditional search.
+The neural search uses semantic embeddings to find texts with similar meaning.With Qdrant vector search engine, you can build and deploy semantic neural search on your data in minutes!
+Compare the results of a semantic and full-text search in our demo.
+Demo
+Contact us
+RecommendationsUser behavior can be represented as a semantic vector is similar way as text or images.
+This vector can represent user preferences, behavior patterns, or interest in the product.With Qdrant vector database, user vectors can be updated in real-time, no need to deploy a MapReduce cluster.
+Understand user behavior in real time.
+Contact us
+Upgrade your Neural Search StackQdrant vector search engine can integrate with anything, these are some of the featured technologies
+ArticlesCheck out our latest publications
+Qdrant under the hood: Scalar QuantizationScalar Quantization is a newly introduced mechanism of reducing the memory footprint and increasing performance
+March 27, 2023 | Kacper Łukawski
+On Unstructured Data, Vector Databases, New AI Age, and Our Seed Round.We announce Qdrant seed round investment and share our thoughts on Vector Databases and New AI Age.
+April 19, 2023 | Andre Zayarni
+Extending ChatGPT with a Qdrant-based knowledge baseChatGPT factuality might be improved with semantic search. Here is how.
+March 23, 2023 | Kacper Łukawski
+Get Updates from QdrantWe will update you on new features and news regarding Qdrant and Vector Similarity Search
+Subscribe
+Product
+Use cases
+Solutions
+Benchmarks
+Demos
+Pricing
+Community
+ 
+Github
+ 
+Discord
+ 
+Twitter
+ 
+Newsletter
+ 
+Contact us
+Company
+Jobs
+Privacy Policy
+Terms
+Impressum
+Credits
+Latest Publications
+Scalar Quantization is a newly introduced mechanism of reducing the memory footprint and increasing performance
+On Unstructured Data, Vector Databases, New AI Age, and Our Seed Round.
+ChatGPT factuality might be improved with semantic search. Here is how.
+© 2023 Qdrant. All Rights Reserved
+Thanks for using Qdrant!
+×
+Subscribe to our e-mail newsletter if you want to be updated on new features and news regarding
+Qdrant.Like what we are doing? Consider giving us a ⭐ on Github.
+Subscribe

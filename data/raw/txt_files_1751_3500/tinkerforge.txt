@@ -1,0 +1,74 @@
+Home | Tinkerforge
+Doc
+Shop
+Forum
+Downloads
+Blog
+                  Deutsch
+                
+                   English
+                 
+      To view this video please enable JavaScript, and consider upgrading to a web browser that
+      supports HTML5 video
+    
+How it works
+Short introduction of the building blocks.
+Read More
+About us
+Learn about our team and our philosophy.
+Read More
+Applications
+Use Tinkerforge for prototypes, small batch production and automation.
+Read More
+From idea to finished product
+EnBW is developing the inteligent street light of tomorrow: Smart City Light (SM!GHT). It comes as a charging station with sensor system.
+The foundation of the system is provided by the Tinkerforge building blocks. A typical story for the development with Tinkerforge.
+Read More
+New blog entries
+WARP Charger and WARP Charger Stands now also available with powder-coated finish
+          From now on, all WARP2 Chargers and WARP Charger Stands will be offered in addition to the V4A stainless steel version, also powder-coated in the color DB703 "micaceous iron ore ...
+          
+Read More
+New functions for WARP Charger and WARP Energy Manager
+          Unfortunately this article is only available in german: https://www.tinkerforge.com/de/blog/new-functions-for-warp-charger-and-warp-energy-manager/
+          
+Read More
+WARP Energy Manager
+          
+Today events are a bit hectic for us:
+On one hand, we have released a new firmware for the WARP Charger Wallboxes. This firmware offers various new features (OCPP, charging ...
+          
+Read More
+Tinkerforge
+Doc
+Shop
+Forum
+Downloads
+Blog
+Shop
+Bricks
+Bricklets
+Master Extensions
+Power Supplies
+Kits
+Cases
+Accessories
+MakerBeam
+Gift Card
+Important Information
+Privacy Notice
+Legal Info
+Safety/Compliance
+Terms and Conditions
+Right of Revocation
+About Us
+About us
+Applications
+How it works
+Contact
+Reseller
+Partner
+Jobs
+CHIP Award Winner
+              Product of the Year 2012
+            

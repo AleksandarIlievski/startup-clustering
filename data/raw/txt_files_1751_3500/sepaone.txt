@@ -1,0 +1,86 @@
+SEPAone Portal
+Home
+Benefits
+How does it work
+Features
+Contact
+Blog
+Login
+SEPA Direct Debit
+Enabling Direct Debit for mobile and online
+Learn more
+Benefits
+Widely accepted
+Any bank account in the SEPA Zone
+Many account holders do not have a credit card or do not want to use it
+Consumer is well protected by reimbursement functionality offered by his bank
+Best user experience
+Native integration: no redirect, works great in mobile and online checkout
+Simplicity: No intermediate, no wallet, no password
+No IBAN and BIC needed: We translate from well known bank sort code and account number
+Perfect for one time and recurring payments
+No limits
+Fix or variable amounts and schedules
+No expiration date = continuous payments
+Safe and Secure
+You don’t have to store any bank account details
+We manage and secure the bank uplinks
+Our infrastructure runs in Tier 4 Data Centers
+Comfortable and efficient
+Easy integration through RESTful API
+No bank integration needed
+We take care of chargebacks and reminders
+Low cost
+How does it work
+The Direct Debit Process
+1
+User fills in bank details either IBAN and if applicable BIC or well known account number and bank sorting code (only for first time checkout). We validate and score the request.
+2
+User signs a mandate by clicking a checkbox . Users with a high risk profile have to enter a code received per email or mobile phone.
+3
+From now on you can debit the user’s account by just sending a request through the API.
+Features
+Mandate management
+One-off and recurring mandates
+Generate mandate reference or use your numbers
+IBAN BIC calculation supporting 24 countries
+Cancel mandates upon API call
+Expire mandates
+Transaction handling
+Support CORE and COR1
+Checks (plausibility, mandate to exist, negative list)
+Send standard pre-notification eMail (may be turned off if you notify buyer)
+Advanced features
+Easy refunds
+Reconciliation
+Debtor’s management
+Reminders through eMail and snail mail
+Collection processes
+R-transaction handling
+Receive R-transactions from bank
+Report through API (e.g. web hook)
+Panel
+Dashboard with transactions, customers, mandates, chargebacks
+Show transaction stream
+Search and view transaction details (transaction, customer, mandate, chargeback)
+List view mandates, transactions, chargebacks, customers plus details
+Cancel mandate
+Contact
+* Name
+Company
+Phone
+* Email
+* Comment
+Age
+Info
+Disclaimer
+Imprint
+FAQ
+Social
+Twitter
+Google+
+Contact
+Charlottenstrasse 2
+10696 Berlin
+[email protected]
+© 2023 SEPAONE

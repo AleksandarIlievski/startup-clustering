@@ -1,0 +1,183 @@
+getML
+    Home
+    HomeProblemSolution
+    Contact
+    
+    Consulting
+    
+      Product 
+      getMLWhy getML?What is getML?How do I use it?BenchmarksGetting started
+              Versions
+              
+              Download
+              
+              Demo Notebooks
+              
+              Live Demo
+              
+    Documentation
+    CareersBlogContact sales
+        Try now
+      
+          Create competitive
+          
+          ML solutions in days.
+          
+          Not months.
+        Customer churn predictionJupyter
+                        NotebookPredict credit defaultJupyter
+                        NotebookPredict winner in F1Jupyter
+                        Notebook
+          Modern businesses rely on relational data structures. Think of it as the digital backbone of any industry.
+        
+          Unfortunately, preparing relational data for machine learning requires
+          massive amounts of manual work.
+        
+          getML automates that.
+        
+              Are you a data scientist?
+            
+              Talk code to me
+              
+              Learn more
+              
+        Trusted by thousands of data scientists, fortune 500 companies & public institutions.
+      Boost your teams' productivity
+            getML is a tool for data scientists
+          
+            getML combines unique feature learning algorithms with state-of-the-art AutoML.
+            Using getML, you can build predictive analytics models on the most complex relational data schemata without a
+            single line of SQL (or equivalent) code for data transformation.
+          
+              Discover relational learning
+              10xSpeed up your data science processCustom ML solutions
+          Our cross-industry experience in machine learning enables us to build productive applications that are tailor-made for your needs. Starting from data engineering, over feature and machine learning to cloud deployment, we offer to conceptualize, code and maintain custom ML applications.
+        
+          How we can support you
+          An expensive problemMachine Learning needs features
+        Building features is an expensive process - it takes up to 90% of your project's time and ties up scarce
+        expert capacities.
+      
+        It is the #1 bottleneck of every AI/ML journey on relational data.
+      Popular applications that rely on features:
+              Customer Churn
+            
+              Customer activation 
+            
+              Predictive maintenance 
+            
+              Sales forecasts
+            
+              Resource planning 
+            
+              Up- and Cross-Selling 
+            
+              Product return predictions
+            
+          Real-world data is stored in relational databases.
+        
+          In a relational database, the relevant information for your prediction models is spread across multiple
+          tables. This general, non-flat data structure applies to any domain or industry.
+        Read our technical intro to relational data with code examples
+          But relational data is not compatible with ML.
+        
+          Every state-of-the-art ML algorithm requires its inputs to adhere to a very specific format: A single, flat
+          table. Prediction-relevant information in a relational database can span multiple tables and does not
+          fulfuill this requirement.
+        
+          Background article: Researchers have forgotten about relational data
+        
+        Making relational data compatible with ML-algorithms is a manual process
+      
+        It requires domain experts, data scientists and a lot of code to build flat feature tables from relational
+        data.
+      Domain Experts 
+         have day-to-day experience in the business domain. For predicting loan default, these might be the people whose job it is to handle loan applications. Their experience is valuable for defining meaningful features.
+      Data Scientists are responsible for the feature construction process. Their
+        job is to translate domain knowledge into code that transforms raw data into a format that ML algorithms can
+        understand.
+      Code, a lot of code. Good machine learning systems require hundreds of
+        features. Each feature can contain hundred lines of code. Features are difficult to code, maintain and can
+        change over time.
+      Effects of manual feature engineering on ML projects
+      In practice, features are the result of weeks of discovery and trial and error. The features resulting from
+      this loose loop suffer from a range of problems.
+    
+            A feature’s quality is hard to evaulate, bad features lead to bad predictions and lost profits
+          
+            Features can change over time and you need to redo feature engineering
+          
+            Relying on the experts’ intuition, Data Scientist  don’t know if they have missed something
+          
+        Effects of manual feature engineering on ML projects
+      Up to:90%Loss in time due to manual workCase Studies find:-15%Reduced AI-Model profitabilityFE is unique to every project.ZeroTransferability between projectsAndrew NG, Co-founder of deeplearning.ai
+      “Coming up with features is difficult, 
+      time-consuming, requires expert 
+      knowledge. Applied machine learning
+      is basically feature engineering.”
+    The missing pieceAn algorithm that learns features
+        A Machine Learning model can only be as good as its features. Excellent features are the result of a large-scale search. 
+        
+          The success of this search depends on three key properties:
+          
+              The number of features evaluated
+              
+              The depth of each feature
+              
+              The manual effort required
+              
+        Here is why feature learning delivers better results, faster.
+      
+        Here is why feature learning delivers better results, faster.
+      Domain-knowledge drivenManual Feature EngineeringWhy you want to avoid manual feature engineeringMonths of manual workRequires hard-to-get knowledgeReduced predictive performanceMonths of manual workRequires hard-to-get knowledgeReduced predictive performanceMonths of manual workRequires hard-to-get knowledgeReduced predictive performanceLearn moreWhy you want to avoid manual feature engineering
+                A manual search for features requires domain knowledge and a lot of code. Obtaining domain knowledge
+                is costly as it requires running through a loop of expert interviews and research. Building features
+                from domain knowledge is a trial-and-error process and requires thousands of lines of code. The data
+                science unit of one of our customers used to spend 3 months of time engineering around 200 features.
+              
+              A lot of code and lengthy meetings with domain experts for a small number of features.
+            ~300Range of evaluated featuresmediumMaximum feature depth10.000Lines of codeStatistical OptimizationFeature LearningGenerates flat feature tables from relational data. All it needs:Understanding of data modelReduced predictive performancePython skillsUnderstanding of data modelDefined prediction targetMonths of manual workRequires hard-to-get knowledgeReduced predictive performanceLearn moreRequest a demoFeature learning automates manual feature engineering
+                getML's feature learning algorithms use machine learning concepts to discover great features. The key is to break down the search and evaluate its smaller parts using machine-learning paradigms like gradient boosting. Feature learning discovers prediction-relevant logic by evaluating a huge number of features with an arbitrary depth. Feature learning enables data scientists to build top-performing prediction models using as few as 20 lines of code.
+              
+              Let algorithms learn from billions of features instead of coding them by hand.
+            100.000.000+Range of evaluated featureshighMaximum feature depth~20Lines of code
+          A deep-learning-like revolution for 
+          relational data structures.
+        
+        Deep learning,
+         
+        has enabled automated feature engineering for
+        images and sound data. getML's feature learning algorithms automate feature engineering on relational data
+        and classical time series.
+      
+        Data scientists building predictive analytics models using getML's feature learning algorithms can reduce
+        their workload by up to 90%.
+      A whole lot fasterUp to:10x
+              Feature Engineering
+            Up to:10x
+              Feature Learning
+            Business Owner. Project leads can evaluate new AI business cases in days not months by enabling
+            their teams to automate the predictive analytics process with getML.
+            getML's feature learning algorithms deliver accurate models that enable a solid assessment of the maximum
+            potential profit from day one.
+          Data Scientist. The workload of data scientists is reduced by up to 90% by using getML for
+            feature learning. At the same time, data scientists can stay focused on statistics, making prediction models 
+            less dependent on domain experts, even discovering new feature logic.
+          Return on Investment. 
+            Increase your ROI with getML: Its end-to-end automation allows you to validate new business cases faster. Stop rewriting hundreds of SQL, pandas or R/data.table scripts in your production environment. Automatic retraining of your feature logic helps keep your models profitable by adapting features to ever changing patterns in your data. 
+          Beating popular frameworksUp to:3-0
+              Feature Learning
+            vs.3-0
+              Feature Engineering
+            
+            Benchmarking getMLs algorithms against popular frameworks from AlterYX, Facebook & Blue Yonder.
+          Predictive performance. In predicting traffic volume, getML's relational learning algorithms
+            outperform
+            Prophet's classical time series approach by ~14% and tsfresh's brute force approaches to feature
+            engineering by ~26%.
+          Feature depth is key to predicting baseball players saleries. getML’s Relboost feature learning
+            algorithms beats featuretools propositionalization approach by five percentage points (in terms of the R-squared).
+          Speed. All of getML’s algorithms rely on our custom-built C++-native in-memory database engine. In
+            benchmarks against propositionalization algorithms tsfresh & featuretools, we find that getML is between 34x
+            to 179x faster, depending on the dataset.
+          © 2021 The SQLNet Company GmbHImprint Terms of servicePrivacy policyCookie settings

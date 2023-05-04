@@ -1,0 +1,88 @@
+neurocat - Driving Safe AI for Everyone
+ 
+ 
+Solution
+Company
+Careers
+Blog
+Get in touch
+Solution
+Company
+Careers
+Blog
+Get in touch
+collision avoidance
+hazard analysis
+pedestrian protection
+traffic sign recognition
+Driving Safe AI for Everyone
+Validating perception to get your ADAS/ADS on the road
+Safe perception for an autonomous world
+The Al-powered perception component needed today in order to compete tomorrow must handle numerous scenes and conditions combining in a way that defies full specification.We have built the fastest route to it with aidkit.
+Explore our solution
+If you are reading this, it is because your browser does not support the HTML5 video element.
+AIDKIT
+Your route to safety validation for AI perception functions
+Specify
+Define your development strategy based on an Operational Design Domain that makes the world manageable, then define the scenes you need to master so your AI can manage that world
+Test
+Leverage augmented data to challenge your perception component, develop new scenarios for testing, and ensure robust handling of new situations all while respecting data fidelity
+Improve
+Learn where your perception model falls short and precisely what scenarios you need to add and what data you need for retraining and retesting until all unreasonable risk is removed
+A safe perception package
+Get your AI ready for the world with aidkit
+One integrated tool
+Harmonize traditional safety management and the disruptive Al world
+Bring together your perception software development and system development through safety validation designed to meet the challenging world of ML, the demanding data requirements of perception, and the need for understandable safety arguments
+Explore our solution
+All your testing needs
+Maintain perception component performance in all common and edge cases of your ODD
+Conduct testing to confirm performance within your ODD catalogue and discover new safe and unsafe areas so you can expand the scenes your perception component can handle while pushing the boundaries of your ODD
+Explore our solution
+Efficient data management
+Ensure data fidelity for sufficient and appropriate testing of all safety relevant scenarios
+Make sure you have the right data to conduct the right tests needed to push your performance while still efficiently managing and tracking that data so you can prove your work and provide evidence for your results and safety claims
+Explore our solution
+Designed for ADAS/AD perception testing
+A custom solution for your unique needs
+Our aidkit software was built with the same goal as you: safe deployment of perception components in automated vehicles. aidkit testing functionalities are designed around the ODD that you specify and that defines your requirements.aidkit ensures you meet the common and edge-cases in that ODD then helps you push further to discover new safe and unsafe areas by combing existent ODD attributes. This way we don’t just get your AI on the road; we ensure your AI gets everyone back home safely.
+Request a demo
+Driving safe perception
+Continue your journey with us
+Don’t just manage risks. Mitigate your perception system’s chances of encountering unknown situations and enhance its resiliance.
+Get in touch
+Or contact us the traditional way →
+Press kit
+Site Notice
+Privacy
+Terms
+© neurocat GmbH
+Manage Cookie Consent
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+Functional
+Functional
+								Always active							
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+Preferences
+Preferences
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+Statistics
+Statistics
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+Marketing
+Marketing
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Manage options
+Manage services
+Manage vendors
+Read more about these purposes
+Accept
+Deny
+View preferences
+Save preferences
+View preferences
+{title}
+{title}
+{title}
+Manage consent

@@ -1,0 +1,154 @@
+VIOSO – Projection Software
+		Skip to content
+ 
+Main Menu
+ 
+AV ProductsMenu Toggle
+SoftwareMenu Toggle
+VIOSO 6
+VIOSO 6 SIM
+EXAPLAY
+HardwareMenu Toggle
+VIOSO Anystation Nano
+VIOSO Anystation Micro
+VIOSO Anystation Integrate
+VIOSO Anystation Media
+VIOSO Domemaster
+VIOSO SIM IG
+VIOSO Barco Warpstation
+Testpattern Generator
+Calibration Kit Finder
+Legacy SoftwareMenu Toggle
+VIOSO Player
+VIOSO Anyblend
+VIOSO Anyblend VR&SIM
+VIOSO Integrate
+Simulation
+SolutionsMenu Toggle
+Technology
+Fulldome
+Simulation
+Custom Solutions
+SDK
+Consulting
+Showcase
+Demo
+Support
+ContactMenu Toggle
+General Contact
+Distribution
+Project Request Form
+ 
+ 
+ 
+ 
+ 
+Projection Software 
+Warping and Blending for multiple Projectors 
+We are the projection magicians who bring light into the darkness 
+VIOSO provides fascinating software solutions for your multi projector setups. Whether it is a creative AV installation or a complex simulation environment, we make the setup of projects like panorama screens, domeprojections and projection mapping incredibly innovative and reliable. 
+ 
+ 
+AV Software 
+ 
+We provide automatic camera-based alignment of multiple projectors on any surface. (planar, cylindrical, domes, 3D custom shapes and more) 
+ 
+Direct NVIDIA GPU integration blends and warps Windows desktop, making it ready for displaying any application on your scanned screen. 
+ 
+Easy handling of multi-server calibration for automatically calibrated projectors, spread thoughout a network of image generators. 
+Learn more
+Simulation Software 
+ 
+We support more than 30 simulation software plugins and allow dynamic eyepoint based warping with multiple camera support. 
+ 
+Direct export to NVIDIA GPU, or easy integration  with our open API and multiple ready-to-use plugins (e.g., rFpro, VBS3, Unity3D and UE). 
+ 
+Color matching and black level compensation, with auto-setup of viewing frustums for motion-based platforms and tracking systems.  
+Learn more
+ 
+ 
+AV Hardware 
+ 
+We offer plenty of different hardware solutions, dedicated to your AV Installation needs. From a small Anystation Nano, perfect for easy content playback up to our Domemaster which is capable to display uncompressed 8K content.  
+Learn more
+Simulation Hardware 
+ 
+Our simulation hardware VIOSO SIM IG and SIM IG Plus are based on top performance hardware. Whether you are planning a VR installation or a simulation installation of any kind. Our hardware solutions are rock solid.  
+Learn more
+ 
+ 
+Service  
+ 
+Our team is dedicated to developing custom solutions for your needs, even if the ones you might not yet think of. 
+Learn more
+ 
+We also provide a SDK / API free of charge to parse our data. If your application requires special attention, we will develop a custom plugin for you. 
+Learn more
+Consulting 
+ 
+Whether it may be project consulting, production, or on-site training – it is your choice where you profit from our expertise. 
+Learn more
+ 
+We are very proud of our support. Our highly qualified team members will assist you with all testing and production issues. 
+Learn more
+ 
+ 
+Recent projects 
+Browse through some of our recent projects or have a look at our showcase to see all of them sorted by categories. 
+Showcase
+				Megadomo 60m Fulldome Experience			
+				Immersive Fashion Room			
+				Planetarium Bochum			
+				DASA Dortmund Museum			
+ 
+ 
+News 
+Comments Box SVG iconsUsed for the like, share, comment, and reaction iconsVIOSO 
+	 10 hours ago  
+Did you know that VIOSO offers a projection planning service? As experts in the field of projection setups, we provide assistance in planning complex projection configurations for system integrators, helping them implement these systems for their clients. We have successfully completed numerous intricate planning projects and contributed to their seamless implementation.If you require assistance with planning demanding projection systems, look no further! Contact us for more information or your next projection study: vioso.com/project-request-form#vioso #projectionsetup #planning 
+... See MoreSee Less
+View on Facebook
+·
+Share
+ Share on Facebook
+ Share on Twitter
+ Share on Linked In
+ Share by Email
+ 
+View Comments
+Likes:
+ 
+4
+Shares:
+ 
+1
+Comments:
+ 
+1
+Comment on FacebookUsing Mapping Matter?
+Load more
+© 2022 VIOSO GmbH | Privacy Policy | Imprint 
+Facebook
+ 
+Linkedin
+ 
+Instagram
+ 
+Youtube
+ 
+ 
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies. Do not sell my personal information.Cookie settingsACCEPTManage consent
+Close
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+ 
+								Necessary							
+Necessary
+Always Enabled
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								
+								Non-necessary							
+Non-necessary
+									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								
+SAVE & ACCEPT
+ 
+ 

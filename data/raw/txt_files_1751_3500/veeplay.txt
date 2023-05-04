@@ -1,0 +1,139 @@
+Your Video Platform - Player SDKs And Video APIs By Veeplay | Veeplay Video Platform
+PRODUCTS
+Video Player Framework
+Server Side Ad-Insertion
+                Platform
+Cloud Video APIs
+SOLUTIONS
+E-Commerce
+Broadcast & Media
+Events
+DOCS & SUPPORT
+PRICING
+COMPANY
+About
+Partners
+Blog
+Jobs
+Get started:
+SIGN UP
+LOGIN
+PRODUCTS
+Video Player Framework
+Server Side Ad-Insertion
+              Platform
+Cloud Video APIs
+SOLUTIONS
+E-Commerce
+Broadcast & Media
+Events
+DOCS & SUPPORT
+PRICING
+COMPANY
+About
+Partners
+Blog
+Jobs
+SIGN UP
+LOGIN
+PRODUCTS
+Video Player Framework
+Server Side Ad-Insertion
+              Platform
+Cloud Video APIs
+SOLUTIONS
+E-Commerce
+Broadcast & Media
+Events
+DOCS & SUPPORT
+PRICING
+COMPANY
+About
+Partners
+Blog
+Jobs
+SIGN UP
+LOGIN
+Build video products that drive revenue and delight audiences
+Develop solid video experiences in just a few lines of code.
+Get Started
+{  “content”: [    {      “url”: “http://yourdomain.com”,      “autoplay”: true,      “controls”: {        “components”: [          “totalTime”,          “slider”,
+Video APIs
+Upload any video file format and deliver it instantly to any web destination.
+Learn More
+Video Players
+Stream, secure & monetize your video inventory on any device / platform.
+Learn More
+Server Side Ad Insertion
+Smooth & uninterrupted streaming with a 25% boost in ad revenue.
+Learn More
+Platform Overview
+Veeplay’s modular approach offers complete flexibility & control over your video products.
+Video Upload
+Any file format
+Any web destination
+Fast upload speed
+Transcoding & Storage
+HLS with CMAF
+AES Encryption
+Test Streams
+Video Streaming
+Subtitles & Closed Captions
+Video Thumbnails
+Mp4 Offline Support
+Playback
+Any Website, App or SmartTV
+VAST, VMAP, MRAID support
+Complete visual customization
+Monetization
+Scene Based Ad-Insertion
+Server Side Ad-Insertion
+Ad blocker avoidance
+Analytics
+Any file format
+Any web destination
+Fast upload speed
+Our Clients
+Veeplay is used by leading media companies worldwide:
+TESTIMONIALS
+"We are glad to have found a reliable partner in Veeplay, whose player technology allows us to keep pace with the fast moving world of mobile video."
+DR. TILMAN BUCHNER
+CMO ProSiebenSat.1 Media SE
+"Veeplay allowed the team at SPORT1 to significantly improve video distribution & gather full control on InStream advertising strategy."
+ALEXANDER POCH
+Product Manager Video at SPORT1
+"Veeplay unlocked mobile video advertising for Markiza and allowed us to deliver a great experience to our users while not compromising on monetization."
+ANTON ZDARILEK
+Head of New Media at Markiza TV
+Try Veeplay’sproducts for Free!
+No credit card required.
+START HERE
+Create an account and get:
+$35
+free cloud credit
+for our Cloud Video APIs
+15,000
+free video impressions
+for our Video Player Framework
+PRODUCTS
+Video Player Framework
+Server Side
+                Ad-Insertion Platform
+Cloud Video APIs
+SOLUTIONS
+E-Commerce
+Broadcast & Media
+Events
+COMPANY
+About
+Jobs
+DOCS & SUPPORT
+PRICING
+IMPRESSUM
+BLOG
+PARTNERS
+CONTACT
+Veeplay is backed by:
+© 2020 Appscend Video Solutions GmbH. Veeplay is a registered trademark. All Rights
+          Reserved.
+Find us on:

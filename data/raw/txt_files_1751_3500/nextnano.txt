@@ -1,0 +1,113 @@
+nextnano - Software for semiconductor nanodevices
+  
+              
+						  
+     					  
+     					  
+          
+navigation on/off
+Home
+Products
+Overview
+Front End & Workflow Manager
+nextnanomat
+Schrödinger-Poisson-Drift-Diffusion
+nextnano++
+nextnano3
+Quantum transport using NEGF
+nextnano.NEGF
+nextnano.MSB
+Productivity
+nextnanopy
+Price list
+Applications
+Electronics
+Optoelectronics
+Quantum cascade lasers
+Bio chips
+Solar cells
+Quantum computing
+Education
+Resources
+Tutorials
+Documentation
+Workshop
+Publications
+About Us
+Our Company
+News & Events
+Awards
+Partners
+Career
+Contact
+Download
+Empowering the future of nanoelectronics
+where precision meets innovation
+Simulating Nanoscale Device Behavior for Improved Performance
+					nextnano is a cutting-edge simulation software that enables engineers and researchers to model and simulate the behavior of nanoscale devices, including quantum dots, wires, 
+					and other semiconductor structures. 
+					
+					By accurately predicting and optimizing device performance, nextnano empowers customers to achieve faster time-to-market and improved performance, making it an invaluable tool 
+					in the development of next-generation technologies.
+					
+BENEFITS
+Cost Saving
+					By identifying potential problems and optimizing structure design before moving forward with expensive experimental methods, nextnano can help you reduce costs in the research and 
+					development of nanostructures.
+					
+Time Saving
+With nextnano, you'll save valuable time by quickly and accurately simulating complex nanostructures, avoiding the need for time-consuming experimental methods.
+Versatile
+nextnano can simulate a wide range of nanostructures, including quantum dots, wires, and wells, as well as more complex structures like superlattices and heterojunctions.
+Flexible
+nextnano offers unparalleled flexibility compared to its competitors, allowing you to easily customize simulation parameters to meet your specific research needs.
+Vast Resources
+nextnano's license includes a vast collection of example files and tutorials featuring state-of-the-art physics and publications in semiconductor and quantum science. 
+						Easily adapt examples to your device geometry and begin simulations quickly without extensive training.
+					
+Affordable
+nextnano is priced competitively compared to other simulation software tools on the market, making it an affordable option for both individual researchers and research groups.
+APPLICATIONS
+Laser Diodes & LEDs
+Learn more, click here.
+Photodetectors
+Learn more, click here.
+Quantum Cascade Lasers
+Learn more, click here.
+Solar Cells
+Learn more, click here.
+Transistors
+Learn more, click here.
+Superlattices
+Learn more, click here.
+Quantum Wells, Wires and Dots
+Learn more, click here.
+Quantum Cascade Diodes
+Learn more, click here.
+Resonant Tunneling Diode
+Learn more, click here.
+Interband Cascade Laser (Coming Soon)
+Learn more, click here.
+Education
+Learn more, click here.
+Address | Office Munich
+nextnano GmbH
+        Konrad-Zuse-Platz 8
+        81829 München
+        Germany
+        
+Legal
+nextnano holding
+Data Privacy Policy
+Legal Notice
+Copyright
+Contact
+					  Phone
+					  Fax
+					  Email
+	          +49 8121 7603205
+	          +49 8121 7603206
+	          info  [at] nextnano.com	              
+          
+Stay up to date with our latest news and updates
+Subscribe

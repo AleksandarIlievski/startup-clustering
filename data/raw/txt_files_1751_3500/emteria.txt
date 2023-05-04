@@ -1,0 +1,168 @@
+OTA Updates and Remote Management for Embedded Android
+Coming soon: Secure Android tablet powered by emteria
+				    Explore now 
+Products
+Resources
+Industries
+Company
+Pricing
+Login
+            Start for free
+          
+Products
+emteria.OS
+emteria Device Hub
+Solutions
+Android customization
+Android updates
+Hardware support
+EMTERIA
+About us
+Careers
+Partners
+SERVICE
+Customer service
+Contact us
+INDUSTRIES
+Manufacturing
+Retail
+Transport & logistic
+APPLICATIONS
+Digital signage
+Infotainment
+Vending & ticketing
+DISCOVER
+Blog
+Newsletter
+Resources
+Success stories
+LEARN
+Knowledge base
+Discussion forum
+Release notes
+API reference
+Customize, manage and update your Android OS remotely for
+DIGITAL SIGNAGE SOLUTIONS
+POINT-OF-SALE SYSTEMS
+KIOSK SOLUTIONS
+VEHICLE TERMINALS
+SMART HOME APPLICATIONS
+Contact sales
+Start for Free
+Ensure the security and longevity of your products
+Cover all steps of your product lifecycle with emteria's robust, secure and scalable solution.
+                  Build continuously
+                
+Automatic CI/CD for your custom Android OS with every patch and updated feature.
+                  Update easily
+                
+Android client and servers for secure Firmware Over-The-Air (OTA) updates.
+                  Manage remotely
+                
+Remote ­access and debugging no matter where the deployed devices are located.
+Extend and adapt Android to your needs
+emteria develops and extends AOSP for both off-the-shelf and custom hardware platforms. emteria.OS is a managed Android ROM designed for faster prototyping, testing and deployment. It provides a unified product configuration interface for custom branding, extra vendor HALs, and simplified application management.
+"With emteria, we found a partner that offers exactly what we were looking for - an Android-based operating system for our hardware."
+Prof. Dr. Lars Großmann - Managing Director
+  Explore emteria.OS
+Keep your Android devices secure
+Lasting products are built by regularly integrating the latest security patches, fixing software bugs, and rolling out improved services. With emteria's automatic CI/CD pipeline for AOSP and reliable cloud OTA infrastructure, Over-The-Air firmware updates for Android (FOTA) can be built and distributed automatically. This way, you can protect your devices from online threats and provide the best possible user experience.
+"... everything was up and running in less than 3 hours ... especially setting up our update process was a breeze."
+Gabriel Butcher - Head of IT
+  Discover emteria OTA updates
+Manage devices on one platform
+Use a unified management platform for all your Android devices. The emteria Device Hub scales, manages and monitors the health status of your devices. The powerful cloud solution combines everything you need to remotely maintain your Android device fleet. This includes group configuration policies, user application management and OTA rollout schedules.
+"The great thing about emteria.OS and the device management platform is that it really has everything you need as an enterprise customer."
+Markus Gasser - IT Manager
+  Learn more about Device Hub
+Does emteria.OS work with your hardware?
+The emteria.OS was built to run on both off-the-shelf hardware like the Raspberry Pi and on custom board designs based on industrial reference platforms like NXP’s i.MX8 or Rockchip's RK3399. The OS is compatible with board support packages (BSPs) provided by all major chip manufacturers. With emteria.OS you get a seamless Android experience.
+  Check out supported hardware
+Create a unique Android product
+We are happy to offer you a comprehensive all-round service to build and maintain a secure Android OS for your product. We build customized AOSP solutions since Android version 1.6. Our experts have many years of experience writing Android HALs, low-level drivers and framework extensions to support custom board design.
+  Contact us for Android OS customization
+					Get started for free
+				
+Save your emteria.OS starter plan with all features and no time limit.
+No credit card required.
+					Start for free
+				
+							Find the right features
+						
+Compare plans
+							Talk to our experts
+						
+Contact us
+          News and updates from our blog
+        
+ Radxa ROCK 4SE: Compared with Raspberry Pi 4B and.. 
+                  Radxa ROCK 4 SE is a popular single board computer (SBC) that has gained some but by far not enough attention. Haven’t heard of the board or looking i...
+                
+Read article
+ What is Google Push Service: The Essentials 
+                  Want to keep your app users engaged, so you need a way to keep them informed and up to date? This is typically done using push notifications, which se...
+                
+Read article
+ FCM Alternatives for Your Device's Push Service 
+                  Google's proprietary Firebase Cloud Messaging (FCM) solution poses several problems for developers who wish to implement push notifications in their a...
+                
+Read article
+ Exploring the Radxa ROCK 3C: A comprehensive.. 
+                  The Radxa ROCK 3 Model C is the newest addition to the Radxa ROCK 3 family - a powerful and versatile single board computer that will generate a lot o...
+                
+Read article
+ Get up to speed with Android OTA firmware updates 
+                  The increased use of internet-connected Android devices means that applying over-the-air (OTA) firmware updates has become more important than ever. 
+                
+Read article
+ Streamline your devices with advanced Android.. 
+                  Enterprises that use a fleet of Android devices face unique challenges in managing and securing these devices. Without proper Android fleet management...
+                
+Read article
+ AOSP ROM: Unlock your device's full potential 
+                  The sky's the limit on the types of devices that can run custom AOSP ROMs. As popularity for Android grows, more and more types of peripherals and har...
+                
+Read article
+ Why use Android for your self checkout system 
+                  Self checkout systems continue to grow in popularity. A recent article on CNN indicated that 29% of people used checkout systems in 2022, up from 23% ...
+                
+Read article
+ Top Raspberry Pi Camera Module 3 updates 
+                  Raspberry Pi announces the update of its Camera Module with long-awaited improvements. Finally, autofocus is no longer wishful thinking! Let’s take a ...
+                
+Read article
+Company
+Home
+About us
+Careers
+Partners
+Product
+emteria.OS
+emteria Device Hub
+Android updates
+Android customization
+Supported hardware
+Customer service
+Pricing
+Resources
+Blog
+Knowledge base
+Learning center
+Discussion forum
+Release notes
+Videos & resources
+Success story
+Legal
+Terms of use
+Privacy policy
+Cookie declaration
+Legal notice
+Contact
+info@emteria.com
++49 241 47597530
+Oppenhoffallee 9-15,
+52066 Aachen, Germany
+Follow us
+Subscribe for more information
+We will notify you about important product updates. You can unsubscribe at any time. By submitting this form you expressly agree to store your email address in our database.
+ 2016 - 2023 emteria GmbH | All rights reserved

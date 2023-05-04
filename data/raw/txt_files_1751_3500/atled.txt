@@ -1,0 +1,149 @@
+ATLED – Ausweisverwaltung und Berechtigungsmanagement
+Skip to content
+ 
+ATLED
+Ausweisverwaltung und Berechtigungsmanagement
+ 
+Menu
+Produkt
+Projekte
+Technologien
+Stellenanzeigen
+Über uns
+Kontakt
+More
+ 
+Home 
+Ausweisverwaltung und Berechtigungsmanagement.State of the Art.
+Wir machen die Welt einfacher und sicherer.
+ATLED entdecken
+Mitmachen
+Unser Produkt
+ATLED Ausweisverwaltung und Berechtigungsmanagement
+ATLED ist ein hochmodernes System für Ausweisverwaltung und Berechtigungsmanagement: Mit ATLED lassen sich Prozesse der digitalen Beantragung, Genehmigung und Kommunikation über ein Self-Service-Portal und Selbstbedienungs-Terminals vollständig digitalisieren.
+Ausweismanagement und -produktion
+Beantragung, Genehmigung und Erstellung
+Zertifikats- und Schulungsmanagement
+Anbindung diverser Subsysteme möglich
+Besucherverwaltung
+Besuchervoranmeldung
+Besuchsgenehmigung
+Vollautomatisierte Prozess inkl. Ausweisausgabe am Selbstbedienungs-Terminal
+Verwaltung von Zutrittsprofilen
+Berechtigungsverwaltung
+Beantragungs- und genehmigungsworkflow
+Fristenüberwachung
+Personen- und Firmenverwaltung
+Self-Service-Portal für Mitarbeiter/Fremdfirmen/Studierende
+Verwalten und Einbinden von Sperrlisten
+Assetverwaltung
+Einfahrtgenehmigungen
+Werkzeuge
+Flexible Integration mit bestehenden Systemen
+Allgemein
+Benutzer- und Rollenverwaltung
+Automatische Benachrichtigungen und Reporting
+Mehrsprachigkeit & Responsive Design
+Unsere Projekte
+Sichere Ausweisverwaltung und Berechtigungsmanagement in verschiedenen Branchen
+Universitäten
+Mit ATLED werden multifuktionale Studierendenausweise verwaltet, so dass die Studierenden den gleichen Ausweis für Bibliothek, Mensa und Semesterticket nutzen können.
+Ebenso erhalten Beschäftigte und Gäste durch Mitarbeiter – und Gästekarten die Möglichkeit, in Mensen und Cafeterien zu bezahlen, das Bibliotheksangebot zu nutzen, sowie Zugänge zu Parkplätzen, Gebäuden und Räumen zu erhalten. ATLED kann dabei standort- und hochschulübergreifend eingesetzt werden.
+Eine Besonderheit stellt die Möglichkeit der direkten Anbindung an den (((eTicket-Standard nach VDV-KA für das Semesterticket dar.
+Flughäfen
+Für Flughäfen bilden wir den gesamten Prozess der Verwaltung der Mitarbeiter- und Besucherausweise ab.
+Beginnend mit einer Fotokabine zur Bildaufnahme, über eine Personalverwaltung und eine digitale Zuordnung der Bilder werden mit ATLED jährlich über 5.000 Ausweise neu erstellt.Zusätzlich werden Teilsysteme an Zugängen, Toren, dem Rollfeld oder in Leitstellen angewendet. 
+Die hohen Sicherheitsbestimmungen erfordern unter anderem eine regelmäßige Sicherheitsüberprüfung der Mitarbeiter und einen Ausweis für jedes Fahrzeug. Diese Anforderungen werden durch Zusatzmodule innerhalb von ATLED verwaltet und überprüft. Dabei nutzen wir unsere flexiblen Schnittstellen zu bestehenden Systemen (wie z.B. SAP, Siemens SIPORT Zutrittskontrolle, Bezirksregierung, ZÜP).
+Produktionsgewerbe
+Bei mehren Stahlherstellern agiert ATLED als zentrales Verwaltungssystem für Ausweise, Mitarbeiter, Besucher, Schulungen, Werkzeuge, Einfahrtgenehmigungen und Fremdfirmen.
+ATLED unterstützt und optimiert die Erstellung und Verwaltung der Ausweise für eigene Mitarbeiter, Mitarbeiter von Fremdfirmen und Besucher unter Berücksichtigung der Zutrittsbeschränkungskriterien sowie eine automatisierte Überwachung auf Gültigkeit der Ausweise.
+Neben den Ausweisen, Personen und Firmen werden auch Geräte, Werkzeuge und Immobilien geführt und kontrolliert.Mit ATLED wird die Verwaltung vereinfacht, das Papieraufkommen reduziert und neue Funktionalitäten – insbesondere die Selbstbedienungsfunktion für Fremdfirmen durch ein Self-Service-Portal und Selbstbedienungs-Terminals – zur Verfügung gestellt. Zudem wird der Datenaustausch von dem zentralen ATLED-System zu diversen Drittsystemen ermöglicht.
+Beantragung und Vergabe von Zutrittsberechtigungen
+Für den führenden Hersteller von Zutrittskontrollsystemen haben wir ein Tool entwickelt, mit dem Zutrittsrechte digital beantragt, genehmigt und vergeben werden können.
+Die Nutzer können so über ATLED einfach und schnell für sich selbst oder für Dritte zeitliche und räumliche Zutrittsrechte beantragen. Dabei wird der gesamte Prozess revisionssicher protokolliert. 
+Die Beantragung erfolgt über eine App oder Web-Oberfläche. Die Personen, die den Antrag genehmigen müssen (z.B. die Vorgesetzten oder Raumverantwortlichen), erhalten eine Benachrichtigung im System oder per E-Mail mit Direktlink zur Bearbeitung. Die Genehmigung kann unter anderem die Freigabe für eine Einzeltür, für Türgruppen oder auch ganze Raumzonen beinhalten und sich auf ein definiertes Zeitfenster beziehen. Nach erfolgter Genehmigung erhält der Antragsteller ebenfalls eine Benachrichtigung im System oder per E-Mail. Das Responsive Design der Benutzeroberfläche passt sich auf die Eigenschaften des jeweils benutzten Endgeräts an. So kann das Tool auch bequem auf Smartphones und Tablets genutzt werden.
+Unsere Themen
+Wir arbeiten mit folgenden Technologien
+Backend
+C#
+.NET 5
+BPMN
+Frontend
+Angular
+Typescript
+Material, Flex
+Infrastruktur
+Docker
+IIS
+Windows & Linux Server
+Kodierungen
+RFID: Legic & Mifare Classic/DESfire
+SmartMX
+Hitag
+Schnittstellen
+REST, SOAP
+SignalR
+MRZ Scanner & Drucker
+Entwicklungsorganisation
+GIT Lab
+Jira & Confluence
+Ansible, Apache, Nginx, …
+Stellenanzeigen
+Komm zu uns ins Team!
+DevOPS Engineer (m/w/d)
+Deine neue Herausforderung
+Du kümmerst dich um die kundenspezifischen Deployments über Docker, OpenShift und Ansible.
+Dein Aufgabengebiet umfasst die Überwachung der Systeme mittels Grafana, Loki, Prometheus oder Elasticsearch, Logstash, Kibana.
+Die weitere Automatisierung und Containerisierung im Entwicklungsprozess wird von Dir vorangetrieben und in das Team getragen.
+Was Du mitbringen solltest
+Du liebst Automatisierung und hast eine starke Motivation robuste Systeme zu bauen und zu betreiben.
+Du besitzt bereits sehr gute Linux- und Dockerkenntnisse und schreibst mit Enthusiasmus Shell-Skripte.
+Außerdem hast Du Kenntnisse in Netzwerkgrundlagen (DNS, Firewalls und Routing).
+Jegliche Erfahrungen mit Systemen und Technologien, die wir einsetzen, sind natürlich von Vorteil. Darunter befinden sich Jira, GitLab, Ansible, Apache, Nginx und mehr.
+Neben Deiner strukturierten Arbeitsweise und dem hohen Maß an Verantwortungsbewusstsein hast Du Spaß an der Zusammenarbeit in einem motivierten Team die Vision eines modernen Ausweis- und Zutrittsverwaltungssystem voranzutreiben.
+Developer C# (m/w/d)
+Deine neue Herausforderung
+Softwareentwicklung in vor allem in C# und Typescript gemeinsam in einem Team von erfahreren Entwicklern, die wissen, dass man gemeinsam am Besten zum Ziel kommt
+Teilhabe und mitwirkung am gesamten Prozess vom Software Architektur Design bis zur konkreten Implementierung von Kundenmodulen
+Selbstständige Erarbeitung von Lösungsvorschlägen
+Implementation von Kundenanforderungen in komplexenSicherheitsprojekten
+Erprobung neuer Technologien
+Entwicklung von Modulen zur Kodierung von RFID-Systemen (Legic, Mifare, Hitag, etc.) und Smartcards
+Anforderungen
+Erfahrung in der Softwareentwicklung
+Programmierkenntnisse in Go, PHP, Python, C++, C#, Node.js oder Ruby
+Sicherer Umgang mit relationalen und nicht-relationalen Datenbanken
+Kompetenz in git, Docker und Containern
+Passion für Codequalität inklusive Testing, Code Review und Dokumentation
+Weitere Fähigkeiten, mit denen du unser Team bereichern würdest: Erfahrung mit DevOps, API-Design, Security, RFID
+Initiativbewerbung
+Die perfekte Stelle für Dich ist hier nicht aufgelistet?
+Wir freuen uns jederzeit über Initiativbewerbungen!
+Wir können es kaum erwarten, Deine Geschichte zu hören!
+Almuth Sürmann
+E-Mail: bewerbung [at] akili-innovation.com
+Tel.: (+49) 170 5600671
+Über uns
+Wir sind akili:innovation GmbH
+Gemeinsam entwickeln wir die beste Ausweisverwaltung der Welt: ATLED
+Zusammen ist man weniger allein
+In unserem Büro kann man zwischen den Arbeitsplätzen wählen – je nachdem, ob man kreativen Austausch oder konzentrierte Stille braucht.
+Ein Kicker darf natürlich nicht fehlen…
+Wir geben es ja zu, es ist eine große Leidenschaft. Aber auch außerhalb vom Tischkicker kommen wir gerne zusammen.
+Das Arbeiten in Striesen genießen
+Gute Verkehrsanbindung, ein schönes Büro und viel Grün – wir genießen in Striesen!
+Flexibel durch die Woche
+Auch im Homeoffice bleibst Du angebunden – persönlicher Austausch kommt auch in der digitalen Welt nicht zu kurz.
+Wir freuen uns auf den Kontakt!
+Bitte aktiviere JavaScript in deinem Browser, um dieses Formular fertigzustellen.Name *E-Mail *Nachricht *Absenden 
+akili:innovation GmbHKrenkelstraße 201309 Dresden
+ 
+Telefon +49 (0) 170 5600671E-Mail info [at] akili-innovation.com
+ 
+Home
+Impressum
+Datenschutzerklärung
+Cookie-Richtlinie (EU)
+ 
+ 
+			ATLED © 2023. All Rights Reserved.Designed by MotoPress. 

@@ -1,0 +1,167 @@
+  
+The modular open source data platform - Stackable
+Stackable
+Stackable Data Platform (SDP) Release 23.4 is now publicly available! 
+ 
+Platform
+Plans
+Learn
+Stackable Data Platform
+Get Kubernetes
+Demos
+Documentation
+Github
+Company
+About Us
+News
+Events
+Partners
+Jobs
+Contact
+Blog
+Request a demo
+Home
+The modular open source data platform 
+Popular data apps. K8s-native. Easy to deploy and run. 
+Get started (free)
+Find out more
+ 
+ 
+						Your data, your platform					
+ 
+						Open source, up to date					
+ 
+						Data mesh ready					
+SEE A 2-MINUTE VIDEO SUMMARY OF THE STACKABLE DATA PLATFORM 
+Stackable in a few words 
+To view this video, please accept cookies from Youtube
+I Consent
+ 
+CREATE YOUR FLEXIBLE DATA ARCHITECTURE 
+Hello Stackable... 
+The Stackable Data Platform was designed with openness and flexibility in mind. It provides you with a curated selection of the best open source data apps like Apache Kafka®, Apache Druid, Trino and Apache Spark™. While other current offerings either push their proprietary solutions or deepen vendor lock-in, Stackable takes a different approach. All data apps work together seamlessly, and can be added or removed in no time. Based on Kubernetes, it runs everywhere – on-prem or in the cloud.Use it to create unique and enterprise-class data architectures. For example, it supports modern Data Warehouses, Data Lakes, Event Streaming, Machine Learning or Data Meshes. 
+Get started (free)
+CREATE YOUR FLEXIBLE DATA ARCHITECTURE 
+Hello Stackable... 
+ 
+The Stackable Data Platform was designed with openness and flexibility in mind. It provides you with a curated selection of the best open source data apps like Apache Kafka®, Apache Druid, Trino and Apache Spark™. While other current offerings either push their proprietary solutions or deepen vendor lock-in, Stackable takes a different approach. All data applications work together seamlessly, and can be added or removed in no time. Based on Kubernetes, it runs everywhere – on-prem or in the cloud.Use it to create unique and enterprise-class data architectures. For example, it supports modern Data Warehouses, Data Lakes, Event Streaming, Machine Learning or Data Meshes. 
+Get started (free)
+ 
+ 
+ 
+3-Minute Video Intro 
+See how it works 
+Get to know the Stackable Data Platform in this short video. Learn what makes it special,  and which modern architectures it supports to tailor it to your needs. Understand the underlying modules that make it ready for professional use. 
+Try it out
+data platform configurator 
+Launching your Data Platform is easy 
+stackablectl and a Kubernetes cluster* is all you need to run your first stackable data platform. Within minutes, you will be ready to start working with your data. Configure your one-line startup command right here.Similar to kubectl, stackablectl is designed to easily interface with the Stackable Data Platform. Use the command line utility to deploy and manage stackable data apps on Kubernetes. With stackablectl, you can create, delete, and update components, view your new cluster, and invoke sample applications. 
+ 
+*GET K8s HERE
+Open Source on purpose 
+Really good software. 
+Stackable was founded in 2020 from the community ethos and therefore makes its platform available as an open source product with freely accessible source code with a commercial service and support offering. Only software with non-restrictive, open source licensing is included in Stackable Data Platform meaning you’re free to use it however you want at any scale.
+We are convinced that the future of software development is open source. With Stackable, we want to go down this path and are looking for bright minds, tinkerers and developers who will accompany us on this path as employees or contributors. Whether it’s a pull request, issue or Github comment – get in touch with us and become part ! 
+About us
+ 
+ 
+OPEN SOURCE ON PURPOSE 
+Really good software. 
+Stackable was founded in 2020 from the community ethos and therefore makes its platform available as an open source product with freely accessible source code with a commercial service and support offering. Only software with non-restrictive, open source licensing is included in Stackable Data Platform meaning you’re free to use it however you want at any scale.We are convinced that the future of software development is open source. With Stackable, we want to go down this path and are looking for bright minds, tinkerers and developers who will accompany us on this path as employees or contributors. Whether it’s a pull request, issue or Github comment – get in touch with us and become part ! 
+About Us
+Good Reasons 
+Why Stackable 
+Stackable is the modern, open source data platform flexible enough to meet your needs. 
+Find Out More
+ 
+						Everything from one source					
+						All the open source tools for your modern data platform from a single source - no patchwork or vendors and a single point of contact.					
+ 
+						Independent					
+						Stackable is 100% open source and cloud-agnostic. Run your data apps in your data centre as well as in any cloud, on the edge or hybrid. 
+ 
+						Easy integration					
+						Uniform interfaces for monitoring, alerting and log management simplify individual integration into your corporate IT. 
+ 
+						Flexible, modular, expandable					
+						Choose the ideal combination of data tools in different versions and move away from monolithic distributions.					
+ 
+						Your data, your platform					
+						Keep your data sovereignty and avoid vendor or cloud provider lock-in through open source and implementation of interoperability standards. You decide where your data is and who can see it.					
+ 
+						Built for Data Mesh					
+						The Stackable Data Platform is built with Data Mesh in mind. It offers a big piece of your self-serve data platform and has federated computational governance in mind with Policies as Code. 
+ 
+						Stable and reliable					
+						Automated tests guarantee the interoperability of all software components in different versions on different Kubernetes installations on a daily basis.					
+ 
+						Made in Europe					
+						Built in Europe to European standards. 
+ 
+ 
+ 
+GOOD REASONS 
+Why Stackable 
+Stackable is the modern, open source data platform flexible enough to meet your needs. 
+Find Out More
+ 
+						Everything from one source					
+						All the open source tools for your modern data platform from a single source - no patchwork or vendors and a single point of contact.					
+ 
+						Independent					
+						Stackable is 100% open source and cloud-agnostic. Run it in your data centre as well as in any cloud, on the edge or hybrid.					
+ 
+						Easy integration					
+						Uniform interfaces for monitoring, alerting and log management simplify individual integration into your corporate IT.					
+ 
+						Flexible, modular, expandable					
+						Choose the ideal combination of data tools in different versions and move away from monolithic distributions.					
+ 
+						Your data, your platform					
+						Keep your data sovereignty and avoid vendor or cloud provider lock-in through open source and implementation of interoperability standards. You decide where your data is and who can see it.					
+ 
+						Built for Data Mesh					
+						The Stackable Data Platform is built with Data Mesh in mind. It offers a big piece of your self-serve data platform and has federated computational governance in mind with Policies as Code.					
+ 
+						Stable and reliable					
+						Automated tests guarantee the interoperability of all software components in different versions on different Kubernetes installations on a daily basis.					
+ 
+						Made in Europe					
+						Built in Europe to European standards.					
+ 
+ 
+ 
+ 
+ 
+Newsletter 
+Subscribe to the newsletter 
+With the Stackable newsletter you’ll always be up to date when it comes to updates around Stackable! 
+Register Now
+ 
+ 
+ 
+ 
+				your data, your platform					
+Company 
+About Us
+Blog
+Jobs
+Support 
+Contact Us
+Imprint
+Data Protection
+Get in touch 
+info@stackable.de
++49 4103 926 3100
+				© 2022 Stackable.					
+Xing
+ 
+Linkedin
+ 
+Github
+ 
+Twitter
+ 
+Apache, Apache Kafka®, Kafka, and the Kafka logo, Apache Druid, Druid, and the Druid logo, Apache ZooKeeper™, ZooKeeper, and the Druid logo, Apache Hive™, Hive, and the Hive logo, Apache Spark™, Spark, and the Spark logo, Apache Airflow, Airflow, and the Airflow logo, Apache HBase®, HBase, and the HBase logo, Apache NiFi, NiFi, and the NiFi logo, Apache Superset, Superset, the Superset logo, Apache Hadoop® HDFS, Apache Hadoop, Hadoop and the Hadoop logo, Apache Phoenix™, Phoenix and the Phoenix-Logo, Apache Iceberg, Iceberg and the Iceberg-Logo are either registered trademarks or trademarks of the Apache Software Foundation in the United States and/or other countries. Open Policy Agent (OPA) is a Cloud Native Computing Foundation graduated project. Licensed under the Apache License, Version 2.0. Trino is open source software licensed under the Apache License 2.0 and supported by the Trino Software Foundation. MinIO is a [“registered”, if applicable] trademark of the MinIO Corporation. All other products or name brands are trademarks of their respective holders. All product and service names used in this website are for identification purposes only and do not imply endorsement. 
+ 
+NOTE: Many features on this website require JavaScript. You can enable JavaScript via your browser's preference settings.

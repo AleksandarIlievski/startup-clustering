@@ -1,0 +1,226 @@
+sovity - Data Sovereignty as a Service 
+		Skip to content
+ 
+Home
+About
+Product
+Career
+News
+DE
+Get in contact with us 
+Home
+About
+Product
+Career
+News
+DE
+Get in contact with us 
+ 
+ 
+Main Menu
+ 
+Home
+About
+Product
+Career
+News
+DE
+Get in contact with us 
+ 
+Turning companies into data sharing frontrunners 
+Find out more  
+Get in contact  
+Turning companiesinto data sharingecosystems players 
+Find out more  
+Sign up for demo  
+ 
+About sovity 
+ 
+Who we are 
+ 
+THE DATA SPACE OPERATING COMPANY 
+Learn more  
+About Us 
+Vision 
+ We unleash the power of collaboration, new business value and innovation by enabling trusted data sharing to bring businesses into the era of data ecosystems. 
+  
+ 
+ 
+							The Ambition						
+Companies aim to collaborate and create value based on data 
+ 
+By sharing data beyond companies’ boarders, strong business value can be enabled: 
+Higher transparency
+ 
+Improved processes
+ 
+Enabler of innovation 
+Business insights 
+Improved user experience
+ 
+New features or business models 
+							The Problem						
+Trust issues and missing control are limiting the exchange of sensitive valuable data – the more data is shared, the more we lose control 
+Today, companies are not able or willing to share sensitive data with partners due to: 
+Trust issues 
+Limited control 
+High cost
+ 
+Low interoperability
+ 
+Manual and complex processes
+ 
+Data retained as company’s asset 
+							The Solution						
+Data Sovereignty as a Service by sovity based on Data Space technology ensures control over data to overcome trust and control issues
+ 
+Make use of data by sharing information trustworthy 
+Self-determination of
+data usage 
+Data use agreements 
+Technically enforcedusage control 
+Learn more  
+Decentralized architecture 
+ 
+							The Ambition						
+Companies are not able or
+willing to share sensitive data with partners, today  
+ 
+							However, by sharing data beyond companies’ boarders, strong business value could be enabled						
+Enabler of innovation 
+Business insights 
+Higher transparency 
+Improved processes 
+ 
+							The Problem						
+ 
+Trust issues and missing control are  limiting the exchange of sensitive  valuable data – the more data is shared,
+the more we lose control. 
+Trust issues 
+Limited control 
+Low interoperability 
+Data barred as company’s asset 
+ 
+							The Solution						
+ 
+Data Sovereignty as a Service by sovity based on Data Space technology ensures control over data to overcome trust and control issues 
+Self-determination of
+data usage 
+Data use agreements 
+Technically enforcedusage control 
+Decentralized architecture 
+Learn more  
+							Selling points						
+sovity provides Data Sovereignty-as-a-Service 
+							Selling points						
+							1. Full sovereignty						
+Get the full control over your data and define who can use them for which purposes 
+							2. Easy access						
+Leverage complex technology to ensure fully trusted environment based on IDS and Gaia-X principles 
+							3. Automated integration						
+Connect relevant data sources, data sinks and applications to IDS components with ease 
+							4. Simple usage						
+Use and implement open-source based components seamlessly and define technical usage control 
+							5. Fully managed						
+Focus on your core business while sovity manages the entire backbone of trusted data sharing  
+6. Data Space experts 
+sovity with deep expertise in Data Space tech is a profound partner for all your questions around sovereign data sharing 
+							Data spaces						
+Large data ecosystems are ready to rise by connecting entire industries and its supply chains to accelerate innovation and create business value within data spaces 
+ 
+							Data spaces						
+							Large data ecosystems are ready to rise by connecting entire industries and their supply chains to accelerate innovation and create business value within data spaces						
+ 
+ 
+Data sovereignty
+initiatives 
+ 
+sovity is involved in various initiatives to establish data sovereignty across different domains 
+ 
+Data Sovereignty as a Service
+(DSaaS) by sovity
+ 
+Find out more 
+Data sovereignty enablement 
+Transfer knowledge by advising how to build and establish data sovereignty. Provide education and technical consulting with use case ideation 
+Connector-as-a-service 
+Enable easy access to data spaces and use cases by providing, integrating, and managing the Connector as a SaaS component (e.g. EDC) 
+Data Space-as-a-service 
+Facilitate data space or use case operators by providing and managing shared services (e.g., DAPS, catalog etc.) to enable data sovereignty holistically 
+Data Sovereignty as a Service
+(DSaaS) by sovity
+ 
+Data sovereignty enablement 
+Transfer knowledge by advising how to build and establish data sovereignty. Provide education and technical consulting on data space technology and use-cases ideation 
+Connector-as-a-service 
+Enable easy access to data spaces and use cases by providing, integrating, and managing the Connector as a SaaS component (e.g. EDC) 
+Data Space-as-a-service 
+Facilitate data space or use case operators by providing and managing shared IDS services (e.g., DAPS, Broker etc.) to enable data sovereignty holistically 
+Find out more 
+							Experts supporting sovity						
+Partner voices 
+sovity is supported by a strong network of experts and receives commitment by partners from industries and research 
+ 
+Douwe LycklamaOwner and Founder at Innopay“The product of sovity is a great enabler to establish and scale data spaces and data sovereignty. With the Fraunhofer background the team is best equipped to provide the deep-tech solution. Jointly with Innopay we collaborate on data use cases.”
+ 
+ 
+Sven Löffler
+Business Development Executive at T-Systems
+“sovity will complement our cloud and data sharing offering to accelerate data sovereignty in all industries. I really believe in the strong founding team to build a great product which fits the market needs.”
+ 
+ 
+Prof. Dr.-Ing. Boris Otto Head of Fraunhofer ISST, board member of Gaia-X, IDSA & Catena-X“Sovity is a key partner for Fraunhofer to transfer IDS technologies from research into enterprise-ready operations. Moreover, sovity is the first service provider with a business model explicitly focusing on IDS development and operations and, thus, is an important partner for the entire data space community.”
+ 
+ 
+Ute BurkhardtProject Management SCM at Volkswagen“I really enjoy working with the team at sovity. Their offering helps to seamlessly connect suppliers and partners in the automotive industry. A strong contribution to create new business opportunities and insights.”
+ 
+ 
+Oliver GanserBMW AG“We support the decentralized and federated operations of data sovereignty technology and appreciate every provider in this area. The managed services offered by sovity are providing a strong benefit for data spaces and its partner networks.”
+ 
+ 
+Lars NagelCEO at International Data Spaces Association“We (IDSA) as a non-profit organization are pleased that sovity is taking the IDS standard to a new level through its service offering. With this step, data space initiatives receive a reliable and easy to use starting point. We gain a new provider to broaden and accelerate the adoption of data sovereignty.”
+ 
+ 
+Niels SyassenMember of the Executive Board (CTO) at SICK AG“The good cooperation with sovity enables us to use an important technology for sovereign data exchange. By including the Connector of sovity, we can fully concentrate on the realization of our use cases based on sensor technology.”
+ 
+ 
+Michael SchäferManaging Director of Mobility Data Space“sovity provides the Connector software for the participants of the Mobility Data Space. The Connector-as-a-Service allows the participants to focus entirely on their business . With professionalism and expertise, sovity is thus an important factor for the growth of MDS. ”
+ 
+ 
+Matthijs PunterResearcher Data Science & Smart Industry at TNO“The managed Connector provided by sovity allows companies of any size or industry to participate in sovereign data exchange. Such products and services will enable the Dutch market to adopt and scale data ecosystems.”
+ 
+We are hiring 
+Our team is growing! Become part of a strong digital startup and shape data ecosystems of the future. 
+Join us 
+ 
+ 
+Get in contact with us 
+Contact  
+ 
+Envelope
+ 
+Linkedin-in
+ 
+© 2023 all rights reserved 
+Home 
+About 
+Product 
+Career 
+News 
+Privacy Policy 
+Imprint 
+Get in contact with us 
+Contact
+ 
+Home 
+About 
+Product 
+Career 
+News 
+Privacy Policy 
+Imprint 
+Envelope
+ 
+Linkedin
+ 
+© 2023 all rights reserved 

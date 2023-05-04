@@ -1,0 +1,222 @@
+Ihr Partner für die AWS Cloud - Beratung, Migration & Managed Services
+ 
+ 
+Unternehmen
+Events
+Karriere
+Presse
+Public Cloud Ressourcen
+Public Cloud Group
+Home
+Lösungen
+Services
+Managed Services
+Referenzen
+Cloud Blog
+Alle LösungenHier finden Sie eine Übersicht aller Lösungen.
+Desktop aus der Cloud
+Cloud Entwicklungsumgebung
+Anbindung von Außenstandorten
+IoT in der Cloud
+Application Management in der Cloud
+Backup und Archivierung in der Cloud
+SAP und AWS
+Microsoft Workloads auf AWS
+Alle ServicesHier finden Sie eine Übersicht aller Services.
+Cloud Migration
+AWS MAP Program
+Cloud Beratung
+Cloud Applikationsentwicklung
+Trainings
+TCO-Analyse
+Well-Architected Review
+Cloud Readiness Check
+Alle Managed ServicesHier finden Sie eine Übersicht aller Managed Services.
+Incident Management & Monitoring
+Patch Management
+Backup & Recovery
+Application Performance Monitoring
+Security Service
+Billing Service
+MenüLösungen
+Alle Lösungen anzeigen
+Desktop aus der Cloud von AWS
+Cloud Entwicklungsumgebung
+Anbindung von Außenstandorten
+IoT in der Cloud
+Application-Management in der Cloud
+Backup und Archivierung in der Cloud
+SAP auf AWS
+Microsoft Workloads auf AWS
+Services
+Alle Sevices anzeigen
+Cloud Migration
+AWS MAP Program
+Cloud Beratung
+Trainings
+TCO-Analyse
+Well-Architected Review
+Cloud Readiness Check
+Managed Services
+Alle Managed Services
+Incident Management & Monitoring
+Patch Management in der Cloud
+Backup & Recovery Management
+Application Performance Monitoring in der Cloud
+Managed Security Service
+Managed Billing Service
+Unternehmen
+Referenzen
+Cloud Blog
+Karriere
+Presse
+Events
+Public Cloud Ressourcen
+Unternehmen
+Events
+Karriere
+Presse
+Public Cloud Ressourcen
+Public Cloud Group
+ 
+Ihr Partner für die Public Cloud von AWS
+Migration, Managed Services und individuelle Lösungen – alles rund um die Public Cloud aus einer Hand
+Kontakt aufnehmen
+Sind Sie bereit, in der AWS Cloud durchzustarten? Wir holen Sie dort ab, wo Sie stehen und begleiten Sie auf Ihrem Weg hin zu einer innovationsfähigen IT- Infrastruktur – 100 % in der Public Cloud. 
+Cloud Einstieg 
+Cloud Betrieb
+Cloud Automatisierung
+Wir sind Teil der Public Cloud Group
+Seit 2018 setzen wir aus Überzeugung auf die Lösung von Amazon Web Services (AWS), um Ihre IT Infrastruktur zu transformieren und Ihre Cloud Umgebung mit Managed Services zu automatisieren. 
+Als Teil der Public Cloud Group erweitern wir seit 2021 unsere Kompetenzen und unser Netzwerk. So begleiten wir Sie zukünftig als IT-Partner des deutschsprachigen Mittelstands und Enterprise-Segments auf Ihrem Weg in die Public Cloud der drei größten internationalen Hyperscaler Google Cloud (GCP), Amazon Web Services (AWS), und Microsoft Azure.
+100 % Public Cloud und Cloud-native – das ist unser Versprechen!
+Mehr erfahren
+Kostenfreies WhitepaperWas kostet Sie eine Migration in die AWS Cloud wirklich?Die wichtigsten Parameter für Ihre vollumfängliche IT-KostenbetrachtungVersteckte Kosten Ihrer IT-Infrastruktur aufdeckenBewährte Analysemethode der Total-Cost-of-Ownership kennenlernenEntscheidungsgrundlage schaffen: Cloud Migration oder On-Premise IT-InfrastrukturWhitepaper jetzt herunterladen
+Steigen Sie dort ein, wo Sie stehenWo sind Sie auf Ihrem Cloud Transformationsweg? Weiß nichtWeiß nicht 
+				Contact me by fax only
+			
+Cloud EinsteigerCloud VersteherCloud Experte
+TCO* AnalyseTCO* Analyse
+Einsparpotentiale bei Ihren IT-Kosten entdecken*Total Cost of Ownership
+Cloud BeratungCloud Beratung
+Passen Cloud Lösungen zu Ihrem Unternehmen?
+TrainingsTrainings
+Bilden Sie sich in der AWS Cloud-Welt weiter!
+Cloud LösungenCloud Lösungen
+Welche Lösung passt zu Ihren Anforderungen? Hier finden Sie die Antwort.
+Cloud MigrationCloud Migration
+Auf die Plätze, fertig, ab in die Cloud!
+Managed ServicesManaged Services
+Setzen Sie Ihren bestehenden Cloud-Lösungen das Sahnehäubchen auf!
+TCO* AnalyseTCO* Analyse
+Einsparpotentiale bei Ihren IT-Kosten entdecken*Total Cost of Ownership
+Cloud BeratungCloud Beratung
+Passen Cloud Lösungen zu Ihrem Unternehmen?
+TrainingsTrainings
+Bilden Sie sich in der AWS Cloud-Welt weiter!
+Cloud LösungenCloud Lösungen
+Welche Lösung passt zu Ihren Anforderungen? Hier finden Sie die Antwort.
+Cloud MigrationCloud Migration
+Auf die Plätze, fertig, ab in die Cloud!
+Managed ServicesManaged Services
+Setzen Sie Ihren bestehenden Cloud-Lösungen das Sahnehäubchen auf!
+TCO* AnalyseTCO* Analyse
+Einsparpotentiale bei Ihren IT-Kosten entdecken*Total Cost of Ownership
+Cloud BeratungCloud Beratung
+Passen Cloud Lösungen zu Ihrem Unternehmen?
+TrainingsTrainings
+Bilden Sie sich in der AWS Cloud-Welt weiter!
+Cloud LösungenCloud Lösungen
+Welche Lösung passt zu Ihren Anforderungen? Hier finden Sie die Antwort.
+Cloud MigrationCloud Migration
+Auf die Plätze, fertig, ab in die Cloud!
+Managed ServicesManaged Services
+Setzen Sie Ihren bestehenden Cloud-Lösungen das Sahnehäubchen auf!
+TCO* AnalyseTCO* Analyse
+Einsparpotentiale bei Ihren IT-Kosten entdecken*Total Cost of Ownership
+Cloud BeratungCloud Beratung
+Passen Cloud Lösungen zu Ihrem Unternehmen?
+TrainingsTrainings
+Bilden Sie sich in der AWS Cloud-Welt weiter!
+Cloud LösungenCloud Lösungen
+Welche Lösung passt zu Ihren Anforderungen? Hier finden Sie die Antwort.
+Cloud MigrationCloud Migration
+Auf die Plätze, fertig, ab in die Cloud!
+Managed ServicesManaged Services
+Setzen Sie Ihren bestehenden Cloud-Lösungen das Sahnehäubchen auf!
+Individuellen Cloud Reifegrad Check vereinbaren
+Was ist die Public Cloud?Public Cloud: so sicher wie ein Bankschließfach
+Das größte Missverständnis im Cloud Bereich: dass die Public Cloud öffentlich zugänglich und damit unsicher sei. Dabei ist sie nicht nur genauso sicher wie die Private Cloud, sondern bietet darüber hinaus wertvolle Services. Rechenleistung, Speicherplatz, Infrastrukturen oder Anwendungen stehen einer Vielzahl von Anwendern mit wenigen Klicks zur Verfügung.
+Stellen Sie sich die Public Cloud wie ein Bankschließfach vor. Mehrere Nutzer teilen sich die Dienstleistungen in einer absolut abgesicherten Umgebung, können nach Bedarf zu- oder abbuchen, haben zudem weniger Verwaltungsaufwand und benötigen nur überschaubare finanzielle und personelle Ressourcen.
+Haben Sie noch Fragen? Unsere Experten helfen Ihnen gerne weiter. 
+Kontakt aufnehmen
+Glückliche KundenDiese Unternehmen schenken uns bereits ihr Vertrauen. Erfahren Sie mehr über die Zusammenarbeit mit Innovations ON.
+Flux MES GmbH
+„Agilitätssteigerung der IT-Infrastruktur durch Amazon Elastic Kubernetes Services (AWS EKS)“
+Mitarbeiter: 1-10
+Branche: IT | Technik & Telekommunikation
+mehr erfahren
+SynapCon GmbH
+„Schnelle Bereitstellung und sicherer Betrieb durch Managed Services“
+Mitarbeiter: 11-50
+Branche: Pharma & Gesundheit | ISV & Softwarehersteller
+mehr erfahren
+Lobster DATA GmbH
+„Durch Cloud Migration zur minutenschnellen Bereitstellung von Software-Produkten“
+Mitarbeiter: 101-250
+Branche: ISV & Softwarehersteller
+mehr erfahren
+Lobster DATA GmbH
+„Managed Services in AWS Cloud sorgen für optimalen Betrieb von Software-Produkten “
+Mitarbeiter: 101-250
+Branche: ISV & Softwarehersteller
+mehr erfahren
+racksnet GmbH
+„Erfolgreiches Business Scaling mit Amazon Web Services (AWS)“
+Mitarbeiter: 11-50
+Branche: IT
+mehr erfahren
+myposter GmbH
+„Einfach und ausfallsicher: Webshop in der Amazon Cloud“
+Mitarbeiter: 101-250
+Branche: Medien & Marketing
+mehr erfahren
+Klassik Radio AG
+„Individuelle Applikation für Kundenanfragen in drei Wochen entwickelt“
+Mitarbeiter: 51-100
+Branche: Medien & Marketing
+mehr erfahren
+CleverPush GmbH
+„Innovations ON bringt Push-Nachrichten in die AWS Cloud“
+Mitarbeiter: 11-50
+Branche: Tech
+mehr erfahren
+TRANSPOREON GmbH
+„Gelungener Einstieg in Kubernetes durch individuellen Workshop“
+Mitarbeiter: 1001-5000
+Branche: Verkehr & Logistik
+mehr erfahren
+ 
+News & Aktuelles
+Certified Cloud Migration for your ideal entry into the world of AWS
+Cloud computing is now one of the set terms within the IT industry. The public cloud platforms of le […]
+mehr erfahren
+Checklist: Cloud migration – with these 7 expert tips, the leap to the cloud will succeed
+How do I get my data and applications into the cloud? This is one of the most frequently asked quest […]
+mehr erfahren
+“Mistakes to avoid in your cloud migration!” Interview with Tom Simon
+Tom: We accompany our customers from the various stages of their cloud migration: from the initial c […]
+mehr erfahren
+Nehmen Sie Kontakt zu uns auf!
+Get in Touch:
+Simon Baumgärtner
+Public Cloud Experte+49 731 29879700‬sales@inno-on.de
+Anfrage senden
+Cookie Einstellungen
+Impressum
+Datenschutz
+Allgemeine Geschäftsbedingungen
+© Innovations ON GmbH 2023
+ 
+ 
+ 

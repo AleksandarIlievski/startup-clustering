@@ -1,0 +1,184 @@
+Cybersecurity management for AI Systems and Software Supply Chain
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-160310736-1');
+  gtag('config', 'AW-647162219');
+Skip to content
+ SolutionPlatformRisk-by-ContextToolsWhitepapersWhitepaper D-SBOMWhitepaper Track and TraceTechnical WhitepaperAutomotive WhitepaperApplication industriesIndustrial SystemsAutomotiveCRITIS companiesSmart Citiesasvin LabRegulatoryCyber Resilience ActEU NIS2About UsCompany BoardsInvestorsMissionCareersSoftware Developer Backend (m/f/d)Software Developer Frontend (m/f/d)News | Events | PREventsBlogasvin in the PressPress ReleasesPress ContactPress ResourcesVideosSocial MediaLet´s connect 
+Home-Relaunch-DraftChris Billmann2023-05-02T12:03:19+02:00 
+Security and Trustby  Context by  Context Maintain resilience in OT environments, critical or security-relevant iIoT applications, and software supply chains.
+asvin cybersecurity tools and solutions help you analyze and prevent risk, ensure regulatory cybersecurity compliance,
+andtrack software supply chains.
+book a demobook a demo
+book a demobook a demo
+Know where to go with Risk-By-Context analyticsSet the right priorities, find your
+starting point and fix the most
+important areas first.
+With Eagle Eye, you no longer have to focus on CVE scores alone. All factors relevant to your OT environment, such as network topology, inheritance risk, and business or production criticality, are included in the graph-based analysis, making it easier for you to prioritize your cybersecurity tasks via the calculated risk-by-context score.
+ Too many to handle!The number of reported vulnerabilities
+increases from year to year.
+Trying to fix or patch all vulnerabilities
+contained in one’s own OT environment
+becomes a Sisyphean task.
+– That’s why we put CVEs in the right 
+context, so that you can fix and prioritize
+the critical problems without stress.
+Sorry, your browser doesn't support embedded videos.The  key areas  of our software solutionsNovel graph-based risk
+modeling to optimize
+and focus investment and actions to
+cybersecure industrial
+production and products
+Industrial Cybersecurity
+Management Systems
+and Risk Management
+Ready to run tools
+to fulfill regulation
+(NIS 2.0, CRA, UN ECE)
+by monitoring
+supply chain security and
+Software Bill of Material
+(SBOM)
+Collaboration partners 
+and associations
+Allianz für Cyber-SicherheitFederal Office for Information SecurityCV LabsCV Labs Incubator and CV Labs Coworking space.microTEC SüdwestCompetence and cooperation networkstartup bwFoundation & entrepreneurship Baden-WürttembergAlastria Associationtrust in blockchain based smart contracting for cyber securityBMBFSelected and supported by StartupIT SecureKITSupported by KIT KASTELKPMGCybersecurity Startup of KPMG AcceleratorEU KomissionSupported by European Commission funding programCyberForumMember of CyberForumDigital HubSupported by Digital Hub CybersecurityESA-BICSupported by esa business incubation centreInvest HorizonSupported by Invest HorizonIT-SicherheitsclusterMember of IT-SicherheitsclusterMinistry BWSupported by Ministry of Economic Baden-WuerttembergIoT TribeSupported by IoT Tribe Space Endeavourpeaqpeaq decentralized infrastructure provider for the Economy of ThingsTeleTrustIT Security Association GermanyVDMAAssociation for mechanical and plant engineeringDigital SMEEuropean Digital SME AllianceeSynceSync AllianceGet navigation through the infinite space of cybersecurity compliance  Get guidance and advice on the most pressing EU cybersecurity regulations such as the Cyber Resilience Act and EU NIS 2.
+ Upcoming events
+ 
+EcoMobility Kick-Off Meeting in Vienna 24.05.2023find out more
+ 
+IIoT World Manufacturing Days, May 17 – 18, 2023find out more
+ 
+microTEC Südwest Clusterkonferenz 2023, 14.05. bis 16.05.2023find out more
+ 
+M3 Minds Mastering Conference 11.05.2023find out more
+12Next Current technical  publications
+ 
+Spanish business delegation seeks inspiration at asvin.iofind out more
+ 
+Mirko Ross in der Wiwo: SBOM allein reicht nicht – der Kontext macht´s!find out more
+ 
+Karlsruher KI-Konferenz M3: Kein Zutritt durch die Hintertür!find out more
+12Next Know-How to goBenefit from the knowledge of our experts: In our whitepapers and onepagers you will find detailed technical information about our current solutions and development topics.
+Stay up to dateAre you looking to stay up-to-date with the latest news and updates from our business? Then subscribe to our newsletter today! Our newsletter is packed with valuable information such as upcoming evetns, industry insights, and much more. By subscribing, you’ll be the first to know about our latest developments and gain a competitive edge in the market.
+                E-Mail-Adresse
+              
+                Sign Up
+              
+                                  Für den Versand unserer Newsletter nutzen wir rapidmail. Mit Ihrer Anmeldung stimmen Sie zu, dass die eingegebenen Daten an rapidmail übermittelt werden. Beachten Sie bitte auch die
+                                  
+                                    AGB
+                                  
+                                  und
+                                  
+                                    Datenschutzbestimmungen
+                                  
+                                  .
+                                
+                                Thank you for your registration! 
+    
+                                We have already sent you the first e-mail and ask you to confirm your e-mail address via the activation link.
+    
+ 
+ 
+CONTACT DETAILS
+Schulze-Delitzsch-Str. 16
+70565 Stuttgart
++49 711 22040938 0
+info@asvin.io
+Toggle NavigationHome-oldSolutionasvin LabsIndustriesRegulatoryAbout UsNews & MediaConnect with asvinPrivacy Policylegal notice
+ 
+ 
+Page load link
+Frank Hocke
+Executive Advisor
+BACKGROUND
+Frank Hocke started at Volkswagen as a software developer and took on global responsibility for vehicle planning systems as his specialization increased. He led the insourcing of IT for Volkswagen of America as CIO of Gedas USA. He then took on the position of CIO at FAW-Volkswagen Automotive Co. Ltd. in Changchun, China. Frank’s next stop was managing IT for VW’s global aftersales and diagnostic systems. He then became CIO of Sales Germany and, in parallel, was responsible for the Group’s global retail integration. Frank then worked as CIO of the Russia region and was subsequently responsible for the digital platform and aftersales integration of the Volkswagen brand. Frank Hocke has an excellent knowledge of both the intersection of vehicle and OEM, as well as within the OEM world itself. He is a member of a large international network and enriches it with deep technical expertise.
+			X			
+Dr. Janos Oszvald
+Partner at EY Law
+BACKGROUND
+Janos is partner in the Corporate/M&A department at EY Law based in Stuttgart. He is a member of the Europe West and GSA automotive sector team. In this context he holds several Global Law Account Leader roles. In addition, Janos is a member of the startup initiative of EY and advises startups from the scratch until their internationalization. He has more than 10 years of experience in the coordination of complex litigation projects and has led a significant number of multi-jurisdictional projects. In addition, he is part of the Legal Tech team at EY Law.
+Janos holds a university degree in Law from the University of Tübingen. After finishing his master studies in Commercial and International Law at the University of Buckingham (United Kingdom), he graduated as Dr. iur.
+			X			
+Dr. Raphael (Rafi) Yahalom
+Cyber-Risk Strategy Officer (CSO)
+BACKGROUND
+Dr. Raphael (Rafi) Yahalom focuses on analysis of supply chain graphs to derive impactful cyber risk insights and maximize the business value for asvin’s customers and partners. As an affiliated researcher at MIT, Rafi is conducting research in multiple areas of cybersecurity and is collaborating with leading organizations worldwide on cyber risk management aligned with business objectives. He was the inventor of the influential “Yahalom Protocol” for authentication and  cryptographic key management, and the co-inventor of the “Gong-Needham-Yahalom Logic” for the analysis of security protocols.  He was a co-founder and leader at Onaro, a successful software analytics start-up that was acquired by Netapp and has been generating revenue of hundreds of millions of Dollars per year. Dr. Yahalom obtained his PhD in Computer Science from Cambridge University. He served in the Israeli Air-Force and Israeli Navy, and was a semi-professional basketball player in Israel’s premier league.
+			X			
+Rohit Bohara
+Chief Technology Officer (CTO)
+BACKGROUND
+Rohit Bohara, Chief Technology Officer at asvin GmbH, has extensive experience with embedded systems. He started his professional career with LG Soft India, Bangalore in the year 2013 in the research and development of Smart phones. It did not take long to recognize his talent and soon he was sent to work in the head quarter in Seoul, South Korea. In 2015, he moved to Bangalore again to work with AMD as a firmware engineer for pre and post silicon validation of microprocessor. Here, he received a Spotlight award for the design and development of validation tests for APIC block. Having worked in multinational companies, in 2016, he moved to Stuttgart, Germany for masters in Embedded Systems. For his excellence in studies, he was chosen to represent the university Stuttgart for the review meeting of Universities of Excellence. He has worked in multiple EU research projects. He is a frequent speaker and presenter in tech conferences and meetups. Security of IoT devices using novel methods and technologies such as blockchain, AI, IPFS, is his area of expertise. Since 2018 he is the lead for technology excellence as CTO of asvin GmbH.
+			X			
+Mirko Ross
+Chief Executive Officer (CEO)Cybersecurity Expert
+Mirko Ross, born 1972, is an internationally recognized activist, expert, speaker, publicist and researcher in the field of Cyber Security and the Internet of Things. At the age of 14, he began investigating vulnerabilities in IT systems. Instead of a career as a hacker, he decided to turn to the bright sight of cybersecurity. Mirko has been member of the Expert Group on Internet Security of Things of the European Cyber Security Agency ENISA and advises the EU Commission and the German Government as an expert. He is also active in international committees and research projects in the field of cyber security and blockchain technologies. Mirko is still closely associated with the positive hacker attitude and maker movement and promotes non-profit projects in the field of Open Data and IT education. In 2018 he founded asvin.io, with the aim of increasing cyber security in the AI and Software Supply Chain and providing software solutions for this purpose, leading asvin to the best Cybersecurity Start-up in Germany by it-sa.
+			X			
+Christoph Hartung
+President Cross-Domain Computing Robert Bosch GmbH
+BACKGROUND
+Christoph Hartung took over as Chairman of the Board of Management of ETAS GmbH on January 1, 2021. Hartung has been with Bosch, ETAS’ parent company, since January 2020 and prior to his present position he was Executive Vice President of the Connected Mobility Solutions division. He holds an academic degree in Industrial Engineering and Management Science and a Master of Science in Computer and Information Science from the University of Massachusetts, Dartmouth. He started his career with various automakers, including Volkswagen and Mercedes-Benz.
+			X			
+Klaus Entenmann
+Former CEO Daimler Financial Services AG
+BACKGROUND
+Klaus Entenmann was the Chairman oft he Board of Management of Daimler Mobility AG for over ten years. The company finances every second Daimler vehicle world wide. He holds a degree in business management and can look back on more than 40 years of experience in the finance industry. As Chairman, Entenmann introduced a new era and transformed the organization from a classic auto financing bank to an integrated financial and mobility services provider. He added a digital approach with a broad range of innovative mobility services to the core business of financial services. Furthermore, he stands for strong values and a unique corporate culture. This philosophy made Daimler Mobility one of the best employers in the world: in 2018, the company was recognized by the Great Place to Work Institute as Germany’s Best Employer and ranked among the top 10 world wide.
+He is Chairman of the Supervisory Board at Mercedes-Benz Auto Finance in China and a member of the Supervisory Board at Standard Chartered Bank AG in Frankfurt. Klaus is also investor and advisor of several start-ups in the mobility and technology sector.
+			X			
+Dr. Elmar Degenhart
+Former CEO of Continental AG (2009-2020)
+BACKGROUND
+Dr. Elmar Degenhart served as Chief Executive Officer of Continental AG from August 2009 to November 2020. In this capacity, he was also responsible for Group Communications and Public Affairs, Group Total Quality Management, Group Strategy and co-pace, Continental’s start-up organization. Before being appointed Chief Executive Officer of Continental AG, Dr. Degenhart was President of Schaeffler Group Automotive. From 2005 to 2008, he was Chief Executive Officer at Keiper Recaro Group. Previously, he served as President, Chassis Systems, at Robert Bosch GmbH. From 1998 to 2003, he was Executive Vice President, Electronic Brake Systems, at Continental AG; in this capacity, he was also Member of the Management Board of Continental Teves AG & Co. oHG. From 1993 to 1998, Dr. Degenhart worked at ITT Automotive Europe GmbH, most recently as Director Operations Brake Systems North America. Dr. Degenhart started his career at the Fraunhofer Institute for Manufacturing Engineering and Automation IPA where he held various positions from 1987 to 1993; most recently, he was Head of the Department Handling and Industrial Robot Systems. Born in Dossenheim, Germany, in 1959, he studied Air and Space Technology at the University of Stuttgart where he earned a “DiplomIngenieur” degree. In 1992, he earned a Ph.D.; his thesis focused on mechanical engineering in the area of cleanroom technology.
+			X			
+Zeljko Petrina
+CFO Minol Messtechnik
+BACKGROUND
+Zeljko Petrina brings a wealth of experience not only in Finance and Control, but also in Digitalisation and Mergers and Acquisitions. Since 2014, he is Managing Director for Minol Messtechnik W. Lehmann GmbH & Co. KG and holds the role of CFO/CDO of the Minol-ZENNER based in Leinfelden-Echterdingen near Stuttgart.
+https://www.minol.de/minol-zenner-gruppe.html
+Since 2019, Zeljko Petrina is Managing Director and CEO of Lehmann + Pioneers Digital GmbH (LPDG). LPDG is Minol ZENNER’s consulting company for your Digital Excellence, focusing on Business Intelligence, Analytics and Big Data.
+https://lpdg.io
+Within the framework of these responsibilities, Zeljko Petrina pro-actively works together with (new) innovative acquisitions and partnerships, towards their digital transformation and consolidation within the greater corporate group. As an integral part of these activities, he has taken on various mandates and roles in the acquisitions and investments in order to advise, mentor and support on all matters.
+Before his career lead him to Minol-ZENNER Group, Zeljko Petrina was responsible for the finances of several globally renown automotive suppliers and worked for the consulting companies Capgemini Consulting and Cap Gemini Ernst & Young.
+			X			
+Clarissa Haller
+Senior Partner at Dynamics Group
+BACKGROUND
+Clarissa Haller is a Senior Partner at Dynamics Group in Zurich, Switzerland, an advisory company for strategic communications, with outstanding expertise in all areas of corporate communication. She has successfully and sustainably positioned global corporations, internationally active companies and their CEOs and senior executives in internal and external communications with thought leadership –  as Head of Group Communications at Siemens AG (Munich), Credit Suisse, ABB (both Zurich) and Roche Diagnostics (Basel). Her industry expertise includes aerospace, banking, consumer goods, software, engineering, healthcare and media.
+Clarissa Haller holds a master’s degree in German studies, art history and American studies (Ludwig-Maximilian-Universitaet Munich) as well as a degree in “Sustainability Leadership” (University of Cambridge).
+			X			
+Walter Strommer
+CEO of pulsaris business consulting GmbH
+BACKGROUND
+Dr. Walter Strommer is managing partner of pulsaris business consulting GmbH, a consulting company with many years of experience in the digitalization of business processes.
+He studied computer science in Stuttgart and earned his doctorate in logistics at the Fraunhofer Institute for Manufacturing Engineering and Automation. He then moved from the board of the Institute for Parallel and Distributed Systems to one of the first Internet agencies in Germany. There he managed projects that presented companies on the Internet for the first time and enabled first digital processes. The increasing need for consulting led to the founding of pulsaris business consulting GmbH in 1998. Many interesting and challenging consulting projects in the field of digitalization and process automation followed (Internet pharmacy, video digitalization for music labels, media asset management, technical editing, HR services, supply chain analytics, home automation, IoT). Dr. Walter Strommer was and is actively involved in supervisory boards and advisory boards with his expertise and diverse contacts and holds several participations in companies and startups.
+			X			
+Dr. Axel Funk
+Partner CMS Hasche Sigle Lawyers
+BACKGROUND
+Dr Axel Funk has been a lawyer since 1994 and a partner at the renowned law firm CMS Hasche Sigle in Stuttgart since 2000. He heads the TMC (Technology, Media & Communication) business area there and focuses on drafting and negotiating contracts, especially in the project and outsourcing business, as well as providing comprehensive advice in connection with software development and distribution law. He is also active in the areas of e-commerce, IT compliance and data law.
+Dr Axel Funk is a board member of the German Society for Law and Information Technology (DGRI) as well as head of the Special Interest Group (SIG) IT Law of Baden-Württemberg: Connected e.V. Furthermore, he is chairman of the examination committee for the Fachanwalt Informationstechnologierecht in Stuttgart.
+			X			
+Rob van Kranenburg
+Chief Innovation Officer (CIO)
+BACKGROUND
+As the Founder of the Internet of Things Council (2009) and IoT Day (2010) Rob has acquired the expertise to co- explore innovation pathways with the team of asvin GmbH and enlarge the already impressive ecosystem. His long-standing experience and publications in the field of Internet of Things, Industry 4.0 and total connectivity in the space of flows offers him the perfect background to develop innovation strategies for the use cases of our technology and to co-create with the team quick wins and long term gains. Rob lives in Gent, Belgium. In his free time, he is an avid reader of (German) poetry. He is interested in the sovereign identity debate and the concept of disposable identities. Rob joined asvin 2022 as Chief Innovation Officer (CIO).
+			X			
+Sven Rahlfs
+Chief Operating Officer (COO)
+Expert in agile software development
+Sven Rahlfs, born in 1970, has been familiar with software development for over 30 years. Sorting complex relationships and integrating them into structured processes is one of his core competencies. Above all in an agile environment, he oversees extensive projects ranging from orientation to the solution room and sprint processing to the finished, marketable product. Sven has been a certified Scrummaster since 2012 and heads various associations in building software teams, IoT project & business modeling. In this context, he was involved in the field of software optimization and digitization projects. The biggest project was the digitization offensive of the German Alpine Association (DAV, 1.4 billion members). In 2018, together with Mirko Ross, he founded asvin GmbH with the aim of increasing cyber security in the Internet of Things and providing software solutions for this. Sven lives in the rural area of ​​the Stuttgart region and works in Stuttgart.
+			X			
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies. However you may visit Cookie Settings to provide a controlled consent.Cookie settingsACCEPTPrivacy & Cookies Policy
+Close
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+ 
+                                Necessary                            
+ Necessary 
+                                    Always Enabled                                
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+                                Non Necessary                            
+non-necessary
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+Save & Accept
+Go to Top

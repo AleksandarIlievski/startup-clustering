@@ -1,0 +1,69 @@
+Transform Railway Operations for a Sustainable Future- KONUX
+ENDE
+What we offer
+Our Solutions
+KONUX Switch
+KONUX Network
+KONUX Traffic
+Case Studies
+About
+Why Railway
+Company
+KONUX Labs
+Contact
+Careers
+Careers at KONUX
+Life at KONUX
+Our Tech Stack
+Open Positions
+Recruitment Process
+Resources
+Blog
+Media Kit
+Horizon 2020
+View open jobs
+ 
+Transform railway operations for a sustainable future
+KONUX is the first AI scale-up in railway. We bring next-generation predictive maintenance, network usage and traffic monitoring and planning solutions for railway infrastructure management.
+Watch video Contact SalesRead our Case StudiesCAPACITY MEETS AI
+Railway is the hidden sustainability champion in transportation. But with demand predicted to double by 2050, radical steps are needed to ensure the resilience and competitiveness of the system on which millions rely. AI can unlock sources of operational capacity and efficiency previously unimaginable, fueling a true railway revolution.
+Our VisionOur SolutionsKONUX Switch
+Our predictive maintenance solution for rail switches uses machine learning and IIoT to enable delay free switches at an optimal cost
+Learn MoreKONUX Network
+Our usage monitoring and inspection planning solution provides a more accurate picture of network traffic and its impact across the infrastructure
+Learn MoreKONUX Traffic
+Our timetable optimization and delay mitigation solution helps route directors, dispatchers, and planners tackle capacity bottlenecks and optimize planning.
+Learn More“”The data insights allow us to know the asset evolution in real time and to anticipate as much as possible all the preventative maintenance that we need in the future.Angélique ChaboissierMaintenance Engineer at Oc’Via MaintenanceLearn about our work with Oc'Via Maintenance“”The more we digitize, the more we can prevent defects, if possible before they even appear, in order to do less corrective work and therefore save money.Damien RosePresident of Oc’Via MaintenanceLearn about our work with Oc'Via MaintenanceThe holistic switchPredictive maintenance for S&C
+KONUX Switch uses IIoT devices and artificial intelligence to improve network availability, extend asset lifetime and reduce costs. It continuously monitors and analyzes the health of signalling and track components, and provides actionable recommendations. It ultimately allows for better maintenance planning by helping infrastructure managers anticipate failures before they happen and know the optimal time and type of maintenance needed.
+Learn more about Summer ’22 Release
+Spring '23 UpdateIntroducing Smart Alerts: Act on what matters, when it matters
+Predictive maintenance has been one of the most effective maintenance approaches for railway infrastructure companies. While most solutions rely on simple alerts or static thresholds which can be misleading and result in many false alarms, we are applying smart algorithms as part of our Predictive Maintenance strategy to deliver meaningful insights to our customers by ensuring that they only receive alerts that matter and that can be acted upon with trust. This enables our customers to avoid unnecessary inspections, reduced downtime and costs and eventually increase operational capacity. 
+Learn more about Spring ’23 Update
+Winter '23 ReleaseNetwork usage insights to optimise inspections and resources
+Planned and actual traffic can differ by as much as 40%, which can lead to over- and under-inspection, loss of operational capacity, blind spots for infrastructure degradation, and ultimately poor resource allocation. By leveraging AI and large scale data fusion, KONUX Network presents a model of actual daily traffic and its impact throughout the network. It helps regional managers, route directors, and planners optimise inspection planning, allocate resources where needed, and tackle capacity bottlenecks. 
+Learn more about Winter ’23 Release
+Summer '22 ReleaseLoad insights to optimise switch maintenance and beyond
+Rail switches and crossings globally account for 20% of delay minutes, 15% of rail operating expenditures and 10% of capital expenditures. To tackle these challenges with enhanced switch maintenance, KONUX has been continually innovating for continuous monitoring and forecasting of switch health. By complementing this capability with traffic usage insights, KONUX aims to push toward the vision of enabling holistic and delay-free switches at optimal costs.
+Learn more about Summer ’22 Release
+ UPCOMING EVENTS 
+See all upcoming events
+The rise of IoT and Big Data in RailMeet us at the event or request a live demoCologne, GermanyMay 31 – 1, 2023Rail LiveMeet us at the event or request a live demoWarwickshire, England June 21 – 22, 20238th Railway ForumMeet us at our booth!BerlinSeptember 6 – 7, 2023Join the team!  Help drive the transition to sustainable mobility
+The KONUX team is strongly driven by engineering talents, and complemented with an outstanding business team that dives deep into customer problems and technical challenges, and understands how we can build our product platform. We combine Silicon Valley digital thinking with German engineering.
+Learn about our career opportunitiesFind out how we can work together
+Get in touch
+KONUX GmbH
+Flößergasse 2
+81369 München
+Germany
+[email protected]
++49 89 18955010
+ 
+What we offer
+Career
+Company
+ Download Media Kit
+ Member of
+© 2023 KONUX GmbH
+Privacy Policy
+Legal Notice
+ 

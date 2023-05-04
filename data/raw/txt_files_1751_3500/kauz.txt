@@ -1,0 +1,127 @@
+Startseite - Kauz Chatbots mit ChatGPT
+ 
+Skip to main content
+ 
+Zur Demo-Anfrage
+Technologie
+Praxisbeispiele
+Anwendungsbeispiele
+Kundenservice
+Helpdesk
+Vertrieb und Marketing
+E-Commerce
+Beispielbranchen
+Banken
+Versicherungen
+Kommunen
+Stadtwerke
+Partner
+Profil
+Wir über uns
+Newsletter📨
+Jobs
+Blog
+Downloads & Presse
+ 
+ 
+Chatbots, die verstehen.
+Ihre Mitarbeiter lieben die Leichtigkeit.
+Ihre Kunden lieben die Zuverlässigkeit.
+Wir unterstützen Sie.
+ 
+So funktioniert es
+1. Content generieren
+Geben Sie die URL Ihrer Website in unser Web Scraping Interface ein und unser System zerlegt Ihre Inhalte in einzelne Dokumente. 
+2. NLU-Verarbeitung
+Um mit diesen Dokumenten arbeiten zu können, werden sie automatisch mit unserer NLU-Engine semantisch geclustert.
+3. Kontrolle behalten
+Ihr Chatbot ist live!
+Er beantwortet nun Fragen zu Ihrer Website. Senden Sie Ihre Testfragen an ChatGPT.
+ 
+Mit ChatGPT generieren Sie Content einfacher als je zuvor. Wir erstellen aus dem Inhalt Ihrer Webseite oder Dokumente eine Datenbank, auf die ChatGPT dann zugreift. So stellen wir sicher, dass Ihr Chatbot auch nur die Antworten ausgibt, die Sie Ihren Kunden bieten möchten. Aus der generativen KI wird so eine kontrollierte KI. In einem Proof of Concept können Sie das Konzept gerne zuerst ausführlich testen.
+Jetzt Proof of Concept einfordern
+ 
+Das neue Analytics-Dashboard
+Einfach die Anzahl an Konversationen und Events nachhalten.
+Qualität der Antworten messen.
+Schneller Überblick über meistnachgefragte Themen.
+Nutzer und Sprachen analysieren.
+Jetzt das neue Dashboard entdecken
+ 
+Eine Auswahl unserer zufriedenen Kunden:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Proof of Concept anfordern
+Wollen Sie wissen, wie ChatGPT auf Basis Ihrer Daten antwortet? Wir zeigen es Ihnen in einem einfachen PoC. Dann können Sie besser und informierter entscheiden, ob und wie Sie es einsetzen möchten.
+Füllen Sie einfach das Kontaktformular aus. Wir melden uns bei Ihnen und schauen dann gemeinsam, wie Ihre Chatbot-Lösung konzipiert werden soll. Wir freuen uns auf Ihre Anfrage!
+Kontaktformular
+Bitte aktiviere JavaScript in deinem Browser, um dieses Formular fertigzustellen.LayoutVorname *Nachname *Email *Telefon (optional)BrancheBanken und FinanceEinzelhandel/E-CommerceITKVersicherungenÖffentliche VerwaltungAndereIch interessiere mich für *Chatbots für Kunden (Webseite)Chatbots für MitarbeiterEinsatz von ChatGPTSonstigesIhre Nachricht *DSGVO-Einverständnis *Ich willige ein, dass diese Website meine übermittelten Informationen speichert, sodass meine Anfrage beantwortet werden kann.Hiermit erteile ich meine jederzeit widerrufliche Einwilligung, dass meine angegebenen Daten dafür genutzt werden, ein Angebot über die Dienstleistungen von www.kauz.net zu erhalten. Ich habe die Datenschutzerklärung gelesen und akzeptiere diese.Absenden 
+ 
+Aktuelle Blogbeiträge von Kauz
+                Conversational AI – Die Chatbots der Zukunft            
+		von Lisa Hemmerling 
+		03.05.2023	
+Was ist Conversational AI? Warum nutzt Kauz die KI-Technologie für Chatbots? Hier erfahren Sie mehr über das Thema!
+                Weiterlesen            
+                Erfahrungen aus 5 Jahren Chatbot            
+		von Lisa Hemmerling 
+		02.05.2023	
+Wie verbessere ich die Antwortquote meines Chatbots? Julia Müller betreut die Chatbots der VR-NetWorld und zeigt verschiedene Einsatzszenarien und Statistiken aus 5 Jahren Chatbot Erfahrungen.
+                Weiterlesen            
+                Welche Schnittstellen braucht mein Chatbot?            
+		von Lisa Hemmerling 
+		25.04.2023	
+Chatbot und Schnittstellen: Erfahren Sie in diesem Artikel, welche Schnittstellen ein Chatbot braucht und wo diese zum Einsatz kommen.
+                Weiterlesen            
+ 
+Startseite 
+TechnologieChatbot-Leitfaden
+ChatGPT
+Chat & Search
+Künstliche Intelligenz
+Kauz meets GPT-3
+PartnerPartner
+Partner-Community
+ 
+PraxisbeispieleChatbots im Kundenservice
+Chatbots als Servicedesk
+Chatbots für E-Commerce
+Chatbots für Vertrieb und Marketing
+Chatbots für Banken
+Chatbots für Versicherungen
+Chatbots für Kommunen
+Chatbots für Stadtwerke
+Soziale Netzwerke
+   
+   
+   
+   
+ 
+ProfilWir über uns
+Jobs
+Chatbot-Newsletter
+Blog
+Chatbot-Mediathek 
+Kontakt
+Kauz GmbH
+Erasmusstraße 15
+40223 Düsseldorf
++49 211 3004 9622
+info@kauz.net
+Chatbot-World 2023 
+© 2023 - Kauz
+Datenschutz
+Impressum
+Cookie Einstellungen
+ 
+ 

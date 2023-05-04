@@ -1,0 +1,92 @@
+AFTS GmbH: ensured sustainability
+ 
+AFTS GmbH
+Industries
+Cosmetics
+Chemicals
+Food & Beverages
+Products
+Mapping
+Track & Trace
+Consumer Communication
+Supply Chain Compliance
+AFTS
+Team
+Blog
+Contact
+Log-in
+en
+de
+							Your way to sustainable, transparent, and compliant supply chains
+						Risk Management  Cost Optimization  Marketing & Communication Thanks to their reliable and unbreakable solution, AFTS helped us to go a step ahead in sustainability. An amazing partnership!- Arnaud Bellon, Senior Vice President, Head of Sustainability and Scent+, Symrise
+IndustriesTransparent supply chains tailored to your needsEach industry has its own very specific pain points when it comes to sourcing materials. With Enterprise Sustainability Management (ESM) software we want to offer actual problem-solving solutions tailored to the issues of our clients.
+CosmeticsLearn moreFood & BeveragesLearn moreChemicalsLearn moreTransportationLearn more
+                            Our Software-as-a-Service Solutions
+                        
+                        	Products to achieve transparent 
+and sustainable supply chains
+                    	MappingMap your products along the supply chain.
+                        
+                                Learn more
+                            
+                    Track & TraceTrack your goods from farm to shelf and learn more about the origin of your materials.
+                        
+                                Learn more
+                            
+                    Communication ToolShare your ecological and social sustainability actions with your consumers via a QR code on your product or your online shop.
+                        
+                                Learn more
+                            
+                    Supply Chain ComplianceBecome compliant with new regulations and laws in a time-efficient and secure way.
+                        
+                                Learn more
+                            
+                    
+Our Partners
+                            ESM-Software Insights
+                        
+                            Functions of the AFTS platform for 
+a secure & transparent supply chain.
+                       Smart Contracts
+                    Enable trust and a good relationship with suppliers.
+                Mass Balance
+                    Monitor the volume of materials in the supply chain process.
+                Sustainability evaluation
+                    Evaluate your supply chain concerning your own impact criteria or choose from the UN Sustainable Development Goals.
+                API’S
+                    We can provide you with API’s allowing easy data transition to the platform.
+                Decentralized data entry
+                    Suppliers get log-in data to their own surface of the platform and enter their data, which saves you time.
+                Selective transparency
+                    The owner of the data decides what information to share with partners and consumers. While you see all your data in the system, your partners see only parts of it. Thus, no one runs the risk to be cut out of the supply chain.
+                
+                        Get to know more about the AFTS platform
+                    
+						AFTS helps your organization to support the fulfillment of sustainability impact criteria in a credible, tamper-proof, and user-friendly way!
+					Nowadays, key stakeholders keep increasing the pressure on businesses to become more sustainable. With the AFTS platform you can finally achieve transparency in your supply chain and learn about the origin of your product, the people involved in the sourcing and producing processes, and the transportation ways your product took. With this information, you can identify weak points and achieve optimization towards sustainability and human rights and prevent your brand from bad press. Communicate your achievements with your partners and customers and enhance your image!
+Book your appointment now!Get in contact with us for a consultation regarding sustainability in businesses, transparency in supply chains, blockchain, and the “Lieferkettensorgfaltspflichtengesetz”.
+							Get in touch!
+						
+                        	Benefits
+                    	Risk ManagementCollect and analyze high-quality dataEasily identify and prioritize proven suppliersIdentify sustainability & human rights risks along the supply chainsCost OptimizationIdentify inefficiencies in the supply chainReveal cost-saving opportunitiesGet to know where materials get lostMarketing & CommunicationEngage with your customers through the consumer frontendTell your customers about the product journeyIncrease consumers’ trust in your brand
+						About us
+					
+						AFTS
+					AFTS which stands for Assured Farm to Shelf was founded in 2019 by four entrepreneurs who were following the passion to contribute to a greener society by finding a way on how to make supply chains transparent and thus allow enhanced sustainability. Today, the startup is complemented by experts so that AFTS consists of a highly professional team with a broad skillset.Get in touch!
+								9.00
+							Experienced EmployeesExperts in supply chain management, consulting, blockchain, software development, and sustainability assure that the AFTS product is industry-oriented and designed to solve real-life issues in the business world.
+								8.00
+							Satisfied CustomersWe have served various clients and partners in different industries to help them become transparent, sustainable, and compliant. Each of our clients contributes to our vision of a world where products become greener, more transparent, and truly honest.
+								12.00
+							Different CountriesWe operate in many different countries and track goods around the globe.
+The founding teamIntroducing the AFTS TeamAndreas R. HofmannAndreas holds a diploma in business chemistry. In over 16 years of working for multinational companies, he became an expert in supply chain management across the board. He has a passion for sustainable supply chains and the goal to make them the standard in the industry.Christoph LangewischChristoph has a diploma in IT. He is a serial entrepreneur and absolute expert on blockchain and digital transformation.Iklima ParlakIklima is an international Business and Technology student. At AFTS she is responsible for Marketing and Social Media and thus is the creative mind on our team.More about the team 
+ContactWhether for a consultation meeting or because you have some questions, please do not hesitate to get into contact with us!Send us a mailAFTS GmbHSales
+						info@afts.biz
+					
+FAQFrequently asked questionsWhy do you use blockchain?Blockchain is a cutting-edge technology that allows us to ensure trust between suppliers and buyers, as blockchain does not allow any manipulation of data. This is the main reason why we decided to integrate blockchain technology (Ethereum).I have heard that blockchain is needing a lot of energy to run, is this true?Many people mistake blockchain for bitcoins. Bitcoin is a part of blockchain like E-Mail is a part of the internet. Bitcoin indeed needs a lot of energy. Ethereum on the other side is only needing a very small part of what Bitcoin needs to run transactions. Soon this will be even smaller once the transformation from Ethereum 1.0 (Proof of Work) to Ethereum 2.0 (Proof of Stake)Why do you use a public blockchain and what are the advantages in comparison with a private blockchain?Technological developments such as public blockchain make it possible to provide information across systems in a trustworthy and non-manipulable manner. This principle helps to link private systems (like private blockchains) interoperable through a decentralized and independent entity. In particular, for permissionless information about sustainability along global multi-tier supply chains, public blockchain makes this information 24h/7d and 100% available, readable provided without any additional running costs.I do not want to disclose my data and I am afraid to be bypassed in the supply chain by the buyer.The person entering the data is the owner of the data. The owner of the data alone decides what information to share with customers, consumers, and partners.In which ways does the AFTS solution save me resources?Companies can be onboarded quickly so that product routes and tracking can be started immediately – You save time.Relevant data is presented in a centralized way in one system only, for all departments, saving time for searching and duplicating Excel sheets.The solution enables strategic supply chain optimization, which allows cost savings in purchasing and protection against fines.The decentralized collection of data (input by suppliers) allows time savings for your employees.What stands AFTS for?AFTS stands for “Assured Farm to shelf” and expresses the founding idea: We want to enable companies to trace their products from their source, the farm, to the end product which consumers can find on the shelves. By doing this we allow companies to get to know their products and resources better, optimize them towards sustainability and human rights and share their story with their consumers through our consumer app.What do I need to be able to use the AFTS platform?First of all, please feel free to get into contact with us for a demo version anytime you want! We gladly show you the platform in detail.Once you signed up with AFTS, it is extremely easy:Use it with any of your devices (Laptop, Tablet, Phone, etc.), You do NOT need any extra hardwareYou can log in from anywhere, anytime, as long as you have an internet connection.Integrate the data from your Systems, we provide you with API’s if wantedGet all additional supply chain data you need through self-onboarding of your suppliersShare data with authorities, suppliers, colleagues & consumers
+Contactinfo@afts.bizLinkedIn
+LegalImprintPrivacy policyContact
+InformationMappingTrackingConsumer communicationSupply Chain ComplianceAbout us
+Request a demo
+Webdesign: Homepage Helden
+© AFTS GmbH

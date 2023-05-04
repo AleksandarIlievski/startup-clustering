@@ -1,0 +1,198 @@
+QUMUNDO - Connecting financial market participants
+QUMUNDO
+Dasboard
+Solutions
+Datasets
+APIs
+Research
+News
+Login
+Settings
+Checkout
+Subscribe
+Login
+Register
+Toggle navigation
+Toggle navigation
+Dasboard
+Datasets
+APIs
+Research
+News
+×
+Welcome to Qumundo
+API-first market research, data distribution and digital solutions
+ABOUT QUMUNDO
+DATA-SERVICES
+Research, collection and distribution of market and alternative data
+Data-Services
+DATA-EXPLORER
+Automating the process to discover, match and showcase data
+DATA-EXPLORER
+LEIMONITOR
+LEI-Compliance, know your customer and investment monitoring
+LEIMONITOR
+REQPORTER
+Digital API-first regulatory monitoring and reporting solution
+REQPORTER
+API-AS-A-SERVICE
+Development, hosting and provision of API-solutions as a service
+API-AS-A-SERVICE
+CMS-PLATFORMS
+Powerful and customizable content management platforms
+CMS-PLATFORMS
+Welcome to Qumundo! We love data, connect market participants and have a passion for digital transformation and software. We offer data services, data automation, compliance, reporting, API and digital solutions for you to better understand, experience and master some of your challenges.
+Solutions & Services
+Qumundo is module based and comprises a wide range of solutions and services. Among others we offer:
+Data-Services
+API-first market research, collection and distribution of financial, economic and alternative data sets via powerful and flexible APIs with sandbox access, partner program and starter packages.
+Data Services
+Data-Explorer
+Our API-first solution automates the process to discover, match and showcase market and alternative data. Explore best-in-class datasets, get instant coverage checks and automate your market research.
+Data Explorer
+LEIMONITOR
+LEIMONITOR is a digital platform monitoring legal entity and security portfolios supporting financial market participants to stay LEI-compliant. Know your customer and investment opportunities with LEIMONITOR.
+LEIMONITOR
+REQPORTER
+REQPORTER is a digital API-first regulatory monitoring and reporting solution. It provides you the digital infrastructure to collect, validate and report the required information from and to your desired endpoints.
+REQPORTER
+API-as-a-Service
+Development, hosting and provision of API-solutions and API-platforms as a service. Benefit from our ready-to-use modules and open API-infrastructure to connect and use 3rd party APIs and to provide modern API-microservices.
+Get in touch
+CMS-PLATFORMS
+Powerful and customizable content management platforms with ready-to-use features, functions and content elements based TYPO3, one of the safest, most powerful and sustainable CMS on the market.
+CMS-PLATFORMS
+DIGITAL SOLUTIONS
+Qumundo offers end-to-end digital solutions to give you a competitive edge in a digital world. We deliver innovative websites, mobile apps and cross-industry specific solutions customized to your needs.
+Get in touch
+CONSULTING
+We are entrepreneurs, technology and industry specialists and have a passion for digital transformation and software. We love to consult, support and help you to move forward and make the right desicions.
+Get in touch
+While some modules and functions are free to use, for others a registered user need to have an appropriate license. Login to learn more about it.
+Data Automation
+We automate the process to discover, match and distribute market and alternative data via sophisticated APIs and digital platforms. Our API-first solution supports data seekers like market data managers, research analysts and investment professionals with instant coverage checks, automated market research and faster access to potential data. Are you in need for market or alternative data? Do you have valuable data and information on legal entities, securities or market participants?
+For Data Seekers
+We help you to discover, evaluate and access potential data sets and data fields. Explore best-in-class databases, get instant coverage checks and automate your market research. Start your data discovery with Qumundo!
+List your search
+For Data Providers
+Communicate, promote and match your valuable data and service to thousands of potential data seekers. Use our digital infrastructure, network and expertise to showcase and distribute your service and data offering into the market.
+List your data
+While some services and functions are free to use, for others a registered user need to have an appropriate license. Login to learn more about it.
+How it works
+Step 1
+Create account
+Login and create an account for free. Get started and tell us a bit about yourself and what your are looking for.
+Create Account
+Step 2
+List Content
+No matter if you are looking for data or want to offer data, list your requirements and offering for free and stay in control.
+Step 3
+Get Matched
+Once setup, get found by thousands of data seekers and data providers, receive matches and choose between offerings.
+Data Spotlight
+Market-Data:
+Market-Data:
+More Datasets
+The Difference
+Discover, evaluate and distribute market and alternative data on securities, legal entities and industry specific use cases. Our multi-step approval process enables you to keep data privacy in place and define your custom target audience. State of the art data delivery in various types, formats and via third party platforms with scalable plans and flexible pricing. We offer use cases specific APIs and custom research with screening and extraction of defined content.
+Data Types
+Various data types like master data, reference data, end-of-day, intraday and historical data sets.
+Delivery Options
+Multple delivery options from json, csv and xml via powerful and flexible RESTful APIs.
+Scalable Usage
+Sandbox access, partner program and starter packages with scalable plans and flexible pricing.
+Use Case APIs
+Provision of use case specific APIs that reflect business logic and improves process efficiency.
+Custom Research
+Custom screening, extraction and provision of data and content aligned to your business needs.
+Data Protection
+Multi-step approval process to protect your data privacy and define target audience.
+Use Cases
+Delivering our data into the market is key for our business. QUMUNDOs' modern API-infrastructure helped us to get our content to new customers.
+CEO & Founder, 
+Market Research Firm
+REQPORTER provided us the digital infrastructure to collect, validate and report the required information from and to our regulatory authority.
+Managing Director, 
+Asset Management Company
+All issuer of securities listed on our exchange need to have a valid LEI. Otherwise the securities need to be delisted. LEIMONITOR helped us to keep track.
+Manager Listing Services, 
+Global Stock Exchange
+The multi-site and multi-language capabilities of TYPO3 was the perfect solution for our group. Now we have the tools and flexibility to manage our digital content.
+Head of Marketing, 
+Fortune 500 Company
+Identifying and onboarding a new customer is a huge challenge. QUMUNDO provided us a white label solution adding further sources and features for our own KYC solution.
+Compliance & KYC Manager, 
+Tier 1 Investment Bank
+News & Research
+More Research
+Get started for free
+Getting started is easy and for free. While some data sets and APIs are free to use, for others a registered user needs to have an appropriate license. Register for free and get started:
+Get started for free
+Monetize your data
+Ready to unleash and monetize the full potential of your data? We provide you the digital infrastructure, network and expertise to promote, match and deliver your data into the market and to your target audience.
+Get in touch
+×
+LOGIN TO QUMUNDO
+Email: *
+Password: *
+Forgot password?
+Not registered? Register here!
+* Mandatory fields.
+Login
+Close
+×
+REGISTER AN ACCOUNT
+Lastname: *
+Firstname: *
+Business Email: *
+Phone: *
+Company: *
+Password: *
+I confirm that I have read, understood and accept the Terms of Use and Data Privacy and expressely declare my consent that my details and data will be collected, used and stored electronically as a result of my registration.
+Back to Login!
+* Mandatory fields.
+Register
+Close
+×
+RESET PASSWORD
+Email: *
+Back to Login!
+* Mandatory fields.
+Send
+Close
+×
+Success Message
+×
+Error Message
+×
+Info Message
+×
+Info message
+×
+Info Message
+Useful / Quick Links
+Home
+Legal Entities
+API-Docs
+Contact
+Legal Information
+Terms of Use
+Disclaimer
+Data Privacy
+Imprint
+Contact Information
+Address: 
+Kleine Brückenstrasse 14
+60594 Frankfurt am Main
+Germany
+Call or E-Mail Us: 
++49 (0) 69 / 95199951
+14s2u2p18p18o15r10t6@19q11u5m11u1n11d20o7.1c20o12m
+					QUMUNDO v.2.1. All data provided as is, with no warranties. All rights reserved. All prices are exclusive of VAT.
+					
+						Copyright © , Qumundo e.K..
+						
+Terms of Use
+Disclaimer
+Data Privacy
+Imprint

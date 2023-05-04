@@ -1,0 +1,147 @@
+Voipfuture | Unique voice service monitoring and analytics
+	Skip to content
+ 
+ 
+ 
+Qrystal
+Solutions
+Mobile Networks
+Fixed Networks
+Wholesale Network
+Enterprises & Call Centers
+Cloud Deployments
+Technology
+Resources
+Resource Library
+Product Updates
+Blog
+Company
+About Us
+Careers
+News
+ 
+ Menu
+Qrystal
+Solutions
+Mobile Networks
+Fixed Networks
+Wholesale Network
+Enterprises & Call Centers
+Cloud Deployments
+Technology
+Resources
+Resource Library
+Product Updates
+Blog
+Company
+About Us
+Careers
+News
+ 
+Contact Us
+Voice-Service Monitoring and Analytics 
+Today’s voice services require better data-driven insights. 
+ 
+Welcome to Voipfuture.
+ 
+Contact Us
+ 
+ 
+ Agile and user-focused voice monitoring and analytics 
+ 
+Integrated voice quality assurance and root cause analysis 
+ 
+Packet-by-packet analysis for deep insights into user experience  
+ 
+Accurate voice service intelligence through RTP time-slicing 
+ 
+Unique, dual visibility into both the control and media planes KPIs 
+ 
+Effective, automated troubleshooting of both signaling and media issues 
+ 
+Simple licensing for cost transparency and pay-as-you-grow model 
+Learn More
+ 
+0
+ BN
+Calls monitored
+0
+Metrics per call
+0
+%
+Analyzed packets
+0
+%
+Decrease in dropped and silent calls
+0
+%
+Less time-to-fix
+Respected brands trust  Voipfuture 
+ 
+ 
+ 
+ 
+ 
+"Our team hasn't had any complaints about voice quality since we put Qrystal in"Richard MilnerProject Manager, Vodafone UK
+“From the moment we installed the system we have been able to control the quality provided to us by our service provider. RTP Monitoring allows us to reduce the organizational reaction time to voice-related issues.”Olaf SchneiderCIO UTA
+“It is difficult to see how anyone could launch Voice over WiFi services without a tool like Qrystal. Being able to identify WiFi-related service degradation is key to our efficient operations."Amir HavivManager, Assurance and Analytics for Mobile, Partner
+“We appreciate how Voipfuture conducts media quality analysis on IP networks to identify network performance issues and address them holistically ‐ compared to the traditional issue‐by‐issue, crisis‐by‐crisis approach.” Olga YashkovaProgram Manager, Frost & Sullivan
+“Finally, we can constantly improve our service, reduce our churn rate and set a mark in service quality.” Matthias WinterCTO KielNET
+“Ensuring a high quality experience for consumers and carrier partners is paramount, and Voipfuture tools provide us with the rich data and insight to help deliver this for our customers.” Clive GoodwinHead of International Voice Services at Vodafone
+“Voipfuture stood out with their impressive technology and their experience. The Voipfuture team is very professional and customer-oriented, which perfectly aligns with our approach to the market. We are very happy to be working with them on the outstanding R&S©AVQA product.” Constantin RedenVP Market Segment ATC/AD at R&S
+“Voipfuture’s solution stood out during our assessment for voice quality monitoring and proved its value in the first month after deployment. It delivers real-time data visibility for both quality of service and quality of experience. This is essential for us to continuously improve speech quality for our customers.”Ronen KeshetHead of Partner Network Engineering, Partner
+ 
+ 
+Next-generation KPIs for next-generation voice services 
+Effectively measuring the quality of VoIP services is crucial. ETSI defines proven and accurate time slicing KPIs which complement the well-known and widely used SIP signaling KPIs .This white paper explains the fixed time slicing technology, which provides MOS and other metrics to accurately assess in-call user experience.  
+Get the White Paper
+News & Resources 
+ 
+ 
+ 
+PhoneBurner Chooses Voipfuture for Monitoring New AWS-based Voice Platform 
+Read More
+ 
+ 
+video 
+ 
+Alvaria on Qrystal for AWS 
+Read More
+ 
+ 
+product updates 
+ 
+Qrystal 8 Release News 
+Read More
+ 
+Ready to explore our unique approach to voice service monitoring and analytics? 
+Contact Us
+ 
+Qrystal 
+Solutions 
+Mobile Networks
+Fixed Networks
+Wholesale Networks
+Enterprises & CC
+Cloud Deployments
+Technology
+Resources 
+Blog
+Resource Library
+Product Updates
+Company 
+About Us & Leadership
+Careers
+News & Updates
+Contact Us
+© Voipfuture GmbH 2022. All rights reserved | Imprint |  Privacy Policy 
+ 
+Facebook
+ 
+Linkedin
+ 
+Twitter
+ 
+Youtube
+ 
+  Cookie Consent with Real Cookie Banner

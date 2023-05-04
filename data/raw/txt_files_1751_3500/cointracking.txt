@@ -1,0 +1,752 @@
+CoinTracking · Crypto Portfolio Tracking and Tax Reporting
+Dashboard
+Reporting
+TRADES:
+Trade Statistics
+Trade List
+Trade Prices
+Trading Fees
+Number of Trades
+Double-Entry List
+BALANCE:
+Current Balance
+Daily Balance
+Balance by Exchange
+Balance by Currency
+Coins by Exchange
+NFT Center
+Summary
+GAINS (Expert):
+Realized & Unrealized Gains
+Tax-privileged Coins (Short & Long)
+Roll Forward / Audit Report
+Trade Analysis
+Average Purchase Prices
+CHECKS:
+Missing Transactions
+Duplicate Transactions
+Validate Transactions
+Transaction Flow Report
+EASY TRACKING:
+Easy Enter Statistics
+Enter Coins
+Manual Entry
+CSV Exchange Imports
+Abra
+ACX
+AscendEX
+Binance
+Binance US
+Bison
+Bitcoin.de
+Bitcoin Suisse
+Bitfinex
+Bithumb Global
+Bitpanda
+Bitpanda Pro
+Bitrue
+Bitstamp
+Bittrex
+BitYard
+BlockFi
+BSDEX
+BTC Markets
+BTCPay
+Bybit
+Cake Defi
+Celsius Network
+CEX
+Changelly
+Circle
+Coinbase
+Coinbase Pro
+CoinEx
+Coinmate
+Coinmerce
+Coinmetro 
+Coss
+Crex24
+Criptan
+Crypto.com
+Deribit
+DFX.swiss
+Digital Surge
+Gate.io
+Gemini
+HitBTC
+Hodlnaut
+Hotbit
+Iconomi
+Idex
+Kraken
+Kraken Futures
+KuCoin
+KuCoin Futures
+Localbitcoins
+Luxor
+Mercatox
+MEXC
+Nexo
+NFTBank
+OKCoin
+OKX
+Phemex
+Pocket Bitcoin
+Poloniex
+Relai
+Sorare Tools
+STEX
+SwissBorg
+Swyftx
+Tradeogre
+Uphold
+Voyager
+YieldApp
+Zerion
+API Exchange Imports
+Bibox
+Binance
+Binance US
+Bitcoin.de
+Bitfinex
+Bithumb
+BitMEX
+Bitpanda
+Bitpanda Pro
+Bitstamp
+Bittrex
+Bitso
+Bitvavo
+Bleutrade
+BTC Markets
+Bybit
+Celsius
+CEX
+Coinbase
+Coinbase Pro
+CoinSpot
+Crex24
+Crypto.com
+Deribit
+FTX
+Gate.io
+Gemini
+HitBTC
+Huobi
+Independent Reserve
+Indodax
+Idex
+itBit
+Kraken
+Kraken Futures
+KuCoin
+KuCoin Futures
+Liquid
+Livecoin
+Luno
+MEXC
+OKX
+Poloniex
+STEX
+Swyftx
+The Rock Trading
+Tidex
+Whaleclub
+Yobit
+Wallet Imports
+BitBox
+Bitcoin Core Client
+Blockchain.com
+Electrum
+Exodus
+GateHub
+Ledger Live
+Mycelium
+Trezor
+Blockchain Imports
+Avalanche (AVAX)
+Bitcoin (BTC)
+Bitcoin Cash (BCH)
+Bitcoin SV (BSV)
+Binance Chain (BNB)
+Binance Smart Chain (BSC)
+Cardano (ADA)
+Dash (DASH)
+Dogecoin (DOGE)
+Eos (EOS)
+Ethereum + DEX (ETH)
+Fantom (FTM)
+Litecoin (LTC)
+Polkadot (DOT)
+Polygon (MATIC)
+Ripple (XRP)
+Solana (SOL)
+Stellar (XLM)
+Terra Classic (LUNA)
+Tron (TRX)
+Zcash (ZEC)
+200+ more Altcoins
+Legacy Imports
+bitcoin24
+BitMarket
+BTC-E
+Bter
+BX Thailand
+CampBX
+Cobinhood
+CoinedUP
+Coins-E
+CryptoBridge
+Cryptopia
+Cryptsy
+MintPal
+Mt.GOX
+NovaExchange
+Quadriga CX
+TradeSatoshi
+Vircurex
+WEX
+Zyado
+Bulk Imports
+CSV Import
+Excel Import
+Custom Exchange Import
+Custom Prices & NFT's
+API Live Data Check
+Charts & Trends
+Coin Trends
+Coin Charts
+Coin Price Calculator
+User Statistics
+Bitcoin Analysis
+Tax Report
+Tax Report
+Tax Information
+Full-Service
+Login / Register
+Support
+Contact & FAQ
+Documentation
+CoinTracking Blog
+CoinTracking Newsletter
+New Features
+Language: English
+Deutsch
+English
+Español
+Français
+Italiano
+Polski
+Português
+Pусский
+Shqipe
+Türkçe
+tiếng Việt
+Català
+한국어 70%
+中文 55%
+Theme: Light
+Light
+Dimmed
+Dark
+Black
+Desktop Version
+Support
+Contact & FAQ
+Full-Service
+Documentation
+Blog
+Newsletter
+New Features
+Light
+Dimmed
+Dark
+Black
+Classic
+Theme note (?)
+	              
+Change your CoinTracking theme:
+	              - Light: Original CoinTracking theme
+	              - Dimmed: Dimmed theme with reduced brightness
+	              - Dark: Dark theme with blue accents
+                  - Black: Simply black
+	              - Classic: Harder font without anti-aliasing, smaller margins, boxes with borders
+	              Please change back to Light, if you have problems with the other themes.	              
+English
+Deutsch
+Español
+Français
+Italiano
+Polski
+Português
+Pусский
+Shqipe
+Türkçe
+tiếng Việt
+Català
+한국어 70%
+中文 55%
+Language note (?)
+								
+																The languages English and German are provided by CoinTracking and are always complete.
+								All other languages were translated by users.
+								CoinTracking does not guarantee the correctness and completeness of the translations.
+																
+ 
+Dashboard
+Reporting
+TRADES:
+Trade Statistics
+Trade List
+Trade Prices
+Trading Fees
+Number of Trades
+Double-Entry List
+BALANCE:
+Current Balance
+Daily Balance
+Balance by Exchange
+Balance by Currency
+Coins by Exchange
+NFT Center
+GAINS (Expert):
+Realized & Unrealized Gains
+Tax-privileged Coins (Short & Long)
+Roll Forward / Audit Report
+Trade Analysis
+Average Purchase Prices
+CHECKS:
+Missing Transactions
+Duplicate Transactions
+Validate Transactions
+Transaction Flow Report
+EASY TRACKING:
+Easy Enter Statistics
+Enter Coins
+Manual Entry
+Exchange Imports (CSV)
+Abra
+Acx
+AscendEX
+Binance
+Binance US
+Bison
+Bitcoin.de
+Bitcoin Suisse
+Bitfinex
+Bithumb Glo.
+Bitpanda
+Bitpanda Pro
+Bitrue
+Bitstamp
+Bittrex
+BlockFi
+BSDEX
+BTC Markets
+BTCPay
+Bybit
+BYDFi
+Cake Defi
+Celsius
+CEX
+Changelly
+Circle
+Coinbase
+Coinbase Pro
+CoinEx
+Coinmate
+Coinmerce
+Coinmetro
+Coss
+Crex24
+Criptan
+Crypto.com
+Deribit
+DFX.swiss
+Digital Surge
+Gate.io
+Gemini
+Haru
+HitBTC
+Hodlnaut
+Hotbit
+Iconomi
+Idex
+Kraken
+Kraken Futures
+KuCoin
+KuCoin Futures
+Localbitcoins
+Luxor
+Mercatox
+MEXC
+Nexo
+NFTBank
+Northcrypto
+OKCoin
+OKX
+Phemex
+Pocket Bitcoin
+Poloniex
+Relai
+Sorare Tools
+STEX
+SwissBorg
+Swyftx
+Tradeogre
+Uphold
+Voyager
+Yield App
+Zerion
+Exchange Imports (API)
+Bibox
+Binance
+Binance US
+Bitcoin.de
+Bitfinex
+Bithumb
+BitMEX
+Bitpanda
+Bitpanda Pro
+Bitstamp
+Bittrex
+Bitso
+Bitvavo
+Bleutrade
+BTC Markets
+Bybit
+Celsius
+CEX
+Coinbase
+Coinbase Pro
+CoinNexus
+CoinSpot
+Crex24
+Crypto.com
+Deribit
+DFX.swiss
+FTX
+Gate.io
+Gemini
+HitBTC
+Huobi
+Indep. Reserve
+Indodax
+Idex
+itBit
+Kraken
+Kraken Futures
+KuCoin
+KuCoin Futures
+Liquid
+Livecoin
+Luno
+MEXC
+OKX
+Poloniex
+STEX
+Swyftx
+The Rock Trading
+Tidex
+Whaleclub
+Yobit
+API CHECK:
+API Live Data Check
+Wallet Imports
+BitBox
+Bitcoin Core Client
+Blockchain.com
+Electrum
+Exodus
+GateHub
+Ledger Live
+Mycelium
+Trezor
+Blockchain Imports
+Avalanche (AVAX)
+Bitcoin (BTC)
+Bitcoin Cash (BCH)
+Bitcoin SV (BSV)
+Binance Chain (BNB)
+Binance Smart Chain (BSC)
+Cardano (ADA)
+Dash (DASH)
+Dogecoin (DOGE)
+Eos (EOS)
+Ethereum + DEX (ETH)
+Fantom (FTM)
+Litecoin (LTC)
+Polkadot (DOT)
+Polygon (MATIC)
+Ripple (XRP)
+Solana (SOL)
+Stellar (XLM)
+Terra Classic (LUNA)
+Tron (TRX)
+Zcash (ZEC)
+200+ more Altcoins
+Legacy Imports
+bitcoin24
+BitMarket
+BTC-E
+Bter
+BX Thailand
+CampBX
+Cobinhood
+CoinedUP
+Coins-E
+CryptoBridge
+Cryptopia
+Cryptsy
+MintPal
+Mt.GOX
+NovaExchange
+QuadrigaCX
+TradeSatoshi
+Vircurex
+WEX
+Zyado
+Bulk Imports
+CSV Import
+Excel Import
+Custom Exchange Import
+Custom Prices & NFT's
+Charts & Trends
+Coin Trends
+Coin Charts
+Coin Price Calculator
+User Statistics
+Market Analysis
+Tax Report
+Tax Report
+Tax Information
+Full-Service
+Login / Register
+The Leader for Cryptocurrency Tracking and Tax Reporting
+CoinTracking analyzes your trades and generates real-time reports on profit and loss, the value of your coins, realized and unrealized gains, reports for taxes and much more. With the prices for 24,196 coins and assets, you’ll always have a complete overview.
+1,339,000 Active Users
+25,000 CPAs & Corporate Clients
+14 Years of Historical Data
+Coin Trends for 24,196 Coins
+$41.5B Total Value of all Portfolios
+          CoinTracking Live Demo
+        
+Login
+Username
+Password
+forgot?
+or
+Sign Up For Free
+            Join 1,339,000 registered users, since April 2013          
+Sign Up
+Username*
+Password*
+Email
+An Email is not required, but strongly recommended so we can provide support, recover lost passwords, and keep in touch.
+or
+Log-in instead
+            Join 1,339,000 registered users, since April 2013          
+Login
+Username
+Password
+forgot?
+or
+Sign Up For Free
+            Join 1,339,000 registered users, since April 2013          
+Sign Up
+Username*
+Password*
+Email
+An Email is not required, but strongly recommended so we can provide support, recover lost passwords, and keep in touch.
+or
+Log-in instead
+            Join  1,339,000  registered users, since April 2013          
+Personal Analysis
+25 customizable crypto reports
+Interactive charts for trades and coins
+Profit / loss & Audit reports
+Realized and unrealized gains
+Trade Imports
+Easy import from 110+ exchanges
+Automatic import via APIs
+Direct sync with the blockchain
+Export in Excel, PDF, CSV, XML & JSON
+Tax Declaration
+Tax reports for 100+ countries
+Capital Gains, Income, Mining, etc.
+13 Tax methods (FIFO, LIFO, AVCO...)
+Tax export for CPAs and the tax office
+Coin Charts & Trends
+Chart history for all 24,196 coins
+Always the latest prices for all coins
+Top Coins by trades and by volume
+Coin trends, statistics and analysis
+Professional Help
+Crypto tax laws for 100+ countries
+Share your data with crypto tax advisors
+Tax reviews by the Full-Service team
+Detailed tutorials, video guides and FAQ
+Security & Encryption
+Data and API encryption
+2-factor authentication
+Create and restore trade backups
+No access to your exchanges required
+Personal Analysis
+25 customizable crypto reports
+Interactive charts for trades and coins
+Profit / loss & Audit reports
+Realized and unrealized gains
+Trade Imports
+Easy import from 110+ exchanges
+Automatic import via APIs
+Direct sync with the blockchain
+Export in Excel, PDF, CSV, XML & JSON
+Tax Declaration
+Tax reports for 100+ countries
+Capital Gains, Income, Mining, etc.
+13 Tax methods (FIFO, LIFO, AVCO...)
+Tax export for CPAs and the tax office
+Coin Charts & Trends
+Chart history for all 24,196 coins
+Always the latest prices for all coins
+Top Coins by trades and by volume
+Coin trends, statistics and analysis
+Professional Help
+Crypto tax laws for 100+ countries
+Share your data with crypto tax advisors
+Tax reviews by the Full-Service team
+Detailed tutorials, video guides and FAQ
+Security & Encryption
+Data and API encryption
+2-factor authentication
+Create and restore trade backups
+No access to your exchanges required
+For Crypto Traders
+Read more
+For Crypto Companies
+Read more
+          Introducing CoinTracking        
+        Whether you just started investing in digital currencies or are already trading like a pro, CoinTracking can track all your transactions in real-time.        
+Play Video
+          How-To Videos        
+        New to CoinTracking? Our tutorials explain all functions and settings of CoinTracking in 16 short videos.        
+Play Video
+×
+Direct Imports From
+Wallet Imports From
+With Legacy Support For Closed Exchanges
+What People Are Saying...
+CoinTracking is a comprehensive feature rich finance, tax, accounting and strategic planning crypto dashboard.
+          
+Kirk Phillips
+CPA, CMA, CFE, CBP, DCC & Author of "The Ultimate Bitcoin Business Guide"
+CoinTracking has the most features and the most tools. They support pretty much everything.
+          
+Curt Mastio
+CPA
+          I have tried over 20 different crypto tax softwares, and CoinTracking is the best by far.
+          
+Laura Walter
+CPA
+          We regularly recommend CoinTracking.info as we've found it to be the best on market for crypto bookkeeping.
+          
+Drew Pflaum
+CPA
+          We have tried all the crypto tax software in the market. CoinTracking is the one with most features and best tools for generating correct crypto tax reports. That's why we have a dedicated team providing reconciliation and tax expert reviews solely for CoinTracking users.
+          
+Sharon Yip
+CPA, MST, MBA, Founder at Crypto Tax Advisors, LLC
+          No more Excel sheets, no more headache. CoinTracking is the best analysis software and tax tool for Bitcoins.          
+Izabela S. Demacker
+Attorney
+          We want only the best for our customers. Being partners with CoinTracking.info helps us to provide better services and products for our users, and we think that CoinTracking is a must for any Bitcoin trader!
+          
+Davide Barbieri 
+Founder and CTO at The Rock Trading Ltd
+CoinTracking is an excellent tool to determine the profits and losses from Bitcoin and Altcoin trades and to prepare them for tax purposes. In particular the automatic import of the trades from the exchanges and the automatic conversion of the prices provide a great assistance.          
+Holger Hahn
+Tax Consultant
+More CoinTracking quotes
+            If you don't want to keep your own log, use CoinTracking.info
+            
+Forbes.com
+CoinTracking is a popular platform for tracking, logging, and reporting cryptocurrency of all kinds.
+            
+Nasdaq.com
+CoinTracking is an active participant in the Bitcoin community and quick to support its customers on online forums...
+            
+Bitcoin.com
+CoinTracking.info will help you figure out your transaction history, how much you owe and how to fill out the Schedule D (1040) form for reporting capital gains or losses.
+            
+cnn.com
+CoinTracking supports eight different methods for calculating tax liabilities and says these customizable reports can comply with the standards of 'almost every country in the world', enabling users to save time and money while staying on the right side of the law. 
+            
+cointelegraph.com
+            The CoinTracking application was launched in 2013 and is one of the leading crypto tax apps for solving any tax issues/queries.
+            
+cryptocurrencynews.com
+CoinTracking is the epitome of convenience. No other Bitcoin service will save as much time and money.
+            
+            Andrew Phelps
+            
+            CEO of Bitcoin Daily
+            
+            This transaction report goes on Form 8949 of your tax return, which then becomes part of Schedule D. Cross recommends that investors use one of the cryptocurrency software services that help people calculate their losses and gains, such as CoinTracking.info.
+            
+CNBC.com
+            With the calculations done by CoinTracking, the tax consultants save time, which means, you save money.
+            
+btcmanager.com
+CoinTracking is great either for casual traders that only want to keep track of a couple of movements every month or for established traders.
+            
+BitcoinTradingSites.net
+CoinTracking is a unified one-stop solution which can provide excellent tracking features across multiple platforms and multiple currencies. Excellent features and great integration with popular digital coins and exchange platforms, this can definitely be a powerful tool that users can take advantage of in better planning and managing their digital currency portfolio.
+            
+BitcoinExchangeGuide.com
+            The sheer amount of offered features is simply staggering, ranging from a multitude of supported crypto exchanges up to keeping the historical charts of variable values of virtual coins over the years. All in all, we were very pleasantly surprised by the CoinTracking platform and we can’t wait to see where it all goes from here and what new features they will implement in the future.
+            
+VirtualBanking.com
+            Rating: 9.6/10
+            
+            A favorite among traders, CoinTracking.info is by far the most advanced platform with a very robust set of features that you just don't find on most of the other sites and apps. You can import from tons of exchanges through .CSV as well as API and they even let you import from popular wallets like Exodus, Electrum, and Blockchain.info.
+If you are looking for the complete package, CoinTracking.info is it.
+            
+cryptostache.com
+CoinTracking offers investors of digital currencies a useful portfolio monitoring tool. The tool analyzes the price history of over 4,000 crypto currencies, your own trades, profits and losses from the trades as well as current balances. Furthermore, CoinTracking provides a time-saving and useful service that creates a tax report for the traded crypto currencies, assets and tokens.
+            
+the-blockchain.com
+            The name CoinTracking does exactly what it says. With a wide range of supported cryptocurrencies – including bitcoin, Ethereum, Ripple, and thousands of others – filling in those tax forms becomes very straightforward.
+            
+TheMerkle.com
+CoinTracking is one of the bitcoin community’s most popular trade tracking and tax reporting platforms. It’s straightforward to use and supports all coins and all exchanges.
+            
+PlayersMoney.com
+    All CoinTracking processes, reports and encryption methods are ISO/IEC 27001 certified.
+Show certificate
+ 
+ 
+COINTRACKING
+Main Page
+Reports & Services
+About & Team
+RESOURCES
+Pricing
+Press Images
+News Blog
+LEGAL
+Terms of Service
+Privacy Policy
+Imprint
+MOBILE
+Mobile App
+Mobile View: auto / on / off
+SUPPORT
+Contact & FAQ
+Tax Help
+API
+SOCIAL
+Twitter
+YouTube
+Discord
+Made with ❤ in Munich · Copyright © 2012-2023, CoinTracking
+ 

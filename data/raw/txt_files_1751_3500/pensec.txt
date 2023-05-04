@@ -1,0 +1,93 @@
+pen.sec | PenTest | Red Team
+ 
+HomeSeminareÜber uns
+Sicher ist,
+dass nichts sicher ist
+ 
+selbst das nicht
+ 
+spezialisiert auf professionelle
+ 
+ 
+Sicherheitstests & Angriffssimulationen
+ 
+ 
+sichern wir
+ 
+Digitale Infrastrukturen, Anwendungen und Produkte
+ 
+ 
+PenTesting
+RedTeaming
+Schwachstellenmanagement
+Incident Response
+Computer Forensics
+Security SHIELD
+Seminare & Awareness
+ 
+- und wir lieben, was wir tun.
+ 
+ 
+NEWS
+2023 - Mai
+Am Freitag, den 12.05.2023 organisieren wir als Veranstaltung des Cyber-Sicherheitsnetzwerks Südlicher Oberrhein (Lahr/Schwarzwald) in Kooperation mit der IHK Südlicher Oberrhein einen Phishing-Workshop:
+Termin:
+Freitag, 12. Mai 2023 von 09:00 bis 12:30
+Inhalt:
+Einführung in das Thema PHISHING
+technische Schutzmaßnahmen
+praktische Übungen, bei denen die Teilnehmer unter Anleitung selbst professionelle Phishing-Mails erstellen, mittels derer sie die im eigenen Unternehmen eingesetzten technischen Schutzmaßnahmen (DNS-Konfiguration, Phishing-Filter, ...) testen können.
+Mehrwert:
+Die Teilnehmer lernen Phishing-Mails zu erstellen, um technisch fundiert die von diesen ausgehende Gefahr für das eigene Unternehmen, aber insbesondere mögliche technische Schutzmaßnahmen kennen, anwenden und überprüfen zu lernen.
+Vorkenntnisse:
+keine
+Kosten:
+keine
+Veranstaltungsort:
+online
+Die Teilnehmerzahl ist auf 10 Teilnehmer begrenzt.
+Teilnahme nur für Unternehmen und Organisationen - eine Teilnahme von Privatpersonen ist leider nicht möglich. Teilnehmer des Cyber-Sicherheitsnetzwerks Südlicher Oberrhein werden bevorzugt berücksichtigt. 
+Anmeldungen formlos an: nico.faller@freiburg.ihk.de oder seminare@pen-sec.de
+ 
+ 
+WAS UNS AUSMACHT
+ 
+ERFAHRUNG
+Seit unserer Gründung im Jahr 2020 konnten wir bis heute über 100 PenTest-Projekte von unterschiedlicher Ausrichtung, bei kleinen wie großen Unternehmen und Organisationen erfolgreich abschließen - und in fast allen Fällen, konnten auf Basis der Testergebnisse kritische Sicherheitslücken geschlossen werden.
+SPEZIALISIERUNG
+Unsere PenTester sind Profis, die Ihr Handwerk beherrschen und die sich jeden Tag vollkommen auf ihre komplexe Arbeit konzentrieren können.
+PROZESS
+Von anderen Anbietern unterscheiden wir uns vor allem durch unseren ISO 9001 und ISO/IEC 27001 zertifizierten Testprozess. Der gut strukturierte Prozess hilft nicht nur bei der Abstimmung der Prüfleistung auf die spezifischen Ziele und Erfordernisse des Auftraggebers, sondern leitet auch die Tester, ohne diese in ihrer Kreativität einzuschränken, sodass die abgestimmte Testtiefe und Testabdeckung sichergestellt und nachgewiesen werden kann.
+COMPLIANCE
+Aufgrund langjähriger Erfahrung im Bereich der Auditierung von Informationssicherheitssystemen wie ISO/IEC 27001 und KRITIS (§ 8a BSIG) können wir Kunden helfen, mittels regelmäßiger PenTests, gesteuert durch angemessene und einfach strukturierte Testprogramme, Compliance-Anforderungen zu erfüllen und nachzuweisen.
+UNABHÄNGIGKEIT
+Wir sind ein sachverständiger und unparteilicher Prüfdienstleister. Wir verkaufen keine Produkte und befinden uns in keinerlei  sonstigen Abhängigkeiten, welche ein Risiko für unsere Unparteilichkeit darstellen könnten.
+ 
+Haben Sie Fragen? Nehmen Sie Kontakt mit uns auf.
++49 8623 364970 | info@pen-sec.de
+pen.sec AG
+ 
+Pillerfeld 4
+84529 Tittmoning
+ 
+Am Krozinger Weg 11
+78189 Bad Krozingen
+ 
+info@pen-sec.de
+OpenPGP Public Key
+ 
++49 8623 364970
+ 
+ 
+Wir leben zertifizierte Informationssicherheit und Qualität
+ 
+nach ISO/IEC 27001:2013
+Zertifikats-Nr.: 01 153 1500804/04
+ 
+nach ISO 9001:2015
+Zertifikats-Nr.: 01 100 1500804/04
+ 
+ 
+ 
+ 
+© Copyright 2023 • pen.sec AG • Impressum  • Datenschutz

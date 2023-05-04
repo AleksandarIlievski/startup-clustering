@@ -1,0 +1,167 @@
+Feature Extraction from Technical Drawings
+0
+      Skip to Content
+    
+        Solutions
+      
+                  Additive Analysis
+                
+                  CADApprox 2D
+                
+                  Feasibility Analysis
+                
+                  PMI Extraction
+                
+                  Sheet Anonymization
+                
+        Insights
+      
+Case Studies
+Knowledge Base
+                  Service Levels
+                
+System Status
+Documentation
+Partners
+        Media
+      
+                  Blog
+                
+Press
+English
+                  Contact
+                
+Open Menu
+Close Menu
+        Solutions
+      
+                  Additive Analysis
+                
+                  CADApprox 2D
+                
+                  Feasibility Analysis
+                
+                  PMI Extraction
+                
+                  Sheet Anonymization
+                
+        Insights
+      
+Case Studies
+Knowledge Base
+                  Service Levels
+                
+System Status
+Documentation
+Partners
+        Media
+      
+                  Blog
+                
+Press
+English
+                  Contact
+                
+Open Menu
+Close Menu
+Folder:
+Solutions
+Back
+          Additive Analysis
+        
+          CADApprox 2D
+        
+          Feasibility Analysis
+        
+          PMI Extraction
+        
+          Sheet Anonymization
+        
+Folder:
+Insights
+Back
+Case Studies
+Knowledge Base
+          Service Levels
+        
+System Status
+Documentation
+Partners
+Folder:
+Media
+Back
+          Blog
+        
+Press
+English
+Back
+              Contact
+            
+Feature Extraction from Engineering Drawings with AIPowered by AI, Werk24's API reads Engineering Drawings and returns a JSON response with structured information, including Title Blocks (Drawing ID, Designation, Material, General Tolerance), Measures, Tolerances, Thread, Chamfer, GD&T, Radii and Surface Roughness.
+ 
+ 
+    Schedule Demo
+  
+Werk24 is trusted by leading partners & institutions:
+Slide 1
+Slide 1 (current slide)
+Slide 2
+Slide 2 (current slide)
+Slide 3
+Slide 3 (current slide)
+Slide 4
+Slide 4 (current slide)
+ 
+Cloud service through APIsSimply submit your drawings to our API and within seconds get result as JSON format or Excel sheet.This is the faster, easier way to integrate WERK24’s AI capabilities into your work processes or customer-facing products. It also scale flexibly with ever-expanding API features from Werk24.
+    Schedule Demo
+  
+View fullsize
+ WERK24 Products
+ 
+ADDITIVE ANALYSISIdentify parts for Additive ManufacturingUnsure which parts are suitable for Additive Manufacturing? Werk24 automatically assesses the suitability of Drawings with regards to a range of Additive Technologies✅ Extract Outer Dimensions (often a limiting factor)✅ Extract tight tolerances (often require a subsequent milling step or favor CNC) ✅ Prioritize parts based on AM feasibilities of the chosen AM methods✅ Suggest alternative AM methods or extra milling steps↳ Learn More
+  
+FEASIBILITY ANALYSISAutomatically filter in-coming RFQsReceiving RFQs that don’t match your machines?Our AI reads Drawings and checks whether the parts match your manufacturing constraints. ✅ Extract production limiting factors incl., smallest Tolerances, smallest Thread diameter, smallest Radius, smallest GD&T✅ Integrate customized filtering logic✅ Convert a wide range of steel standards to EN10027 material codes and filter against a list of supported material ↳ Learn More
+  
+PMI EXTRACTIONDetect critical factors for production or pricing Your online quoting system requires manual entry of PMI from technical drawings? Werk24 extracts all relevant PMI.✅ Material✅ General Tolerances✅ Tolerances & Fits✅ Threads✅ GD&T↳ Learn More
+ 
+ 
+Technical capabilitiesWerk24's TechRead API utilizes Artificial Intelligence and Computer Vision to extract key information locked in scanned Technical Drawings. Unlike traditional OCR solutions, our technology can understand great amount of contextual information and convert it into structured and searchable digital repositories.
+ 
+Access Title BlockWerk24’s API reads the non-standardized Title Block and translates its content into a structured machine-readable format. Unlike OCR, Werk24’s AI interprets the content even when captions are missing or located in another cell. 
+Extract MeasuresWerk24’s AI extracts Measures and converts them into a standard data structure, allowing direct access to Nominal Size, Tolerance (Fit & Deviation), Thread and Chamfer information. It’s way beyond traditional OCR solutions that only returns unstructured Strings.
+Capture GD&TsOur API captures the full range of Geometric Dimensioning and Toleration (GD&T) frames on drawings and returns them in a standard data model. You can directly access the characteristic, toleration and reference data. 
+Create ThumbnailsSeparating Sectional Views can be challenging, especially when they are positioned very close to one another. TechRead API separates them and generates thumbnails for individual Sectionals, as well as the whole drawing.
+ 
+    Read Documentation
+  
+Why choose us
+First-of-its-kind technologyLeveraging Artificial Intelligence (AI) and Machine Learning (ML) technology, Werk24 provides industry-leading accuracy and intelligent enrichment for data extraction from Technical Drawings. With many advantages over generic OCR, our technology leverages  context information and converts information into structured and CPU accessible JSON formats, which then become ready for your application to use. High accuracy and continuous learningLeveraging context information allows us to achieve high levels of accuracy. And when something is misread, it’s not for long. Our self-learning Artificial Intelligence learns from the processed data and improves its quality constantly.Faster and streamlined processingWith Werk24 your application easily understands Technical Drawings - even when they were drawn 30 years ago and scanned multiple times. We process a wide range of formats (JPEG, JP2, BMP, PNG, TIFF, PDF), and automatically extract, understand and deliver the results within seconds - 24 hours a day.
+Check what’s new with Werk24
+ 
+Featured
+20 Apr 2023
+Advantages of Standardization in Technical Drawings 
+20 Apr 2023
+The artificial intelligence of Werk24 standardizes technical drawings, overcomes language barriers, simplifies surface imperfection, and revolutionizes manufacturing to improve quality.
+20 Apr 2023
+6 Apr 2023
+Werk24 Now Redacts Copyright Information
+6 Apr 2023
+The new feature of Werk24 redacts copyright information from technical drawings in order to accelerate the process of removing all sensitive data.
+6 Apr 2023
+9 Mar 2023
+Werk24 Understands Materials from Technical Drawings
+9 Mar 2023
+Werk24's artificial intelligence-based solution can identify materials written in different languages or standards. We also continuously monitor and improve our system to ensure that we stay current with the latest material standards changes. With Werk24, you can streamline your processes and save time and resources.
+9 Mar 2023
+Process your technical drawings with Werk24, today!
+ 
+    Schedule Demo
+  
+ 
+AddressW24 Service GmbHKnorrstrasse 9180807 München
+For Product OwnersService LevelsKnowledge Base
+For DevelopersDocumentationGithubPyPi / NPMSystem-Status
+About Werk24CareersPrivacy PolicyImprint / Impressum
+Copyright © 2022 W24 Service GmbH. All rights reserved.
+ 

@@ -1,0 +1,223 @@
+SysEleven | Managed Kubernetes
+ 
++49 30 233 2012 0
+ 
+info@syseleven.de
+Linkedin
+ 
+Youtube
+ 
+Github
+ 
+ 
+Products
+MetaKube | Managed Kubernetes
+MetaKube Core
+MetaKube Accelerator
+MetaKube Operator
+SysEleven Private Container Registry
+Kubernetes Workshops
+SysEleven OpenStack Cloud
+Managed Cloud
+Managed Services
+Service Management
+DDoS Protection
+Solutions
+Availability and Performance
+Business Application
+Cloud Transition
+Container Orchestration
+DevOps Automation
+E-Commerce
+Kubernetes
+OpenStack
+Secure IT Operations
+Websites
+Partner
+Become Partner
+Find partner
+About us
+Career
+Application Process
+Career Overview
+Development at SysEleven
+Teams at SysEleven
+Events
+Our data centers
+Press Releases
+Resource Center
+Green Facts
+Support
+ 
+ Menu
+Products
+MetaKube | Managed Kubernetes
+MetaKube Core
+MetaKube Accelerator
+MetaKube Operator
+SysEleven Private Container Registry
+Kubernetes Workshops
+SysEleven OpenStack Cloud
+Managed Cloud
+Managed Services
+Service Management
+DDoS Protection
+Solutions
+Availability and Performance
+Business Application
+Cloud Transition
+Container Orchestration
+DevOps Automation
+E-Commerce
+Kubernetes
+OpenStack
+Secure IT Operations
+Websites
+Partner
+Become Partner
+Find partner
+About us
+Career
+Application Process
+Career Overview
+Development at SysEleven
+Teams at SysEleven
+Events
+Our data centers
+Press Releases
+Resource Center
+Green Facts
+Support
+ 
+MetaKube Trial
+ 
+metakube portfolio leuchtturm// METAKUBEThe Kubernetes solution that suits youWith MetaKube, you can concentrate on your core business. The MetaKube editions adapt to your needs – from a Kubernetes-as-a-Service solution to 24/7/365 Kubernetes operation. 
+Find out morekubernetes workshops// ALL ABOUT KUBERNETES & CONTAINERKubernetes WorkshopsOur experts expand or deepen the know-how of your team - from theoretical to applied. Depending on your knowledge level, we offer you various workshops on the topics of Kubernetes, Docker, Cloud Native & Co.
+Learn more 
+ 
+// Why SysEleven
+Mastering Cloud. Accelerating Business. 
+Your partner for cloud services – Made in Germany!For more than 14 years, we take responsibility and stand for security, reliability, and scalability in the operation of your business-critical applications in Germany. We provide you with secure cloud infrastructure – made in Germany, consulting as well as efficient operating models. 
+01
+ 
+Managed Kubernetes
+Run(s) everywhere. Get all the benefits of Kubernetes on AWS, Azure or the SysEleven OpenStack Cloud.
+ METAKUBE
+02
+ 
+OpenStack Cloud
+Highest flexibility for your cloud projects. Create an entire setup quickly and cost-effectively via the command line.
+ OPENSTACK CLOUD
+03
+ 
+Managed Cloud
+Your suitable server setup: With our 360° approach, we take responsibility for your setup.
+ MANAGED CLOUD
+ 
+ 
+// SysEleven Portfolio
+Everything From One Source 
+You benefit from the integration of the SysEleven service layer!From the network, cloud infrastructure to container orchestration based on Kubernetes and turnkey Cloud Native building blocks, we offer you everything from a single source and thus create a fast “time to value” for you your project. We support you in the cloud-native transition with workshops and tutorials in addition to the platforms and services. 
+More Information
+Award-winning Services 
+ 
+							Readers Choice Award 2022						
+							SysEleven wins Gold in category "Kubernetes"						
+ 
+							Readers Choice Award 2021						
+							SysEleven wins Gold in category "Kubernetes"						
+ 
+							eco:award 2021						
+							SysEleven is nominated in category "Cloud & Hosting"						
+ 
+							BrandEins & Statista 						
+							Have chosen us in the category "Managed Services" as best IT service provider						
+ 
+							CNCF						
+							Certified Kubernetes Service Provider						
+ 
+SysEleven NEO-Method 
+NAVIGATE
+                                    Our experts will navigate you through the ocean of possibilities: Together, we define the requirements for your enterprise solution and how best to implement it. Considering all components. For this purpose we provide you with a team of our consultants, with which you can successfully manage your Cloud Native transformation.                                
+EDUCATE
+                                    Technology alone does not create added value. — getting an edge in know-how does. Our experts expand or deepen your team's know-how — from the theory to the application. By the way: Learning from each other is part of working with us. Our engineers will proactively explain what IT solutions you should use for your next step.                                
+OPERATE
+                                    Our focus is on a smooth and secure operations and optimization of your Web application(s). In the sense of a modern SRE-idea, we reflect on occurring problems and learn from them in order to constantly improve. We offer you 24/7 support, 365 days a year, from our experienced experts. // Data Sovereignty
+                                
+ 
+For a more sovereign Europe: SysEleven is a GAIA-X Member 
+As a day1 member, we actively support the European GAIA-X project. Everyone who uses cloud technology knows that data should be treated securely and responsibly. It is also important to ensure that users do not become dependent on individual cloud providers or the economic or political interests of individual countries. 
+More About GAIA-X
+ 
+ 
+We are a Proud Member of 
+ 
+ Previous
+ Next
+// We are by your side
+Get In Touch With Us 
+ 
+						Call our Experts					
++49 (0)30 233 2012 20 
+ 
+						Send us a Message 					
+sales@syseleven.de 
+30 Days MetaKube Trial - Seeing is believing 
+Managed Kubernetes 
+30 Days Trial
+Demo
+Products 
+ 
+MetaKube | Managed Kubernetes
+ 
+OpenStack Cloud
+ 
+Managed Cloud
+ 
+Managed Services
+Good to know 
+ 
+Events
+ 
+Career
+ 
+Resources
+ 
+Contact
+Legal 
+ 
+GTC / SLA Managed Hosting
+ 
+GTC / SLA OpenStack Cloud
+ 
+GTC / SLA Object Storage
+ 
+GTC / SLA MetaKube Core
+ 
+GTC / SLA MetaKube Accelerator
+ 
+Edit Cookies
+ 
+Imprint
+ 
+Privacy Policy
+ 
+Whistleblowing Portal
+Service Links 
+ 
+Support
+ 
+Customer Dashboard
+ 
+Ticketing System
+ 
+SysEleven Status
+Proud Member of 
+ 
+ 
+© All rights reserved | Copyright 2023 
+SysEleven GmbH | Boxhagener Straße 80 | 10245 Berlin 
+ 
+ 
+X
+ 

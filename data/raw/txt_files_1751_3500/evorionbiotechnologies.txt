@@ -1,0 +1,326 @@
+Functional phenomics to decipher cell-cell interactions | evorion
+CUSTOM DEVELOPMENT
+Functional Phenomics
+Menu   
+Products
+Overview
+CellCity System
+CellCity Kits
+CellCity Software Solutions New
+Custom Development New
+Olympus Partnership
+Research Areas
+Adoptive Cell Therapy
+Oncology
+Infectious Diseases
+About Evorion
+Our Mission
+Team
+Board
+News & Press
+Events
+Career
+Contact
+QUICK INQUIRY
+ 
+ 
+   Products
+Overview
+CellCity System
+CellCity Kits
+CellCity Software Solutions New
+Custom Development New
+Olympus Partnership
+Research Areas
+Adoptive Cell Therapy
+Oncology
+Infectious Diseases
+About Evorion
+Our Mission
+Team
+Board
+News & Press
+Events
+Career
+Contact
+QUICK INQUIRY
+ 
+ 
+Products
+Overview
+CellCity System
+CellCity Kits
+CellCity Software Solutions New
+Custom Development New
+Olympus Partnership
+Research Areas
+Adoptive Cell Therapy
+Oncology
+Infectious Diseases
+About Evorion
+Our Mission
+Team
+Board
+Press
+Events
+Career
+Contact
+QUICK INQUIRY
+–
+–
+MENU
+QUICK INQUIRY
+ 
+evorion CellCity
+Functional Phenomics
+to decipher
+cell-cell interactions
+Our CellCity System allows you to array and track thousands of cells as they interact with each other and respond to their shared surrounding environment.
+TELL ME MORE
+DOWNLOAD BROCHURE
+a cellular universe withinthousands of gel beads
+Cellular communication matters in vivo.So why shouldn’t it in vitro?
+Quantifying biological parameters in a population of cells obscures critical insights into how neighboring cells in a microenvironment influence function, particularly in heterogeneous samples. You can reveal these obscured interactions by performing single-cell measurements on a massively parallel platform.
+CellCity is a unique microfluidics concept, which was developed for the analysis of live cells. It documents the actions of thousands of cells and cell pairs in a defined arrangement and environment at single-cell resolution. It allows you to control cell proximity in order to elucidate cell-cell interactions and track phenotype changes over time and space. Explore new frontiers in cell-based biomedical research. That is the transformative power of CellCity.
+CELL INTERACTION ANALYSIS
+Co-position cells to study hundreds of interactions simultaneously.
+ 
+FUNCTIONAL PHENOMICS
+Link changing functional phenotypes to underlying genotypes.
+ 
+IN-DEPTH POPULATION STUDIES
+Reveal how cells function in a physiologically accurate context.
+E
+About Functional Phenomics
+This unique workflow links a single cell‘s functional phenotype with multi-omics data thereby developing knowledge for new breakthroughs in cell therapy development.
+Current single-cell multi-omics technologies fail to directly link a single cell’s multi-omics data to changes in its functional phenotype over time. This is where our innovative workflow excels. We enable to simultaneously analyze multiple phenotypes (cellular functions, intracellular protein expression, surface and secreted protein profiles), the cellular interactions of thousands of cells in highly parallelized manner and to link those insights directly to each cell’s underlying genetic and transcriptional makeup by retrieving specific cells of your interest from our CellCity Array Chip.
+CELL RETRIEVAL
+One Platform. Endless
+Applications.
+Cell-Cell Interactions
+ 
+Study cellular communication at single-cell resolution, e.g. during EMT in cancer metastasis.
+WATCH DEMO
+Cell Killing
+ 
+Discover and explore serial killing events of individual CAR-T cells.
+WATCH DEMO
+Cell Division
+ 
+Use cell division as a functional readout to reveal the role of cell proliferation in disease.
+WATCH DEMO
+PHAGOCYTOSIS
+ 
+Visualize at single-cell resolution how, e.g. a macrophage phagocytoses a cancer cell.
+WATCH DEMO
+WorkFlow
+Simple workflow. Easy setup. Powerful research tool.
+VIEW ME
+Step 1
+ 
+Cell encapsulation:
+Encapsulate individual, pairs, or groups of cells in a gel bead which acts as a protective and diffusible microenvironment. Work with a range of cell sizes, from prokaryotes to eukaryotes.
+Step 2
+ 
+Gel bead trapping:
+Immobilize up to 2000 cell-laden gel beads in microfluidic traps on the CellCity Array Chip in order to form an array in which each gel bead is uniquely identified by its precisely defined position.
+Step 3
+ 
+Cell CULTURE:
+Culture cells under tightly controlled conditions with the optional ability to stimulate cells. Monitor cell behaviour and function using time-lapse microscopy.
+Step 4
+ 
+Cell ANALYSIS:
+Couple endpoint measurements with time-lapse data, while simultaneously capturing the responses of single cells in multiparametic analysis, such as time-lapse fluorescent imaging and immunohistochemistry.
+Step 5
+ 
+CELL RETRIEVAL:
+Easily retrieve the gel beads in which the cells are contained for subsequent downstream analysis or cell expansion. 
+VIEW ME
+The workflow of CellCity is akin to the busy streets of any big city around the world, where we all meet, interact, observe, and change with the influence of the people we meet, the experiences we share, and the impacts we have on each other.
+If you want to build your own cell city,Take a look at the custom workflow services we provide
+CUSTOM DEVELOPMENT
+thesetup
+The Software – The Brain – The Incubator – The Array Chip
+Precision engineering makes CellCity a powerful analysis tool enabling functional phenomics, but its smart design is what makes it a seamless experience for the user. With its plug-and-play format, carefully planned components, and easy portability, the entire system can easily plug right into any inverted imaging system, lab setup, or study routine.
+◉CELLCITY SOFTWARE SOLUTIONS
+User-friendly, proprietary PC-software communicates with the CellCity Control Unit to regulate and perform all essential workflow steps. Also, it helps researchers to minimize experimental steps and accelerate analyses in real-time.
+Built-in performance-checks ensure reliable and accurate assay outcomes
+Accelerates and simplifies workflows e.g. with cell counting and gel bead analysis tools
+Artificial intelligence (AI)-based position selection tool: CellCity Scout-AI, automatically select hundreds of positions of interest on the CellCity Array Chip for time-lapse imaging
+◉THE INCUBATORON YOUR INVERTED IMAGING SYSTEM
+The CellCity Incubator holds the CellCity Array Chip and maintains the relevant experimental conditions for long-term, live-cell analysis.
+A complete, miniature incubator (37°C, 5% CO₂). No need for any other chamber.
+Designed in a microtiter plate format to fit on your inverted microscope setup.
+Controlled and optimized heating to work with low volumes and temperature sensitive samples
+The CellCity Incubator can be easily moved to a cell culture hood for uninterrupted sterile conditions and handling
+◉THE CHIP
+The CellCity Array Chip is a high-precision microfluidic device that places single, pairs and groups of cells into an array of gel beads for sterile culture and analysis. No microfluidics experience required
+Cell-laden gel beads are captured in the 425 microfluidic double-traps of 4 microfluidic channels to analyze up to 3400 gel beads at a time
+Accommodates different cell types and cell lines, in particular primary cells (e.g. HUVEC, breast cancer cells, brain tumors, CAR-T cells, macrophages, leukemia cells and even bacteria)
+Includes a high-resolution temperature sensor integrated at the cell culture site exactly where the correct temperature is needed
+Augments insights with endpoint data by making it easy to stain cells (e.g., immunostaining, surface staining) after time-lapse (fluorescent) imaging
+◉THE BRAINCONTROL UNIT
+The CellCity Control Unit automates all workflow steps essential for reliable cell culture and analysis and executes the experimental design through integrated control software.
+Powerful and fast, traps thousands of cell-laden gel beads on a CellCity Array Chip within a few minutes
+Light-weight, easily portable and designed for a quick plug-and-play setup
+Brings microfluidic cell culture to any lab (intuitive user experience, automated flow control and priming, bubble-free operation)
+Precision engineering delivers uniform perfusion to ensure homogeneous culture conditions
+PRODUCTS & SERVICES
+your advantages
+More insights from every cell enabled by functional phenomics
+FunctionsFinancialFor Research Groups
+CO-POSITION TWO CELLS
+Easily enclose two cells in one bead to monitor communication & regulation
+PRESERVE THE 3D SPACE AROUND CELLS
+Easily control & maintain their chemical & cellular microenvironment
+CONTROL YOUR EXPERIMENT
+Quickly set, adjust, and change conditions to examine how cells respond
+LINK A CELL’S GENES & FUNCTION
+Track reporter genes and other modifications of single cells upon response to stimuli
+USE YOUR EXISTING PROTOCOLS
+No need to start from scratch. CellCity works with your current bioassays & imaging setup
+GAIN COMPLEX INSIGHTS FAST
+1 chip, 4 channels, 2000 beads. Generate large, meaningful datasets in each run
+SEE PHENOTYPIC HETEROGENEITY IN POPULATIONS
+Show phenotypic variation across time & space, and even track monoclonal cells
+YOUR IDEAS. YOUR CELLS. YOUR ASSAY
+Answer questions with rare, eukaryotic, prokaryotic, primary, or other cells
+Conduct reliable live-cell studies
+Gentle processing, uniform perfusion, and stable cultures ensure cell integrity & vitality
+LOW CELL & SAMPLE INPUT
+Impactful insights from as little as a 10 μl sample volume
+NOT ANOTHER EXPENSIVE DEVICE
+Boost the capabilities of your current microscope or confocal setup instead
+USE REAGENTS EFFICIENTLY
+Targeted and uniform perfusion culture saves reagents (200 μl per condition per day)
+REDUCE TIME-INTENSIVE WORK
+A simple, robust, & partly hands-free workflow saves time and avoids reworks
+BOOST YOUR VISIBILITY
+Learn more from every study. Produce data faster. Publish insights sooner
+LESS INPUT, LESS WASTE
+Miniaturized assays result in powerful outcomes with huge power savings
+COMPLETELY STERILE CELL HANDLING
+The self-contained chip makes it easy to prevent contamination, even in shared labs
+FLEXIBLE AND PORTABLE
+Barely bigger than a book, CellCity is portable & easy to plug in wherever you need it
+SIMPLE WORKFLOW FOR ANY USER
+Designed for use in busy labs, anyone can prepare and run experiments with evorion
+ETHICALLY ALIGNED
+Fewer cells required for experiments, making applying the 3Rs easier
+latest publications
+CELLCITY: AN ADVANCED MACRO-TO-MICRO INTERFACE ENABLING MULTIMODAL ANALYSES AT SINGLE-CELL RESOLUTION
+We recently published a paper in Advanced Materials Interfaces to highlight the microfluidic innovations applied in the CellCity System for functional phenomics. The article describes evorion’s technology in detail and outlines how our macro-to-micro interface allows...
+read more
+VESICLE TRAFFIC BETWEEN ENDOTHELIAL AND BREAST CANCER CELLS
+In a recently published study, Prof. Johannes A. Eble at the University of Münster investigated signaling between adjacent endothelial and breast cancer cells that may induce ectopic VE-cadherin expression in tumor cells. Using evorion CellCity, the research team...
+read more
+ 
+About
+We are a highly innovative company with an incredibly talented and motivated team of creative minds. Our goal is to develop and provide tools and services that empower our customers in answering the most relevant biological questions to catalyse research breakthroughs and drive innovation in cell therapy.
+Together with guidance of our advisors and the synergy with our strategic partners, we are determined to spark the next generation of biomedical research.
+MAKE SCIENCE. NOT WAR.
+OUR MISSION
+OUR TEAM
+45 seconds
+to get in touch
+Javascript is disabledJavascript is disabled on your browser. Please enable it in order to use this form.
+Loading
+ 
+    
+You are interested in...*
+CellCity System	
+Custom Development	
+Career	
+Other	
+Career:				
+Become a cell like us!
+Please send your application to career@evorion.de
+In which environment are you working?*
+Pharmaceutical company	
+Biotech company	
+University	
+Press	
+Other	
+Get in touch with me on:*
+Phone				
+E-mail				
+Other				
+Name*
+Your name:
+Phone
+Your number:
+E-mail*
+Your e-mail:
+Other*
+Other:
+Name of organization*
+Your organization
+Do you want to add a short message?*
+Yes	
+No, I am good.	
+Message:*
+ Back
+ Send Inquiry
+ Next
+Success!Thank you.
+Your message was well received and we will get in touch with you soon!
+Server Side ErrorWe faced problems while connecting to the server or receiving data from the server. Please wait for a few seconds and try again.If the problem persists, then check your internet connectivity. If all other sites open fine, then please contact the administrator of this website with the following information.
+TextStatus: undefined
+HTTP Error: undefinedProcessing...
+ErrorSome error has occured.
+CELLCITY BROCHURE
+evorion biotechnologies GmbH
+Mendelstraße 17, 48149 Münster, Germany
+Reach out to your regional contact:
+Follow Us:
+FollowFollow
+Meet Us:
+
+Products
+Our Mission
+Career
+Team
+evorion biotechnologies GmbH
+Mendelstraße 17, 48149 Münster, Germany
+Reach out to your regional contact:
+Follow Us:
+FollowFollow
+Meet Us:
+
+Products
+Our Mission
+Career
+Team
+2015 – 2023 | evorion biotechnologies GmbH
+Terms
+Privacy
+Legal
+For Research Use Only. Not for use in diagnostic procedures.
+ 
+Make Science. Not War.
+It is our conviction that having a positive impact on human lives to create a healthier and better tomorrow can only happen through collaboration built on trust, value and respect. Our team, customers, and partners represent diverse cultures and countries from across the globe.
+Everyone has the right to freedom of choice and to be treated equally. Given the ongoing humanitarian crisis in Europe, we wish to voice our condemnation of all acts of violence, war, conflicts, and discrimination around the world.
+We are united and must stay united.
+			×			
+ 
+ Your Name
+ 
+ Institution
+ 
+ Email
+ 
+Which color has grass? 
+Submit
+			×			
+ 
+ Your Name
+ 
+ Institution
+ 
+ Email
+ 
+Which color has grass? 
+Please leave this field empty.
+Submit
+			×			

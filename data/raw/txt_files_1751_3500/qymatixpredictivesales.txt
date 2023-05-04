@@ -1,0 +1,580 @@
+Predictive Sales Software | Qymatix
+Enter your email AddressBy clicking on 'send', you inform us that have read and accepted our declaration on data protection. 
+ 
+: Support
+SOFTWAREOpen menu
+Predictive Sales
+Integration
+FAQ
+Guide
+WHY QYMATIXOpen menu
+Sales ROI Calculator
+BY INDUSTRY
+Distribution
+Manufacturing
+Services
+ResourcesOpen menu
+Blog
+Whitepapers & E-Books
+Use Cases
+Videos
+Glossary
+CompanyOpen menu
+News
+About Us
+Careers
+Partners
+Networks
+CONTACT
+ENOpen menu
+DE
+ 
+DE
+MAXIMISE CUSTOMER
+LIFETIME VALUE
+With automated Cross-Selling, Churn and Pricing recommendations using Qymatix Predictive Sales Software.
+Take a look at the future of sales
+Great Results
+0%
+Earnings improvement
+0%
+Operational savings
+0%
+Revenue increase
+Qymatix is the winner of the “AI-Champions BW 2021 Award”.
+We are proud to announce that Qymatix Solutions GmbH with its AI-based predictive sales software has been selected as an award winner by the experts of the Ministry of Economics. The “AI-Champions BW 2021” award ceremony took place for the second time in a hybrid event in Stuttgart.
+Read More hereTrusted by
+Predictive Sales Use Cases
+Find the products with the highest purchase probability per customer.
+Find the optimal final price for any given customer.
+Retain customers before you lose them.Qymatix Predictive Sales Software – Your Benefits:
+Turn-Key AI Solution
+A quick and comprehensive look into your customers’ future with concrete recommendations for action.
+Fastest Time-to-Value
+Risk-free and fast implementation of AI-based Predictive Sales Software. No long projects.
+Price-performance
+Using our standardized Software you reach the lowest total cost of ownership.
+Contact us.From our Predictive Analytics Blog
+Why is predictive sales analytics a “must-have” to increase sales productivity in Business-to-Business?
+ 
+Predictive Sales Analytics is a Game-Changer in B2B. Read why.
+Read More now. 
+AI Washing: AI or not AI, That is the Question
+  What is AI Washing? How bad is it? How can you prove it, and what can companies do about it? “AI Washing” is a company’s marketing effort to advertise… Continue reading AI Washing: AI or not AI, That is the Question
+Qymatix Academy celebrates its Relaunch
+  Learn online everything about AI in sales and the successful use of predictive sales analytics at the Qymatix Academy. Save 50 % on all courses with the code SELLSMART!… Continue reading Qymatix Academy celebrates its Relaunch
+Five Mistakes Sales Managers Make when Dealing with AI and How to Fix them
+  Artificial intelligence in B2B sales and how to use it properly. AI technologies are all the rage in sales and chances are you’re considering them for your own organisation.… Continue reading Five Mistakes Sales Managers Make when Dealing with AI and How to Fix them
+3 Simple Ways B2B Sales Can Use ChatGPT – Examples
+  As a B2B sales manager, you understand the pressure of competing against e-commerce giants. In the current digital age, the success of your business largely depends on your ability… Continue reading 3 Simple Ways B2B Sales Can Use ChatGPT – Examples
+Build a Price Corridor using B2B Pricing Analytics – Example
+  Pricing Analytics in B2B: The Price Corridor. Pricing policy decisions are of enormous importance for companies due to their straight impact on profits. However, the targeted and systematic design… Continue reading Build a Price Corridor using B2B Pricing Analytics – Example
+How to Successfully Automate Forecasting Processes in B2B Sales Controlling?
+  Properly applied, forecasts in sales controlling are essential for B2B companies. Nevertheless, they often fail. This article discusses why they fail and how you can use predictions successfully. Next… Continue reading How to Successfully Automate Forecasting Processes in B2B Sales Controlling?
+Implementation of AI: Obstacles and Recommendations
+  Studies paint a picture of how things are going with the implementation of AI in companies. Obstacles are often a need for more human resources and a lack of… Continue reading Implementation of AI: Obstacles and Recommendations
+Sales reporting: Measure the right KPIs and report them on a regular basis
+Regular sales reporting is an important tool for sales planning, controlling and monitoring. In this regard, it is essential to reduce the effort of sales reporting to a minimum, while… Continue reading Sales reporting: Measure the right KPIs and report them on a regular basis
+B2B Wholesale & Distribution: Challenges and Triumphs of Industrial Wholesale Companies Facing Insolvency in Germany
+  Insolvency? A debtor that cannot pay its debts and liabilities to creditors. No cash, no business. In Germany, specialist wholesalers and industrial distributors who can no longer meet their… Continue reading B2B Wholesale & Distribution: Challenges and Triumphs of Industrial Wholesale Companies Facing Insolvency in Germany
+Why AI-based Sales Forecasting is Important in B2B and Still Fails
+  Do you want to realize your potential in B2B sales and be more successful than the competition? Accurate AI-based sales forecasting is an insider’s tip – right? To help… Continue reading Why AI-based Sales Forecasting is Important in B2B and Still Fails
+Artificial Intelligence vs Business Intelligence – What is really self-service business analytics?
+The difference between Business Intelligence (BI) and Self-Service BI and why Qymatix Predcitive Sales Software is not a traditional Self-Service BI solution. 2018 said Carlie J. Idoine, Research Director at… Continue reading Artificial Intelligence vs Business Intelligence – What is really self-service business analytics?
+Why Artificial Intelligence Needs an Ethical Basis | Part 2
+  Artificial Intelligence and Ethics Part 2 of 2: an in-depth plea for an ethical basis in the field of AI by our Qymatix guest author David Wolf. If you… Continue reading Why Artificial Intelligence Needs an Ethical Basis | Part 2
+AI and Ethics: Why Artificial Intelligence Needs an Ethical Basis | Part 1
+  Artificial Intelligence and Ethics Part 1 of 2: a very well-researched and in-depth article by our Qymatix guest author David Wolf. Whether in production, marketing, sales or logistics –… Continue reading AI and Ethics: Why Artificial Intelligence Needs an Ethical Basis | Part 1
+Classifying Customers in B2B Sales: ABC Analysis and Then?
+  Joachim Meyn has many years of experience in B2B sales and customer management. In this article, he shares his expertise on “modern customer classification”. Classifying customers and potential customers… Continue reading Classifying Customers in B2B Sales: ABC Analysis and Then?
+Three B2B Sales and Marketing Must-Have Software Tools for an Optimal Sales Funnel
+  Navigating the technology jungle: Three B2B sales & marketing must-have software tools for a secure future. There is a reason for the term “technology jungle”. As a B2B company,… Continue reading Three B2B Sales and Marketing Must-Have Software Tools for an Optimal Sales Funnel
+Artificial Intelligence in SAP R3, ECC and HANA
+  The differences between SAP R3 and S4 HANA – and how SAP automates pricing. Artificial intelligence (AI) is a rapidly developing field that has the potential to revolutionise B2B… Continue reading Artificial Intelligence in SAP R3, ECC and HANA
+KPI Examples: The Key Performance Indicators that every B2B sales manager should use.
+  From lagging and leading Sales KPI to Predictive Analytics. Measure what your sales team is doing to be successful. Why are sales KPIs so important in B2B? Sales leaders… Continue reading KPI Examples: The Key Performance Indicators that every B2B sales manager should use.
+Five Strategies for Raising Prices in Wholesale
+Price increases are a big topic right now. In this article, you will learn about five wholesale price increase strategies. Wholesale is also affected by global crises such as the… Continue reading Five Strategies for Raising Prices in Wholesale
+The Importance of Recommendation Systems Nowadays
+  How do recommendation systems work and why are they important for B2B companies? In recent years, the rapid use of the internet has made it clear that it is… Continue reading The Importance of Recommendation Systems Nowadays
+Predictive Analytics Blog – The Best of 2022
+  The year is coming to an end, and with that, we present you in this post our five most successful blog articles from 2022. This year, we’ve also earned… Continue reading Predictive Analytics Blog – The Best of 2022
+Artificial intelligence in B2B Sales. New Challenges – New Opportunities.
+  One interesting read about the use of artificial intelligence in B2B sales. Artificial intelligence (AI) is gaining relevance in Business-to-Business (B2B) sales. Research shows that investment in the development… Continue reading Artificial intelligence in B2B Sales. New Challenges – New Opportunities.
+Human and/or machine – Why we are afraid of AI:  The ELIZA effect.
+  Does your robot vacuum cleaner have a name? Have you ever thought that Alexa has a sense of humour or Siri is having a bad day? And if Google… Continue reading Human and/or machine – Why we are afraid of AI:  The ELIZA effect.
+Is Germany too Sceptical for Artificial Intelligence in the Workplace?
+  There is a prejudice that the working world in Germany is mainly fearful and skeptical of a future with artificial intelligence. Is that really a prejudice or a fact?… Continue reading Is Germany too Sceptical for Artificial Intelligence in the Workplace?
+Implement Artificial Intelligence Today with the New Release of the Qymatix Predictive Sales Software
+  Maximise Customer Lifetime Value with automated Cross-Selling, Churn and Pricing recommendations using Qymatix Predictive Sales Software. Karlsruhe, 24.11.2022. Qymatix Solutions GmbH has been helping manufacturers and wholesalers to increase… Continue reading Implement Artificial Intelligence Today with the New Release of the Qymatix Predictive Sales Software
+The Art of Artificial Intelligence in B2B Sales
+AI in B2B sales: How exactly can B2B companies use Artificial Intelligence to support their sales? The applications of artificial intelligence (AI) are very diverse. It is not without reason… Continue reading The Art of Artificial Intelligence in B2B Sales
+How to Win Back Lost Customers in B2B
+  Joachim Meyn has many years of experience in B2B sales and customer management. In this article, he shares his impressions on the topic of “customer recovery”. First of all,… Continue reading How to Win Back Lost Customers in B2B
+Level Up! How AI Upgrades B2B Sales Processes.
+  Perhaps you know the difference between effectiveness and efficiency. But do you take it into account in your daily work in sales? In this article, I show you how… Continue reading Level Up! How AI Upgrades B2B Sales Processes.
+Sales Management with AI: Why Hyperautomation is becoming Inevitable in Sales.
+  By 2025, 75% of B2B organizations will use AI-powered sales solutions for hyperautomation, according to Gartner. Are you on board too? There is keen interest in artificial intelligence (AI)… Continue reading Sales Management with AI: Why Hyperautomation is becoming Inevitable in Sales.
+5 Ways AI and Machine Learning are Revolutionizing Sales
+Artificial intelligence and Machine learning revolutionize B2B Sales & Marketing Machine learning and artificial intelligence (AI) in sales are not dreams of the future. According to Gartner, 30% of all… Continue reading 5 Ways AI and Machine Learning are Revolutionizing Sales
+Where AI already Supports Sales Today
+  Learn seven practical use cases where artificial intelligence is already supporting sales today. More and more companies are using AI to streamline processes in sales and hand over unpleasant… Continue reading Where AI already Supports Sales Today
+Pricing Analysis in Excel: Make A Price Corridor in Three Simple Steps
+This article describes a step-by-step introduction to price corridor analysis with Excel. You will learn the meaning of a price corridor and how to create a price corridor in Excel… Continue reading Pricing Analysis in Excel: Make A Price Corridor in Three Simple Steps
+Define and reduce customer attrition in the subscription industry
+  What is customer attrition in the subscription industry? What is an average churn rate? B2B companies can expect an average annual customer churn rate of around 11%, a recent… Continue reading Define and reduce customer attrition in the subscription industry
+B2B Digital Transformation in Sales: Facts & Trends
+Facts and trends about the B2B digital transformation. If you are leading a Business-to-Business manufacturer or distributor, you know it already: sales is currently experiencing a massive transformation across the… Continue reading B2B Digital Transformation in Sales: Facts & Trends
+Five Mistakes in the Implementation of New Technologies (AI) in Sales
+  Introducing new technologies for B2B sales is not always easy. In this article, you will learn which mistakes you should avoid. Joachim Meyn has many years of experience in… Continue reading Five Mistakes in the Implementation of New Technologies (AI) in Sales
+Why You are Not as Successful as You Think – Cognitive Biases in Everyday B2B Sales.
+  Do you f.e. know the “egocentric bias”? What perception disorders influence your (mis)success in B2B sales? I’m pretty sure you won’t like to hear some of the things in… Continue reading Why You are Not as Successful as You Think – Cognitive Biases in Everyday B2B Sales.
+Current Challenges in B2B Wholesale
+  Between supplier price pressure, supply chain problems and customer anger: Why wholesalers win with value-based customer management. Many wholesalers are currently struggling with sudden increases in purchasing and cost… Continue reading Current Challenges in B2B Wholesale
+Is Dynamic Pricing Optimization in B2B Wholesale Financeable?
+  Wholesale market leaders are investing a lot of resources and expertise in advanced AI technologies for pricing optimization to set their prices dynamically. How can medium-sized wholesale companies also… Continue reading Is Dynamic Pricing Optimization in B2B Wholesale Financeable?
+The History and Downfall of a German Wholesale Company “Wollschläger” – Part 4
+  It continues with the last part of the story and the downfall of the wholesale company “Wollschläger”. What can wholesale companies learn from this? Click here, if you have… Continue reading The History and Downfall of a German Wholesale Company “Wollschläger” – Part 4
+The History and Downfall of a German Wholesale Company “Wollschläger” – Part 3
+It continues with part 3 of the story and the downfall of the wholesale company “Wollschläger”. What can wholesale companies learn from this? Click here, if you have not read… Continue reading The History and Downfall of a German Wholesale Company “Wollschläger” – Part 3
+The History and Downfall of a German Wholesale Company “Wollschläger” – Part 2
+  It continues with part 2 of the story and the downfall of the wholesale company “Wollschläger”. What can wholesale companies learn from this? If you have not read part… Continue reading The History and Downfall of a German Wholesale Company “Wollschläger” – Part 2
+The History and Downfall of a German Wholesale Company “Wollschläger” – Part 1
+What are the lessons learned from the history of one of the largest wholesale companies from Germany that went down? This is part one of the extremely interesting history of… Continue reading The History and Downfall of a German Wholesale Company “Wollschläger” – Part 1
+Establishing Private Labels in the Wholesale sector: This is What Matters
+  The development of a private label can mean additional sales potential for wholesalers. But before this can happen, a few basic considerations are needed to ensure that the private… Continue reading Establishing Private Labels in the Wholesale sector: This is What Matters
+How To Achieve Acceptance of New Technologies in Sales?
+  Joachim Meyn worked in sales for many years and reports here on his experiences and learnings about the introduction and acceptance of new technologies in this area. From the… Continue reading How To Achieve Acceptance of New Technologies in Sales?
+Interesting facts and statistics about B2B wholesale and manufacturing in Europe
+Facts and statistics about B2B wholesale, distribution and manufacturing in Europe & Germany Distribution in Europe is a significant job provider – 10 million employees. It works at the centre… Continue reading Interesting facts and statistics about B2B wholesale and manufacturing in Europe
+Predictive Analytics to Understand Customer Behavior in the B2B Sector
+Predictive analytics is an innovative technology in the B2B sector that calculates data-based predictions about customer behavior. For some B2B companies, predicting customer behavior is like guesswork. Managers sit together… Continue reading Predictive Analytics to Understand Customer Behavior in the B2B Sector
+Humanoid Robots – A Blessing or a Curse?
+  Sophia, the first humanoid robot to get citizenship of a country – now, who’s next? There has recently been a lot of discussions about humanoid robots and if they… Continue reading Humanoid Robots – A Blessing or a Curse?
+Continuity versus Change – The “Rope Effect” in B2B Sales
+  Many talk about a change or even a transformation of business-to-business sales, but some things will remain the same in the future. In this article, I would like to… Continue reading Continuity versus Change – The “Rope Effect” in B2B Sales
+B2B Dynamic Pricing – What Is It and How Can You Implement It In Your Company using Software
+All prices in Business-to-Business are dynamic. Some are just more dynamic than others. Successful companies in B2B tend to adjust their prices based on factors such as production costs, competitor… Continue reading B2B Dynamic Pricing – What Is It and How Can You Implement It In Your Company using Software
+Artificial Intelligence in a Construction Machinery Company
+Artificial intelligence technology can be used in a wide variety of areas. In this article, you will learn how AI was used in a mechanical engineering company. I’ve already written… Continue reading Artificial Intelligence in a Construction Machinery Company
+Predictive Sales Analytics in Excel? Yes, you could!
+How to do predictive analysis in Excel: One Useful Example of Predictive Sales Analytics & Predictive Modeling in Excel One of the critical tasks of a sales manager is to… Continue reading Predictive Sales Analytics in Excel? Yes, you could!
+Four Situations Where you Should Not use Machine Learning
+  Machine learning (ML) is a great technology. But does it really have to be used all the time? This post is about four situations where you shouldn’t use machine… Continue reading Four Situations Where you Should Not use Machine Learning
+Forecasting Individual Customer Lifetime Value: Why You Should Not Use External Data
+There are two types of historical data to use for predictive analytics and sales forecasting: internal and external data. How to know which one to choose? Making a forecast always… Continue reading Forecasting Individual Customer Lifetime Value: Why You Should Not Use External Data
+Applications of Machine Learning in the Real World
+Learn about four real-world applications of machine learning here. When you travel to a new country, have you ever had to translate a word quickly? Or how about when you… Continue reading Applications of Machine Learning in the Real World
+Predictive Sales Forecasting: Answers to 5 Questions of Salespeople
+  Why should we use predictive sales forecasts in sales? This article is aimed at anyone thinking of using AI for more efficient sales planning and sales management. Every Saturday… Continue reading Predictive Sales Forecasting: Answers to 5 Questions of Salespeople
+Artificial intelligence in Retail – What can Wholesale Learn from Retail?
+  How is artificial intelligence (AI) being used in retail and what can wholesalers take away from it? In this post, I will describe a real-world example of a case… Continue reading Artificial intelligence in Retail – What can Wholesale Learn from Retail?
+The Most Important KPIs in Distribution and the Influence of AI
+Key Performance Indicators (KPIs) are also used to manage companies in the retail and wholesale sectors. AI in the form of predictive analytics can establish correlations between individual KPIs and… Continue reading The Most Important KPIs in Distribution and the Influence of AI
+Will Artificial Intelligence be Picasso of Tomorrow?
+Can Artificial Intelligence be creative? The cover picture shows the faces of four people. One person does not exist – artificial intelligence (AI) created it. Can you guess who? Number… Continue reading Will Artificial Intelligence be Picasso of Tomorrow?
+How to use Predictive Analytics in your CRM for Truly Data-Driven Decisions?
+  Successfully implementing Predictive Analytics for data-driven decisions in your CRM requires more than just software. Every successful sales team wants to become data-driven. Companies that successfully execute predictive analytics… Continue reading How to use Predictive Analytics in your CRM for Truly Data-Driven Decisions?
+Better Customer Retention in B2B Wholesale Through Algorithms
+  Learn three ways to increase customer loyalty with algorithms and Predictive Sales Analytics in B2B wholesale. Should computer programs be able to increase customer loyalty in wholesale? Yes. And… Continue reading Better Customer Retention in B2B Wholesale Through Algorithms
+Why a CRM System with Predictive Sales Analytics and AI?
+  CRM and Sales Analytics: In this article, you will learn what you can expect from a CRM system with artificial intelligence. Using CRM systems have long been a common… Continue reading Why a CRM System with Predictive Sales Analytics and AI?
+Your Sales Role Defines your Customer Analysis Needs
+  Tell us what your function is and we will tell you what kind of sales analysis you need. Sales Manager Your role is critical to the success of your… Continue reading Your Sales Role Defines your Customer Analysis Needs
+How to Set More-Realistic Sales Targets using Historical Data
+How to set more-realistic sales targets using historical data and Predictive Analytics. To replace the legendary Jack Welch as CEO, the General Electric (GE) Board had selected Jeffrey Immelt in… Continue reading How to Set More-Realistic Sales Targets using Historical Data
+Correlation does not equal causality – KPIs in Sales
+Watch your step! Sales managers and managing directors in B2B confuse correlation and causality. Data-based decisions in sales are not always ad-hoc better than intuition. The reason for this is… Continue reading Correlation does not equal causality – KPIs in Sales
+Fifteen questions you must be able to answer as a sales manager without hesitating
+  Sales Management in B2B is an ever-evolving discipline. The job has been rapidly changing over the past decade, and there is no stop in sight. New technologies emerge, Millennials… Continue reading Fifteen questions you must be able to answer as a sales manager without hesitating
+The most interesting thing about marketing and sales in B2B
+  What sales was and will be in the future. This article is a personal one. I have written about exciting facts in business-to-business (B2B) sales and marketing. I have… Continue reading The most interesting thing about marketing and sales in B2B
+What artificial intelligence can and can´t do
+  For years, artificial intelligence has fluctuated between the terms “Terminator”, “technology of the future”, or “new superpower”, and “doesn’t work”, “is disappointing”, or “no confidence”. It is not surprising… Continue reading What artificial intelligence can and can´t do
+Cooperation Between Sales and Telemarketing
+  What does optimal cooperation between field sales and telemarketing look like? Is it still possible today? In this article, you will learn about the nine important conditions for telemarketing… Continue reading Cooperation Between Sales and Telemarketing
+Why is internal data considered more reliable and easier to collect than external data?
+Simply explained: Why internal data is better for predictive analytics in B2B. Companies use sales forecast to make business decisions. They also employ them to predict future developments better than… Continue reading Why is internal data considered more reliable and easier to collect than external data?
+AI Data Visualization for Advanced Sales Analytics
+  Understand your sales data and achieve a much higher business success through an intelligent visualization from Qymatix AI. Sales Analytics Visualization “A Picture is Worth a Thousand Words.” That… Continue reading AI Data Visualization for Advanced Sales Analytics
+B2B Sales Manager Salary in Germany – How much are they doing?
+  What does a B2B sales manager actually earn? The sales management profession accounts for one of the best paid in Germany. Sales managers earned an average of € 76.490… Continue reading B2B Sales Manager Salary in Germany – How much are they doing?
+Market Basket Analysis in Excel –  Example for Cross-Selling in B2B
+  One Useful Example of Predictive Sales Analytics Using Excel Cross-selling is the practice of selling an additional product or service to an existing customer. Indeed, B2B companies define cross-selling… Continue reading Market Basket Analysis in Excel –  Example for Cross-Selling in B2B
+What is a Predictive Score Model in B2B Sales? How Can You Create Yours?
+A predictive score model is a formula to calculate a probability. There is a 70% chance that you will read this entire article. How do I know this? Because I… Continue reading What is a Predictive Score Model in B2B Sales? How Can You Create Yours?
+New Partnership between Qymatix Solutions GmbH and ORBIS AG
+  Karlsruhe, 10.02.2022. Qymatix Solutions GmbH cooperates with ORBIS AG. ORBIS supports medium-sized companies as well as international corporations in the digitalization of their business processes. The goal of the… Continue reading New Partnership between Qymatix Solutions GmbH and ORBIS AG
+Five interesting Facts & Statistics About B2B Distribution
+  B2B Sales is changing because buyers are changing – mainly in the way they buy. Companies in B2B distribution are particularly affected by the changes in customer behaviour and… Continue reading Five interesting Facts & Statistics About B2B Distribution
+How Predictive Sales Analytics Works and Why It Matters
+  AI-based programs help your sales team to sell products are services more efficiently. The programs make predictions about your customers’ behaviour: who will churn? Who might pay a different… Continue reading How Predictive Sales Analytics Works and Why It Matters
+Why is Predictive Sales Analytics a “Must-Have” to Increase Sales Productivity in Business-to-Business?
+Predictive Sales Analytics is a Game-Changer in B2B. Productivity in business-to-business (B2B) sales is simply defined as the output rate of a sales team, considering all direct costs and performance.… Continue reading Why is Predictive Sales Analytics a “Must-Have” to Increase Sales Productivity in Business-to-Business?
+How to be successful in sales
+  In this article, you will learn the top seven traits and characteristics to succeed in sales. Let’s jump right into the topic and clear up some prejudices about salespeople.… Continue reading How to be successful in sales
+10 interesting Facts & Statistics About Sales in B2B
+  Sales in Business-to-Business is quickly changing. Sales managers will not disappear, but many are struggling to adapt. Technology is making gains in sales controlling. Buyers have a wealth of… Continue reading 10 interesting Facts & Statistics About Sales in B2B
+Study: Automated, Artificial Intelligence (AI)-based pricing versus Human-based pricing in B2B
+  To further explore the potential of automating the B2B salesperson’s pricing decisions. You’ll learn the results of a field experiment conducted by Yael Karlinsky-Shichor (School of Business at Northeastern)… Continue reading Study: Automated, Artificial Intelligence (AI)-based pricing versus Human-based pricing in B2B
+Predictions by AI – Is Your Job in Danger?
+  Which Jobs Can be Taken Over by Artificial Intelligence? We believe that the skills that mainly revolve around making predictions may be replaceable by machines. Is your job one… Continue reading Predictions by AI – Is Your Job in Danger?
+How To Use Artificial Intelligence for Sales Planning with Qymatix
+  Qymatix Predictive Sales Software is one of the most effective machine learning tools for sales planning. Artificial Intelligence for your business success. Why should you use Qymatix Software for… Continue reading How To Use Artificial Intelligence for Sales Planning with Qymatix
+Are you a sales manager with Big Data? Here are three Predictive Analytics examples for B2B
+With predictive analytics, big data becomes a big opportunity for B2B sales managers. This significant opportunity requires, however, a profound understanding of the sales situation, coupled with an understanding of… Continue reading Are you a sales manager with Big Data? Here are three Predictive Analytics examples for B2B
+Predictive Analytics Blog – The Best of 2021
+  It’s that time again. The year is coming to an end and we know you’re all eagerly awaiting our “Best of 2021” blog articles. Every year we come up… Continue reading Predictive Analytics Blog – The Best of 2021
+How Predictive Sales is Transforming the KPIs You Must Be Measuring
+A straightforward question: is your sales team using the same sales performance KPI they did five years ago? If your answer is yes, you better watch out, you might not… Continue reading How Predictive Sales is Transforming the KPIs You Must Be Measuring
+How to measure sales success correctly
+  That is a topic that is on the table repeatedly in almost every company and every sales organization and often leads to considerable disputes. It is also a topic… Continue reading How to measure sales success correctly
+Predictive Analytics: Questions and Answers
+  This article answers the most asked questions about predictive analytics (PA), according to Google. Predictive analytics is a technology that allows you to look into the future. Especially in… Continue reading Predictive Analytics: Questions and Answers
+Pricing in B2B: will AI replace salespeople?
+  When will AI replace Sales Jobs in Pricing, and what can you do about it. Will AI replace sales jobs? Short answer: no. Long answer: it depends. Artificial intelligence… Continue reading Pricing in B2B: will AI replace salespeople?
+Lead management top, customer management flop?
+How can your B2B sales team take fact-based decisions faster using your CRM and ERP data? B2b companies are investing in modern lead management. The focus is on the online… Continue reading Lead management top, customer management flop?
+Qymatix supports international research project in sales and artificial intelligence
+  Karlsruhe, 18.11.2021. Qymatix supports an exciting international research project: Three researchers from three different universities have joined forces for a joint research project: “Success in sales through the use… Continue reading Qymatix supports international research project in sales and artificial intelligence
+B2B Predictive Analytics – Successful Data Management
+How to make data work for your B2B sales team while avoiding common pitfalls in data management We can associate power with strength, force and influence, but also with destruction… Continue reading B2B Predictive Analytics – Successful Data Management
+How To Accelerate B2B Sales Growth With One Proven Strategy
+Revenue stagnation is a nightmare most managers are scared to dream. If a market is growing in line with the economy and income stagnates, then market share is approximately contracting,… Continue reading How To Accelerate B2B Sales Growth With One Proven Strategy
+What type of B2B sales will still exist in 50 years?
+Will sales jobs still exist in fifty years from now? Will robots take over all sales jobs? How will artificial intelligence redefine sales management? What long-term influence does digitisation have… Continue reading What type of B2B sales will still exist in 50 years?
+Data Mining in ERP for Sales – All About It!
+ERP Data Mining: what we learnt from analysing 100 million of B2B sales transactions. Data mining is the application of a varied assortment of statistical techniques to ERP datasets. Companies… Continue reading Data Mining in ERP for Sales – All About It!
+How to Define and Increase the Lifetime Value of your B2B Customers
+  Customer Lifetime Value Definition for B2B. Sales and marketing B2B experts define customer lifetime value (CLV or often CLTV), lifetime value (LTV) or lifetime customer value (LCV) as the… Continue reading How to Define and Increase the Lifetime Value of your B2B Customers
+E-commerce trends: why German wholesalers are the next victim of e-commerce
+  B2B E-commerce in Germany keeps growing – good or bad news? The Business-to-Business wholesale trade in Germany and the world has changed considerably over the last years and has… Continue reading E-commerce trends: why German wholesalers are the next victim of e-commerce
+Where is artificial intelligence science? Seven exotic artificial intelligence applications.
+  What can artificial intelligence do today? What projects are being worked on and researched? We will give you a brief insight about seven exotic AI applications from around the… Continue reading Where is artificial intelligence science? Seven exotic artificial intelligence applications.
+Customer Retention vs Customer Acqusition in B2B – What is More Expensive?
+  In this article, you will learn about an interesting B2B practice in which customer retention is contrasted with customer acquisition. What is more expensive? In detail, distribution costs naturally… Continue reading Customer Retention vs Customer Acqusition in B2B – What is More Expensive?
+Artificial intelligence: truth or myth?
+  Statements about AI are very diverse. They reach from “new superpower” to “much noise about nothing”. In this article, you will learn truths and myths according to AI. How… Continue reading Artificial intelligence: truth or myth?
+Why Projects using AI in B2B Sales fail and yours will too
+  Successful organizations do not underestimate the complexity and hidden costs of artificial intelligence (AI) projects. Artificial intelligence (AI) for sales has become an arms race. Correctly employing it will… Continue reading Why Projects using AI in B2B Sales fail and yours will too
+6 Facts from Studies on Artificial Intelligence in B2B Sales
+  In this post, you’ll learn about six interesting findings from various studies on artificial intelligence in B2B sales. According to a recent survey by Bundesverband Industrie Kommunikation e.V (bvik),… Continue reading 6 Facts from Studies on Artificial Intelligence in B2B Sales
+Autonomous AI – when does the computer bear responsibility for errors?
+  Artificial intelligence is taking over more and more tasks in companies. But what if they make a mistake? Who can be held responsible for it? We explain how autonomy… Continue reading Autonomous AI – when does the computer bear responsibility for errors?
+How to avoid the Causality Trap of Black-Box Machine Learning
+  Sales Acceleration with Predictive Analytics Software: How to avoid The Causality Trap of Black-Box Machine Learning. Successful B2B managers use AI-based predictive analytics software to accelerate sales. However, they… Continue reading How to avoid the Causality Trap of Black-Box Machine Learning
+How the corona crisis will change pricing management in B2B forever.
+  B2B pricing strategies are experiencing a radical transformation in manufacturing and wholesales. One of the surprising by-effects of the 2020-2021 pandemic is that employing dynamic pricing software has become… Continue reading How the corona crisis will change pricing management in B2B forever.
+Qymatix is the winner of the “AI-Champions BW 2021 Award”
+  Qymatix receives the “AI-Champions BW 2021” award from Minister Dr. Hoffmeister-Kraut in Stuttgart. Stuttgart, 26.07.2021 The “AI-Champions BW 2021” award ceremony took place for the second time in a… Continue reading Qymatix is the winner of the “AI-Champions BW 2021 Award”
+Our paradoxical behaviour in dealing with algorithms
+  Human behaviour towards algorithms in everyday life, based on the book “Hello World – What algorithms can do and how they change our lives” by Hannah Fry. A few… Continue reading Our paradoxical behaviour in dealing with algorithms
+How to define customer churn in B2B?
+  B2B Churn Rate: Definition and Calculation. Business-to-Business (B2B) companies depend on building and developing long-term relationships with their customers to be financially successful. However, over time, some customers will… Continue reading How to define customer churn in B2B?
+Data-driven Management – has Intuition had its day?
+Which decisions are better? Intuitive decisions from the gut or rational decisions based on data and facts? This question occupies countless researchers, and there is still no clear answer. Currently,… Continue reading Data-driven Management – has Intuition had its day?
+Business Intelligence in Tools in B2B Sales: Make or Buy?
+B2B sales intelligence – should you make or buy your tool? With the cost of sales sky-rocketing and customers changing their buying behaviour, sales intelligence has become critical to the… Continue reading Business Intelligence in Tools in B2B Sales: Make or Buy?
+How to Drastically Improve Margins in Industrial Distribution with a Predictive Sales Software
+  Predictive Sales Analytics helps increase customer lifetime value in B2B distribution. New customer behaviour and innovative technologies are having an impact on wholesale and distribution businesses worldwide. Manufacturers looking… Continue reading How to Drastically Improve Margins in Industrial Distribution with a Predictive Sales Software
+Why B2B companies need to start with predictive analytics now
+  Predictive analytics applications are essential in B2B companies but not yet urgent. Here you find out why this situation makes it the best time for B2B companies to start.… Continue reading Why B2B companies need to start with predictive analytics now
+Why is your ERP useless without AI?
+Why is a legacy ERP becoming irrelevant in an AI era, and what can you do about it? Let’s face it. In a few years, we will lose the battle… Continue reading Why is your ERP useless without AI?
+How Do You Do Predictive Analytics in Excel Without Rocket Science? The Easiest Sales Forecasting Template.
+  You know the problem entirely. You are using Excel for your sales forecast. Your spreadsheet reports your next quarter revenue, and you need a reliable result. Accurately forecasting sales… Continue reading How Do You Do Predictive Analytics in Excel Without Rocket Science? The Easiest Sales Forecasting Template.
+Sales Psychology: Why Manipulation is Out in Sales
+  B2B customers, in particular, are highly informed today. Salespeople should therefore think and act in a demand-oriented way. The basis for this is customer and sales data. They show… Continue reading Sales Psychology: Why Manipulation is Out in Sales
+How to create accurate sales forecasts.
+  You will learn here what options are available for making sales forecasts – with good results. If you work in (or with) sales at a B2B company, you have… Continue reading How to create accurate sales forecasts.
+Artificial Intelligence Example to Rock Sales Controlling in B2B
+Machine learning (ML) and artificial intelligence (AI) hold the key to a tremendous improvement in sales controlling efficiency. A software is intelligent if it can solve problems independently and efficiently.… Continue reading Artificial Intelligence Example to Rock Sales Controlling in B2B
+The Five SALSA Principles of Effective Sales and Operations Planning
+Sales and Operations Planning (S&OP) is probably the most important planning process of any company. It will determine the difference between success and failure in the years to come. Usually,… Continue reading The Five SALSA Principles of Effective Sales and Operations Planning
+The future of B2B industrial distribution in Germany.
+  Make the first steps to becoming a leader in the German market. Germany and the US are two advanced, yet different industrial markets, with special sales and investment cycles.… Continue reading The future of B2B industrial distribution in Germany.
+Digital sales: Your future tasks
+  As sales becomes increasingly digital, the question arises: What tasks can sales managers focus on in the future thanks to modern data analysis software? Data, data, data. The modern… Continue reading Digital sales: Your future tasks
+Artificial Intelligence Software Development: The True Costs.
+  The question is no longer “if” a B2B company will implement artificial intelligence (AI), but “how”. AI tools enable more efficient work in many areas. B2B sales is no… Continue reading Artificial Intelligence Software Development: The True Costs.
+Qymatix is now a proud member of „GoodFirms“
+  Qymatix is helping business get ahead with predictive sales and artificial intelligence. Karlsruhe, 15.04.2021. Qymatix Solutions GmbH is now a verified company in “GoodFirms” and can be found through… Continue reading Qymatix is now a proud member of „GoodFirms“
+The relationship between customer churn and pricing analytics
+  Customer Churn Trigger Analysis: Why You cannot separate it of pricing. Think for a moment of the last time you visited your favourite restaurant and had your favourite dish.… Continue reading The relationship between customer churn and pricing analytics
+The New-Normal in B2B Sales
+  New Year – New Normal? What has changed in B2B sales due to the Corona crisis, and what should you know about it? Learn the four most essential insights… Continue reading The New-Normal in B2B Sales
+Artificial intelligence for SMEs: 5 tips for implementation
+  A thought-out introduction and the appropriate use of Artificial Intelligence (AI) can bring SMEs real added value. When implementing AI or AI systems, SMEs should not rush into anything.… Continue reading Artificial intelligence for SMEs: 5 tips for implementation
+Five Facts from our Predictive Sales Software that you probably don’t know
+  Here are five interesting facts we discovered while analyzing sales transactions of B2B companies. Are you interested in learning from your sales data? Artificial intelligence makes sales teams truly… Continue reading Five Facts from our Predictive Sales Software that you probably don’t know
+Predictive Analytics & Controlling – How to use it in B2B Sales
+How the sales analytics tools you use impact your sales controlling. Controlling sales in B2B is increasingly becoming a high-tech game. Since selling cycles in business-to-business are getting longer and… Continue reading Predictive Analytics & Controlling – How to use it in B2B Sales
+Launch of Qymatix Online Academy Pilot
+  The Qymatix Online Academy goes online in pilot! All you need to know about artificial intelligence in B2B sales. Karlsruhe, 11.03.2021. We are pleased to announce that we are… Continue reading Launch of Qymatix Online Academy Pilot
+Why using artificial intelligence in B2B sales is inexorable.
+  Would there be a B2B digital transformation without predictive analytics software? What comes to mind when you think of Thomas Alva Edison? My first thought is still: The first… Continue reading Why using artificial intelligence in B2B sales is inexorable.
+Why predictive analytics for CRM is not a magic ball
+  Learn what predictive analytics in b2b sales can and cannot do. Predictive analytics enables companies to determine forecasts and probabilities of occurrence from customer data – you can visualise… Continue reading Why predictive analytics for CRM is not a magic ball
+Four facts about predictive analytics that you should know today
+  Predictive Analytics and AI – If you want to use this technology, you should first understand it. If you keep up to date with new technologies, you have undoubtedly… Continue reading Four facts about predictive analytics that you should know today
+Qymatix expands its product portfolio with the acquisition of Qfigures Sales Reporting Software.
+  Qymatix acquires Qfigures. Karlsruhe, 18.02.2021. Qymatix Solutions GmbH is since 2013 helping B2B companies to increase customer lifetime value with sales analytics. We are pleased to announce today the… Continue reading Qymatix expands its product portfolio with the acquisition of Qfigures Sales Reporting Software.
+Why CRM Projects Fail
+Why CRM Projects in B2B Fail and How to Make Them More Successful. Many studies over the years have shown a very high failure rate for Customer Relationships Management (CRM)… Continue reading Why CRM Projects Fail
+Why it is an awful idea to use Excel for sales reporting and what you can do about it
+  Sales reporting is the foundation of successful sales and operations planning, controlling and analysis. It covers the process of selecting, analysing and sharing the most relevant KPIs across a… Continue reading Why it is an awful idea to use Excel for sales reporting and what you can do about it
+Customer Attrition in B2B: loyalty as a sales growth booster
+  Predictive analytics for customer retention plays a critical role to accelerate sales in Business-to-Business. Building customer loyalty successfully and efficiently is what makes business-to-business companies thriving on the long-term.… Continue reading Customer Attrition in B2B: loyalty as a sales growth booster
+Cloud based Sales Software: 4 important aspects of IT security
+  This article is the second part about cloud based software. In the first part, the advantages and disadvantages were highlighted. Now we will talk about security. Anyone who obtains… Continue reading Cloud based Sales Software: 4 important aspects of IT security
+Badass Sales Analytics for B2B-Companies
+  Get to know 5 Badass Sales Analytics Hacks for large and medium-sized B2B companies. Do you know the following situation? You work for a B2B manufacturer or wholesaler, and… Continue reading Badass Sales Analytics for B2B-Companies
+B2B Sales Trends – What Really Matters
+What are essential trends in B2B sales and how to succeed in this flood of innovation? B2B Sales is fighting an innovation race. Sales managers often have to decide whether… Continue reading B2B Sales Trends – What Really Matters
+Qymatix on the Industry 4.0 Map
+  Qymatix is helping business get ahead with predictive sales and artificial intelligence. Karlsruhe, 07.01.2021. You can now find the Qymatix Solutions GmbH on the Industrie 4.0 map. The map… Continue reading Qymatix on the Industry 4.0 Map
+Why AI-based sales software is cloud-based
+  Trend in B2B sales shows clearly towards expanding services from the cloud. The Internet has long since ceased to be just a means of communication. Companies today obtain a… Continue reading Why AI-based sales software is cloud-based
+Social Selling: Why B2B sales must rethink
+  What is necessary to actively and adequately pursue social selling in social media? Salespeople will become more consultants, networkers, and influencers, due to increasing digitalisation in B2B – a… Continue reading Social Selling: Why B2B sales must rethink
+Strength in price setting is your profit driver number one
+The Impact of Pricing Analytics on your company earnings. Everybody knows, B2B pricing analytics represents one of the most critical levers to boost earnings. Still, this reality is a sometimes-overlooked… Continue reading Strength in price setting is your profit driver number one
+What You Need from Sales Reporting Software Today
+  Sales Reporting Software: a critical tool for efficient sales management and control in B2B. Reporting sales has become a fact-of-life for B2B sales managers. Selecting a sales reporting software… Continue reading What You Need from Sales Reporting Software Today
+How to calculate and increase return on sales with predictive analytics?
+  How can B2B manufacturing and distribution increase return on sales (ROS) using strategic sales controlling and predictive sales? Is there a sales and marketing KPI that manufacturing and industrial… Continue reading How to calculate and increase return on sales with predictive analytics?
+Global Key Account Management in B2B Medium-sized Businesses – Part Two
+  This article has been produced in cooperation with Interim Manger Ralf H. Komor.   Basics for a successful implementation of a Global Key Account management strategy in B2B medium-sized… Continue reading Global Key Account Management in B2B Medium-sized Businesses – Part Two
+Global Key Account Management in B2B Medium-sized Businesses – Part 1
+  This article has been produced in cooperation with Interim Manger Ralf H. Komor.   Basics every Key Account Manager should know, for a successful introduction of a Global Key… Continue reading Global Key Account Management in B2B Medium-sized Businesses – Part 1
+Qymatix Selected for the Official German Accelerator Program
+  Qymatix is helping business get ahead with predictive sales and artificial intelligence. Karlsruhe, 28.10.2020. The German Accelerator has selected Qymatix Solutions GmbH for its namesake program. Some well-know startups… Continue reading Qymatix Selected for the Official German Accelerator Program
+Predictive Customer Analytics: From customer analysis to customer value
+  Customer analytics with predictive analytics can provide valuable information for sales activities. Do you really know your customers – and not only the large-scale customers? Successful Customer Analytics should… Continue reading Predictive Customer Analytics: From customer analysis to customer value
+Qymatix selected for “Microsoft for Startups Program”
+Qymatix is helping business get ahead with predictive sales and artificial intelligence. Karlsruhe, 07.10.2020. Qymatix Solutions GmbH is now part of Microsoft for Startups Program. It is a global program… Continue reading Qymatix selected for “Microsoft for Startups Program”
+B2B-Trends 2020/21: The Top 6 in Sales
+Whether digital platforms, AI or chatbots. In the future, B2B sales must deal with these six critical trends. Experts guess every year what the next hot B2B trends will be.… Continue reading B2B-Trends 2020/21: The Top 6 in Sales
+Qymatix Summer Release: New version of its predictive sales software.
+Maximize Customer Lifetime Value with Predictive Sales Analytics from Qymatix AI: Qymatix takes B2B sales to a new level with the latest version of its predictive sales software. Karlsruhe, 17.09.2020:… Continue reading Qymatix Summer Release: New version of its predictive sales software.
+Key Metrics for Successful B2B Sales Teams in Digital Times – Five Unmissable Tips with Examples
+Sales productivity metrics and key performance indicators for B2B Sales teams. Managing a sales team in B2B (Business-to-Business) is a challenging job. The endless list of task and responsibilities sales… Continue reading Key Metrics for Successful B2B Sales Teams in Digital Times – Five Unmissable Tips with Examples
+How to improve your B2B Customer Journey with Predictive Analytics
+About the b2b Customer Journey Management and how Predictive Analytics can help. Predictive analytics, customer-centric selling, and optimization of the customer journey (CJ) have long been part of everyday life… Continue reading How to improve your B2B Customer Journey with Predictive Analytics
+If Your Data Is Bad, Your Sales AI Tools Are Useless
+The impact of poor data quality in business analytics and artificial intelligence. Artificial intelligence (AI) is steadily advancing in B2B sales. AI is changing the way customers are buying and… Continue reading If Your Data Is Bad, Your Sales AI Tools Are Useless
+Predictive Analytics in Sales: 5 Ways it Can Power Yours to Success today
+  Five practical examples of Predictive Analytics that will make your sales team successful. Getting an edge in today’s competitive market place is vital. For B2B companies, possessing the tools… Continue reading Predictive Analytics in Sales: 5 Ways it Can Power Yours to Success today
+One Secret? There are at Least Three Pressing Reasons Why Predictive Sales Analytics Cannot Wait Until Tomorrow
+Predictive analytics covers a variety of statistical algorithms from machine learning, predictive modelling and data mining. It analyses past facts and historical data to make predictions about events and to… Continue reading One Secret? There are at Least Three Pressing Reasons Why Predictive Sales Analytics Cannot Wait Until Tomorrow
+Qymatix selected for a Pilot project Mittelstand 4.0 Competence Centre Usability
+Qymatix is helping business get ahead with predictive sales and artificial intelligence. Karlsruhe, 20.08.2020. Qymatix Solutions GmbH is since 2013 helping companies to grow faster using predictive sales analytics and… Continue reading Qymatix selected for a Pilot project Mittelstand 4.0 Competence Centre Usability
+How B2B Data Analytics is Changing Sales
+How Big Data and Advanced Analytics Are Revolutionizing Sales in B2B, and What Managers Should Know About It. B2B customer buying experience is radically changing. This trend has led to… Continue reading How B2B Data Analytics is Changing Sales
+AI in B2B Sales? Machine Learning vs. Humans
+The interaction between humans and AI in B2B sales. AI in sales uses machine learning to supply humans with sales insights and recommendations. Machine Learning generates these sales alerts using… Continue reading AI in B2B Sales? Machine Learning vs. Humans
+The Case for AI in B2B Sales
+  Why artificial intelligence in B2B sales is unavoidable and what you can do about it. Adapt or die – a fact of life for B2B sales nowadays. Key Account… Continue reading The Case for AI in B2B Sales
+Artificial Intelligence in Sales: B2B Algorithmic Management
+Modern data-driven management in B2B sales is where Big Data meets Artificial Intelligence. Using AI for sales efficiency. Although algorithmic management boasts a fancy, new name, managing a workforce using… Continue reading Artificial Intelligence in Sales: B2B Algorithmic Management
+Qymatix awarded as a winner of the competition “100 places for industry 4.0 in Baden-Württemberg”
+  “Allianz Industrie 4.0 Baden-Württemberg” chooses Qymatix as a prize winner for artificial intelligence for ERP systems. Karlsruhe, 03.08.2020. By video message, State Secretary Katrin Schütz awarded the winners of… Continue reading Qymatix awarded as a winner of the competition “100 places for industry 4.0 in Baden-Württemberg”
+Sales Management in times of Artificial Intelligence – Five tips to redefine B2B Sales
+Artificial intelligence in sales: our top five tips! Sales processes, salespeople and sales management should adapt to the brave new world of artificial intelligence. Artificial intelligence is taking over the… Continue reading Sales Management in times of Artificial Intelligence – Five tips to redefine B2B Sales
+Predictive Sales Analytics: Can you anticipate your customers’ journey?
+Nowadays, new technologies enable a highly detailed understanding of the way customers buy, fancily known as “digital customer journey”. They also allow a cost-effective application of predictive analytics in Business-to-Business… Continue reading Predictive Sales Analytics: Can you anticipate your customers’ journey?
+Why Motivation in B2B Sales is overrated
+Managing Sales Behaviour to Improve Sales Performance using Predictive Sales Analytics Improving sales performance often involves coaching and modifying the way your key account managers work – what practitioners in… Continue reading Why Motivation in B2B Sales is overrated
+Corona pandemic: What is the future of sales and distribution?
+The Corona crisis is an accelerator for the use of digital technologies in B2B sales. Due to the Corona crisis, the usual sales activities have almost come to a standstill.… Continue reading Corona pandemic: What is the future of sales and distribution?
+B2B E-commerce Analytics: Why Predictive Analytics is now critical
+Predictive Analytics in B2B e-commerce has become decisive. The sale of products and services via B2B platforms is on the rise. However, precisely because of the intense competition for comparable… Continue reading B2B E-commerce Analytics: Why Predictive Analytics is now critical
+Predictive Analytics: Three incredible future examples you should know about
+Three Possible future scenarios in unexpected application areas of Predictive Analytics. Let’s explain the function of Predictive Analytics (PA) in simple terms: A software uses algorithms to analyze existing data… Continue reading Predictive Analytics: Three incredible future examples you should know about
+The Top 7 Mental Notes Sales Managers Are Making Today
+  What sales managers are thinking about their jobs today but would never say. The sales management profession is rapidly changing. A few years ago, a good manager was, well,… Continue reading The Top 7 Mental Notes Sales Managers Are Making Today
+What Big Data Mining Means for ERP & Sales
+  a short article about erp data mining and how sales managers can quickly spot opportunities based on their ERP and CRM data. Sales managers in B2B can dig their… Continue reading What Big Data Mining Means for ERP & Sales
+Industrial distribution: Identify potential for cross-selling with predictive analytics
+How wholesalers and distributors recognize cross-selling potentials with predictive analytics. Many manufacturers now sell their products directly to end consumers via web marketplaces. Unfortunately, wholesale trade and industrial distribution are… Continue reading Industrial distribution: Identify potential for cross-selling with predictive analytics
+Four Dangerous Signs That You Will Miss Your Sales Targets This Year
+With a growth of 10.8 %, the year 2010 looked optimistic for the German media market, compared with 2008 and 2009. The improvement included online marketing, free magazines and trade… Continue reading Four Dangerous Signs That You Will Miss Your Sales Targets This Year
+Why Algorithms Are The Future Of Sales Success
+We put our lives in the hands of autopilots regularly. When are we trusting AI with our customer relationships? Lawrence Sperry was the third son of Elmer Sperry, one of… Continue reading Why Algorithms Are The Future Of Sales Success
+What is the fuzz about Predictive Analytics? One example of B2B Sales will make you start today.
+This predictive analytics example will surely make you uneasy about your sales costs today.   B2B sales went through several transformations in the past decade. Mobile is ubiquitous, CRM Systems… Continue reading What is the fuzz about Predictive Analytics? One example of B2B Sales will make you start today.
+How can a classic salesforce get started with predictive analytics?
+In the future, it will be all about reading customer data correctly and drawing the right conclusions for customer strategy. That means a paradigm shift for the classic, contract-trimmed salesforce.… Continue reading How can a classic salesforce get started with predictive analytics?
+How to use Big Data to stop customer churn in B2B | Predicting Customer Churn
+Sales leaders in business-to-business (B2B) organisations are under constant pressure to spot new business opportunities. It is, however, a too often neglected fact, that some of their current customers will… Continue reading How to use Big Data to stop customer churn in B2B | Predicting Customer Churn
+Why KPI’s Are Important to Your Sales Growth
+Business success is usually measured in Key Performance Indicators (KPI): quantifiable evidence used to determine how well the sales goals are being met or will be met in the future.… Continue reading Why KPI’s Are Important to Your Sales Growth
+Support of AI-based software solutions in the B2B sales process
+An excerpt from Tamara Mayer’s bachelor thesis with a status quo analysis and recommendations for action. Tamara Mayer is a graduate of the Landshut University of Applied Sciences and has… Continue reading Support of AI-based software solutions in the B2B sales process
+How To Make Sure Your Sales Team Is Recession-Proof?
+A B2B Recession-Proof Salesforce can keep any company afloat. Is there a global recession looming? Although there is much speculation about the next global recession, most advanced economies are still… Continue reading How To Make Sure Your Sales Team Is Recession-Proof?
+Lead-Scoring with Predictive Analytics – Sell smarter!
+How does AI-based predictive lead and customer scoring benefit your marketing and sales team over traditional methods? Do you use your CRM system for your lead and customer evaluation and… Continue reading Lead-Scoring with Predictive Analytics – Sell smarter!
+Predictive Analytics Blog – The Best of 2019
+  Es ist wieder soweit: Das Jahr neigt sich rasant dem Ende zu und wenn wir zurückschauen hat sich 2019 einiges bei Qymatix getan. KI und maschinelles Lernen dringt immer… Continue reading Predictive Analytics Blog – The Best of 2019
+Qymatix is now part of the Startup program TechBoost of Deutsche Telekom.
+Telekom takes via the TechBoost Startup program the Qymatix Predictive Sales in offering for its business customers. Karlsruhe, 03.12.2019. Qymatix Solutions GmbH is since 2013 helping B2B companies to increase… Continue reading Qymatix is now part of the Startup program TechBoost of Deutsche Telekom.
+5 Deadly Sentences A Sales Manager Should Never Pronounce
+How to pronounce “analytics” in sales and keep your job. Almost all sales managers hold a wisdom about their business. However, there are – at least – five fatal sentences… Continue reading 5 Deadly Sentences A Sales Manager Should Never Pronounce
+Qymatix Steps Up the Sales AI Game with a new release of its Predictive Sales Analytics Software
+  Maximize Customer Lifetime Value with Predictive Sales Analytics from Qymatix AI. Karlsruhe, 21.11.2018. Qymatix Solutions GmbH is since 2013 helping B2B companies to increase customer lifetime value using predictive… Continue reading Qymatix Steps Up the Sales AI Game with a new release of its Predictive Sales Analytics Software
+Qymatix is the only German startup invited to the Deep Dive Meetup “Customer Centricity” of STARTUP AUTOBAHN.
+On November 7, Qymatix Solutions GmbH presents its Predictive Sales Analytics solution to a selected group of innovative German corporations. This Meetup is all about “Customer Centricity & Operational Excellence”… Continue reading Qymatix is the only German startup invited to the Deep Dive Meetup “Customer Centricity” of STARTUP AUTOBAHN.
+Shakespeare is dead! Let machine learning bring intelligence to your text.
+One first-hand example of predictive text scoring and sentiment analytics using machine learning. We are always looking for a way to bring machine learning to ERP-Systems. Companies can apply a… Continue reading Shakespeare is dead! Let machine learning bring intelligence to your text.
+The remarkable truth about Predictive Sales Analytics & Controlling
+Is predictive sales analytics software the newest secret weapon in B2B? No organisation will survive the next decade without harvesting the power of predictive sales analytics. However, many sales leaders… Continue reading The remarkable truth about Predictive Sales Analytics & Controlling
+How to Master Your New Sales Management Job in the First 90 Days
+  90-day plan for a new B2B Sales Manager. The first 90 days as a sales manager represents a critical period. It is your chance to make a good lasting… Continue reading How to Master Your New Sales Management Job in the First 90 Days
+“Every company is a data company”. Data Strategy for B2B Predictive Sales Analytics
+How to develop a winning data strategy in the artificial intelligent era. Having read the most recent publication of the author, strategic business and technology advisor Bernard Marr “Data Strategy:… Continue reading “Every company is a data company”. Data Strategy for B2B Predictive Sales Analytics
+When is Artificial Intelligence Replacing my Sales Job?
+Will Artificial intelligence replace your Sales Job? We believe that automation and artificial intelligence simply replace jobs. They do not. They replace the skills and tasks of a making up… Continue reading When is Artificial Intelligence Replacing my Sales Job?
+Predictive Analytics CRM – A New CRM or Predictive Analytics? What comes first?
+The top 3 reasons why successful companies avoid changing their CRM and use Predictive Analytics instead Implementing a new Customer Relationship Management System (CRM) is a minefield for B2B companies.… Continue reading Predictive Analytics CRM – A New CRM or Predictive Analytics? What comes first?
+Four Machine Learning Applications Your B2B Sales Teams Might Be Using Today
+Real life machine learning examples for B2B sales Without any doubt, in the coming years, progress in machine learning, artificial intelligence and sales automation, will replace many of the time-consuming… Continue reading Four Machine Learning Applications Your B2B Sales Teams Might Be Using Today
+How to use software for customer churn to improve customer retention – Qymatix Example
+Reduction of customer attrition by implementing a churn prediction software in your sales reporting Understanding and avoiding customer churn ( or attrition) in Business-to-Business(B2B) organisations can make the difference between… Continue reading How to use software for customer churn to improve customer retention – Qymatix Example
+What Salespeople Need to Know About the New B2B Landscape
+“What Salespeople Need to Know About the New B2B Landscape” is a terrific article published in 2015 in the Harvard Business Review (HBR). HBR released it in the background of… Continue reading What Salespeople Need to Know About the New B2B Landscape
+CRM Analytics – The Qymatix most effective three tips for B2B sales
+Sales Analytics is changing the way sales teams work in B2B. Both Enterprise Resource Planning (ERP) and Customer Relationship Management (CRM) systems offer pro and cons for sales analytics. Some… Continue reading CRM Analytics – The Qymatix most effective three tips for B2B sales
+Predictive analytics – how much data do you really need?
+  How Much Data Do You Need For Predictive Analytics? Predictive analytics is one of the technologies with the highest financial impact in B2B sales. Several popular applications of predictive… Continue reading Predictive analytics – how much data do you really need?
+The Top 5 ERP Sales Data Mining Techniques You Need in B2B Now
+  Pythia, priestess of Apollo at Delphi, commonly known as the Oracle of Delphi, was one of the most important oracles of Greek antiquity. In classical Greece, an oracle was… Continue reading The Top 5 ERP Sales Data Mining Techniques You Need in B2B Now
+How to end the war between sales and controlling
+  Why Controlling and Sales cannot be friends? Conflict is unavoidable, even necessary in business. “For good ideas and true innovation, you need human interaction, conflict, argument, debate.” – writes… Continue reading How to end the war between sales and controlling
+How to measure ROI of advanced sales analytics projects
+  Return on Investment (ROI) is one of the most popular evaluation metrics and performance measurement used in business analysis nowadays. The ROI is a powerful tool for evaluating the… Continue reading How to measure ROI of advanced sales analytics projects
+Predictive Analytics Blog – The Best of 2018
+  Die beliebtesten Artikel im Qymatix Sales Analytics Blog im Jahr 2018 – von Kätzchen zitiert. Gegen Ende eines jeden Jahres listen wir in einem speziellen Beitrag die meistgelesenen Artikel… Continue reading Predictive Analytics Blog – The Best of 2018
+Predictive Analytics in B2B E-commerce: A customer acquisition example
+Predictive Analytics – Opportunities for new customer acquisition in B2B e-commerce using the example of an Austrian construction supplier.Mr Haunschmid, please introduce yourself to our readers.My name is Thomas Haunschmid,… Continue reading Predictive Analytics in B2B E-commerce: A customer acquisition example
+Four steps to improve your sales operations with predictive analytics
+  Optimize your sales planning with Predictive Analytics in four steps. Sales and Operations Planning (S&OP) encompasses two close-related fundamental processes: sales planning and operations planning. S&OP is perhaps the… Continue reading Four steps to improve your sales operations with predictive analytics
+The digital future of B2B sales – Expert Interview
+Mister Oenning, we know each other through the Federal Association of Sales Manager e.V. (Bundesverband der Vertriebsmanager e.V. (BdVM) ). Could please you introduce yourself to our readers? With pleasure.… Continue reading The digital future of B2B sales – Expert Interview
+Predictive Sales Analytics Software | Qymatix Predictive Sales New Release
+  With the valuable input from partners and customers, Qymatix has released an improved version of its predictive sales analytics product.   The new version of the SaaS brings together… Continue reading Predictive Sales Analytics Software | Qymatix Predictive Sales New Release
+Sales Territory Design
+  It is a common practice for sales teams in B2B to be organised around geographical regions. Furthermore, successful Key Account Managers spend significant time on the road, visiting key… Continue reading Sales Territory Design
+Qymatix has an application programming interface (API)
+  Since this summer, Qymatix is offering an application programming interface (API). This is a library of queries that allows users to connect with Qymatix Sales Analytics tool.   The… Continue reading Qymatix has an application programming interface (API)
+Qymatix is now a proud member of the SAP® PartnerEdge® Program.
+  Qymatix is helping business get ahead with predictive sales analytics in their SAP world. Karlsruhe, 19.07.2018. Qymatix Solutions GmbH is since 2013 helping B2B companies to grow faster using… Continue reading Qymatix is now a proud member of the SAP® PartnerEdge® Program.
+How a Poor Lead Scoring Methodology is Hurting your Business.
+Classic Pipeline Management & Lead Scoring vs Predictive Analytics Sales in Business-to-Business is dramatically changing. Personal contacts and relationships are no longer a guarantee for more business. Pure push strategies… Continue reading How a Poor Lead Scoring Methodology is Hurting your Business.
+Qymatix Predictive Sales Analytics is now publicly available in the Microsoft Azure Marketplace and Microsoft AppSource
+  How can you implement predictive sales analytics in your Microsoft Dynamics CRM and ERP-Software? Karlsruhe, 06.07.2018. Qymatix Solutions GmbH is since 2013 helping B2B companies to become more efficient… Continue reading Qymatix Predictive Sales Analytics is now publicly available in the Microsoft Azure Marketplace and Microsoft AppSource
+Salesforce brake: CRM
+  CRM or Customer Relationship Management refers to a company philosophy that is primarily pointed towards the customer. Almost all companies use special software solutions, but the fewest systems truly… Continue reading Salesforce brake: CRM
+Your sales role defines your sales analytics needs
+Tell us what your business function is and we tell you what kind of business intelligence you need. Sales Manager, Key Account Manager and Sales Controller are different positions in… Continue reading Your sales role defines your sales analytics needs
+“The digital transformation in sales is a curse and a blessing at the same time.”
+How to find Salespeople? Look for newcomers to sales! Qymatix Expert Interview. Jana Mallah – Recruitment Specialist – Thema Group – Partner in Life Science Recruitment Dear Ms., Mallah, please… Continue reading “The digital transformation in sales is a curse and a blessing at the same time.”
+Top 5 Predictive Analytics Books To Move The Needle in B2B Sales
+  Predictive Sales Analytics is a game-changing technology in B2B sales. Any organisation trying to rein in erratic sales funnel, to improve the performance of their sales force or to… Continue reading Top 5 Predictive Analytics Books To Move The Needle in B2B Sales
+Qymatix Artificial intelligence for B2B sales
+Qymatix offers you a flexible way to implement artificial intelligence in your ERP and CRM. You don’t need to be an IT expert and you don’t need to worry about… Continue reading Qymatix Artificial intelligence for B2B sales
+How Digital Transformation Is Dramatically Affecting Business Development
+Qymatix Expert Interview: Quo Vadis Business Development? Iris Maaß – Manager for International Business Development & Marketing BU Technology TÜV NORD GROUP Ms Maaß, please introduce yourself to our readers.… Continue reading How Digital Transformation Is Dramatically Affecting Business Development
+Qymatix expands its Predictive Software with Pricing Analytics Features.
+  How can you deploy your winning pricing strategy without a great pricing software? Karlsruhe, 17.04.2018. Qymatix Solutions GmbH is helping since 2013 B2B companies to become more efficient using… Continue reading Qymatix expands its Predictive Software with Pricing Analytics Features.
+Sales 4.0: Sales is dead! Long live to sales!
+  Some developments in sales during the last years require rethinking processes. This rethinking process is needed because classic sales, as we know and care for, are now condemned to… Continue reading Sales 4.0: Sales is dead! Long live to sales!
+Artificial Intelligence in Sales? Not interested! – Say almost a fifth of sales executives.
+  Our survey about the application of Artificial Intelligence for Predictive Analytics in international B2B sales Qymatix Solutions GmbH, together with the International School of Management, researched last year the… Continue reading Artificial Intelligence in Sales? Not interested! – Say almost a fifth of sales executives.
+Cloud ERP applications are transforming sales in B2B
+  The time is now. The shift to the cloud in the Enterprise Resource Planning (ERP) Market is well underway. This transformation is bringing unfair competitive advantages. Per Gartner, cloud-first… Continue reading Cloud ERP applications are transforming sales in B2B
+Predictive Analytics Blog – The Best of 2017
+  The year is drawing to a close. If you missed the favorites of our Predictive Analytics Blog, here is the perfect chance to read them again.  
+5 Steps to an Extraordinary B2B Social Media Strategy
+The use of social media has become an unavoidable component of any marketing mix for B2B companies. Particularly small businesses and Startups cannot do nowadays without Social Selling.
+Predictive Analytics – Interview with Lucas Pedretti
+CRMmanager.de originally published this interview on 29. August 2017 – by Ute Mündlein. How would it be if you knew which regular customers might churn before they stop buying? Or… Continue reading Predictive Analytics – Interview with Lucas Pedretti
+How to Find Sales Superstars
+Good sales people do not grow on trees. Sales managers and HR departments know this all too well. In this reading, you will get valuable tips to considerably improve your… Continue reading How to Find Sales Superstars
+Sales Coaching Tips in Digital Times – 10 Questions to Ms. Luba Heinze
+Dear Ms. Heinze, please introduce yourself to our readers. Hi, my name is Luba Heinze. I work Europe-wide as a consultant for a discounter and supervise projects of Digital Leadership… Continue reading Sales Coaching Tips in Digital Times – 10 Questions to Ms. Luba Heinze
+New Year – New Job! With the power of Artificial Intelligence
+Every year comes with new goals. If your goal in 2019 is to find a new job, Santa Claus brought you a gift: Predictive Jobs Analytics. As an end-of-the-year campaign,… Continue reading New Year – New Job! With the power of Artificial Intelligence
+Predictive Analytics Interview with Dr. Olivier Riviere
+Dr. Riviere, we already know each other. But could you please introduce yourself to our readers. I am a passionate European – with a French passport – who has lived… Continue reading Predictive Analytics Interview with Dr. Olivier Riviere
+Qymatix presents its SaaS software at Sales & Leader Lab
+On Friday 22nd April 2016,10:00-16:00 hrs. at Lufthansa Training Center, D-64342 Seeheim-Jugenheim Qymatix will be presenting the last version of its predictive sales analytics tool to selected German Sales Leaders,… Continue reading Qymatix presents its SaaS software at Sales & Leader Lab
+Qymatix at CeBIT 2016:  We will be presenting the last release of our predictive sales analytics tool
+Qymatix will be presenting the last version of its predictive sales analytics tool at the Scale 11, early-stage track at CeBIT, in Hannover, Germany, Deutsche Messe. CeBIT is the largest… Continue reading Qymatix at CeBIT 2016:  We will be presenting the last release of our predictive sales analytics tool
+Agile selling in B2B
+    Nowadays, Small and Medium Enterprises in B2B need to improve their returns on sales investments. They need to capitalize on emerging trends and predictive sales analytics to create… Continue reading Agile selling in B2B
+Qymatix celebrated 2 years hosting GründerGrillen Karlsruhe
+  With the support of the Technologie Fabrik and the Center for Innovation und Entrepreneurship of the KIT, Qymatix Solutions GmbH celebrated its second anniversary co-hosting the Karlsruhe Founders Grill.… Continue reading Qymatix celebrated 2 years hosting GründerGrillen Karlsruhe
+Internship in Software Development
+  Lucas Pedretti: We continue with our series of associate interviews. This time, we would like to introduce our colleague Michael Sivo. LP: Tell us about you. My name is… Continue reading Internship in Software Development
+Sales in B2B: Being fast pays off
+Is your business looking to increase its sales revenues and you wonder how to go about this? A recent study published by Harvard Business Review may give you a simple… Continue reading Sales in B2B: Being fast pays off
+Sales Analytics as basis for Sales Coaching
+  As a sales leader, you need to improve your sales reps performance. Coaching is probably the number one sales activity that impacts your team performance. In two days, we… Continue reading Sales Analytics as basis for Sales Coaching
+Heidelberg Innovation Forum 2015 – Qymatix was there!
+  Heidelberg Innovation Forum 2015: Smart Data across all Sectors. European Start-ups meet Investors and Market Players. Qymatix had the chance to present its innovative and smart sales analytics SaaS.… Continue reading Heidelberg Innovation Forum 2015 – Qymatix was there!
+Qymatix benefiting from Software AG Startup Program
+  Karlsruhe, 11. Mai 2015 –   Qymatix Solutions GmbH is since May part of the Software AG Startup Program. Under this partnership, Qymatix gets free access to Software AG’S… Continue reading Qymatix benefiting from Software AG Startup Program
+Qymatix Partners – Creating the Future Together
+ 
+OFFICE
+Qymatix Solutions GmbH
+Haid-und-Neu Straße 7
+76131 Karlsruhe
+Fon: +49 (0) 721 86016373
+Fax: +49 (0) 721 174268
+E-Mail: info@qymatix.de
+Trade Register: Mannheim HRB 718209
+European VAT ID: DE292221610
+Managing Director: Lucas Pedretti
+Contact Qymatix
+SOFTWARE
+Cross-Selling & Up-Selling Analytics
+Customer Churn Software
+B2B Pricing Analytics
+ERP Big Data Mining
+Support
+ 
+WHY US
+Sales ROI Calculator
+Predictive Analytics Benefits
+Sales Analytics Technology
+Data Security
+FAQ
+Implementation
+CRM ERP Integration for Artificial Intelligence
+ 
+COMPANY
+Predictive Sales Blog
+Careers
+Qymatix Predictive Analytics Partners
+Networks
+Vision & Team
+Investors
+Contact Qymatix Predictive Sales
+ 
+Terms and conditions
+Privacy policy
+Impressum
+ 
+Yes, here we use cookies too! We want you to give you a great experience by remembering your preferences. By clicking “I am OK with Cookies”, you consent to the use of all the cookies. If not, click on "No Cookies, thanks" and only functional cookies will be used.  You can read "Cookie Settings" to see what our cookies are and how we use them. 
+Cookie SettingsNo Cookies, thanksI am OK with CookiesManage consent
+Close
+I'm not hungry! What kind of Cookies are you offering me? 
+Cookies are text files containing small amounts of data that we use to improve your experience as you navigate through the Qymatix Predictive Sales website. 
+Of these, the cookies that are deemed necessary are stored in your browser as they are essential for the basic functions of the website to work. 
+We also use third party cookies to help us analyse how you use this website. These cookies are only stored in your browser with your consent. You also have the option to refuse these cookies. If you reject some of these cookies, it may affect your browsing experience.
+Read more about what we do to protect your data in our privacy policy: https://qymatix.de/en/privacy/
+ 
+SAVE & ACCEPT
+ 

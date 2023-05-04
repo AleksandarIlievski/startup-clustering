@@ -1,0 +1,394 @@
+Subscription Management aus Deutschland - Fakturia.de
+Kundenlogin
+Produktion
+Sandbox
+FAQ
+Support
+Kontakt
+Dokumentation
+Info- Hotline: +49 (0) 81 04 / 33 50 1800 
+Funktionen
+Kernfunktionen
+Abo- und Vertragsverwaltung
+Recurring Billing
+Recurring-Payment
+Customer Selfservice
+Produkte und Kunden
+Sammelrechnungen
+Buchhaltung, Steuern und Finanzen
+Debitorenverwaltung
+Mehrstufiges Mahnwesen
+Datev /  Lexware Export
+Payment und Bezahlanbieter
+Bezahlmethoden
+Bezahlfunktionen Kundencenter
+Chargeback-Processing
+Schnittstellen
+REST-API
+Integrationen
+Preise
+Referenzen
+Über Fakturia
+So funktioniert es
+Branchen
+FAQ
+Tutorials
+Roadmap Entwicklung
+API-Schnittstelle
+Kostenlos testen
+Suche
+Menü
+Menü
+ 
+Die vollautomatisierte Abrechnungslösung 
+für Ihre Abos und Subscriptions.Fakturia verwaltet Ihre Verträge und verschickt automatisch Rechnungen an Ihre Kunden bei Fälligkeit.Subscription-Billing & Order-to-Cash aus einer Hand.WhiteLabel Self-Service PortalStarke REST-APIGoBD & DSGVO konformAnbindung an die Buchhaltung (DATEV, Lexware)Integrierte Provisionsabrechnung für VertriebspartnerFakturia weiß wann welche Leistung in Rechnung zu stellen ist.Geeignet für viele Branchen.Individuell anpassbar (Logos, Texte usw.)Abo- und nutzungsbasierte AbrechnungBerücksichtigung von Mindestlaufzeiten, Kündigungsfristen und AbrechnungsintervallenLehnen Sie sich entspannt zurück.Fakturia macht den Rest.Jetzt kostenlos testen
+Abo-RechnungenFakturia behält den Überblick über Ihre Kundenverträge: Mindest-vertragslaufzeit, Abrechnungsintervall, Kündigungsfrist, Prepaid oder Postpaid – Fakturia weiß wann was zu tun ist und führt es für Sie aus – ganz automatisch!
+InternationalFakturia ist multiwährungsfähig und unterstützt mehrere Sprachen sowie länderspezifische Steuersätze. Somit ist es für den Einsatz auf internationalen Märkten bestens vorbereitet.
+Einfach und sicherFakturia ist eine in Deutschland entwickelte webbasierte Mietlösung (Saas) und wird einem TÜV-zertifizierten Rechenzentrum in München gehostet.
+Sie wünschen eine persönliche Beratung inkl. Systemdemo?
+Jetzt Termin vereinbaren
+Feature-Highlights der letzten 24 Monate:
+Provisionsabrechnung für Vertriebspartner
+Zwei-Faktor-Authentisierung beim Login (2FA)
+Single Sign-on (SSO) für das Kundencenter
+Umsatzprognose (MRR)
+Umsetzung Kündigungsbutton (faire Verbraucherverträge)
+Mehr Videos in unseren Tutorials
+Beratungsgespräch vereinbaren
+Wir beraten Sie individuell und zeigen Ihnen die Möglichkeiten auf, die Fakturia Ihnen und Ihrem Unternehmen bietet.
+unverbindlich Testen 
+Testen Sie Fakturia kostenfrei, zeitlich unbegrenzt und völlig unverbindlich.
+Alle Vorteile auf einen Blick
+KundencenterÜber das integrierte WhiteLabel Self-Service-Portal erhalten Ihre Kunden Zugriff auf Rechnungen, Verträge und Stammdaten. Vorgefertigte Bestellseiten helfen bei der effektiven Bestellabwicklung.
+API SchnittstelleDie offene REST-Schnittstelle ermöglicht die direkte Integration in Ihre Prozesslandschaft. Docken Sie Fakturia direkt an den Onlineshop oder das CRM-System an.
+PaymentFakturia bietet integrierte Schnittstellen zu bekannten Online-Bezahlanbietern wie Paypal, Heidelpay oder Sofort-überweisung sowie weitere nützliche Onlinebanking-Features wie SEPA-Sammellastschriften und automatisierten Zahlungsabgleich.
+BuchhaltungDATEV- und Lexware-Export sowie Zusammenfassende Meldung (ZM) und Mini-One-Stop-Shop (MOSS). Integrierte Verwaltung von Debitorenkonten mit Wechselmöglichkeit zwischen Soll-/Ist-Versteuerung.
+KündigungsprozeßZeitraubende Kündigungsabwicklungen sind mit Fakturia mit wenigen Klicks erledigt: Der Kunde erhält eine Kündigungsbestätigung per E-Mail und ggf. eine Korrekturrechnung bei Überzahlung.
+Automatisches MahnwesenNie wieder Ärger mit säumigen Kunden: Fakturia behält den Überblick über die Außenstände und versendet Zahlungshinweise und Mahnungen direkt per E-Mail.
+Intelligente TextverwaltungMit der integrierten Textverwaltung pflegen Sie alle Texte voll internationalisiert in allen gewünschten Sprachen. Dank der Skripting-Unterstützung lassen sich auch logische Abhängigkeiten einfach lösen.
+MandantenfähigkeitÜber die Projektverwaltung lassen sich mit einem Fakturia-Account beliebig viele Brands verwalten. Artikel, Verträge etc. können nach den Projekten gruppiert werden.
+Import / ExportImportmöglichkeit für den Kundenstamm sowie CSV-Export der Rechnungen als fertige Buchungssätze für den Import in die Buchhaltung.
+Fakturia – Mehr als eine einfache Online-Rechnungssoftware.
+Vergleichen Sie jetzt
+Payment-Support
+ ZurückWeiter
+Einsatzbeispiele
+Abrechnungssoftware für Privatschulen0 Kommentare/26. Januar 2023Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2023/01/teacher-3765909_1280.jpg
+855
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2023-01-26 16:44:032023-01-26 16:49:47Abrechnungssoftware für PrivatschulenEnergieverträge automatisch abrechnen0 Kommentare/5. Februar 2022Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2022/02/solar-system-2939560_1280.jpg
+655
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2022-02-05 18:31:302022-02-05 18:33:16Energieverträge automatisch abrechnenBilling-Software für IT-Dienstleister0 Kommentare/27. Januar 2022Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2022/01/network-cable-2245837_1280.jpg
+851
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2022-01-27 19:29:182022-09-07 17:44:59Billing-Software für IT-DienstleisterSoftware-Lizenzen automatisiert abrechnen0 Kommentare/23. November 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/11/cover-159350_1280.png
+1280
+1127
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-11-23 18:20:312018-11-23 18:27:48Software-Lizenzen automatisiert abrechnenExternen Datenschutzbeauftragten automatisch abrechnen0 Kommentare/19. Oktober 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/10/dsgvo-3583628_1280.jpg
+853
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-10-19 15:44:202018-10-19 15:49:02Externen Datenschutzbeauftragten automatisch abrechnenAbrechnungssoftware für den Drohnenverleih0 Kommentare/3. Oktober 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/10/drone-1142182_1280.jpg
+850
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-10-03 14:43:332018-10-03 14:48:05Abrechnungssoftware für den DrohnenverleihKameraverleih automatisch abrechnen0 Kommentare/3. Oktober 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/10/night-1927265_1280.jpg
+853
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-10-03 14:35:502018-10-03 14:37:55Kameraverleih automatisch abrechnenAbrechnungssoftware für Musikschulen0 Kommentare/17. Mai 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/05/concert-1838412_1280.jpg
+744
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-05-17 11:57:302018-05-17 11:59:48Abrechnungssoftware für MusikschulenPartyverleih automatisch abrechnen0 Kommentare/18. April 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/04/festival-2903000_1280.jpg
+792
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-04-18 15:15:152018-04-18 15:18:22Partyverleih automatisch abrechnenVermietung von Bürotechnik automatisch abrechnen0 Kommentare/14. April 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/04/beamer-196951_1280.jpg
+960
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-04-14 09:48:452018-04-14 09:56:13Vermietung von Bürotechnik automatisch abrechnenSharing Economy Geschäftsmodelle automatisch abrechnen0 Kommentare/8. April 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/04/bike-2421297_1280.jpg
+853
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-04-08 17:09:352018-04-08 17:11:24Sharing Economy Geschäftsmodelle automatisch abrechnenAlarmanlagen-Vermietung automatisch abrechnen0 Kommentare/7. April 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/04/video-camera-3121655_1280.jpg
+670
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-04-07 10:39:532018-04-07 10:42:46Alarmanlagen-Vermietung automatisch abrechnenSchreibbüro-Services automatisch abrechnen0 Kommentare/6. April 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/04/paper-3172594_1280.jpg
+925
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-04-06 13:07:412018-04-06 13:15:19Schreibbüro-Services automatisch abrechnenSeminare ganz einfach automatisch abrechnen0 Kommentare/5. April 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/04/room-2192484_1280.jpg
+853
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-04-05 16:23:322018-04-05 16:26:26Seminare ganz einfach automatisch abrechnenSicherheitsdienst automatisch abrechnen0 Kommentare/2. April 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/04/police-869216_1280.jpg
+853
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-04-02 10:33:052018-04-02 10:41:02Sicherheitsdienst automatisch abrechnenTanzschule: Kurse automatisch abrechnen0 Kommentare/23. März 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/03/sauce-2751848_1280.jpg
+1151
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-03-23 11:52:242018-03-23 11:58:41Tanzschule: Kurse automatisch abrechnenAutomaten-Vermietung automatisch abrechnen0 Kommentare/17. März 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/03/girls-1967832_1280.jpg
+851
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-03-17 17:20:572018-03-17 17:25:19Automaten-Vermietung automatisch abrechnenKaffeeautomaten-Vermietung automatisch abrechnen0 Kommentare/14. März 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/03/coffee-1009621_1280.jpg
+816
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-03-14 18:33:342018-03-14 18:36:24Kaffeeautomaten-Vermietung automatisch abrechnenGartengeräte: Vermietung automatisch abrechnen0 Kommentare/8. März 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/03/nature-2391968_1280.jpg
+960
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-03-08 17:00:022018-03-08 17:01:58Gartengeräte: Vermietung automatisch abrechnenCateringservice : Abos automatisch abrechnen0 Kommentare/7. März 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/03/bruschetti-2152340_1280.jpg
+731
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-03-07 16:50:282018-03-07 16:54:16Cateringservice : Abos automatisch abrechnenBaumaschinen-Vermietung automatisch abrechnen0 Kommentare/6. März 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/03/machinery-1898872_1280.jpg
+960
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-03-06 16:22:502018-03-06 17:09:51Baumaschinen-Vermietung automatisch abrechnenHaushaltsgeräte vermieten und einfach abrechnen0 Kommentare/5. März 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/03/washing-machine-2668472_1280.jpg
+853
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-03-05 18:30:472018-03-05 18:35:13Haushaltsgeräte vermieten und einfach abrechnenEDV-Wartungsverträge automatisch abrechnen0 Kommentare/3. März 2018Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2018/03/sever-3100049_1280.jpg
+931
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2018-03-03 11:43:002018-03-03 11:54:03EDV-Wartungsverträge automatisch abrechnenOnlinekurse automatisiert abrechnen0 Kommentare/18. Januar 2017Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2017/01/professor-1696568_1280.png
+1280
+1235
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2017-01-18 16:18:242022-11-10 19:23:53Onlinekurse automatisiert abrechnenDigitale Abo-Produkte automatisiert abrechnen0 Kommentare/30. Dezember 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/12/library-1666701_1280.jpg
+640
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-12-30 11:20:272016-12-30 11:23:47Digitale Abo-Produkte automatisiert abrechnenSaaS Abos automatisiert abrechnen0 Kommentare/17. November 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/11/ball-862122_1280.jpg
+720
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-11-17 17:55:452016-11-17 18:03:14SaaS Abos automatisiert abrechnenLieferdienst-Abo automatisch abrechnen0 Kommentare/11. November 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/11/moving-312082_1280.png
+1182
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-11-11 17:00:162016-11-11 17:02:15Lieferdienst-Abo automatisch abrechnenFuhrparkmanagement: Verträge automatisch abrechnen0 Kommentare/20. Februar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/02/parking-825371_1280.jpg
+853
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-02-20 12:22:322023-02-28 09:42:45Fuhrparkmanagement: Verträge automatisch abrechnenAbrechnung im Coworkingspace0 Kommentare/19. Februar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/02/office-1081807_1280.jpg
+855
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-02-19 12:18:262016-02-18 12:21:52Abrechnung im CoworkingspaceAutomatische Vertragsabrechnung für Hausverwaltungen0 Kommentare/18. Februar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/02/building-849849_1280.jpg
+856
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-02-18 12:38:482016-02-17 12:44:52Automatische Vertragsabrechnung für HausverwaltungenTelefon-Services: Verträge automatisch abrechnen0 Kommentare/17. Februar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/02/secretary-1149302_1280.jpg
+905
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-02-17 11:08:062016-02-17 11:10:26Telefon-Services: Verträge automatisch abrechnenHeizkostenabrechnung automatisieren0 Kommentare/16. Februar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/02/controller-78445_1280.jpg
+853
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-02-16 11:03:222016-02-16 11:06:16Heizkostenabrechnung automatisierenFinanzdienstleister: Beratung automatisch abrechnen0 Kommentare/15. Februar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/02/profit-1139073_1280.jpg
+853
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-02-15 11:18:522016-02-14 11:25:03Finanzdienstleister: Beratung automatisch abrechnenHausmeister-Dienste automatisch abrechnen0 Kommentare/14. Februar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/02/plumber-1162344_1280.jpg
+959
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-02-14 11:14:022016-02-14 11:17:35Hausmeister-Dienste automatisch abrechnenPferdehof: Boxenmiete & Co automatisch abrechnen0 Kommentare/13. Februar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/02/horse-1016468_1280.jpg
+874
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-02-13 12:31:532016-02-13 12:42:43Pferdehof: Boxenmiete & Co automatisch abrechnenRechtsanwälte: Beratung automatisch abrechnen0 Kommentare/12. Februar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/02/hammer-802303_1280.jpg
+960
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-02-12 11:11:492016-02-12 11:17:46Rechtsanwälte: Beratung automatisch abrechnenAutomatische Abrechnung für Steuerberater0 Kommentare/8. Februar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/02/calculator-385506_1280.jpg
+754
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-02-08 11:24:152016-02-08 11:26:42Automatische Abrechnung für SteuerberaterÖko-Kiste mit Fakturia zeitsparend abrechnen0 Kommentare/7. Februar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/02/apples-1004886_1280.jpg
+853
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-02-07 12:59:192016-02-07 13:02:29Öko-Kiste mit Fakturia zeitsparend abrechnenFakturia – ideale Abrechnungssoftware für SEO-Agenturen0 Kommentare/5. Februar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/02/computer-767776_1280.jpg
+853
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-02-05 11:50:572016-02-05 11:54:56Fakturia – ideale Abrechnungssoftware für SEO-AgenturenVereine: Abrechnung der Mitgliedsbeiträge0 Kommentare/4. Februar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/02/golf-828976_1280.jpg
+853
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-02-04 10:38:352016-02-04 10:42:37Vereine: Abrechnung der MitgliedsbeiträgeEssen auf Rädern einfach abrechnen mit der richtigen Software0 Kommentare/3. Februar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/02/menu-1159295_1280.jpg
+853
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-02-03 13:01:182016-02-03 13:03:04Essen auf Rädern einfach abrechnen mit der richtigen SoftwareWebhosting-Verträge automatisiert abrechnen2 Kommentare/2. Februar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/02/datacenter-286386_1280.jpg
+960
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-02-02 11:54:132016-02-02 11:54:56Webhosting-Verträge automatisiert abrechnenMaschinenbau: Wartungsverträge automatisch abrechnen0 Kommentare/1. Februar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/02/turn-1136053_1280.jpg
+960
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-02-01 11:43:022016-02-01 11:46:58Maschinenbau: Wartungsverträge automatisch abrechnenAbrechnung der Mitgliedsbeiträge im Fitness-Studio1 Kommentar/31. Januar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/01/gym-1046961_1280.jpg
+853
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-01-31 12:06:532016-01-31 12:12:01Abrechnung der Mitgliedsbeiträge im Fitness-StudioDauercamper: Jahresmiete automatisch abrechnen0 Kommentare/27. Januar 2016Weiterlesen
+https://www.fakturia.de/wp-content/uploads/2016/01/camping-987707_1280.jpg
+729
+1280
+Norbert Schollum
+/wp-content/uploads/2014/09/logo_fakturia_rgb.png
+Norbert Schollum2016-01-27 16:06:092016-01-31 12:14:00Dauercamper: Jahresmiete automatisch abrechnenZurückWeiter
+Was unsere Kunden sagen
+Mit Fakturia haben wir eine ideale Ergänzung im kaufmännischen Bereich gefunden um unsere Rechnungsstellung schnell und einfach abzuwickeln. Fakturia ist intuitiv bedienbar und bietet viele Möglichkeiten unterschiedliche Rechnungsanforderungen umzusetzen. Auch sollte die einfache Integration der Daten durch Download in unser Buchhaltungsprogramm DATEV genannt werden. Schließlich möchten wir auch den sehr gut verfügbaren und schnellen Hotline-Service per Email oder Telefon nennen. Wir haben mit Fakturia die für uns richtige Wahl getroffen.
+BentoNetBranche: Energie
+Seit der Einführung von Fakturia haben wir unseren Kundenstamm um ein Vielfaches erweitert. Wir können jederzeit unsere, zum Teil sehr speziellen Anforderungen so umsetzen, dass unsere Abrechnungen pünktlich und korrekt beim Kunden ankommen. Das Handling ist logisch und einfach während die Kosten sehr transparent und überschaubar sind.
+IT-Seal GmbHBranche: IT-Sicherheit
+Mit Fakturia haben wir endlich ein solides Abrechnungssystem gefunden, mit dem wir unsere Abrechnungsprozesse weitestgehend automatisch abwickeln können. Insbesondere der gute Support ist beeindruckend und hilft uns jederzeit und schnell bei den täglichen Herausforderungen. Rundum eine Anwendung, die unsere Mitarbeiterinnen und unsere Kundinnen glücklich macht.
+KITALINOBranche: Softwareentwicklung, Frühkindliche Pädagogik
+Fakturia verarbeitet unsere umfangreichen Abo-Rechnungen punktgenau und vollautomatisch. Das unkomplizierte SEPA-Sammellastschriftverfahren inkl. den Verbuchung rundet den Vorgang ab. Für uns eine erhebliche Zeitersparnis.
+Energie360Branche: Energieversorgung
+Wir setzen Fakturia für die Abwicklung unserer vServer- und Webhosting-Verträge seit mehreren Monaten erfolgreich ein. Zuvor war es sehr mühselig die Abo-Rechnungen von Hand abzuwickeln und dem Kunden zuzustellen. Dank Fakturia sparen wir uns nun wertvolle Zeit.
+XentosBranche: Webhosting
+Mit steigender Kundenzahl wurde für uns die regelmässige Abrechnung der Hosting-Verträge ein zeit- und kostenintensives Unterfangen. Mit Fakturia haben wir eine günstige „virtuelle Sekretärin“ gefunden, die sich unermüdlich um den Rechnungsversand kümmert. Klasse!
+Profi1.deBranche: Webhosting
+ZurückWeiter
+Bewertung unserer Besucher
+[Insgesamt: 21  Durchschnitt: 3.7]
+   
+ProduktFeatures
+Preise
+Branchen
+Branchenbeispiele
+Programmierschnittstelle (API)
+Dokumentation
+Feedback
+Privatsphäre-Einstellungen ändernUnternehmenÜber uns
+Aktuelles
+Das Team
+Nutzungsbedingungen SaaS
+Datenschutzerklärung
+Partner werden
+ 
+Jetzt loslegenKostenlos testen
+Beratungsgespräch vereinbaren
+Fakturia NewsletterBleiben Sie Up2Date über Fakturia und seine neuen Möglichkeiten.
+E-Mail Adresse
+ Produkt Release-Notes
+ Störungsmeldungen
+ Ich akzeptiere die Datenschutzbestimmungen dieses Angebots.
+Neues von FakturiaRelease 2.101.0: Absicherung Webhooks23. April 2023 - 10:15Release 2.99.0: API/Webhook-Erweiterungen26. März 2023 - 11:51Release 2.97.0: Artikelabhängige Rabatte u. Provisionen5. März 2023 - 11:15
+ Copyright © 2017 - Luminea IT Services GmbH
+FacebookTwitterLinkedInXingFAQ
+Blog
+Lexikon
+Newsletter
+Kontakt
+Impressum
+Nach oben scrollen
+GDPR Cookie Consent mit Real Cookie Banner
