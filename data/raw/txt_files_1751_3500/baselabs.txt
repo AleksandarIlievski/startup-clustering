@@ -1,0 +1,143 @@
+ 
+ Sensor fusion software for automated driving | BASELABS
+				Menu
+			
+							Contact
+						
+							Jobs
+						
+							News
+						
+Login
+ENDE
+				Sensor Fusion Software for Safe Automated Driving
+			
+				Sensor fusion results
+			
+					From prototyping to series production
+				
+							Dynamic Object Fusion Library
+						
+BASELABS Create Embedded 
+For cost- and resource-efficient development of driver assistance systems up to L3. Suitable for AEB, highway pilot, and similar use cases. Dynamic objects fusion for all relevant automotive sensors.   
+							Dynamic Grid Fusion  Library
+						
+BASELABS Dynamic GridFor challenging use cases such as valet parking, L2+ driver assistance and highly automated driving. Dynamic & static objects fusion including free space detection, also with high resolution sensors. 
+							Sensor Fusion Insights
+						
+ Strategic & Technical Knowledge 
+Thoughtful considerations are required when making strategic or technical decisions for sensor fusion. BASELABS experts share strategic and technical advise to enrich your thinking.
+							Trustworthy Partner
+						
+Sensor Fusion ExpertiseOur customers develop advanced driver assistance systems as well as environment models with BASELABS sensor fusion development software.
+					About BASELABS
+				
+									Sensor Fusion Software for Safe Automated Driving
+								
+BASELABS is executing on the vision of "safe automated driving for all vehicles". We provide software products to make the development of sensor fusion efficient and scalable. We are a trustworthy partner for automotive manufacturers and suppliers worldwide.BASELABS was founded in 2012 and is in shared ownership by its four founders and Vector Informatik GmbH. Thus, we are strategically independent of any OEM, Tier 1, or sensor supplier in the market.The basis of our success is a dedicated team in an employee-oriented corporate culture, whose positive assessment has led to receive the "Great Place to Work®" award several times.
+									Job offers
+								
+									Sensor Fusion Knowledge
+								
+Sensor fusion is one of the most important building blocks for automated vehicles. In the process of sensor fusion, the results of different sensors are combined to obtain more reliable and meaningful data. In the context of automated driving, the term usually refers to the perception of the environment of a vehicle using vehicle sensors such as radars, cameras and lidars.
+									Learn more
+								
+									Safe Autonomous Operation of Commercial Vehicles
+								
+This article explains: Why ensuring the safety of highly automated commercial vehicles includes its challenges Why complexity reduction is favorable for safe autonomous driving How fenced areas can offer new automation options How path planning considers both known and unknown objects
+									Read the article
+								
+									Webinar Low-level fusion with the BASELABS Dynamic Grid - Detecting the unsafe unknowns
+								
+If you are looking for ways to improve your ability to detect potential  dangers and threats in sensor fusion or if you struggle with detecting  unknown risks that traditional high-level fusion techniques just can't  capture - You should watch our webinar!
+									Watch the full Webinar
+								
+									Webinar Sensor Fusion: From Prototyping to Production
+								
+ What are the required latencies for different sensors? How do we ensure  numerical stability and how do you overcome out of sequence on the  input? When do you attach confidence levels?  
+In this webinar you will find out how to unlock the full potential of  your ADAS! Streamline your sensorfusion development process and find out  how enhanced performance and increased safety on the road can be  achieved with the powerful BASELABS Create Embedded software library. 
+									Watch the full Webinar
+								
+									BASELABS is a certified Great Place to Work®
+								
+Once again, we are one of Germany's best employers in the information and communications  industry and in the category "small and medium-sized businesses"! We are  delighted and proud to receive this award from Great Place To Work®! 
+									Learn more abour our Great Place to Work®
+								
+									Sensor fusion for high-resolution sensors and next-generation urban driving functions
+								
+BASELABS Dynamic Grid provides sensor fusion of dynamic and static objects, including free space detection. The technology is suitable for high-resolution radars, semantic segmentation cameras, or lidars. It empowers your development of automated driving in urban environments, automated parking, traffic jam or highway pilots, with many different traffic participants and object types.  
+									Watch the full video
+								
+									Safe and scalable sensor fusion ecosystem for ADAS
+								
+The whitepaper "Driving Toward Level 2+ Sensor Fusion for ADAS" explores how Utilizing a safe and scalable sensor fusion ecosystem of hard- and software can efficiently handle the complexity of sensor fusion for safety-critical automotive applicationsThe BASELABS Create Embedded sensor fusion platform is the perfect fit for the Infineon AURIX TC3xx family of reliable automotive microcontrollers when approaching the development of ADAS systems that vehicle owners can trust   
+ 
+									Download Whitepaper
+								
+									exida confirms ISO 26262 compliance of BASELABS Create Embedded
+								
+We are excited to announce that our product for the development of safe object fusion algorithms - BASELABS Create Embedded - has been confirmed by exida to be compliant with the relevant regulations of the ISO 26262 safety norm. With its comprehensive understanding of ISO 26262, exida provides ISO 26262 certification for the development of safer products. 
+BASELABS Create Embedded has been developed in accordance with a relevant sub-set of ISO 26262:2018 requirements and methods for ASIL B. Its resulting software algorithms are directly applicable to the production of safety-related ADAS and automated driving functions. 
+									More information
+								
+									BASELABS Create Embedded now supports Infineon's AURIX TC3xx microcontrollers
+								
+With BASELABS Create Embedded, a series-grade software library is available which enables customers to efficiently develop sensor fusion systems for automated driving functions in embedded systems. The software makes it possible for the first time to take over the developed sensor fusion C-code directly for series production ECUs. Infineon's AURIX™ TC3xx microcontroller platforms are perfectly suited for the execution of the embedded software algorithms. 
+									Press release
+								
+									Chemnitz Automated Driving Alliance (CADA) - bundled competencies in Chemnitz
+								
+Together with other companies from in the field of automated driving in Chemnitz, BASELABS has founded the association CADA. The cluster has the mission to promote Chemnitz as a competence center for software development for automated driving. Several companies are active in this field with slightly different but complementary focus. This underlines the wide range of job opportunities available to actively participate in the future of the automotive industry. Both graduates and experienced software developers and engineers are invited to benefit from this versatility for their career in Chemnitz in the long run.
+									About CADA
+								
+						We work for leading clients
+					
+Contact Baselabs
+  
+Events
+						09.05.2023
+						
+							- 11.05.2023
+						
+						
+					
+AutoSens Detroit 2023 - Detroit - United States of America
+						13.05.2023
+						
+						
+					
+RoboDay Future Engineers (CADA)
+Show all
+Baselabs Newsletter
+Our newsletter is a convenient way to stay in touch. We send it just a few times per year, so you won’t get bothered, but informed!
+subscribe
+Follow Baselabs
+Follow BASELABS on LinkedIn
+Follow BASELABS on Facebook
+Follow BASELABS on Twitter
+Follow BASELABS on XING
+Follow BASELABS on Youtube
+					© 2023 BASELABS  - Sensor Fusion Software for Safe Automated Driving. Learn more about our Sensor Fusion Library BASELABS Create Embedded. Stay in touch with our newsletter.Imprint | Privacy Policy
+Search for:
+close
+Share:
+Share BASELABS on LinkedIn
+Share BASELABS on Facebook
+Share BASELABS on Google+
+Share BASELABS on Twitter
+Share BASELABS on XING
+close
+Get access:
+				Checking data...
+			
+Login was not successful.
+Login successful. You will be redirected
+Forgot password?
+Close
+Top of page
+Object FusionbackBASELABS Create EmbeddedBASELABS Create Embedded - Frequently Asked QuestionsSensor Fusion Library for NVIDIA DRIVE PlatformsSensor Fusion Library for Headlight LiDARsSensor Fusion Library for Infineon AURIXSensor fusion library for AUTOSARSensor fusion for AEB in NCAP scenariosDynamic Grid Fusion for ADAS and ADResearchJobsbackStellenangeboteBASELABS – Ein "Great Place to Work"Vorteile bei BASELABSBASELABS InsightsBASELABS Karriere-NewsletterSensor FusionCompanyNews and PressbackPressSensor Fusion InsightsEventsBASELABS newslettersContact 
+Search
+Login
+Share 
+ENDE
+ 

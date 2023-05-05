@@ -1,0 +1,92 @@
+coview - Connect to your customers' browser
+ 
+Features
+Pricing
+Login
+Sign upStart Free Trial
+Frustration-free customer support and one-on-one onboarding
+Boost customer satisfaction and team productivity through browser screen sharing and screen captures with code-level info
+Start Free Trial
+Screenshot
+Screen recording
+Screen sharing
+You
+Customer
+You
+Replay
+VIEW
+A great support experience means happy, loyal customers
+					When there’s a problem, your customers want to show you what’s wrong - not try to explain it.
+Coview allows your customers to take a screenshot or record their browser screen and show you exactly where they’re getting stuck - all at the click of a button.
+Nothing for them to download, nothing to install and no need to leave the page - in fact no technical expertise required at all.
+                
+More About Browser Screen Capture
+SHOW
+Customer onboarding should be exciting - not dull and confusing
+Onboarding is an opportunity to connect and build trust with your customers. Coview allows your team to walk them through your web app - in their own browser.
+Your customers feel like there’s a helpful person by their side, and your support team will have the time to do what they love - helping customers.
+                
+More About Browser Screen Sharing
+EMPOWER
+Breathe life back into your burnt out support team
+Coview is just as intuitive for your support team as it is for your customers. Any technical errors, compatibility issues or even network problems are automatically highlighted. Meaning that most tickets can be quickly resolved at first-level contact.
+So rather than slogging through an overwhelming backlog, your team can hit inbox zero at the end of every day.
+                
+More about problem notifications
+ 
+UNDERSTAND
+Give engineering teams the big picture (as well as the crucial details)
+					Your developers can easily replay customer sessions that include automatically logged code-level data.
+					And with Coview’s debugging features, they can quickly see where the problem lies.
+					This means your developers can spend their time working on solutions rather than trying to reproduce errors.
+                
+More About Debugging
+										No download
+										Neither you nor your customers need to  download or install anything
+	            
+									Works everywhere
+									On any device - desktop or mobile, webapp and every major browser
+	            
+										Full privacy & security
+									Not a tracking tool, any sensitive data is easily masked
+	            
+										Super fast
+									 Tiny script, not slowing down your page, and faster than regular screen sharing
+	            
+									 Scalable
+								  From a single-person startup, to full enterprize scale
+ 						 
+Connect Coview with your favorite tools
+Intercom
+					learn more
+Jira
+					learn more
+Zendesk
+					Upcoming
+Github
+					Upcoming
+Asana
+					learn more
+ 
+Product
+Features
+Pricing
+Security
+Integrations
+Intercom
+Jira
+Asana
+Coview
+Our Story
+Jobs
+Support
+Documentation
+Status
+Legal
+TOS
+Privacy
+Imprint
+			© 2019  - Coview GmbH
+		
+Coview uses cookies for analysis purposes. For more information, see our Privacy policy
+Ok

@@ -1,0 +1,105 @@
+Front page
+      Skip to main content
+    
+Primary navigation
+Toggle navigation
+Home
+About
+Company
+Team
+Career
+U-PGx
+Solutions
+Genetic Information Management System
+GIMS.pharma
+GIMS.dx
+FAQ
+Literature
+News
+News
+Press
+Events
+Contact
+Contact
+de
+Our Mission
+Support and drive the adoption
+of human genetic diagnostics into clinical practice
+Our focus
+Process steps which are facing the unmet need
+in genetic diagnostics
+Our offer
+Innovative IT solutions supporting genetic labs
+in translating genetic test results into clinical recommendations
+bio.logis GIMS - Home of the Clinical Interpretome
+News
+ February 3, 2023
+   |       Article
+  
+Weltweit bisher größte Studie zur Anwendung pharmakogenetischer Informationen zeigt: Anpassung von Medikation an DNA-Varianten unter Nutzung der bio.logis-Plattform führt zu 30 % weniger Nebenwirkungen 
+Im Rahmen einer der bisher größten Anwendungsstudien zum Thema konnte eine internationale Forschungsgruppe, an der auch das Frankfurter Unternehmen bio.logis digital health GmbH maßgeblich beteiligt war, zeigen, dass bei Patienten 30 % weniger schwerwiegende unerwünschte Wirkungen auftreten, wenn die Verordnung von Medikamenten auf ihre DNA abgestimmt ist. Die in der Zeitschrift "The Lancet" veröffentlichte Studie ist die erste, welche die Erfolgsraten einer systematischen praktischen Anwendung der Verschreibung von Medikamenten auf der Grundlage der genetischen Informationen einer Person zeigt.
+Read more about Weltweit bisher größte Studie zur Anwendung pharmakogenetischer Informationen zeigt: Anpassung von Medikation an DNA-Varianten unter Nutzung der bio.logis-Plattform führt zu 30 % weniger Nebenwirkungen  >
+all news >
+Events
+ August 31, 2021
+   |       Conference
+  
+eHealth-Kongress 2021 Rhein-Main und Hessen, 1. Septemter 2021, IHK Frankfurt am Main
+Die gesundheitswirtschaft rhein-main (gwrm) e. v., das Hessische Ministerium für Soziales und Integration (HMSI), die Industrie- und Handelskammer (IHK) Frankfurt am Main (unterstützt durch IHK Hessen innovativ) und die Techniker Krankenkasse (TK) veranstalten den eHealth-Kongress Rhein-Main und Hessen.
+Read more about eHealth-Kongress 2021 Rhein-Main und Hessen, 1. Septemter 2021, IHK Frankfurt am Main >
+all events >
+Genetic Information Management System
+genetic information management
+Genetic data for clinical practice
+more >
+bio.logis provides highly innovative software solutions, enabling automated interpretation, reporting & delivery of genetic data – compiled in one central, highly sophisticated IT platform:
+Genetic Information Management System – GIMS 
+GIMS enables workflow-, collaboration- and knowledge management as well as clinical decision support for human genetics data and digital delivery of genetic diagnostic information via a software platform. It supports laboratories with the interpretation of genetic data and the translation into actionable clinical insights as well as healthcare professionals and patients with the application of these insights at the point of care.
+GIMS APPLICATIONS
+GIMS.PHARMA
+Pharmacogenomics for everyday clinical practice
+more >
+GIMS.dx
+Clinical decision-making for genetic diagnostics
+more >
+ 
+ 
+Watch our video and discover what gims can do for your lab
+play video >
+request a demo >
+Testimonials
+ 
+ 
+We are convinced, that the bio.logis Genetic Information Management System will improve the process of creating more valuable results, which we provide to our clients (i.e. physicians). This will help us to build a competition advantage.“
+Dr. med. Michal Milczarek, Director Operations, Alab Laboratories, Poland
+ 
+ 
+"bio.logis is the ideal partner for us to implement personalized pharmacogenetic diagnostics.
+We know the GIM system from the EU project Ubiquitious Pharmacogenomics, in which it has already proven its efficiency."
+Prof. Dr. Matthias Schwab, Head of Dr. Margarete Fischer-Bosch Institute of Clinical Pharmacology, Stuttgart
+ 
+ 
+ "We are using bio.logis GIMS within the EU-funded project U-PGx where it serves as the standard tool for all study sites for producing pharmacogenetic reports and patient cardsfrom raw genetic test results." 
+Prof. J.J. Swen, PharmD, PhD, Associate Professor of Pharmacogenetics, Leiden University Medical Center, Netherlands
+ 
+Participation in EU-Projects within Horizon 2020 program
+Ubiquitous Pharmacogenomics (U-PGx)
+Genetics Clinic of the Future (GCOF)
+more >
+Partners
+Address
+bio.logis digital health GmbH
+Altenhöferallee 3
+60438 Frankfurt am Main
+Germany
++49 69 - 34871161
+info@biologis.eu
+ 
+Secondary navigation
+Terms & Conditions
+Privacy
+Legal notice
+Disclaimer
+Social links
+LinkedIn
+XING

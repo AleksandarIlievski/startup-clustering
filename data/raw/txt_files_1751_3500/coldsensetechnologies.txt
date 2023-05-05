@@ -1,0 +1,320 @@
+Startseite - Coldsense Technologies
+ 
+Kältetechnik
+Funktionsprinzip
+Technik & Servicepaket
+Für Energieberater
+Für Anlagenbauer
+Andere Branchen
+Windenergie
+Urban Air Mobility & Drohnen
+Testing & Beratung
+Beratung
+Erprobung
+Unternehmen
+Über uns
+Karriere
+Blog
+DE
+EN
+ 
+Kontakt
+ 
+ 
+  
+KI-gesteuerte Abtauung von Kühleinrichtungen
+ 
+Bis zu 20 % weniger Stromverbrauch – besserer CO2-Footprint
+– höhere Produktsicherheit
+ 
+Nicht Ihre Branche? Wir können noch mehr:
+ 
+ 
+ 
+Lösungen für Windkraftanlagen
+Lösungen für UAM & Drohnen
+ 
+ 
+ 
+KI-gesteuerte Abtauung von Kühl­einrichtungen
+ 
+– Bis zu 20 % weniger Stromverbrauch – besserer CO2-Footprint– höhere Produktsicherheit
+ 
+Nicht Ihre Branche? Wir können noch mehr:
+ 
+Lösungen für Windkraftanlagen
+Lösungen für UAM & Drohnen
+ 
+ 
+ 
+Wir erhöhen die Energieeffizienz und Ausfallsicherheit Ihres Kühlhauses
+ 
+Möchten Sie die Stromkosten für Ihren Kühlraum reduzieren? Sollen vereisungsbedingte Störungen und Ausfälle Ihrer Kälteanlage zuverlässig vermieden werden? Dann haben wir die passende Lösung für Sie!
+ 
+ 
+ 
+ 
+Systemlösung aus Sensorik und KI
+ 
+Coldsense kombiniert Eissensoren, Türsensoren und Umweltsensoren mit Methoden des Supervised Learnings, um die Abtauung des Kühlraums orientiert am tatsächlichen Betriebszustand zu steuern. Das heißt: Es wird nur dann abgetaut, wenn es wirklich notwendig ist – und das spart jede Menge Energie. 
+ 
+ 
+ 
+Keine Eisbildung
+ 
+Zuverlässiger Vereisungsschutz aller
+Komponenten
+ 
+ 
+Weniger Stromkosten
+ 
+Optimiertes Abtauen durch Echtzeit-Überwachung der Kälteanlage
+ 
+ 
+Monatliche Berichte
+ 
+Kennzahlen zur Energie- und CO2-Einsparung, Temperaturstabilität etc.
+ 
+ 
+ 
+ 
+Unsere Systemlösung ermöglicht erstmals eine automatisierte Überwachung des Eisaufbaus direkt am Verdampfer der Kühleinrichtung. Der von uns entwickelte Sensor misst, wie das Eis wächst und schmilzt, sodass die Abtauung punktgenau gestartet und beendet werden kann.
+Künstliche Intelligenz an Bord
+Dank moderner Algorithmen und künstlicher Intelligenz wertet unser System zudem unregelmäßigen Wareneingang, Feuchteeintrag, Türenbewegungen und andere Umgebungsfaktoren aus, um die Abtauung des Kühlraums weiter zu optimieren.
+Außerdem möglich: Die Kopplung der Abtauung mit anderen Energieerzeugern, um noch mehr Strom zu sparen.
+ 
+Mehr zum Funktionsprinzip
+ 
+Kühlraum just-in-time abtauen
+ 
+ 
+ 
+ 
+Beispielrechnung: So sparen Sie Geld mit der KI-gesteuerten Abtauung
+ 
+ 
+Die Coldsense Technologien eignen sich für Kälteanlagen jeder Art – in jedem industriellen Kontext: vom Lebensmittelbereich über Tieftemperaturanwendungen im Chemie- und Pharmasektor bis hin zu Klimakammer-Anwendungen im Fahrzeugbau. Das Coldsense Grundprinzip lässt sich auf beliebige Einsatzbereiche übertragen. Dabei realisieren wir sowohl die Nachrüstung bestehender Anlagen als auch die Implementierung an neuen Anlagen. Der Einsatz von Coldsense Technologien rechnet sich schnell: 
+ 
+ Kühlhaus mit Frostern, TK- und NK-Räumen, Kälteleistung von insgesamt 
+von 304 kW
+ Elektrische Anschlussleistung der Kälteanlage: 92 kW.
+    Effizienzsteigerung der Kälteanlage durch unsere Technologie: 20,3%
+    Durchschnittlicher Strompreis: 31,36 ct/kWh
+    Jährliche Stromersparnis: 163.602 kWh bzw. 51.305 €
+ 
+PDF Herunterladen
+ 
+ 
+ 
+Unsere Vorgehensweise Schritt für Schritt
+ 
+ 
+ 
+Hidden Item
+makes 01 collapse 
+ 
+Schritt 1: Kennenlernen und Vor-Ort-Termin
+Wir kommen in Ihr Unternehmen, um Ihre Kühlräume vor Ort zu besichtigen und Ihren Bedarf zu analysieren. Für die Analyse benötigen wir ein möglichst genaues Bild der aktuellen Situation. Darum nehmen wir uns Zeit für ein ausführliches Gespräch, in dem wir alle technischen und betriebswirtschaftlichen Details der Kühlräume diskutieren. Darüber hinaus stellen wir Ihnen das Funktionsprinzip der KI-gesteuerten Abtauung vor und erläutern, wie sich die Coldsense Technologie in Ihre Kälteanlage integrieren lässt. 
+ 
+Schritt 2: Verbrauchsanalyse, Projektierung und Präsentation
+Im Nachgang analysieren wir die in Ihrem Betrieb installierte Kältetechnik. Dabei berücksichtigen wir u. a. folgende Fragestellungen:
+Wie viele Wärmetauscher mit welcher Kälteleistung sind verbaut?
+Wie oft werden diese abgetaut, welche Abtautechnologie wird genutzt (elektrisch, Heißgas, Umluft etc.)?
+Welche Kompressoren sind verbaut, wie stark sind diese ausgelastet?
+Welchen Stromtarif haben Sie? Wie hoch ist der Stromverbrauch?
+Was kann Coldsense als Technikpaket beisteuern, um den Energieverbrauch zu reduzieren?
+Welche Einsparungen kann Coldsense tatsächlich im konkreten Fall erzielen?
+Betriebswirtschaftliche Analyse: Kosten vs. Einsparungen, Amortisationszeit und Förderungsmöglichkeiten
+Die Ergebnisse der Analyse präsentieren wir Ihnen vor Ort in Ihrem Unternehmen. 
+ 
+Schritt 3: Umsetzung
+Wir stellen das Technikpaket und je nach Kundenwunsch auch die Verkabelung maßgeschneidert zusammen, erstellen einen Installationsplan und besprechen diesen mit Ihnen.
+Dann liefern wir das Technikpaket. Die Installation der technischen Komponenten wird durch Ihren Anlagenbauer, Ihr eigenes Team oder auf Wunsch auch durch Coldsense vorgenommen. Anschließend führen wir eine Inbetriebnahme vor Ort durch. Dazu gehört u. a. die Prüfung der verbauten Sensoren, das Aufspielen der Regelungstechnik und KI-Software sowie Funktionstests. 
+ 
+Schritt 4: Weitere Begleitung: Learning-Phase und monatliches Reporting
+Unser Data-Engineering-Team analysiert die per Sensorik gesammelten Daten und überwacht das Anlernen der KI-Intelligenz. Nach rund drei Monaten ist die Anlernphase abgeschlossen und der Regler wird aktiviert.Sie erhalten monatliche Reports, die Ihre Einsparungen durch die Coldsense Technologie dokumentieren. Auf Kundenwunsch erweitern wir unser Servicepaket um umfangreiche Zusatzleistungen, z. B.
+Warnmeldung offene Türen
+Energieeinspar-Monitor
+Stromspotpreis-Einbindung
+Photovoltaik-Einbindung
+Einmal pro Jahr analysieren wir den Status quo und stellen weiteres Verbesserungspotential bei Ihnen vor Ort vor. 
+ 
+ 
+ 
+ 
+ 
+Eine runde Sache: Unser Technik- und Servicepaket
+ 
+Unsere Systemlösung basiert auf einer Kombination von Hardware (Technik) und datenbasierten Dienstleistungen (Service). Zum Technikpaket gehören alle Sensoren und Materialien, die für die Überwachung und intelligente Steuerung der Kälteanlage notwendig sind. Das Servicepaket beinhaltet die Veredelung, Analyse und Interpretation der gewonnenen Sensordaten.
+ 
+Mehr erfahren
+ 
+ 
+ 
+Das sagen unsere Kunden
+ 
+Mit dem Einsatz des intelligenten Abtausystems von Coldsense Technologies in der Mensa I, die wir an der TU Braunschweig betreiben, sind wir da einen großen Schritt vorangekommen. Die Daten aus den Türbewegungen unseres Kühlraums haben uns geholfen, unseren Betrieb besser zu verstehen und zu optimieren. So konnten wir den Energieverbrauch in den Kühlräumen um 16 % reduzieren.Sabine HerrmannLeiterin Bau- und Betriebstechnik | Hochschulgastronomie Studierendenwerk OstNiedersachsenFeb 17, 2023  Geld sparen und dabei Gutes für das Klima tun: mit Hilfe von Coldsense konnten wir den Energieverbrauch unserer Abtauung um ein Drittel reduzieren.Viktor FederTechnischer Leiter | Leis GmbhMai 16, 2022  Kühlhäuser und Vereisung beschäftigt die Kältetechnik schon seit vielen Jahrzehnten. Die Technologie und die Menschen bei Coldsense haben mich von Anfang an begeistert. Die hier geschaffenen Innovationen werden den Betrieb von Kühlhäuser nachhaltig verbessernDaniel HattenbachTechnologie | After Sales & Entwicklung / Christof Fischer GmbHFeb 13, 2023  Energie ist teuer und Energieeffizienz wird zum Überlebenskriterium für viele Firmen. Coldsense liefert mit der intelligenten Abtauung einen großen Mehrwert für Kühlhäuser. Ein entscheidender Baustein für erfolgreiche Energieberatung in der Lebensmittel- und Pharmalogistik.Michael MaschkowitzLeitung Energie & Nachhaltigkeit / M&P Braunschweig GmbHFeb 11, 2023  Wir sind mit den Leistungen von Coldsense sehr zufrieden und empfehlen die Firma gerne weiter. Ich danke dem Team für die hervorragende Zusammenarbeit, die wir auch in Zukunft bei Bedarf fortsetzen wollen.Thorsten HeinkeSenior Program Manager | Aerodata AGMrz 13, 2023  
+ 
+ 
+ 
+ 
+Coldsense in den Medien
+ 
+ 
+ 
+ 
+ 
+Mensa 114.3.2023 | stw-on.deMehr Energieeffizienz und Nachhaltigkeit in der Hochschulgastronomie
+Die Mensa 1 in Braunschweig wurde im September 2022 mit dem KI-gesteuerten Abtaussystem ausgestattet und spart seitdem mehr als 13% der Stromkosten.
+Link (extern)
+Braunschweiger Startup8.11.2022 | Braunschweiger ZeitungBraunschweiger Startup Coldsense baut Sensoren gegen Vereisung
+Händler und Logistiker mit Kühlhallen können tausende Kilowattstunden Energie sparen und ihren CO2-Fußabdruck reduzieren.
+PDF Download
+Effizient gegen Vereisung14.2.2022 | IHKEffizient gegen Vereisung
+Coldsense Technologies nutzt seine Expertise aus der universitären Forschung, um den Betrieb von Kühlräumen energiesparender zu gestalten.
+PDF Download
+Neue Systemlösung1/2022 | Kälte Klima AktuellNeue Systemlösungen zur Erhöhung der Energieeffizienz in Kühlräumen
+Die Coldsense Systemlösung: Innovative Eissensoren und KI-basierte Regelung zur Erhöhung der Energieeffizienz  für Kälteanlagenbauer erklärt.
+PDF Download
+So kann Deutschland15.8.2022 | t-online.deSo kann Deutschland noch viel mehr Gas einsparen
+Steigende Gaspreise stellen Logistik-Betriebe vor große Herausforderungen. Coldsense bietet Lösungen um Energie zu sparen.
+Link (extern)
+ 
+ 
+ 
+ 
+Auszeichnungen und Förderungen
+ 
+Coldsense leistet ausgezeichnete Arbeit – wie der folgende Award eindrucksvoll beweist:
+ 
+ 
+Slideinnovate! gilt als der bedeutendste Award für Start-ups, die mit disruptiven Ideen die Lebensmittelbranche aufmischen. Coldsense erhielt die Nominierung im Jahr 2020 für die automatisierte Detektion und Bekämpfung von Eisbildung an Kältemaschinen und -anlagen, wodurch sich die für die Lebensmittelindustrie gefährliche Unterbrechung der Kühlkette zuverlässig verhindern lässt.
+ 
+ 
+ 
+ 
+ 
+Wissensspeicher
+ 
+ 
+ 
+Für Energieberater
+ 
+Ihre Kunden betreiben Kühlräume? Lesen Sie hier, warum Sie die Coldsense Technologie zur Reduzierung von Stromkosten empfehlen sollten.
+ 
+Mehr
+ 
+Für Anlagenbauer
+ 
+Hier erfahren Sie, welche Vorteile die KI-gesteuerte Abtauung für die Planung von Kälteanlagen bietet – und wie sie Ihren Arbeitsalltag vereinfacht.
+ 
+Mehr
+ 
+Blog
+ 
+Sie möchten sich fortbilden? Wir teilen unser Expertenwissen rund um die Kältetechnik in unserem Blog. Klicken Sie sich rein!
+ 
+Mehr
+ 
+ 
+ 
+Wie können wir Sie unterstützen?
+ 
+Melden Sie sich jetzt bei uns für ein unverbindliches Erstgespräch – wir freuen uns auf den persönlichen Austausch mit Ihnen! Gern beantworten wir all Ihre Fragen rund um die KI-gesteuerte Abtauung von Kühlräumen und zeigen auf, wie Ihr Unternehmen von der Coldsense Technologie profitieren kann.
+ 
+Kontakt aufnehmen
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Datenschutz-Bestimmungen                Impressum
+ 
+Datenschutz-BestimmungenImpressum
+ 
+Coldsense Technologies © 2021 – 2023
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Vita
+ 
+Dr. David Burzynski
+ 
+ 
+ 
+2009 kam der gebürtige Venezolaner nach Berlin zum Maschinenbaustudium. Daran schloss sich ein Masterstudium mit Schwerpunkt Strömungs- und Flugphysik an der TU München an. 2012 ging Dr. David Burzynski dann als Qualitätsmanager zum CAQ-Automotive, wo er im Rahmen der Fahrzeugentwicklung die geometrischen Integration und Funktionsmaßkonzepte verschiedener Premiumfahrzeugen plante. Darüber hinaus führte er systematische Risikoanalysen auf Basis der Fehlermöglichkeiten- und Einflussanalyse-Methode durch. 
+2015 wechselte er als wissenschaftlicher Mitarbeiter ins Institut für Strömungsmechanik an der TU Braunschweig. Hier kümmerte er sich um die Erstellung von physikalischen Modellen für ingenieurstechnische Anwendungen, untersuchte verschiedene Strömungsphänomene sowie die Eiskristallvereisung an Flugzeug-Triebwerken. Zudem war er für die Konzeption, Durchführung und Analyse von 3D-Strömungssimulationen zur Fahrzeugklimatisierung verantwortlich. Heute profitieren die Kunden von Coldsense von seinem branchenübergreifenden Detailwissen in puncto Produktentwicklung, Risiko- und Toleranzmanagement, Bauteiloptimierung und Qualitätssicherung. 
+ 
+ 
+ 
+< Dr. Stephan Bansmer
+ 
+Vita
+ 
+ 
+Juan Velandia >
+ 
+Vita
+ 
+ 
+ 
+ 
+			×			
+ 
+Vita
+ 
+Dr. Stephan Bansmer
+ 
+ 
+ 
+Dr. Stephan Bansmer ist seit 2020 ehrenamtlicher Co-Chair der „International Conference on Icing of Aircraft, Engines, and Structures 2023“, die als weltweit wichtigste Icing-Konferenz gilt. Von 2011 bis Anfang 2021 war er am Institut für Strömungsmechanik an der TU Braunschweig tätig. Hier hat er die Forschungsgruppe „Mehrphasenströmungen und Vereisung“ aufgebaut. In diesem Rahmen koordinierte er auch die Zusammenarbeit mit internationalen Forschungspartnern (u. a. NASA, ONERA, CIRA, DLR, NRC) und der Industrie (Airbus, GE, Rolls Royce etc.). 
+In Kooperation mit diesen Partnern führte die Gruppe neue Mess- und Testmethoden für Mehrphasenströmungen ein. Zur Vorhersage der Aerothermodynamik der Flugzeugvereisung entwickelt Dr. Stephan Bansmer Werkzeuge für Strömungsanalysen (CFD), die RANS-Simulation, Partikeltrajektorienberechnung, Tropfen- und Filmdynamik, Phasenübergang und Netzverformung umfassen. Seine profunden Kenntnisse zur Vereisung lässt er nun in die Kundenprojekte von Coldsense einfließen. Das Ergebnis: wissenschaftlich fundierte Lösungen, die im Industrieeinsatz funktionieren.
+ 
+ 
+ 
+< Juan Velandia
+ 
+Vita
+ 
+ 
+Dr. David Burzynski >
+ 
+Vita
+ 
+ 
+ 
+ 
+			×			
+ 
+Vita
+ 
+Juan Velandia
+ 
+ 
+ 
+Der Kolumbianer Juan Velandia absolvierte ein Maschinenbau-Studium in Bogotá, wo er anschließend als wissenschaftlicher Mitarbeiter tätig war. Eines seiner Projekte: die Analyse von Luftströmen in Kühltürmen zur Senkung des Energieverbrauchs. Die von ihm erarbeiteten Designoptimierungen brachten dem Industriepartner Energieeinsparungen von bis zu 62 %. 
+Darauf folgte eine Tätigkeit als Country Manager Colombia für ein irländisches Unternehmen, für das er eine Potenzialanalyse für den Markteintritt im Bereich Schaltschränke und Wasseraufbereitungsanlagen durchführte.
+Anschließend zog es ihn als Doktorand nach Braunschweig, wo er u. a. Windkanalexperimente durchführte, um Eisgeometrien besser messen und beurteilen zu können. Darüber hinaus untersuchte er den Einfluss der Eisrauheit auf Strömungseigenschaften. Bei Coldsense kombiniert er in Kundenprojekten seine wissenschaftliche Expertise mit Praxiswissen aus dem Produktmanagement.
+ 
+ 
+ 
+< Dr. David Burzynski
+ 
+Vita
+ 
+ 
+Dr. Stephan Bansmer >
+ 
+Vita
+ 
+ 
+ 
+ 
+			×			

@@ -1,0 +1,191 @@
+CiviCRM mit civiservice.de – CiviCRM im 360-Grad-Support
+			Zum Inhalt springen		
+Jobs
+Über uns
+Referenzen
+Kontakt
+ 
+ 
+Navigations-Menü
+ 
+ 
+				Navigations-Menü					
+Jobs
+Über uns
+Referenzen
+Kontakt
+ 
+ 
+ 
+0
+°
+CiviCRM im 360-Grad-Support 
+				Als IT-Professionals und Fundraiser mit Non-Profit-Genen wissen wir, wie die freie Software CiviCRM das Engagement von Vereinen, Stiftungen und Initiativen beflügeln kann. Und wir wissen, was es dafür braucht: Zunächst eine Kooperation mit erfahrenen Personen bei der Einführung, die die gleiche Sprache sprechen und die durch sich ergänzende Kompetenzen Ihre Organisation als Ganzes im Blick behalten. Darüber hinaus aber auch eine dauerhafte professionelle Begleitung, die nicht mit einer Schlüsselübergabe endet und die für technische Administration ebenso brennt wie für eine gute Schulung Ihrer Mitarbeitenden. Dabei sind wir Dienstleistende mit eigenen Werten, die nicht zu jedem Auftrag ja sagen, sondern die hinter der Mission unserer Kundinnen und Kunden stehen. Wir nennen das: CiviCRM im 360-Grad-Support.					
+0
+°
+CiviCRM im 360-Grad-Support 
+				Als IT-Professionals und Fundraiser mit Non-Profit-Genen wissen wir, wie die freie Software CiviCRM das Engagement von Vereinen, Stiftungen und Initiativen beflügeln kann. Und wir wissen, was es dafür braucht: Zunächst eine Kooperation mit erfahrenen Personen bei der Einführung, die die gleiche Sprache sprechen und die durch sich ergänzende Kompetenzen Ihre Organisation als Ganzes im Blick behalten. Darüber hinaus aber auch eine dauerhafte professionelle Begleitung, die nicht mit einer Schlüsselübergabe endet und die für technische Administration ebenso brennt wie für eine gute Schulung Ihrer Mitarbeitenden. Dabei sind wir Dienstleistende mit eigenen Werten, die nicht zu jedem Auftrag ja sagen, sondern die hinter der Mission unserer Kundinnen und Kunden stehen. Wir nennen das: CiviCRM im 360-Grad-Support.					
+Was ist CiviCRM? 
+Freie Software für Ihre Organisation   
+CiviCRM ist eine Software für das komfortable Management von Kontakten, Veranstaltungen, Spenden, Mitgliedschaften und vielem mehr. Ob Fundraising-Kampagnen, Serienbriefe, die Verwaltung von Anträgen oder das Versenden von E-Mail-Newslettern – bei CiviCRM finden Sie alles an einem Platz. Als freie Software ist diese zudem individuell auf Ihre Anforderungen anpassbar und macht Sie unabhängig von einem Anbieter.  
+CiviCRM Kennenlernen
+ 
+ 
+Unsere Services 
+Das Bietet Civiservice.de 
+civiservice.de bietet ein umfangreiches Portfolio an Dienstleistungen: Diese reichen von der Einführungskonzeption, CiviCRM-Installation und -Konfiguration, Aufbereitung und Migration von Daten aus Altsystemen bis zum Anpassen des Systems durch die Auswahl geeigneter Extensions sowie Individualisierungen für spezifische Anforderungen. Auch das Einweisen und Schulen von Anwendenden und der laufende Support gehört zu unserem Angebot. Da wir selbst ursprünglich CiviCRM-Nutzende sind, können wir die Anforderungen und Sichtweisen von gemeinnützigen Organisationen gut nachvollziehen. 
+ 
+						Implementierung und Entwicklung					
+						Wir richten CiviCRM nach den Anforderungen Ihrer Organisation ein und entwickeln bei Bedarf zusätzliche Funktionen. Wir migrieren dafür vorhandene Daten und bilden Ihre Prozesse optimal ab.					
+ 
+						OE-Beratung und Training					
+						Eine erfolgreiche Digitialisierung braucht einen guten Kompass. Wir begleiten Sie bei der strategischen Weiterentwicklung. Mit Work­shops und direktem Support nehmen wir Mitarbeitende mit auf den Weg.					
+ 
+						CiviCRM in Drupal und WordPress					
+						Nutzen Sie alle Möglichkeiten: Wir machen Ihre Website fit für CiviCRM oder erstellen Ihnen eine neue Website. Bei Bedarf arbeiten wir dabei auch mit Ihren bestehenden Dienstleistenden zusammen.					
+ 
+						Hosting und Support					
+						Wir hosten Ihre Daten  in einem zertifizierten Rechenzentrum mit Servern in Deutschland zu fairen Preisen und verwalten alle Sicherheits-Updates und Support-Anfragen.					
+ 
+Über uns 
+Über civiservice.de 
+civiservice.de ist spezialisiert auf den Support von kleineren und mittleren gemeinnützigen Organisationen. Wir arbeiten seit 2011 mit CiviCRM – zunächst als Anwendende, später durch die Gründung des Vereins Software für Engagierte e.V. 
+Kontakt aufnehmen
+Romy Ebert
+[Leipzig]CiviCRM-Implementiererung, Kommunikationsdesign
+ 
+Teamtalk
+„Naja, es ist schon dringend – bis nächste Woche?“
+Romy: „Ok, ich geh erstmal mit dem Hund raus und setz mich dann gleich ran.“
+Random facts
+Kennt typografische Fachbegriffe, von denen man noch nie gehört hat, zog mal von Hamburg direkt nach Südtirol und hört am liebsten Metal.
+Andreas Howiller
+[Leipzig]Geschäftsführung, CiviCRM-Implementierung, Fundraising-Beratung
+Das sagen die anderen
+Andreas ist der Leuchtturm in stürmischer See. Es kann noch so chaotisch sein, er verliert nie den roten Faden. Und wenn es keinen gibt, bastelt er einfach einen.
+Random facts
+Hat trotz NPO-Herz, Fundraiser-Genen und digitaler Spürnase erstmal ganz analog Philosophie studiert.
+Sebastian Lisken
+[Bielefeld]Programmierung, Systemadministration
+Teamtalk
+„Sebastian, du musst jetzt einen Text über dich liefern. Stell dir einfach vor, als welche Comicfigur du dich beschreiben würdest.“ – „Gibt es irgendeine mit der Superkraft, nachts um vier guten Code zu zaubern?“ – „Ich glaube nicht.“ – „Okay, dann nehme ich die Känguru-Comics.“ – „Und welche Figur?“ – (hüpft wortlos davon)
+Random facts
+Übersetzt selbst CCC-Tech-Talk simultan in lupenreines British English, hat ein Faible für Logik und engagiert sich für eine radfreundliche Zukunft.
+Detlev Sieber
+[Wiesbaden]Geschäftsführung, CiviCRM-Implementierung, Organisationsberatung
+Teamtalk
+Kolleg·in 1: „Ich habe hier eine komische Sache mit CiviCRM, sowas hab ich echt noch nicht gesehen ...“
+Kolleg·in 2:  „Hast du schon Detlev gefragt?“
+Random facts
+War schon Bürgermeister, Manager eines Bundesliga-Volleyball-Clubs und ist nebenher Vorkämpfer für die digitale Freiheit.
+Maria Vogel
+[Berlin]CiviCRM-Konzeptionierung und -Implementierung
+ 
+Das sagen die anderen
+Selbstorganisationstalent! Wie behält sie bloß all die Projekte parallel im Blick und macht nebenbei noch Yoga?
+Random facts
+Ist Gruppenleiterin beim Bergwaldprojekt, hat einen großen Magen für vegane Schlemmereien und schwingt auch gerne mal bis tief in die Nacht ihren Tischtennisschläger zu Berliner Techno.
+Tobias Voigt
+[Berlin]CiviCRM-Konzeptionierung und -Implementierung
+Das sagen die anderen
+Tobias muss so etwas wie einen Upload-Button haben: Ob nagelneue CiviCRM-Funktion oder gleich die Funktionalität einer kompletten Projekt­management-Software – schafft er sich mal eben flux drauf. Dabei genauso cool: Den Selbstsorge-Button für sich und das Team hat er außerdem.
+Random facts
+Ist süchtig nach Podcasts und Hörbüchern, hat früher Instrumentalmusik für Werbefilme komponiert und ist begeisterter Anhänger der Polyvagaltheorie.
+Du? >> JETZT BEWERBEN
+[tba]Superkraft
+ 
+ 
+ 
+Mit freier Software die Welt verbessern
+Du gibst gemeinnützigen Organisationen ein Werkzeug an die Hand, das sie bei der Umsetzung ihrer Ziele unterstützt.
+New work & digital team spirit 
+Dir ist Eigenverantwortung, individuelle Weiterentwicklung und Arbeitszeitflexibilität genauso wichtig wie gemeinsames Arbeiten und voneinander Lernen. 
+Romy Ebert
+[Leipzig]CiviCRM-Implementiererung, Kommunikationsdesign
+ 
+Teamtalk
+„Naja, es ist schon dringend – bis nächste Woche?“
+Romy: „Ok, ich geh erstmal mit dem Hund raus und setz mich dann gleich ran.“
+Random facts
+Kennt typografische Fachbegriffe, von denen man noch nie gehört hat, zog mal von Hamburg direkt nach Südtirol und hört am liebsten Metal.
+Andreas Howiller
+[Leipzig]Geschäftsführung, CiviCRM-Implementierung, Fundraising-Beratung
+Das sagen die anderen
+Andreas ist der Leuchtturm in stürmischer See. Es kann noch so chaotisch sein, er verliert nie den roten Faden. Und wenn es keinen gibt, bastelt er einfach einen.
+Random facts
+Hat trotz NPO-Herz, Fundraiser-Genen und digitaler Spürnase erstmal ganz analog Philosophie studiert.
+Sebastian Lisken
+[Bielefeld]Programmierung, Systemadministration
+Teamtalk
+„Sebastian, du musst jetzt einen Text über dich liefern. Stell dir einfach vor, als welche Comicfigur du dich beschreiben würdest.“ – „Gibt es irgendeine mit der Superkraft, nachts um vier guten Code zu zaubern?“ – „Ich glaube nicht.“ – „Okay, dann nehme ich die Känguru-Comics.“ – „Und welche Figur?“ – (hüpft wortlos davon)
+Random facts
+Übersetzt selbst CCC-Tech-Talk simultan in lupenreines British English, hat ein Faible für Logik und engagiert sich für eine radfreundliche Zukunft.
+Detlev Sieber
+[Wiesbaden]Geschäftsführung, CiviCRM-Implementierung, Organisationsberatung
+Teamtalk
+Kolleg·in 1: „Ich habe hier eine komische Sache mit CiviCRM, sowas hab ich echt noch nicht gesehen ...“
+Kolleg·in 2:  „Hast du schon Detlev gefragt?“
+Random facts
+War schon Bürgermeister, Manager eines Bundesliga-Volleyball-Clubs und ist nebenher Vorkämpfer für die digitale Freiheit.
+Maria Vogel
+[Berlin]CiviCRM-Konzeptionierung und -Implementierung
+ 
+Das sagen die anderen
+Selbstorganisationstalent! Wie behält sie bloß all die Projekte parallel im Blick und macht nebenbei noch Yoga?
+Random facts
+Kann aus jeder Ecke der Welt effektiv arbeiten, hat einen großen Magen für vegane Schlemmereien und schwingt auch gerne mal bis tief in die Nacht ihren Tischtennisschläger zu Berliner Techno.
+Tobias Voigt
+[Berlin]CiviCRM-Konzeptionierung und -Implementierung
+Das sagen die anderen
+Tobias muss so etwas wie einen Upload-Button haben: Ob nagelneue CiviCRM-Funktion oder gleich die Funktionalität einer kompletten Projekt­management-Software – schafft er sich mal eben flux drauf. Dabei genauso cool: Den Selbstsorge-Button für sich und das Team hat er außerdem.
+Random facts
+Ist süchtig nach Podcasts und Hörbüchern, hat früher Instrumentalmusik für Werbefilme komponiert und ist begeisterter Anhänger der Polyvagaltheorie.
+Du? >> JETZT BEWERBEN
+[tba]Superkraft
+ 
+ 
+ 
+Mit freier Software die Welt verbessern
+Du gibst gemeinnützigen Organisationen ein Werkzeug an die Hand, das sie bei der Umsetzung ihrer Ziele unterstützt.
+New work & digital team spirit 
+Dir ist Eigenverantwortung, individuelle Weiterentwicklung und Arbeitszeitflexibilität genauso wichtig wie gemeinsames Arbeiten und voneinander Lernen. 
+ 
+ 
+Kontakt aufnehmen 
+Was können wir für Sie tun? 
+Anfragewahl
+			CiviCRM kennenlernen – z.B. per kostenloser Videokonferenz		
+			Termin für ein Telefonat vereinbaren		
+			Anfrage per Kontaktformular schicken		
+Ihre Nachricht an civiservice.de *
+Vorname *
+ 
+Nachname *
+ 
+Organisation (optional)
+ 
+E-Mail-Adresse *
+ 
+Telefonnummer *
+ 
+Einverständniserklärung
+                    Ich bin damit einverstanden, dass meine hier übermittelten Daten zur Beantwortung meiner Anfrage verarbeitet werden. Die Datenschutzerklärung habe ich zur Kenntnis genommen.                
+Auswahl an Referenzen 
+Für wen wir Rotieren 
+Rund 11.000 Organisationen weltweit nutzen die freie Software CiviCRM für Kontaktverwaltung, Fundraising, Veranstaltungs-Management und vieles mehr. Wir von civiservice.de haben CiviCRM inzwischen bei mehr als 30 gemeinnützigen Organisationen eingeführt und bieten dazu auch Hosting und Support an. 
+ 
+ 
+  support@civiservice.de
+  +49 611 94584960
+  +49 611 94584969
+ 
+civiservice.de GmbH
+Rheingaustraße 167
+65203 Wiesbaden
+Deutschland 
+Jobs
+Datenschutz
+Kontakt
+Impressum
+ 
+ 

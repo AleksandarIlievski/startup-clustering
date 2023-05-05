@@ -1,0 +1,65 @@
+kontainer.sh
+ 
+Tutorial „Infrastructure-as-Code“
+Mentoring
+Über mich
+Blog
+Newsletter
+ 
+Als Entwickler entspannter arbeiten und nervigen Kleinkram automatisieren
+Du bist Entwickler und möchtest am liebsten nur coden und den ganzen lästigen Kleinkram hinter dir lassen? Du möchtest mit Spaß und Leichtigkeit arbeiten, ohne Gedanken an Routinearbeiten zu verschwenden? Leider weißt du bisher noch nicht, wie du diesen nervtötenden Tätigkeiten entkommen kannst, die dir immer wieder Kopfschmerzen bereiten? Dann hast du jetzt den perfekten Einstieg gefunden: Beginne mit nur einer E-Mail pro Woche.
+Werde DevOps-Insider!
+Dein Ausweg aus To-Do-Listen voll notwendiger Aufgaben, die für dich einfach nur ätzend sind
+Als Entwickler brennst du für deine Leidenschaft, das Coden. Wenn da nur nicht die vielen lästigen Routineaufgaben wären. Sie bringen weder dich noch deine Kunden voran und schaffen keinen echten Wert … Wie würde es sich anfühlen, wenn du diese lästigen Arbeiten auf ein Minimum beschränken und deine Projekte beschleunigen könntest? Was wäre, wenn du dich endlich den wichtigen statt den nervigen Dingen widmen könntest?
+Gute Nachrichten: Bei kontainer.sh findest du viele Ressourcen und Angebote, die dir dabei helfen, endlich wieder Freude bei deiner Arbeit zu empfinden.
+Das Problem:
+Routinearbeit raubt dir den letzten Nerv
+Wenn du dich in Routinearbeiten verlierst, bleibt deine Arbeit immer nervtötend. Eigentlich schade, oder? Schließlich begeistert dich das Coden und das Flow-Gefühl dabei.
+
+Zeitmangel ist die Regel. Du hast zu viel zu tun und deine Projekte kommen nicht schnell genug voran.
+
+Du möchtest durch Effizienz und Professionalität überzeugen, rennst aber den Deadlines hinterher.
+
+Du möchtest deine DevOps-Prozesse optimieren und automatisieren, aber kommst nicht dazu.
+
+Du möchtest Fehler reduzieren und die Qualität deiner Arbeit erhöhen, weißt aber nicht wie.
+Wie ich dir dabei helfen kann:
+Meine Angebote sind mit viel Sorgfalt und Erfahrung entstanden.
+
+Newsletter "DevOps-Insider"
+Als DevOps-Insider bekommst du exklusive, kostenlose Ressourcen für die Optimierung und Automatisierung deiner DevOps-Prozesse. Freue dich auf Tipps, Tricks und wertvolle Ressourcen.
+
+Tutorial "Infrastructure-as-Code"
+Im Tutorial „Infrastructure-as-Code“ erlernst du die entscheidenden Fähigkeiten, Strategien und Tools, wie du deine Server per Knopfdruck in der Cloud einrichten und direkt nutzen kannst.
+
+DevOps-Mentoring 
+Der ultimative Boost für deine DevOps-Prozesse! Wir analysieren gemeinsam, wo du stehst und wie ich dir helfen kann. Ich sorge dafür, dass du ins Tun kommst und dein Momentum beibehältst.
+Zeit hat man nicht, man schafft sie sich.
+Du bist nicht allein: Auch ich weiß noch, wie es sich anfühlt, viel zu viele Stunden zu arbeiten und dennoch den Deadlines hinterherzurennen. Wie belastend es ist, ständig im reaktiven Modus unterwegs zu sein, statt aktiv handeln zu können. Doch was ausweglos erscheint, kann durchbrochen werden! Ich habe es geschafft und du kannst es auch. Du musst nur ins Handeln kommen. Ganz egal, ob kleine Schritte oder große Sprünge – was zählt ist, dass du losgehst.
+Zum DevOps-Mentoring anmelden
+ 
+ 
+DevOps-Insider – jetzt anmelden
+Du bekommst einmal im Monat wertvolle Impulse, die deine Developer-Arbeit effizienter machen. So kannst du dich von Monat zu Monat mehr entspannen …
+Plus: In meinen E-Mails teile ich spannende Erfahrungen mit dir, die ich nirgendwo anders teile.
+Newsletter-Anmeldung
+Du bist jetzt ein DevOps-Insider.
+Name
+E-Mail-Adresse
+Abonnieren
+KONTAINER.SH benötigt die Kontaktinformationen, die du uns zur Verfügung stellst, um dich bezüglich unserer Produkte und Dienstleistungen zu kontaktieren. Du kannst dich jederzeit von diesen Benachrichtigungen abmelden. Informationen zum Abbestellen sowie unsere Datenschutzpraktiken und unsere Verpflichtung zum Schutz deiner Privatsphäre findest du in unseren Datenschutzbestimmungen.
+Hast du Fragen? Ruf einfach an!
++49 (0)1 77 2 64 77 70
+ Facebook  Twitter   GitHub  Newsletter  Mentoring
+Unternehmen
+Über Mich
+Ressourcen
+DevOps-Insider
+Blog
+Angebote
+Tutorial 
+Mentoring
+kontainer.sh | Impressum | Datenschutz
+ 
+ 
+ 

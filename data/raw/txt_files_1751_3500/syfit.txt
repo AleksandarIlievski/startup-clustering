@@ -1,0 +1,229 @@
+Home - SYFIT GmbH
++49 (0) 736197387-00
+kontakt@syfit.de
+English
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Home
+Produkte
+Digitalization of Things (DoT)
+Digitaler Bau
+Werkzeugmanagement
+Betriebsmittelprüfung
+Fragen & Antworten
+Demo-Account
+Stellplatzmanagement
+Führerscheinkontrolle
+Fragen und Antworten
+SYFIT GmbH
+Messen & Veranstaltungen
+Presse & News
+Referenzen
+Downloads & Medien
+Zertifikate
+Jobs & Karriere
+Kontakt
+ 
+Digitaler Bau 
+								Presseartikel 
+								Die SYFIT GmbH erhält Auszeichnung Produkt des Jahres 2022 für die Software-as-a-Service-Lösung Digitaler Bau in der Kategorie Management 
+								Digitaler Bau ist 
+Produkt des Jahres 2022 
+								
+ 
+Komplexe Aufgaben genial vereinfachtWir entwickeln Standard- sowie individuelle Digitalisierungslösungen und Produkte für Unternehmen, welche eine Einsparung bei Prozessen und einen digitalen Mehrwert ihrer Produkte schaffen.
+Anwendungen können auf Basis unserer Plattform einfach eingeführt oder schnell und kostengünstig an Ihre individuellen Anforderungen angepasst werden. Wir begleiten Sie kompetent vom Konzept bis zum funktionalen Produkt. Im Fokus steht dabei immer Ihr wirtschaftlicher und technologischer Nutzen.
+ 
+Modulare Software-as-a-Service-Lösungen
+Auffinden, Verwalten und Zuweisen von Assets (z. B. Arbeitsgeräten, Werkzeugen und Betriebsgeräten) mit aktiven oder passiven Lösungen.
+Vorentwickelte skalierbare SaaS-Lösungen, die auf die Kundenanforderungen zugeschnitten sind.
+Individuelle Web- und mobile Anwendungen
+Bedarfsgerechtes Hardware-Portfolio (QR- / Barcode, RFID / NFC-Transponder, Bluetooth-Beacons / Hubs) sowie das Telekom IoT-Portfolio (Wi-Fi, GPS, 5G, Narrow-Band)
+Software-as-a-Service-Lösungen
+ 
+Unsere gebrauchsfertigen Module
+Digitalization of Things
+Zuordnung und Bereitstellung von Produktinformationen mit eindeutiger Rückverfolgbarkeit sowie Service- und Wartungsmanagement.
+ Digitalization of Things
+Digitaler Bau
+Eindeutige Zuordnung von Baumaterialien und Werkzeugen mit eindeutiger Rückverfolgbarkeit und Standortbestimmung.
+ Digitaler Bau
+Werkzeugmanagement
+Einfache und kostengünstige Lösung zur Verwaltung und Zuordnung aller Werkzeuge, Maschinen und Arbeitsgeräte.
+ Werkzeugmanagement
+Betriebsmittelprüfung
+Kostengünstige Lösung zur vorgeschriebenen Prüfung und Verwaltung aller Arbeits- und Betriebsmittel.
+ Betriebsmittelprüfung
+Stellplatzmanagement
+Auffinden von Fahrzeugen auf größeren Geländen mittels GPS-Koordinaten (erweiterbare Anpassung auf Liefer- und Produktionsketten).
+ Stellplatzmanagement
+Führerscheinkontrolle
+Kostengünstige, rechtsgültige und lückenlose Dokumentation des Vorlegens von Führerscheinen mittels Sicherheits-Transponder.
+ Führerscheinkontrolle
+ 
+Termine & Veranstaltungen
+Besuchen Sie uns auf folgenden Messen & Events. Wir freuen uns auf Ihren Besuch!
+ 
+BAU 2023
+17. April – 22. April 2023
+Messe München, München/Germany
+Halle: C5 / Stand: 633
+bau-muenchen.com
+ 
+ 
+Case Studies
+Erfahren Sie in unseren Case Studies, welche Digitalisierungslösungen wir für und mit unsere Kunden realisiert haben.
+ 
+Digitaler Durchblick 
+Digitaler DurchblickIDEAL Fensterbau Weinstock GmbH Die Lösung: Im Jahr 2019 werden in allen Fensterrahmen von IDEALRead more
+ 
+Zeitsparendes Stellplatzmanagement 
+Zeitsparendes StellplatzmanagementDethleffs GmbH & Co. KG Die Lösung: Eine Tracking-Lösung ohne Tracker: Die hat die TelekomRead more
+ 
+Digitale Betriebsmittelprüfung 
+Digitale BetriebsmittelprüfungAlzChem Trostberg GmbH Lösung: AlzChemTrostberg GmbH setzt auf digitale Betriebsmittelprüfung mit AYE-D.NET. Das Chemieunternehmen fertigtRead more
+ 
+Digitale Führerscheinkontrolle 
+Digitale FührerscheinkontrolleScanPlus Gmbh Lösung: ScanPlus gehört zu den führenden europäischen Anbietern für Managed Services aus derRead more
+ 
+Referenzen & Kunden
+Das wichtigste für uns sind zufriedene, langfristige Beziehungen zu unseren Kunden, auf die wir stolz sind.
+ 
+PERI startete mit der Einführung von AYE-D.NET zur Prüfung unserer Lastaufnahmemittel 2015 in Deutschland. Mittlerweile ist die Software in über 30 Ländern im täglichen Einsatz und es wurden über 100.000 Prüfungen durchgeführt und dokumentiert. Die Softwarelösung und die gute Zusammenarbeit mit SYFIT war ein Erfolgsfaktor, der uns ermöglichte eine professionelle, effiziente und transparente Prüfdokumentation in unseren Tochtergesellschaften zu implementieren.
+PERI GmbH
+PERI GmbH
+Planeta goes Digital. Der erste Schritt in die Zukunft ist getan. Die prüfpflichtigen Betriebsmittel unseres Servicefahrzeugs sind erfasst. Mittels RFID-Chips, QR-Aufkleber oder einfach nur mit einer ID-Nummer und einer App wird die interne Prüfung vereinfacht und dadurch Zeit gespart. Automatisches Erstellen von Prüfberichten und Prüfprotokollen. Kein lästiges Ausfüllen mehr von Formularen. Weniger Bürokratie.So gut wie keine Wartezeiten auf Prüfprotokolle. Die Plattform lässt sich bei fast JEDEM Kunden ohne grösseren Aufwand implementieren. Die Verwaltung kann der Kunde selbst oder aber auch durch uns erfolgen.
+Mehr Infos unter : www.planeta-hebetechnik.eu
+PLANETA-Hebetechnik GmbH
+Markus Eichberger
+Durch die Einführung des Systems “Digitaler Bau” können wir den genauen Standort unserer Geräte einsehen und können so den „Faktor Mensch“ ausschließen. Das macht es unserer Disposition leichter, die Geräte bedarfsgerecht zu verteilen und führt zu einer höheren Planbarkeit. Weiterhin haben wir so einen schnellen Überblick über unsere Schalung. Die Zusammenarbeit mit der SYFIT GmbH war stets kompetent, lösungsorientiert und aufgrund von kurzen Dienstwegen immer zielführend.
+Otto Heil GmbH & Co. KG
+Joachim Fella
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aktuelles
+Bleiben Sie auf dem aktuellsten Stand!
+Informieren Sie sich über unsere aktuellen News & Presseinformationen.
+ 
+Digitalisierung auf dem Bau 
+Digitalisierung auf dem Bau: PERI digitalisiert die Baustelle mit IoT-Lösungen von Telekom und SYFITDigitale Lösungen setzenRead more
+ 
+Mehr Durchblick auf der Großbaustelle 
+Mehr Durchblick auf der GroßbaustelleDie PERI SE hat ihre Schalungselemente für Baustellen vernetzt und kann ihrenRead more
+ 
+Die digitale Baustelle faszinierte die Ministerin 
+Die digitale Baustelle faszinierte die MinisterinDie bayerische Staatsministerin für Digitales, Judith Gerlach informierte sich bei OttoRead more
+ 
+Digitaler Bau ist Produkt des Jahres 2022 
+Die SYFIT GmbH erhält Auszeichnung zum Produkt des Jahres 2022 in der Kategorie Management SYFIT hatRead more
+ 
+Webinar: Digitaler Bau 
+Digitaler Bau – So läuft alles wie am SchnürchenWebinar zum Thema Digitaler BauWoher weiß ich, wasRead more
+ 
+Bluetooth-Beacons für mehr Effizienz auf Baustellen 
+Effizienter bauen dank Bluetooth-BeaconsOtto Heil, Telekom und SYFIT treiben die digitale Transformation der Baubranche voran undRead more
+ 
+3 Fragen an Zoltan Demeter 
+Der Geschäftsführer der SYFIT GmbH im Interview über die aktuelle Lage der Baubranche und ihre Möglichkeiten.Read more
+ 
+Vergessenes Baumaterial adieu 
+Interview Digitaler Bau mit Prokurist Joachim Fella (Otto Heil GmbH & Co. KG) Vergessene Schaltafeln aufRead more
+ 
+Kontakt
+Sie haben Fragen oder interessieren sich für unsere Software-Lösungen?
+Sprechen Sie mit einem unserer Mitarbeiter gerne versuchen wir alle ihre Fragen rund um ihr Thema zu beantworten.
+ 
+ 
+Bitte lasse dieses Feld leer.
+ 
+Produkte Digitalization of Things
+Digitaler Bau
+Werkzeugmanagement
+Betriebsmittelprüfung
+Stellplatzmanagement
+Führerscheinkontrolle
+ 
+SYFIT GmbH Über SYFIT
+Messen & Veranstaltungen
+Presse & News
+Downloads & Medien
+Zertifikate
+Jobs & Karriere
+Kontakt
+ 
+Kontaktieren Sie uns Adresse
+SYFIT GmbH
+Gmünder Straße 13
+73430 Aalen/Germany
+Kontakt
++49 7361 97387-00
+kontakt@syfit.de
+Öffnungszeiten
+Montag – Freitag
+08:00 – 16:00 Uhr
+Contact us Adress
+SYFIT GmbH
+Gmünder Straße 13
+73430 Aalen/Germany
+Contact
++49 7361 97387-00
+kontakt@syfit.de
+Opening hours
+Monday – Friday
+08:00 am – 04:00 pm
+ 
+SponsoringZertifizierungenAuszeichnungen 
+Impressum
+Rechtliche Hinweise
+Datenschutzerklärung
+ 
+ 
+ 
+ 
+ 
+ 
+Home
+Produkte
+Digitalization of Things
+Digitaler Bau
+Werkzeugmanagement
+Betriebsmittelprüfung
+Betriebsmittelprüfung Fragen & Antworten
+Betriebsmittelprüfung Demo-Account
+Stellplatzmanagement
+Führerscheinkontrolle
+Führerscheinkontrolle Fragen und Antworten
+SYFIT GmbH
+Messen & Veranstaltungen
+Presse & News
+Referenzen
+Downloads & Medien
+Zertifikate
+Jobs & Karriere
+Kontakt
+Englisch
+Impressum
+Impressum
+Rechtliche Hinweise
+Datenschutzerklärung
+ 

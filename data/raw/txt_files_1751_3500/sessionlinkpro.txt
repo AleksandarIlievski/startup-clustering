@@ -1,0 +1,141 @@
+SessionLinkPRO - Professional far end recording through your web browser - more than an ISDN replacement / ISDN alternative!
+info@sessionlinkpro.com
+deutsche Version
+Toggle navigation
+Home
+Products  
+Recording
+Conferencing
+Dubbing
+Podcasting
+Product Comparison
+Support
+Account
+Contact
+Network
+Start SessionLinkPRO  
+Recording
+Video
+Conferencing
+Dubbing
+Podcasting
+Fallback Server
+Recording
+Video
+Conferencing
+Dubbing
+Podcasting
+ 
+ SessionLinkPRO
+Far end recording on the next level.
+ 
+ Recording
+HQ far end recording through your web browser. More than just an ISDN replacement...
+ 
+ Conferencing
+HQ audio/video conference. Join recording sessions through your web browser...
+ 
+Our Products
+Far end recording through your web browser
+Bi-directional audio transmission in studio quality with very low latency
+Realtime streaming of production video
+Stream the production video in high quality and in sync with this add-on for SessionLinkPRO's far end recording solution
+HQ audio/video conferencing
+Let your clients join and direct recording sessions from remote locations with hq audio and optional video
+Recent News
+  New product online: SessionLinkPRO | Podcasting
+Our latest product SessionLinkPRO | Podcasting is now available! We took the feedback from many customers and put in into the development of an application specifically tailored for remote podcast recording. SessionLinkPRO | Podcasting enables easy recording of up to 4 participants (host + 3 guests) directly in the browser. A separate audio track for
+Read More
+Tim Proegler
+April 25 ,2023
+  New versions of all products online!
+As of today (February 27, 2022) the new versions of our products are online. Aside from some under-the-hood tweaks, we’re excited to announce the new “Mono L16” option for SessionLinkPRO | Recording and SessionLinkPRO | Dubbing.With “Mono L16”, SessionLinkPRO | Recording and SessionLinkPRO | Dubbing now offer the option of unencoded 16-bit PCM transmission in
+Read More
+Tim Proegler
+February 27 ,2022
+  Update for SessionLinkPRO | Dubbing
+Today we released an update for SessionLinkPRO | Dubbing. The following features have been added or changed: L/R split mode: In response to popular requests, we have added a second L/R split mode. The new option “L/R split (direct disabled)” works without a direct connection between the Actor channel and the Director channels to allow
+Read More
+Tim Proegler
+May 26 ,2021
+  Upcoming Release: SessionLinkPRO | Dubbing
+Official release on February 22, 2021: Our new product SessionLinkPRO | Dubbing is going public!SessionLinkPRO | Dubbing was developed in close cooperation with several dubbing studios and has been thoroughly tested since summer 2020. The range of features is based on dubbing workflows to facilitate remote dubbing sessions.The most important features: 3 simultaneous connections: 1
+Read More
+Tim Proegler
+February 04 ,2021
+  Information regarding the current COVID-19 situation
+As you can probably imagine, we are getting lots of requests for free trial accounts at the moment. To ensure that our resources will be able to handle the increasing load, we have scaled up our server network and are constantly monitoring our servers. However, we have decided to shorten the free trial period to
+Read More
+Tim Proegler
+March 23 ,2020
+  New versions online
+Maybe you already have noticed: new versions of our products are online since 03/17/2019. Here is an overview of the changes:SessionLinkPRO | Recording:By popular request, we have added a new routing option to the “dual mono” mode. If activated, “bridged” allows the two guests to communicate with each other. Full signal separation at the host
+Read More
+Tim Proegler
+March 20 ,2019
+Meet Our Clients
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Legal Notice SessionLinkPRO Solutions GmbH
+Oberbilker Allee 21
+40215 Düsseldorf
+Germany
+Court of registration: AG Düsseldorf
+Registration number: HRB 90779
+VAT No.: DE333540237
+CEO: Dipl.-Ing. (FH) Tim Proegler
+Phone: +49-(0)211-74951503
+E-Mail: info@sessionlinkpro.com
+The European Commission provides a platform for online dispute resolution (ODS), which you can find here: http://ec.europa.eu/consumers/odr/.  We are neither obligated nor willing to participate in dispute settlement proceedings before a consumer arbitration board.
+Legal Terms and conditions (AGB)
+Payment methods
+Privacy
+Cookies
+Disclaimer
+Server Status View server status
+ 
+Copyright 2014 - 2023 SessionLinkPRO Solutions GmbH 				

@@ -1,0 +1,288 @@
+Electronic Lab Notebook (ELN) - Labfolder
+ 
+ 
+Why Labfolder?
+Features
+White papers
+Case Studies
+Solutions
+Organization type
+Academia
+Industry
+Startup
+Government
+Research type
+Biotech & Pharma
+Agriculture & Food science
+Cancer research
+Diagnostics & Analytics
+Molecular Biology
+Microbiology
+Resources
+Guide
+Video Tutorials
+Webinars
+Helpdesk
+Pricing
+Academia
+Industry
+Sign up
+Log in
+EN
+DE
+ 
+toggle menu
+ 
+The intelligent way to record your findings
+Sign up for FreeRequest a Demo
+ Electronic Lab Notebook Inventory Management Laboratory Protocols
+ 
+Trusted by the most innovative research organizations
+ What’s inside your electronic lab notebook (ELN)
+Data entry & integration
+All your data in one place
+Create text or import Word documents
+Create tables or import Excel files
+Generate graphs from your data
+Transfer data from lab devices
+Upload and store all files formats
+View and annotate images
+Draw and export sketches
+Structure your data with Data Elements
+Data Retrieval
+Find your data in seconds
+Everything is searchable in labfolder
+Organize your entries with tags
+Filter results by project, author, or date
+Search the text content of your entries
+Retrieve data stored in attachments
+Find experiments by material/equipment used
+Advanced search with unit conversions & logic gates
+Team Collaboration
+The platform for successful teamwork
+Transfer your protocols and SOPs to labfolder
+Share templates with selected team members
+Select projects you want to collaborate on
+Message your team members
+Leave comments on a notebook entry
+Administrators can define levels of access
+Manage user accounts, groups & projects
+Flexible structure to suit your lab
+Data integrity & security
+Secure and compliant
+SSL Encryption & Daily Backups
+Every change is tracked and time stamped
+Full Audit Trail with version history
+Digital signatures for Signing & Witnessing
+Used by GxP and ISO certified laboratories
+FDA and HIPAA compliance
+Full control and ownership of your data
+Available on Cloud or On-Premise Server
+Inventory Management
+Manage inventory with ease
+Register your purchased and lab-made plasmids, antibodies, reagents, etc.
+Update stock attributes and availability
+Link to your inventory from your notes
+  
+What really smart scientists say about Labfolder
+ 
+                                Group leader 
+                                 
+ 
+                                CEO 
+                                 
+ 
+                                Lab Manager 
+                                 
+ 
+                                Scientist 
+                                 
+ 
+                                Managing Director 
+                                 
+ 
+                                IT Admin 
+                                 
+  
+                             Group leader
+                        
+"Labfolder holds a central position in our daily work. It has replaced the conventional electronic lab notebook especially the easy sharing of information."          Dr. Marc Armbruster, TU Chemnitz    Read case study
+  
+                             CEO
+                        
+"It has allowed us to virtually eliminate paper in our record keeping processes, and enables us to collaborate on the same project with greater ease regardless of where we are working from."          Kelsey Moody, Ichor Therapeutics    Read case study
+  
+                             Lab Manager
+                        
+"It is a well organized and easy to use platform, where all data are easily retrievable, enabling us to work much more proficiently."          Dr. Marta Danecka, UKE Hamburg    Read case study
+  
+                             Scientist
+                        
+"Labfolder has completely replaced the physical lab journal we were using. It enables us to work more efficiently and streamlines a lot of our workflow."          Dr. Jochen Beck, Geistlich Pharma    Read case study
+  
+                             Managing Director
+                        
+"Labfolder enables us to adhere to a regulated environment with ease whilst conducting our research, because the platform is already compliant with FDA, ISO and GLP regulatory standards."          Thomas Grewing, Anchor Diagnostics    Read case study
+  
+                             IT Admin
+                        
+"Labfolder offers elements I need to structure and tag my data with, and the ability to easily share it amongst colleagues in a manner that I see fitting."          Dipl.-Ing. Ingo Przesdzing, Charité    Read case study
+ 
+ 
+ 
+So, what brings you here today?
+I want to use Labfolder just for my own research
+ 
+Sign up for free
+My team is looking for an ELN
+ 
+Request a Demo
+labfolder
+Labfolder auf Deutsch
+Contact
+Company
+Careers
+Blog
+Press
+Using Labfolder
+Feature List
+Release Notes – Cloud
+Release Notes – on premises
+Legal
+Security
+Imprint
+Terms of use
+Privacy
+GDPR
+ 
+Advanced version  Group and sub-group management
+ 300GB for data storage per user*
+ Custom share settings
+ Sign & Witness
+ XHTML export
+ Local Server installation available
+ Personalized onboarding
+ Data management consultancy
+*Cloud version. In the server version, you can have as much storage as your server can provide.
+Search
+Search for:
+Recent Posts
+Unified Access to Labforward Solutions with IAM
+Cloud vs local Server – Where should you store your data?
+The Importance of Data Reproducibility
+Streamline Data Management with New & Improved PDF Export feature
+Introducing our New & Improved Grid Layout Feature
+Recent CommentsDennis Fink on Introducing our New & Improved Grid Layout FeatureAndré Gemeinhardt on Introducing our New & Improved Grid Layout FeatureMaurice on Scientific reproducibility in the Digital LabsKaren Cruz on How Post-publication peer review is improving the quality of ScienceMarie Gonsales on How Post-publication peer review is improving the quality of ScienceArchives
+February 2023
+January 2023
+October 2022
+September 2022
+March 2022
+December 2021
+November 2021
+September 2021
+July 2021
+April 2021
+July 2020
+June 2020
+April 2020
+November 2019
+October 2019
+July 2019
+June 2019
+May 2019
+April 2019
+September 2018
+August 2018
+July 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+Categories
+labfolder
+Labforward
+Life in the lab
+Partners
+Research News
+Meta
+Log in
+Entries feed
+Comments feed
+WordPress.org
+ 
+				Request a group			
+First name* Last name* Email*
+Your DZNE site* List of group members to be invited*By continuing, you agree to Labfolder's Terms of Use and acknowledge reading the Privacy Policy and the DZNE data protection notificationNameThis field is for validation purposes and should be left unchanged.
+ 
+Δ
+ 
+			×            
+ Gestion des groupes et sous-groupes
+ 300GB de stockage de données*
+ Paramètres de partage personnalisés
+ Signer & Cosigner
+ Export XHTML
+ Possibilité d’installation sur serveur local
+ Introduction personnalisée
+ Conseils en gestion de données
+*pour la version cloud. Si vous optez pour la version serveur, vous aurez autant de place de stockage que le permet votre serveur.
+			×            
+ Gruppen- und Untergruppen-Verwaltung
+ 300GB Datenspeicher*
+ CBenutzerdefinierte Freigabeeinstellungen
+ Digitale Unterschrift nach dem Vieraugenprinzip
+ XHTML export
+ Lokale Server-Installation verfügbar
+ Persönliche Einarbeitung
+ Datenmanagement Beratung
+*Cloud-Version. In der Server-Version ist Ihr Speicherplatz nur von Ihrem Server begrenzt.
+			×            
+ Group and sub-group management
+ 300GB for data storage per user*
+ Custom share settings
+ Sign & Witness
+ XHTML export
+ Local Server installation available
+ Personalized onboarding
+ Data management consultancy
+*Cloud version. In the server version, you can have as much storage as your server can provide.
+			×            
+[ninja_form id=445]	
+			CLOSE            
+[ninja_form id=442]
+			×            
+[ninja_form id=439]
+			×            
+Industry
+Group management
+Unlimited sub-groups
+Advanced share settings
+Sign & Witness
+XHTML export for data archiving
+FDA CFR 21 part 11 compliance
+ISO 9001, 13458, 15189 and 17025
+GLP and GMP compliance
+Personalised onboarding
+Local server installation available
+300GB storage per user in the Cloud
+			×            

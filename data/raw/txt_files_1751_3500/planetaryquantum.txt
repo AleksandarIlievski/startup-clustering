@@ -1,0 +1,32 @@
+ Planetary Quantum – Managed Docker Hosting  
+Zum Inhalt wechseln
+ HomeProdukteDocker HostingQMPAdd-OnsLösungenFür AgenturenFür StartupsFür EntwicklerRessourcenDokumentationNewsFAQStatus-SeiteDigitalisierungsprämieLoginPasswort anfordernNeu-Kundenrunway
+MenüHomeProdukteDocker HostingQMPAdd-OnsLösungenFür AgenturenFür StartupsFür EntwicklerRessourcenDokumentationNewsFAQStatus-SeiteDigitalisierungsprämieLoginPasswort anfordernNeu-Kundenrunway
+Managed Docker
+Einfach, zuverlässig, sicher!
+Erfahren Sie mehr
+Sie entwicklen Ihre Anwendung, unsere Platform bringt sie online! Gehostet in Berlin.
+ 
+Wir haben dieLösungenUm die Leistung von Ihrem Projektteam zu sichern, profitieren Sie von unserem Application- Hosting-Angebot. Von der Infrastruktur bis zur Beratung und Support, maßgeschneidert und aus einer Hand. Um ihre Projekte erfolgreich zu hosten, nutzen unsere Kunden die von Planetary Quantum angebotenen Bausteine. Egal ob Startups oder Grownups, Kommunikations- oder IT Spezialisten, Entwickler-Teams in grossen Unternehmen oder einzeln agierende Freelance-Programmierer, alle können zuverlässig und sicher ihre Anwendungen auf unserer Plattform hosten.
+ Agenturen
+ Startups
+ Entwickler
+Application-Hosting – Für unsere Kunden machen wir das Application-Hosting einfach. Planetary Quantum betreibt die Plattform und Sie konzentrieren sich auf die Entwicklung Ihrer Anwendungen. Wir stellen die Infrastruktur zur Verfügung und Sie deployen die Stacks. So bekommt Ihre Anwendung die volle Flexibilität, die in jeder Projektphase benötigt wird.
+Maßgeschneidert für unsere Kunden – Die Ziele, Bedürfnisse und Anforderungen unserer Kunden geben bei uns den Ton an. Beim erreichen Ihrer KPIs begleiten wir Sie lösungsorientiert mit unserem Fachwissen. Unsere Plattform lässt sich dank der Quantum-CLI und unseren APIs einfach in Ihre vorhandene IT-Infrastruktur integrieren. Wir überwachen die Funktionen unserer Plattform und bieten Ihrem Team Zugriff auf die relevanten Metriken. 
+ Standort Berlin – Wir sind ein deutsches Unternehmen mit redundanten Rechenzentren in Berlin. Unsere performante Hosting-Infrastruktur garantiert die Leistung, Verfügbarkeit und Sicherheit Ihrer Projekte. Ihre Daten werden zusätzlich durch die strengen europäischen Datenschutzgesetze (DSGVO) geschützt. Erfahren Sie mehr.
+NEWS
+QMP: Plattform Update			Information zum Update der Quantum Monitoring Platform
+Weiterlesen »			
+Update in der Dokumentation: S3 Storage erfolgreich nutzen und integrieren			Informationen zum S3-kompatiblen Object Storage/Speicher bei Planetary-Quantum.
+Weiterlesen »			
+Quantum-Cli 2.6.0 Release			Neu: „quantum-cli ps“ und „quantum-cli exec“ für die tägliche Arbeit mit Ihren Stacks/Projekten.
+Weiterlesen »			
+Managed Logging Update			Update von Loki in Version und auf neuer Infrastruktur.
+Weiterlesen »			
+Sie entwickeln die Anwendung,wir bieten Ihnen die PlattformBringen Sie mit der Planetary Quantum Application-Hosting-Plattform Ihr Projekt schnell, zuverlässig und sicher zum Erfolg.
+Bestellen Sie jetzt
+einfach, zuverlässig, sicherPlanetary Quantum GmbHNaumannstr. 6410829 BerlinTel: +49 30 374 394 220Fax: +49 30 374 394 100 ImpressumAGBDatenschutzWiderrufsbelehrungKontakt
+MenüImpressumAGBDatenschutzWiderrufsbelehrungKontaktTragen Sie sich in unsere Mailingliste ein und erhalten Sie aktuelle News von unserem Team. 
+NEWSLETTER abonnieren
+❤  Made & hosted in Berlin
+   

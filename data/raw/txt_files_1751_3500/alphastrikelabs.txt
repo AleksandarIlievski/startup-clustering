@@ -1,0 +1,83 @@
+Alpha Strike Labs
+Skip to main content
+Hit enter to search or ESC to close
+Close Search
+    
+ 
+search
+ 
+Menu    
+How it works
+Use Cases
+Cyber Situation Report
+Cyber OSINT
+About Us
+Company
+Advisories
+Research
+Talks
+Jobs
+Contact
+EN
+DE
+search 
+How it works
+Use Cases
+Cyber Situation Report
+Cyber OSINT
+About Us
+Company
+Advisories
+Research
+Talks
+Jobs
+Contact
+EN
+DE
+ 
+  
+  
+Understand your Attack Surface using Open Source Intelligence and Global Internet ScansRequest DemoCyber Situation Report
+ 
+  
+  
+ ”Governmental Agencies, national CERTs and Security Teams use our Cyber OSINT platform to identify systems which are exposed on the internet and to analyze how widespread new types of vulnerabilities are. 
+Geographical & network topological distributionCustomized global scans for novel vulnerabilitiesTrend analysis, e.g. patch cyclesSector-specific analysis and identification of unknown national cyber threats
+  
+Use Cases
+Cyber Situation Report
+You want to know how severely your country is affected by a 0-day vulnerability or you are looking for an analysis tool to cover all vulnerable systems in a specific sector?
+With the help of our Cyber OSINT platform, we create individual cyber situation reports for you and help you to identify and categorize threats.
+More Info
+Cyber OSINT
+You are a Security Operation Center (SOC) operator looking for an up-to-date inventory of all your external internet-facing systems?
+Our Cyber OSINT identifies your external IP-enabled assets. Our threat analysis helps you generate cybersecurity KPIs.
+More Info
+  
+Cyber Situation ReportVulnerable CITRIX Server
+When the CVE-2019-19781 – Vulnerability in Citrix Application Delivery Controller, Citrix Gateway, and Citrix SD-WAN WANOP appliance was published, we conducted three Internet-Scans.
+The side-by-side comparison of the two heatmaps shows how the data we generate can be used for cyber situation reports. We used recurrent scans to visualize the development of the number of vulnerable servers for the CITRIX vulnerability published in December 2019. The heatmaps illustrate the difference in scans from Jan. 11th, 2020 to Jan. 21st 2020 and the associated positive trend nicely. For example the scan results have been shared with the German BSI – Nationales IT-Lagezentrum und Meldestelle.
+  
+  
+Case Study
+Epidemic? The Attack Surface of German Hospitals during the COVID-19 Pandemic
+We analyzed the attack surface of German hospitals and healthcare providers in 2020 during the COVID-19 pandemic. The results of the study were presented at the NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE) 13th International Conference on Cyber Conflict in May 2021.
+The study shows that 32 percent of the services analyzed were vulnerable to varying degrees, and 36 percent of all hospitals examined had points of attack.
+Read now
+  
+ Understanding cyber space in a new way 
+		  Contact us		
+ Privacy Policy
+Imprint
+ 
+ Alpha Strike Labs GmbH
+Albert-Einstein-Straße 14
+12489 Berlin
+Germany
++49 30 120877420
+office@alphastrike.io
+PGP Public Key
+Tweets by AlphaStrikeLabs 
+© 2022 Alpha Strike Labs
+twitterlinkedin 
+ 

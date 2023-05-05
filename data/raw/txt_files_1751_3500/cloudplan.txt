@@ -1,0 +1,173 @@
+Home - cloudplan
+Skip to content
+ 
+cloudplan
+ 
+Menu
+ 
+Solutions
+ 
+ 
+SOLUTIONS
+ 
+ 
+ 
+ 
+ 
+PROCESS AUTOMATION
+ 
+eSigning
+ 
+Workflows
+ 
+Web Forms
+ 
+Incoming Invoices
+ 
+Contract Management
+ 
+ 
+ 
+PRIVATE CLOUD
+ 
+Document Management
+ 
+File Storage
+ 
+Collaboration
+ 
+Synchronisation
+ 
+ 
+ 
+Plans
+ 
+Log in
+ 
+Shop
+ 
+ 
+ 
+ 
+More
+ 
+Home 
+Simplify Workflows & Private Cloud  
+for Enterprises 
+Fully integrated solution for File Storage, Workflows, eSigning, Web Forms, Document Management and Security. Runs in the cloud, on-premise, hybrid and multi-cloud environments! 
+Request a demo
+Start trial
+Workflows
+eSigning
+Collaboration
+File storage
+Location sync
+Private Cloud
+Web Forms
+ 
+ 
+DVGTaurusNautilusHaaspronovaHauswerkKnauf InterferZiemannBiogenaGratzBaeumerEisele 
+ Private Cloud as a Service (PCaaS)
+cloudplan covers the whole lifecycle of your files  
+Private Cloud Storage, Collaboration, Workflows with eSigning, Chat and connected features cover the whole lifecycle of your files in hybrid, cloud or on-premise environments.
+With it’s built-in intelligence cloudplan storage units work decentralized and make autonomous decisions where data traffic is routed and therefore have a higher availability and performance.
+With the smart web-based process designer you create workflows without IT knowledge in minutes.
+Learn more
+ Features at a glance 
+Workflows
+Adapt to your business processes and map your eSigning workflows to accelerate your business.
+Private Cloud Storage
+Private Cloud Storage for all of your data/ documents in the cloud, on-premise, hybrid. Synchronization of locations etc.
+Collaboration
+Collaborate with business partners and colleagues using folder sharing, web links and Microsoft 365 App integration
+Integration
+Seamlessly integrate cloudplan with your favorite third-party apps (SAP, Salesforce, Dynamics etc.)
+eSignatures
+cloudplan supports the simple (SES), advanced (AES) and qualified (QES) electronic signature.
+Web Forms
+Offer web forms on your website with no-code creation. Distribute URLs or QR-codes to start a workflow.
+Multi Factor Auth
+Use SSO and MFA with Azure AD oAuth or SAML to protect your data from unauthorized access.
+White Labeling
+Co-brand the portal and email messages. Use all cloudplan features transparent on your website or customer portal including web forms
+Request a demo
+Start trial
+Customer Stories
+Klaus Büttgen (CDO & CIO)
+„We faced the challenge to find a Germany based safe and secure eSigning solution. cloudplansupports our contract management very efficiently with an easy-to-use workflow management including thelegally secure qualified electronic signature.“ 
+Markus Grubwinkler (Head of IT)
+„cloudplan covers the digital construction file in the entire value chain including SalesForce integration and the qualified electronic signature.“
+Stefan Klinglmair (COO)  
+ „cloudplan realizes the data synchronization of company locationsfor the provision of data in marketing and simplifies our processes for drafting contracts with the legally validelectronic signature.”
+Compliant
+Workflows and eSigning
+Digitize your processes however you work
+Electronic signatures and document management from anywhere, on any device. Delight your customers, partners and employees with a premium digital signing experience. Discover online signing solutions for your office, department, enterprise and point-of-sale. eSignature for your web browser, wherever and however you work.
+Lern more
+ Process automation 
+ In a globally connected world, you need digital tools that can create and control processes not only within your company, but also with business partners worldwide. DocuWorkflows by cloudplan help you design and control processes in your business.   
+Workflows and eSigning
+Consent forms, registrations, payment authorisations and more. Set up self-service forms with no IT development. All steps and actions in the workflow process are tracked and reported in real-time as well as for long-term trend analysis. Automate your processes based on workflow rules or parameter fields.
+Automate business interaction
+Consent forms, registrations, payment authorisations and more. Set up self-service forms with no IT development. All steps and actions in the workflow process are tracked and reported in real-time as well as for long-term trend analysis. Automate your processes based on workflow rules or parameter fields.
+E-signatures are legal, trusted and enforceable in almost every industrialized country in the world. You can save approx. 80% of time per use on any transaction. Use all eIDAS-compliant electronic signatures and invite business partners and colleagues to sign your document with complete document activity tracking.
+Sign anything electronically
+E-signatures are legal, trusted and enforceable in almost every industrialized country in the world. You can save approx. 80% of time per use on any transaction. Use all eIDAS-compliant electronic signatures and invite business partners and colleagues to sign your document with complete document activity tracking.
+Integrate cloudplan with your favorite solutions, including Microsoft, SAP, Salesforce etc. Take advantage of cloudplan’s prebuilt integrations for Outlook and SharePoint online. Use the REST API to integrate the workflow and eSigning solution into your individual software. Customize it with your logo and colors to inspire trust and drive brand awareness.
+Integrate with your apps
+Integrate cloudplan with your favorite solutions, including Microsoft, SAP, Salesforce etc. Take advantage of cloudplan’s prebuilt integrations for Outlook and SharePoint online. Use the REST API to integrate the workflow and eSigning solution into your individual software. Customize it with your logo and colors to inspire trust and drive brand awareness.
+Create web forms with or without workflows using our innovative web-based editor/designer without IT knowledge. Build and tweak code-free workflow forms. Reuse templates and form either by submitting them directly to a team / department or by referencing them from your Workflow Editor. Start workflows with a URL, QR codes, via API or from the cloudplan template catalog with a click.
+Power of web forms
+Create web forms with or without workflows using our innovative web-based editor/designer without IT knowledge. Build and tweak code-free workflow forms. Reuse templates and form either by submitting them directly to a team / department or by referencing them from your Workflow Editor. Start workflows with a URL, QR codes, via API or from the cloudplan template catalog with a click.
+mehr erfahren
+Private Cloud as a Service (PCaaS)
+Build your own Private Cloud 
+Distribute your files and folders on different storage locations in the cloud, on-premise or hybrid. Integrate servers, PCs and mobile phones using cloudplan direct edge-to-edge connection technology for high availability. 
+Hybrid
+Cloud
+On-premise
+Lern more
+Storage on company infrastructure
+Integrated multi cloud storage option
+Versioning and monitoring
+Syncing different locations
+Clustering for unlimited redundant storage content
+Enterprise search for documents and workflows 
+Installable Sync Client (Win / Linux / MacOS) and Mobile Client (iOS / Android)
+ PCaaS 
+ Private Cloud 
+Document Management
+Contract managementDocument Lifetime ManagementVersioningRestoreEnterprise searchArchiving
+File Storage
+Flexible infrastructure options hybrid, cloud and on-premiseEdge-to-edge synchronizationHigh availability through decentralized intelligence Easy handling of global cloud via web interfaceUnlimited scalabilityIntegration auf local or Azure based Active Directory or LDAP service
+ 
+Collaboration
+Enterprise File Sync and ShareData roomOnline office connectorInstant messagingTasks
+ Private Cloud as a Service 
+Operate your own data lake assisted by the cloudplan management web portal 
+ Integrate the company’s existing IT infrastructure with commonly used infrastructure-as-a-service offerings into a hybrid, private cloud storage. All nodes connect automatically and all connections are secured with a military-grade AES-256 encryption. 
+Learn more
+Request a demo
+Start trial
+Lösungen
+Workflows
+Elektronische Signatur
+Private Cloud
+Kollaboration
+Daten-/ Datei-Speicherung
+ 
+Ressourcen
+Dokumentation
+Portal
+Service
+ 
+Unternehmen
+Über uns
+Kontakt
+Blog
+Jobs
+ 
+Impressum
+Datenschutzerklärung
+ 
+			© cloudplan GmbH 2023		

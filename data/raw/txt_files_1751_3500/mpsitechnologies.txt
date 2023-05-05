@@ -1,0 +1,89 @@
+Generation of quality source code for embedded software
+ 
+Skip to content
+Home
+Products 
+WhizniumSBE
+WhizniumDBE
+Starter Kit
+Documentation 
+WhizniumSBE
+WhizniumDBE
+Presentations
+Developer’s Digest
+About Us
+Discover
+Schedule a demo
+                    Whiznium: Quality code for your project, generated at lightning speed.                
+Get Started
+Learn more
+WhizniumSBE
+The Open Source “Service Builder’s Edition“ developer tool generates a fully-featured source code tree for your embedded / IIoT project based on a fine-grained model description. Included are database, embedded Linux service and WebUI/API access.
+Learn more...
+WhizniumSBE Docs
+WhizniumDBE
+The “Device Builder’s Edition“ developer tool extends the advantages of WhizniumSBE to the world of FPGA's by providing RTL code down to state machine level. A project-specific interface-agnostic library for host system access is generated along.
+Learn more...
+WhizniumDBE Docs
+Technical Overview
+Above diagram shows the run-time situation of a project developed using both Whiznium tools.
+WhizniumSBE
+●  Powerful multi-threaded IIoT solutions with HTTPS, DDS and OPC UA.
+●  Numerous applications in industrial automation and robotics.
+●  Reference projects and code examples for well-known ARM- and Atom-based systems.
+●  Fine-grained modelling of all aspects from database to web-based HMI and API library.
+●  Compile-readiness and very clean structure of the generated code.
+●  Simple intermixing of generated code and manual additions.
+	
+WhizniumDBE
+●  Development for powerful FPGA-based / SoC hardware.
+●  System specific command set with implementations as RTL on one hand, and as host system library on the other hand.
+●  Analogous code generation for 8-bit MCU’s.
+	
+Key Advantages
+●  Slash embedded software development time by up to 70% *)
+●  All time-consuming development tasks which may not be the core features of your high-tech product – Whiznium handles them for you.
+●  Whiznium knows Embedded: it injects expert knowledge on FPGA’s, databases, secure communications and more into your project.
+●  And what’s best: all code is in plain sight for your developer team – no closed source libraries are required.
+●  Your gain is sustained: Whiznium ensures well-structured and clean source code trees for feature-rich applications.
+*) based on the FabSight example: 17 person-days of modeling and implementation for FPGA, Embedded and Cloud components. 349000 lines of code of which 4970 are hand-coded to implement the core functionality. Not a single line of manual code for database, communication, API library, …
+	
+Whiznium Resources
+ WhizniumSBE (GitHub)   WhizniumDBE (GitHub)     Guide (YouTube) 
+Starter Kit Available
+●  Tabletop 3D laser scanner as comprehensive Whiznium use case.
+●  Workstation + SiLabs UniversalBee MCU variant based on SiLabs developer kit.
+●  ARM quad-core (no FPGA) variant based on Toradex i.MX6 board.
+●  Xilinx Zynq FPGA-SoC variant based on Digilent Arty Z7 board.
+●  Microchip PolarFire SoC FPGA variant based on Microchip PolarFire SoC Icicle kit.
+●  Model information (Whiznium input) and source code freely available on GitHub.
+●  Contact us for details.
+	
+Cheat Sheets Available
+ WhizniumSBE cheat sheet   WhizniumDBE cheat sheet     Order your free paper copy 
+Presentations section 
+July 10, 2022: You can now find slides of all our presentations at international conferences in a dedicated section of this homepage. Navigate to Documentation – Presentations in the main menu
+Experimental Vue.js support 
+February 28, 2022: We are delighted to announce that all Whiznium applications can now leverage the popular Vue.js front-end framework owing to an enhancement of WhizniumSBE’s model-based code generation. Find instructions and example at https://github.com/mpsitech/The-Whiznium-Documentation
+Posts navigation
+Older posts
+ 
+Success Story
+At the request of a customer, we put both Whiznium tools to work and got a cool IIoT project off the ground in record time, from FPGA-based data acquisition to cloud back-end! The FabSight project illustrates nicely why turning to Whiznium for a complex embedded software project instantly pays off… 
+Read more
+Home
+Products
+WhizniumSBE
+WhizniumDBE
+Starter Kit
+Documentation
+WhizniumSBE
+WhizniumDBE
+Presentations
+Developer’s Digest
+About Us
+Legal
+Discover
+Schedule a demo
+ 
+                © 2023 MPSI 

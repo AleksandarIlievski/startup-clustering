@@ -1,0 +1,239 @@
+ 
+deviceTRUST - Story
+Skip to content
+StoryProduct
+Discover Our Product
+deviceTRUST adds an additional level of security to your Zero Trust strategy. Rich context information and multiple actions via a central management interface across all deployment methods.
+ 
+Features
+Everything you need for Zero Trust
+Context
+Context always up to date
+Actions
+Actions in real time
+Templates
+Wide range of easy-to-use templates
+Licensing
+Modern and compelling licensing model
+ 
+Architecture
+deviceTRUST Components
+Console
+Graphical management interface for easy administration
+Agent
+Active component within the digital workspace
+Client Extension
+Management-free client component for context determination
+Compatibility
+Supports a wide range of digital workplace technologies and vendors
+ 
+Deployment Scenarios
+Cross platform
+Local
+Physical devices
+Remote
+Multi-Session, VDI
+SaaS
+Software as a Service
+ 
+ 
+Try Now
+Buy Now
+ 
+ 
+Benefits
+Experience Our Advantages
+deviceTRUST supports you in implementing your Zero Trust strategy with numerous use cases on all established technology platforms. Find out more about real application examples and what our customers have to say.
+ 
+Use Cases
+Valuable use case for your digital workspace
+Geolocation & Geofencing
+Security Check
+Secure and Validated Access when Working from Home
+Cooperation with External Partners
+ 
+Platforms
+Strong business values with all leading technology platforms
+ 
+What others say
+Stories, experiences and opinions of our customers and partners
+"The simplicity of installation and integration saved us time and was an important factor for the decision to choose deviceTRUST."
+Ausgleichskasse Basel-Stadt
+"deviceTRUST simply runs in the background and ensures that the right authorisations are activated and that people can work safely and stably"
+DB Systel
+"With deviceTRUST, we have found an optimal solution for application control ..."
+Deutsche Steinzeug
+"deviceTRUST ensures that our staff can work securely, even from home offices. Risks that arise through cyberattacks can be successfully minimized in this way."
+KKH Kaufmännische Krankenkasse
+Ausgleichskasse Basel-Stadt
+DB Systel
+KKH Kaufmännische Krankenkasse
+ 
+ 
+Try Now
+Buy Now
+ 
+	All Use Cases
+ 
+	All Technology Platforms
+ 
+	All Success Stories
+ 
+ 
+Resources
+Take Advantage of Our Resources
+Our technical documentation, support information, news, and much more, provide you with everything you need to implement and permanently optimize your Zero Trust strategy with deviceTRUST.
+ 
+Software
+Documentation
+docs.devicetrust.com
+Knowledge Base
+kb.devicetrust.com
+ 
+Support
+for Administrators
+docs.devicetrust.com/troubleshooting/
+for End-Users
+Frequently Asked Questions about the deviceTRUST Client Extension
+ 
+News / Press
+Latest news
+Events
+Upcoming physical events
+Webinars
+Upcoming online events and webinars
+Videos
+Platform for demo, how-to, use case videos and more
+Featured Resources
+Our campaigns on exciting and trending topics
+ 
+ 
+Try Now
+Buy Now
+ 
+ 
+Company
+Get To Know Us Better
+Learn more about our team, our history and our strong alliances and partners.
+ 
+About us
+Who we are
+Leadership TeamInvestorsOur Story 
+Alliances
+Strong partnership with the leading technology providers for the digital workspace
+Reseller
+Experts for consulting, implementation and selling deviceTRUST
+ 
+Blog
+Exciting posts from us and our friends
+Career
+Our open job offers
+ 
+ 
+Try Now
+Buy Now
+ 
+ 
+Download
+ 
+FAQ
+Frequently Asked Questions about the deviceTRUST Client Extension
+ 
+ 
+Choose you Operating System
+Download of deviceTRUST Client Extension
+ 
+ 
+ 
+Has the deviceTRUST client been renamed?
+Expand
+The deviceTRUST Client has been renamed and is now called deviceTRUST Client Extension.
+What is the purpose of the deviceTRUST Client Extension? 
+Expand
+The deviceTRUST Client Extension checks whether all necessary security, compliance or regulatory requirements are met when you access your company’s digital workspace. For detailed information concerning the parameters, please contact the company that provides your digital workspace directly.
+ Where do I get technical support? 
+Expand
+In case of technical problems, please contact the company that provides your digital workspace directly.
+ 
+for Windows 
+for macOS 
+for Ubuntu 
+ 
+All Frequently Asked Questions
+ 
+	All downloads
+ 
+ 
+StoryProduct
+FeaturesLicensingArchitectureCompatibilityDeployment Scenarios
+Benefits
+Use Cases
+Geolocation & Geofencing
+Security Check
+Secure and Validated Access when Working from Home
+Cooperation with External Partners
+All Use Cases
+ 
+PlatformsWhat others say
+Resources
+Software
+DocumentationKnowledge Base 
+Support
+for Administratorsfor End-Users 
+News / PressEventsWebinarsVideosFeatured Resources
+Company
+About UsAlliancesResellerBlogCareer
+DownloadImprintPrivacy Policy
+Deutsch
+ 
+ 
+ 
+Zero Trust Requires Device TrustContext as a FactorReal-Time Conditional AccessConclusion 
+Zero Trust Requires Device Trust
+Stealing users’ credentials is currently one of the most significant attack vectors. Even traditional multi-factor methods can often be copied or bypassed.
+Use your devices as a security factor  and bring your conditional access to the next level!
+With deviceTRUST, you add an additional layer of security to your Zero Trust Strategy.
+Context as a Factor
+deviceTRUST Contextual Security is the layer to protect a company's data and resources and reduces the costs associated with managing and securing digital workspaces while keeping productivity high.
+Context always up-to-date
+Without user interaction
+Software only
+WHAT IS THE CONTEXT
+ 
+Real-Time Conditional Access
+Based on your Context, deviceTRUST performs the Actions you need to protect your digital workspace
+Conditional
+Workspace Access
+Conditional
+Application Access
+Conditional
+Configuration
+WHAT MAKES OUR REAL-TIME SPECIAL
+ 
+Are you ready to optimize your Zero Trust Strategy?
+We support you all the way, from the concept to implementation and operation.
+Let´s get in touch!
+TRY NOW
+BUY NOW
+CONTACT NOW
+ 
+ 
+ 
+Contact - General
+deviceTRUST GmbH
+Hilpertstrasse 3164295 DarmstadtGermany
++49 6151 4936960 
+info@devicetrust.com 
+Legal and Compliance
+Imprint
+Privacy policy
+Legals
+Change cookie preferences
+Contact Us
+Contact Us
+Book a Meeting
+Subscribe to Newsletter
+ 
+© 2023 deviceTRUST. All Rights Reserved.
+ 
+Scroll To Top

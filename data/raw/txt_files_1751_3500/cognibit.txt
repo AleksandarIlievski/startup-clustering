@@ -1,0 +1,102 @@
+cogniBIT – cognition and behavior in traffic
+Skip to content
+driveBOTwalkBOTCognitive AIGet in Touch
+Search for:
+Menu
+Startseite
+Making Autonomous Vehicles Safe
+by bringing  the human element into traffic simulation.
+Contact Us
+Highly realistic traffic simulation
+Based on our cognitive AI, cogniBIT develops algorithms simulating complex human road user behavior. Our patent-pending cogniBOT™ AI architecture realistically simulates how humans perceive, think, and act.
+Our technology supports all stages of the ADAS and AD development process
+Research
+Train your AI algorithms with automatically generated life-like data, e.g. for the development of AD motion planning.
+Criticality analysis
+Identify critical edge cases scenarios such as pre-crash or driver hand-over.
+Development
+Integrate our traffic models into your CI for continuous function testing in your development process.
+Verification & Validation
+Our interactive traffic models support virtual endurance tests as well as scenario-based testing.
+Certification
+Challenge AD systems in simulation with highly realistic human road users.
+ Highly Realistic Traffic Simulation 
+Instead of using pregenerated trajectories, our simulated road users realistically interact with the vehicle under test at runtime. Just like humans, our simulated road users have typical human limitations such as a limited field of view, reaction times or lack of attention. Factors such as age and emotions can be adapted for each simulated individual driver to represent the continuum of human behavior in road traffic.
+Validated
+Our models produce fully explainable behavior and are validated by comparing data resulting from our simulation with real-world data, such as traffic statistics or physiological data.
+Automated Data Generation
+Our models are deterministic in the sense of generating fully reproducible results. At the same time, they contain stochastic elements representing uncertainties in human information processing. This automatically generates valid and realistic scene variations without the need for manual trajectory adjustment or real-world data acquisition.
+Easy Integration
+Our road user models are platform-independent and support common industry standards. This allows easy integration into any simulation platform.
+Our cognitive models display highly realistic modes of behavior
+Highly Realistic
+Validated
+Automated data generation
+Easy integration
+Highly realistic traffic simulation
+                Instead of using pregenerated trajectories, our simulated road users realistically interact with the vehicle under test at runtime.
+                Just like humans, our simulated road users have typical human limitations such as a limited field of view, reaction times or lack of attention. Factors such as age and emotions can be adapted for each simulated individual driver to represent the continuum of human behavior in road traffic.
+            
+Validated
+                  Our models produce fully explainable behavior and are validated by comparing data resulting from our simulation with real-world data, such as traffic statistics or physiological data.
+              
+Automated data generation
+                
+            Our models are deterministic in the sense of generating fully reproducible results. 
+            At the same time, they contain stochastic elements representing uncertainties in human information processing.
+            This automatically generates valid and realistic scene variations without the need for manual trajectory adjustment or real-world data acquisition.
+             
+Easy integration
+              
+               Our road user models are platform-independent and support common industry standards. This allows easy integration into any simulation platform. 
+               
+               
+              
+Our partners
+Realistic models of human behavior for simulation of autonomous driving at scale
+				By cogniBIT 
+ | 
+					6 October 2022				
+cogniBIT and dSPACE Are Making ADAS/AD More Realistic
+				By cogniBIT 
+ | 
+					20 April 2022				
+Future Mobility Award 2021 for cogniBIT
+				By cogniBIT 
+ | 
+					7 July 2021				
+cogniBIT selected for EIT Urban Mobility Accelerator
+				By cogniBIT 
+ | 
+					30 June 2021				
+Risky behavior in traffic simulated by cogniBIT
+				By cogniBIT 
+ | 
+					2 June 2021				
+cogniBIT at the 7th Symposium Driving Simulation
+				By cogniBIT 
+ | 
+					10 May 2021				
+Talk at Big-Data.AI Summit
+				By cogniBIT 
+ | 
+					15 April 2021				
+cogniBIT as member of AI Partners
+				By cogniBIT 
+ | 
+					13 April 2021				
+cogniBIT Traffic in IPG CarMaker
+				By cogniBIT 
+ | 
+					2 April 2021				
+Introduction of cogniBIT in Munich Startup’s podcast
+				By cogniBIT 
+ | 
+					26 March 2021				
+ 
+cogniBIT 
+Imprint
+Privacy
+ 
+				cogniBIT - cognition and behaviour in traffic			
+Close Menu

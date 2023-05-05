@@ -1,0 +1,210 @@
+Willkommen im digitalwerk - Regensburg
+ Skip to main content
+Skip to footer
+Über Uns
+Geschäftsfelder
+ADTF
+Anwendungen
+Portfolio
+Training
+Referenzen
+News
+Karriere
+Kontakt
+ 
+Über Uns
+Geschäftsfelder    
+ADTF
+Anwendungen
+Portfolio
+Training
+Referenzen
+News
+Karriere
+Kontakt
+ EN
+Highly sophisticatedsoftware tools for
+AutonomousSystems
+Without proper software there is no autonomous mobility!We at Digitalwerk enable our customers and partners to develop, test and validate these systems.Über Uns„Wir verstehen uns als Treiber für die zukünftige autonome Mobilität und autonomer Systeme in der Industrie. Aufgrund unserer langjährigen Expertise als Partner in der Softwareentwicklung für ADAS-Systeme verfügen wir über ein sehr tiefes Systemverständnis. Als lizenzierter Partner und exklusiver Gastgeber des ADTF-Kundenforums bieten wir unsere Expertise allen OEMs, Zulieferern und Entwicklungsdienstleistern an, die an der Entwicklung autonomer Systeme beteiligt sind.“ 
+Enrico Engel & Michael Lübbeke (Geschäftsführung Digitalwerk GmbH)
+ManagementTCO ist der Schlüssel für die Entwicklung von Software im Automobilbereich. „Der OEM möchte langfristige Zuverlässigkeit für seine strategische Investition in seine Softwarearchitektur! Gleichzeitig braucht der Entwickler von ADAS-Funktionen das Vertrauen in eine referenzierte, bewährte Lösung, die es ihm erlaubt, Komponenten im System anzusteuern, um seinen Algorithmus genau dort zu testen, wo er relevant ist. Und nicht zuletzt braucht der Messtechniker oder Entwicklungspartner eine nahtlose Integration in die Prozesslandschaft. Spezifische kundenspezifische Softwarelösungen werden im Haus entwickelt, auf ihre Skalierbarkeit im industriellen Umfeld getestet und ggf. in das ADTF Ecosystem integriert.“
+Michael LübbekeCEOEnrico EngelCEO„Mit ADTF führt Digitalwerk alle Standards, Anwendungen und Open Source in einer bewährten Form zusammen und ermöglicht so allen am Entwicklungsprozess Beteiligten, sich auf die eigentlichen Herausforderungen zu konzentrieren: Die Schaffung der Funktionalitäten und Sicherheit für das autonome Fahren von morgen! Die SaaS-Modelle von Digitalwerk, die Wartung und Upgrades beinhalten, sorgen für Transparenz und Sicherheit für OEM und Tier1 ohne Folgekosten!“
+Team
+Wir vereinen das innovative Denken und flexible Arbeiten eines jungen Startups mit erfolgreicher Unternehmererfahrung aus dem bayerischen Mittelstand. Durch diese ideale Kombination sind wir in der Lage zukunftsorientierte ADAS Tools und Frameworks zu entwickeln. In unseren Kernkompetenzen High Speed Data Processing, Rapid Prototyping, Embedded Software und Fahrzeugverifizierung fordern wir den Status quo Tag für Tag heraus und verfolgen einen ganzheitlichen Ansatz zur Entwicklung von Benchmark-Lösungen für den Automobilmarkt von morgen.
+Über Digitalwerk Digitalwerk - der Netzwerkadministrator und Entwickler des Automotive-Ethernets Digitalwerk bietet mit ADTF ein hochgradig erprobtes und referenziertes Software-Framework mit einem modularen System von standardisierten Apps und Tools, die eine One-Stop-Shop-Erfahrung in allen Anwendungsbereichen (Rapid Prototyping, Simulation, Data Logging, Validierung) entlang der ADAS-Funktionsentwicklung ermöglichen.Aufgrund seiner Kenntnisse und Erfahrungen mit der Struktur des ADAS-Betriebssystems und den unterschiedlichen Anforderungen aller am Entwicklungsprozess beteiligten Parteien stellt Digitalwerk sicher:
+Maximaler Datendurchsatz
+Hohe Leistung bei der Echtzeit-Datenanalyse
+Effizienz beim Testen Ihrer Algorithmen
+„Plug and Play“ Ihrer spezifischen Hardware durch generische Schnittstellen und Busse
+einwandfreie Kommunikation zwischen allen Hardwarekomponenten auf Ihrer spezifischen Plattform inkl. Hardwareempfehlungen.
+Integration von Open Source Software zur einfachen Einrichtung und Verwaltung von verteilten Systemen
+Umfangreiche Open Source File Library zum Lesen, Schreiben und Verarbeiten von Datenströmen offline auf FEP, RTI-DDS und ROS2
+C++/JS/QML SDK für Kunden zur Erweiterung beliebiger Funktionen
+Mehrfache Verwendung von Softwarekomponenten in verschiedenen Simulationssets und Testaufbauten
+Ermöglicht Entwicklern den Aufbau vollautomatischer und hoch skalierbarer Softwarelösungen und Cloud-(Nach-)Verarbeitungswerkzeuge
+Verwendung und Berücksichtigung von Automobilstandards wie CAN, CAN FD, FlexRay, XCP, Some/IP, Automotive Ethernet / Autosar
+AnwendungenWir entwickeln Software für die digitale Zukunft im Automobil. Die Digitalisierung im Automobil erfordert Software von Spezialisten.Rapid PrototypingVisualisierung von Kamerakalibrierungs- und Messdaten
+Digitalwerk entwickelt seit 2018 für einen OEM ein System zur Visualisierung von Sensor- und Kameradaten. Ergebnis ist eine zentrale Konfiguration die Kameradaten, Signale und Debuginformation verbindet und visualisiert. Das Visualisierungssystem wird im Entwicklungszyklus bei der Validierung von hochautomatisierten Fahrfunktionen eingesetzt (z.B. Entwicklung der Fahrspur Dektion oder Beifahrererkennung). Je nach Typ müssen die Daten 2-dimensional oder 3-dimensional visualisiert werden. So kann der Kunde offline oder live im Testfahrzeug sehen, ob die von ihm entwickelten Algorithmen zuverlässig funktionieren. ADTF als Framework war für diese Aufgabe besonders geeignet besonders geeignet, da bestehende Komponenten direkt verwendet und fehlende Funktionalität über die standardisierten über die standardisierten ADTF-Schnittstellen implementiert und integriert werden konnten.  Data LoggingErfassen und Dekodieren verschiedener automobilbezogener Datenströme
+Digitalwerk unterstützt seit 2019 zwei OEMs bei der Entwicklung der nächsten Messtechnikgenerationen. Das gemeinsame Ziel der jeweiligen Projekte ist die Integration und der Ausbau von ADTF als zentrale Einheit in eine Werkzeugkette zu integrieren und auszubauen, um alle Busdaten und Debuggingdaten komfortabel abrufen, dekodieren, verarbeiten und visualisieren zu können. Mit ADTF wurden Daten und Ergebnisse aus Sensordatenfusionen visualisiert in Punktwolken, Flächen und Fahrspuren im dreidimensionalen Raum visualisiert. Entsprechend den Anforderungen des Kunden mussten die Visualisierungen so gestaltet werden so gestaltet werden, dass sie zur Laufzeit dynamisch rekonfiguriert werden können, um den Bedürfnissen des Kunden gerecht zu werden. Innerhalb der Messtechnik werden Rohdatenströme mit ADTF aufgezeichnet, um eine realistische Resimulation oder Offline-Analyse im Post-Processing zu ermöglichen. So können die Ergebnisse zwischen Live-Betrieb und Simulation verglichen und validiert werden.  SimulationGenerierung von Autosar SWC für die integrierte Simulation
+Der Grad der Vernetzung zwischen Softwarekomponenten und deren Anzahl nimmt seit Jahren zu. Dies führt zu der Frage, wie Softwarekomponenten möglichst effizient und zeitnah getestet und möglichst zeitnah getestet werden können. Ziel von Digitalwerks AUTOSAR Sidekick ist es, eine Lösung für den Test von AUTOSAR-Softwarekomponenten über ADTF bereitzustellen. Digitalwerks AUTOSAR Sidekick generiert eine Zugriffsschicht für die fertige Softwarekomponente, so dass die Komponente direkt aus ADTF heraus angesprochen werden kann. Das bedeutet, dass die Komponente effizient und effektiv über ADTF mit beliebigen Testvektoren in jeder Phase getestet werden.  Integration in ein Systemnetzwerk oder gar komplexe Restbussimulationen sind nicht mehr notwendig.  Post ProcessingHochskalierbare Datenverifikation und -validierung
+Die enorme und stetig steigende Datenrate heutiger Fahrzeuggenerationen stellt alle am Entwicklungsprozess Beteiligten vor große Herausforderungen. Abhängig von der Art der Daten und den Plattformen und Anforderungen des Kunden werden spezialisierte Softwarelösungen zum Einsatz. Innerhalb dieser Umgebungen kann das ADTF-Framework entweder direkt an die Werkzeuge angebunden werden oder ein Datenfluss über speziell entwickelte Exporte hergestellt werden. Dieser direkte und indirekte Vernetzungsgrad über interne wie auch externe Schnittstellen ermöglicht einen komfortablen Mischbetrieb für Analyse und Verifizierung. Die einzelnen Schritte innerhalb der Datenverarbeitung wurden so entwickelt wurden so entwickelt, dass sie auch in vollautomatischen und hochskalierten Cloud-Systemen integriert und in einer Pipeline ausgeführt werden können. Das ADTF-Framework stellt die entsprechenden Anwendungen, Dienste und Schnittstellen, um die benötigten Formate, Verbindungen und Umgebungen mit bordeigenen Ressourcen zu realisieren.  ADTF (Automotive Data & Time-Triggered Framework)Der Rahmen von heute für die ADAS-Funktionalität von morgenDas Automotive Data and Time-Triggered Framework wurde als Rapid Prototyping Toolset, Simulationsframework und Test- und Messwerkzeug entwickelt, um folgende Hauptanwendungsfälle zu erfüllen:
+Wiederverwendung von Softwarekomponenten in verschiedenen Simulationssets und Testaufbauten
+Entwickeln Sie Plug-and-Play-Software und verwenden Sie einfach Ihre spezifische Hardware
+Verwenden Sie die gleiche Software auf verschiedenen Plattformen
+Prototyping von Fahrzeugfunktionen
+Bereitstellung von grundlegenden Kommunikationsdefinitionen und Schnittstellen
+Aufbau von vollautomatischen und hoch skalierbaren Softwarelösungen und Cloud-(Nach-)Verarbeitung
+Verwendung von Automobilstandards wie CAN, CAN FD, FlexRay, XCP, Some/IP, Automotive Ethernet / Autosart
+ADTF ist das umfassende Software-Framework für die Entwicklung und den Test von ADAS-Funktionen bis hin zu autonomen Systemen. Für jede Problemstellung steht ein einfacher und schneller Ansatz zur Verfügung, so dass eigene Lösungen effektiv und effizient entwickelt werden können. Gleichzeitig bietet Digitalwerk eine Vielzahl von spezifischen, einsatzbereiten Tools und Apps für viele Anwendungsfälle. (> Portfolio für Details)
+Vom Framework zum Tool - unser Weg zur ADAS-Entwicklungsplattform von morgen ADTF ist die Basis, um die flexiblen Bedürfnisse von ADAS-Funktionsentwicklern zu erfüllen. Kundenanforderungen können maßgeschneidert umgesetzt werden. Schnell anpassbare Softwarepakete können komfortabel bereitgestellt und erlebt werden.
+BasisumfangTools & Applikationen zum Einrichten, Starten und Steuern von ADTF-SitzungenKommunikation
+RPC- und IPC-Schnittstellen für den Austausch von Daten und Interaktion
+Komponenten zum Aufbau eines verteilten Systems auf Basis von FEP, RTI-DDS und ROS2
+Optimiert für die Bedürfnisse der Automobilindustrie
+Rekorder und Player für zeitdeterministische Resimulation und Weiterverarbeitung
+Richtlinien, Definitionen und Komponenten zur Verwendung von Automobilstandards (z.B. ASAM, Autosar, …)
+ECU-Kalibrierung mit XCP und A2L
+Komplette Toolchain zum Erfassen, Assemblieren, Codieren/Decodieren und Visualisieren von automobilbezogenen Daten
+Handhabung für qualifiziertes Timing, Threading und Scheduling
+Volle Flexibilität für kundenspezifische Entwicklung
+C++/JS/QML SDK für Kunden zur Erweiterung beliebiger Funktionen
+Wrapper für schnelles Prototyping
+Erweiterbare 2D-, 3D- und Signalvisualisierung
+Open Source File Library zum Lesen, Schreiben und Verarbeiten von Datenströmen offline
+ADTF ermöglicht Entwicklern: 
+Die Integration von Open Source Software zum einfachen Einrichten und Verwalten von verteilten Systemen
+umfangreiche Open Source File Library zum Lesen, Schreiben und Verarbeiten von Daten Datenströme offline auf FEP, RTI-DDS und ROS2
+C++/JS/QML SDK für Kunden zur Erweiterung beliebiger Funktionalitäten
+Mehrfach – Nutzung von Softwarekomponenten in verschiedenen Simulationssets und Testaufbauten
+ermöglicht Developern den Aufbau vollautomatischer und hoch skalierbarer Softwarelösungen und Cloud-(Nach-)Verarbeitungswerkzeuge
+die Verwendung und Berücksichtigung von Automobilstandards wie CAN, CAN FD, FlexRay, XCP, Some/IP, Automotive Ethernet / Autosar
+Ihre Algorithmen effizient zu testen
+ADTF bietet Entwicklern:
+Ein Software-Framework auf verschiedenen Plattformen (x64, ARM64) und Betriebssystemen (Linux, Windows)- ADTF ermöglicht `Plug and Play‘ Ihrer spezifischen Hardware durch generische Schnittstellen und Busse
+Gewährleistet die korrekte Kommunikation zwischen allen Hardwarekomponenten auf spezifischen Plattform
+Komplette Toolchain zum Erfassen, Zusammenstellen, Dekodieren/Kodieren und Visualisieren automobilbezogener Daten
+Wasy Handling für qualifiziertes Timing, Threading und Scheduling von Tests
+Ermöglicht Prototyping von Fahrzeugfunktionen
+Wrapper für Rapid Prototyping
+Umfangreiches Toolset zum Einrichten, Starten und Steuern von ADTF-Sitzungen
+RPC- und IPC-Schnittstellen für den Austausch von Daten und Interaktion
+Kommt mit detaillierten und umfassenden Richtlinien, Definitionen und Komponenten zum Mitnehmen
+Enthält detaillierte und umfassende Richtlinien, Definitionen und Komponenten zur Berücksichtigung von Automobilstandards (z.B. ASAM, Autosar)
+Recorder und Player zur zeitdeterministischen Nachsimulation und Weiterverarbeitung der Daten
+Erweiterbare 2D-, 3D- und Signalvisualisierung
+Steuergeräte-Applikation mit XCP und A2L
+Referenzen
+Ob Audi, Volkswagen, BMW oder Mercedes-Benz: Sie alle setzen bei der Entwicklung von intelligenten Fahrerassistenzlösungen bis hin zum autonomen Fahren auf unsere ständig weiterentwickelten Werkzeuge. Von der ersten Idee für ein neues Feature bis zur Serienreife schaffen unsere Software-Experten mit jeder Zeile Code die Grundlagen, um die Zukunft zu schreiben.
+ProduktARXML-Parser
+Parser Engine zur Dekodierung von in AUTOSAR beschriebenen Fahrzeugdatenbussystemen
+Open-Source-Diagnose
+Applikation zur rechtlichen Prüfung von Open Source Software Lizenzen
+ADTF
+Leistungsfähiges Framework und Toolset für die Aufzeichnung, Verarbeitung und Wiedergabe multipler, gleichzeitig laufender Datenströme und extrem hoher Anforderungen im Datendurchsatz. Inklusiv einer Entwicklungsumgebung für kundenspezifische Erweiterungen.
+Success StoriesMercedes Benz
+Entwicklung von Messtechniksoftware für autonome Systeme
+VW-Konzern / CARIAD
+Anbindung von Messtechnik-Hardware an ADTF
+Visualisierung und Verarbeitung von Sensordaten
+Entwicklung von Frameworks (FEP-Functional Engineering Platform)
+Magna
+Generierung von RTE-Code
+Advanced testingVW-Konzern / CARIAD
+Strukturierte ADAS- Validierung am Realfahrzeug
+Szenariomodellierung für die Validierung des Staupiloten
+Der SUPERTESTER von digitalwerk
+Applikation zur Onboard- Analyse für die automatisierte Visualisierung und Auswertung von Testfällen
+Digitalwerk integriert Open-Source-Software in ADTFDie Basis für den Aufbau eines verteilten SystemsDas beste Beispiel ist die Integration der Functional Engineering Platform (FEP) in ADTF. FEP ist eine frei verfügbare und als Open Source lizenzierte Middleware. Mit der Integration von FEP befreit das Digitalwerk-Entwicklungsteam um Florian Roth (Head of Product Development ADTF) und Enrico Engel (CEO) den ADAS-Entwickler von vielen Herausforderungen und Stolpersteinen beim Aufbau und der Administration eines verteilten Systems, ohne dabei auf das bewährte hoch- performante Echtzeit Datenmanagement von ADTF inklusive der Aufzeichnung der Daten zu verzichten.Management von ADTF einschließlich der Aufzeichnungs- und Wiedergabefunktionen bei der Validierung, dem Testen oder dem Rapid Prototyping von ADAS-Funktionen.
+Mit dem ADTF Configuration Editor ermöglicht Digitalwerk die einfache Konfiguration eines verteilten Systems. Dies macht es möglich, auch komplexe Simulations-, Test- und Validierungsarchitekturen in einer einfachen Form zu erleben – unabhängig davon, ob sie lokal auf einem PC oder in hochskalierbaren Cloud-Umgebungen ausgeführt werden.
+FEP SchemaLeistungsportfolioHochspezialisierte Softwareprodukte für autonome Systeme
+Produktentwicklung
+Software-Framework-Entwicklung
+Zeitsynchrone Datenerfassung
+Open-Source-Entwicklung
+Vertrieb & Kundenservice
+Kundenspezifische Produktanpassung
+Toolchain-Entwicklung für die Kalibrierung
+High Speed Datenverarbeitung
+Sensor- & Hardware-Integration
+Webdienste & Cloud-Management
+Advanced testing
+Optimierte Testplanung und -durchführung
+Tool-unterstützte Echtzeit-Validierung
+Rückverfolgung/Analytik
+Virtuelles Testen
+Funktionalität und ErweiterungenSupertester
+Onboard-Analysetool zur automatisierten Visualisierung und Auswertung von Testfällen
+Online-Validierung und automatisierte Reports von durchgeführten Testfällen
+Kostenreduzierung von Testfahrten, Testgeländen und öffentlichen Straßen um ca. 30%
+Autosar Sidekick
+Verbindung der AUTOSAR-Softwarekomponente mit ADTF zum Zwecke der Testbarkeit von Softwarekomponenten auf dem PC ohne enormen Integrationsaufwand
+Restbussimulation ist nicht mehr notwendig
+ADTF Control Center
+Plattformunabhängige und moderne webbasierte GUI
+Einfacher Anschluss und Fernzugriff auf das laufende ADTF (im Auto oder überall)
+Verhalten steuern und Daten bei Bedarf abfragen
+ADTF Multimedia-Tools
+Veranschaulichung des GStreamer Frameworks in ADTF
+Hoch- performante Audio-/Bild-/Videoübertragung und verlustfreie Kompression
+Plattformunabhängige Plugins und Codecs
+ADTF-Plugin-Prozessor
+Generischer Filter zum Laden von adtf-Dateiplugins (IFHD) in ADTF
+Wiederverwendung von Datenprozessoren, insbesondere zum Schreiben beliebiger Dateiformate
+Schnittstellenanbindung für die externe Steuerung
+Plug & PlayData Logging
+Bus-Kommunikation mit Peak, Star-Cooperation, NI und X2E Logger
+Videoerfassung mit nvidia-kompatiblen Kameras
+Audio-Unterstützung für USB/Bluetooth-Mikrofone
+Unterstützung für Trägheitsnavigationssysteme
+Steuerung/Erfassung von Daten vom ETAS Ralo GCF-Empfänger
+Import / ExportPost Processing
+Lesen/Verarbeiten von Daten aus externen Aufzeichnungen (z.B. mdf)
+Export von Daten für 3rd Party Anwendungsformate (z.B. pcap, parquet)
+DigitalwerkMissing Links
+Wiederverwendung von Post Processing Algorithmen im Live-Modus (Rapid Prototyping, Data Logging)
+Generierung von Autosar SWC für die integrierte Simulation (Rapid Prototyping)
+Dekodierung mit Autosar ARXML (Datenprotokollierung, Simulation)
+Videokodierung/ -komprimierung/ -muxer (Simulation, Rapid Prototyping, Datenprotokollierung)
+Unterstützung für die Dekodierung von DLT und TECMP Protokoll
+ADTF OSS
+Verwaltung von Abhängigkeiten
+Paketierung/Bereitstellung von plattformunabhängigen Setups
+Konvertierung von ADTF2-nach-ADTF3-Metadaten
+Open SourceARXML-Parser von DigitalwerkPerformance is keyAls der starke Partner für Messtechnik hat digitalwerk einen ARXML-Parser auf Basis von ADTF entwickelt. Dieser wird bereits von unseren Kunden wie Mercedes-Benz, Audi, Bosch und VW Group / CARIAD eingesetzt. In modernen Fahrzeugen sind alle Steuergeräte miteinander verbunden und bilden ein Netzwerk, das sogenannte Bussystem.
+Heutzutage basieren Bussysteme zunehmend auf ARXML-Datenbanken, die Informationen über die Kommunikation zwischen Steuergeräten enthalten, einschließlich der entsprechenden Signale, Frames und Timings.
+Parser-Plugins werden von den Device-Toolbox-Busdiensten instanziiert und erweitern die Funktionalität des Parsens und Ladens von Signaldatenbanken, indem sie als Schnittstelle zwischen der Datenbank und den Device-Toolbox-Busdiensten fungieren.
+Die ARXML-Parser-Engine von Digitalwerk kann diese ARXML-Datenbanken sehr schnell parsen und alle benötigten Informationen an das ARXML-Parser-Plugin übergeben.
+AUTOSAR ist der Standard in der Automobilindustrie für die Entwicklung ganzer Fahrzeuge und vor allem deren Bussysteme.Der ARXML-Parser von Digitalwerk bietet für die AUTOSAR-Versionen 4.0 – 4.4 die gängigen Busse wie CAN, CAN FD, FlexRay und SOME/IP.
+ARXML Parser Plugin Supported FeaturesCAN/CAN FD
+En-/Decoding of Messages/Signals
+Multiplexed Signals
+FlexRay
+Time-Scheduling
+A/B Channel-I/O
+En-/Decoding of Frames/PDUs/Signals, Little-/Big-Endian
+Monotone/Sawtooth
+Counting-Policy
+Increasing/Decreasing Bit- Order
+Multiplexed PDU
+SOME/IP
+Service-Events
+Method-Calls (RPC)
+AUTOSAR PDU
+AUTOSAR
+Classic
+Adaptive
+Versions 4.0.3 / 4.2.2 / 4.3.1 / 4.4
+Der SUPERTESTER von DigitalwerkIhre Null-Fehler-Garantie bei der Validierung und der Verifikation Ihrer ADAS FunktionstestsDer Supertester von digitalwerk ermöglicht die automatisierte Erfassung und Steuerung Ihrer ADAS-Funktionstests während der Ausführung auf einer intuitiven Benutzeroberfläche. Der Supertester garantiert Testmanagern weniger Frustration aufgrund von fehlerhafter Testausführung oder Nichteinhaltung definierter Parameter.Der Supertester von Digitalwerk ermöglicht somit mehr Sicherheit sowie erhebliche Zeit- und Kosteneinsparungen bei der Prüfung von ADAS-Funktionen.
+Supertester’s Integration in the test processNewsNEUER DISTRIBUTOR FÜR KUNDEN IN CHINA, JAPAN, KOREA UND SINGAPUR – DIGITALWERK GMBH UND HONGKE TECH. CO., LTD. VERKÜNDEN VERTRIEBSPARTNERSCHAFT15. März 2023Die Digitalwerk GmbH gibt die Unterzeichnung einer neuen Vertriebspartnerschaft mit HongKe Tech. Co., Ltd. für den technischen Vertrieb des digitalwerk Software-Frameworks (ADTF Automated Data &…...WeiterlesenADTF oder Open Source Software in der ADAS-Funktionsentwicklung? digitalwerk liefert die Antwort und integriert Open Source Software in ADTF14. November 2022Das Software-Entwicklungsunternehmen digitalwerk integriert Open Source Software in ADTF (Automotive Data & Time Triggered Framework) und liefert dem OEM und Tier1 mit DW OSR (Open Source…...WeiterlesenINSTART group 2022: 22 Millionen Umsatz und über 200 Mitarbeiter11. November 2022Seit der Gründung der INSTART group Anfang 2018 ist digitalwerk Teil dieses innovativen Unternehmensverbunds aus dem automotive Sektor und gilt innerhalb dieses Konstrukts als Spezialist für die Entwicklung von…...WeiterlesenNewsletterBleiben Sie immer up-to-date und abonnieren Sie unseren NewsletterBitte senden sie mir bis auf Widerruf regelmäßig Informationen über Ihr Produktangebot.
+Dieses Angebot ist gemäß unserer Datenschutzbestimmungen jederzeit kündbar.
+AnmeldenKarriereSie bei unsSie suchen einen Job mit Freiraum zur Selbstverwirklichung? Unsere agile, flexible Arbeitsweise schafft einen fruchtbaren Boden für neue Ideen – bei digitalwerk achten wir darauf, uns in unserem Handeln immer wieder zu hinterfragen, uns weiterzuentwickeln und uns zu Höchstleistungen zu motivieren. Werden Sie Teil unseres Teams und gestalten Sie die Zukunft der Automobilbranche aktiv mit.
+Offene StellenTestingenieur (m/w/d) ADAS/AD AbsicherungWerkstudent (m/w/d) – Web-EntwicklungWerkstudent (m/w/d) – FahrzeugerprobungWerkstudent (m/w/d) – Business Development / CRMSoftwareentwickler C++ (m/w/d)Frontendentwickler (m/w/d)Backend Entwickler (m/w/d)Senden Sie uns Ihre InitiativbewerbungSie haben unter den offenen Stellen nichts Passendes gefunden, möchten aber trotzdem Teil eines starken Teams werden? Dann schicken Sie uns einfach Ihre Initiativbewerbung! Senden Sie uns ein aussagekräftiges Anschreiben mit Lebenslauf und Zeugnissen über den folgenden Link:
+karriere@digitalwerk.netKontaktieren Sie uns viadigitalwerk Support PlattformSupport ADTF: +49 (0)941 4662 4311support@digitalwerk.nethttps://support.digitalwerk.net
+Zentrale RegensburgDigitalwerk GmbHIm Gewerbepark C1593059 Regensburg
+Tel: +49 (0)941 4662 4310Fax: +49 (0)941 4662 4312
+info@digitalwerk.net
+Büro EitensheimDigitalwerk GmbHEichstätter Straße 4085117 Eitensheim
+Büro DresdenDigitalwerk GmbHAntonstraße 2501097 Dresden
+Digitalwerk in Kürzedigitalwerk ist ein Software-Entwicklungsunternehmen mit Schwerpunkt auf ADAS Tools & Frameworks. Das Unternehmen wurde 2015 gegründet und beschäftigt heute rund 50 Mitarbeiter. Kernkompetenzen sind High Speed Data Processing, Rapid Prototyping, Embedded Software und Fahrzeugverifizierung. Zu den Kunden zählen europäische Premium-Automobilhersteller sowie führende TIER1 Lieferanten. digitalwerk ist Teil einer innovativen Tech Startup-Gruppe aus Süddeutschland. Wir sind Mitglied von ASAM.Copyright © 2023 • DigitalwerkImpressum
+Datenschutz
+Cookie-Richtlinie - created by RED RAM MEDIA

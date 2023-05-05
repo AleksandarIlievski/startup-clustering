@@ -1,0 +1,278 @@
+TIVITY > Digital Transformation Platform
+  
+ 
+Home
+Our Story
+Blog
+Contact
+ 
+Products
+OKR
+Projects
+Documents
+TIVITY Platform
+Pricing
+Customers
+Get started for free
+Login
+Menu
+ 
+Innovation as a Service
+  
+Learn how our Platform, Products und Methods will help you to be more innovative like StartUps.
+ 
+Get started for free
+ 
+ 
+Innovation
+Productivity
+Product-Development
+ 
+ 
+Made inGermany
+  
+Hosted inGermany
+  
+VerschlüsselteÜbertragung
+  
+ISO-zertifizierteRechenzentren
+  
+Cloud &On-Premises
+ 
+More than the sum of its parts 
+TIVITY offers a comprehensive solution for Innovation, Collaboration and Product-Development. Build ideas and products in a friction of time and without a line of code.
+From Idea to Product in a Sprint.
+Innovation Hub
+Managen Sie das Innovations-Potential ihres Unternehmens und schalten Sie mit Experimenten auf kontinuierliche Innovation um.
+Productivity Hub
+Steigen Sie auf digitales und verteiltes Arbeiten um. Finden Sie alle Informationen an einem Ort und haben Sie immer den aktuellen Status.
+Maker Hub
+Was ein JIMDO für Webseiten ist, ist der der Maker-Hub für Enterprise Applikationen. Bauen Sie Ideen/Lösungen extrem schnell und ganz ohne Entwickler.
+Innovation Hub
+Digital Transformation is all about your company’s innovations. Manage your ideas, innovations and experiments and decide with methods like RICE or How-Now-Wow which idea is worth an experiment.
+Work on potential business models with digital canvases, wireframes and create projects with actionable tasks, clear scope and commitments.
+MANAGE.INNOVATION.NOW
+ 
+Learn more
+ 
+BELIEBTE FEATURES
+ 
+Innovation Management
+Business Model Canvas
+Digital Canvas
+Wireframing
+ 
+Productivity Hub
+Leave excel-sheets and email chains behind and work in a collaborative way on projects with checklists, kanban and scrum. Manage your products, innovations and ideas in agile iterations.
+Follow the New-Work movement and work with chat, commenting, activity-streams, documents in one place and be always up to date.
+BE.MORE.PRODUCTIVE
+ 
+Learn more
+ 
+BELIEBTE FEATURES
+ 
+Projectmanagement
+Collaboration
+Documents
+ 
+Maker Hub
+Mit dem Maker-Hub stehen Ihnen Werkzeuge zur Verfügung, mit denen Sie in kürzester Zeit Enterprise Applikationen bauen können und das ohne eine Zeile Code.
+ 
+LEARN MORE
+ 
+BELIEBTE FEATURES
+ 
+Rapid Prototyping
+MVP - Minimum Viable Product
+Enterprise Integrations
+ 
+Object-DesignerSelection-DesignerLayout-DesignerWorkflow- / Script-DesignerTemplate-DesignerResult
+ 
+Object-/Class-Designer
+Create Your Datamodel
+ 
+ 
+Definition of data sources for the usage on the platform
+Creation of objects, attributes and actions
+Definition of attribute types   and their controls
+Linking between objects and look-ups (with parameters) 
+Translations of names   and help descriptions
+ 
+ 
+Benefits
+Visualization-based creating, editing and examining of object
+Enables standard views of objects without defining layouts
+Templates simplify the definition of data sources
+Validation of inputs to ensure accuracy
+ 
+ 
+Selection-Designer
+Build Result-Lists & Reports
+ 
+ 
+Creation of queries for layouts and reports
+Definition of output data fields and query parameters
+Preview for queries
+Translations of the title and field names
+Authorization management to control execution of queries
+ 
+ 
+Benefits
+Simple visualization of query parameters operators and groups
+Filter results for reports and diagrams
+No SQL-knowledge required
+Validation of inputs to ensure accuracy
+ 
+ 
+Layout-Designer
+Configure Layouts & Dashboards
+ 
+ 
+Creation of customized user  interfaces for apps
+ Customizing data fields and actions
+Templates  for frequently used layouts 
+Inheritance of layouts for layouts and rights
+Supports adaptive layouts for different screen resolutions
+ 
+ 
+Benefits
+WYSIWYG editor
+Extensive set of layout elements and controls
+No HTML knowledge necessary (drag&drop editor)
+Preview to quickly validate solutions
+Reuse of layouts through inheritance (of basis classes)
+Includes functions for help and introductional tours
+ 
+ 
+Workflow-/Script-Designer
+Define Business-Logic with Workflows & Scripts
+ 
+ 
+Definition of workflows and processes
+Multiple steps and transitions between them are possible
+Actions within steps  and transitions 
+Parameters for the start and runtime of the workflow
+Authorization management for executing workflows
+ 
+ 
+Benefits
+Visualization of steps and transitions for easy validation
+Easy handling of repeatable tasks (e.g. invoicing, E-Mail orders)
+No development and coding knowledge required (drag&drop)
+Validation of inputs to ensure accuracy
+ 
+ 
+Template-Designer
+Generate Documents & E-Mails with Templates
+ 
+ 
+Definition of workflows and processes
+Multiple steps and transitions between them are possible
+Actions within steps  and transitions 
+Parameters for the start and runtime of the workflow
+Authorization management for executing workflows
+ 
+ 
+Benefits
+WYSIWYG creation of documents and E-Mails
+No 3rd party software necessary (Creation directly in a browser without MS-Office or similar programs)
+No HTML knowledge necessary (easy to use HTML editor)
+Reuse of templates through nesting and sections
+ 
+ 
+TIVITY Tool-Set
+Final Application
+ 
+ 
+1Object-Designer
+2Selection-Designer
+3Layout-Designer
+4Workflow-/Script-Designer
+5Template-Designer
+6Final Application
+ 
+The expansion of Digital Transformation at a macroeconomic scale signals a new,
+Digital Transformation (DX) economy.
+Enterprises must facilitate DX through their use of 3rd Platform technologies to create value and
+competitive advantage through new offerings, new business models, and new relationships.
+  
+  
+Überschrift
+Klicke hier, um Ihren eigenen Text einzufügen
+Überschrift
+Klicke hier, um Ihren eigenen Text einzufügen
+Überschrift
+Klicke hier, um Ihren eigenen Text einzufügen
+Überschrift
+Klicke hier, um Ihren eigenen Text einzufügen
+Überschrift
+Klicke hier, um Ihren eigenen Text einzufügen
+Überschrift
+Klicke hier, um Ihren eigenen Text einzufügen
+Überschrift
+Klicke hier, um Ihren eigenen Text einzufügen
+Überschrift
+Klicke hier, um Ihren eigenen Text einzufügen
+Nutzen Sie TIVITY für mehr Innovation in Ihrem Unternehmen.
+Wir bieten Ihnen eine vollumfängliche Lösung – von der Idee bis zum Produkt. Wenn das Thema Innovation für Sie relevant ist, sollten wir uns unbedingt sprechen.
+ 
+GET STARTED FOR FREE
+ 
+   
+TIVITYAbout us
+Contact
+Made in Germany
+ProductsPROJECTS
+Documents
+TIVITY Platform
+RessourcesBlog
+Guide
+ 
+Copyright © 2018 TIVITY 
+Terms & Conditions
+Privacy Policy
+Request a free demo of TIVITY
+Twitter
+First Name *
+ 
+E-Mail *
+ 
+Name of your company *
+ 
+Surname *
+ 
+Phone Number
+ 
+Website URL of your company *
+ 
+I'm interested in:
+                    Innovation Hub                
+                     Productivity Hub                
+                    Maker Hub                
+Datenschutz
+                     Yes, I have read the  Privacy Policy  and I agree that the information I provide will be accurate electronically collected and stored.                
+			×            
+Fordern Sie eine kostenlose Demo von TIVITY an
+Url
+Vorname *
+ 
+E-Mail *
+ 
+Name Ihres Unternehmens *
+ 
+Nachname *
+ 
+Telefonnummer
+ 
+Website-URL Ihres Unternehmens *
+ 
+Ich interessiere mich für:
+                    Innovation Hub                
+                    Productiviy Hub                
+                    Maker Hub                
+Datenschutz
+                    Ja, ich habe die Datenschutzerklärung zur Kenntnis genommen und bin damit einverstanden, dass die von mir angegebenen Daten elektronisch erhoben und gespeichert werden.                
+			×            
+Durch die weitere Nutzung der Seite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen AkzeptierenThe cookie settings on this website are set to "allow cookies" to give you the best browsing experience possible. If you continue to use this website without changing your cookie settings or you click "Accept" below then you are consenting to this.Close
+Diese Website benutzt Cookies. Durch Nutzung der Website gehen wir von einem Einverständnis aus.OkMehr erfahren
+Scroll to top

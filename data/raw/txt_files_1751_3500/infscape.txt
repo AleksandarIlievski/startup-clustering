@@ -1,0 +1,106 @@
+Infscape Backup Software
+			Skip to content		
+About
+Features
+Download
+Documentation
+Pricing
+News
+Contact
+Imprint
+ 
+ 
+Navigation Menu
+ 
+ 
+			Navigation Menu					
+About
+Features
+Download
+Documentation
+Pricing
+News
+Contact
+Imprint
+ 
+ 
+Backup Everything.Fast, easyUrBackup Appliance 
+PRICING
+FEATURES
+LOW COST 
+HIGH PERFORMANCE 
+EASY TO USE 
+ 
+01 
+about us. 
+Infscape is the company behind the Open Source backup solution UrBackup a fully featured, state of the art backup appliance. We sell commercial additions and services in connection to UrBackup, including the Infscape UrBackup appliance and Change block tracking for UrBackup on Windows. 
+21,000+UrBackup Server installations 
+56+ PetabytesStored backup data 
+18,000+Community posts 
+23Translations 
+UrBackup Appliance 
+Designed for easy setup, high performance and your satisfaction 
+1 
+Complete 
+Backs up all popular operating systems, does file and image backups, integrates with various snapshotting techniques, implements the Windows backup API and includes backup scripts for popular applications. 
+2 
+Cloud integration 
+The UrBackup Appliance can be setup to store the backups either locally with archival to cloud storage or to store backups to cloud storage with local cache. It can use any Amazon S3 compatible cloud storage. 
+3 
+Advanced 
+Incremental image or file backups handle like full backups on other systems and can be deleted at any time without care about their relationships to other backups. Incremental backups are fast, especially with a fast local cache for the cloud storage or RAID. The caching system works in tandem and is specially optimized for the backup system. The purpose build RAID can leverage this for high parity levels (up to 32). 
+4 
+Feature rich 
+For example, the UrBackup Appliance can reliably replicate image and file backups to and from other UrBackup Appliances or run image backups of clients as Virtual Machines directly on the UrBackup Appliance. 
+Pricing 
+Community 
+						FREE					
+20TB Max storage10 Max clientsCBT client included  
+get started
+Personal 
+						$20					
+						Per Month					
+20TB Max storage100 Max clientsCBT client included  
+BUY
+Annual license 
+TRIAL*
+* 30 day trial period 
+Ultimate 
+						$40					
+						Per Month					
+No Max storageNo Max clientsCBT client included  
+BUY
+Annual license 
+Trial*
+* 30 day trial period 
+Alternatively: UrBackup Appliance with Cloud Service Providers (CSP) 
+1 month Free TrialFrom 3$ Per Month*Unlimited Cloud storage to CSP**  
+Amazon Web Services
+Microsoft Azure
+* Excluding additional charges for CSP** No included cloud storage. Backups get stored to Amazon AWS S3 or Azure Blob Storage respectively. Additional charges apply. 
+News 
+ 
+					Appliance 10.0 released				
+				Appliance version 10.0 has been released. Change details are in the changelog. Existing appliances will be able to update to this version in a few days.			
+ 
+					Appliance 9.24 released				
+				Appliance version 9.24 has been released. Change details are in the changelog. Existing appliances can update to this version now.			
+ 
+					Appliance 9.19 released				
+				Appliance version 9.19 has been released. Change details are in the changelog. Existing appliances can update to this version now.			
+ 
+Get in Touch 
+ 
+ Your Name (required)
+ 
+ Your Email (required)
+ 
+ Subject
+ 
+ Your Message
+ 
+Please enter 'foobar' (without the quotes) 
+ 
+ 
+ 
+Neve | Powered by WordPress 

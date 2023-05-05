@@ -1,0 +1,118 @@
+Sprachsteuerung und proaktive Assistenz | paragon semvox
+ 
+Datenschutz
+Impressum
+english
+Menü
+Technologien
+geni:OS
+semvox.vi
+SENSE
+TTS für Ansagen und Automaten
+Cerence ASR, TTS und Cerence Designer
+Branchenlösungen
+Automotive
+Medizintechnik
+Industrie 4.0 und Logistik
+Robotik
+Unternehmen
+Aktuelles
+Über paragon semvox
+Management
+Jobs
+Forschung
+Use Cases
+Partner
+Kontakt
+Datenschutz
+Impressum
+english
+Sprachsteuerung & proaktive Assistenz von paragon semvox
+Effiziente Sprachsteuerung, intelligenter Dialog und proaktive Assistenz sind die Zukunft der Kommunikation zwischen Mensch und Maschine. paragon semvox geni:OS steht für wegweisende KI-Technologie, die heute und morgen neue Standards setzt – schnell, bequem und intuitiv.
+ 
+40 Mio€ Automotive-Projekt mit geni:OS!
+Die paragon semvox GmbH hat den größten Auftrag der Firmengeschichte gewinnen können: geni:OS wurde von einem der führenden OEMs der Automotive Branche als Kern-KI-Plattform für ein neues Infotainment-Programm ausgewählt.
+Das Gesamtvolumen des Projektes beträgt 40 Millionen Euro!
+Zum News-Beitrag
+ 
+paragon semvox geni:OS - die neue Generation proaktiver Assistenz-Software 
+geni:OS ist die neueste Powerhouse-Software von paragon semvox. Auf ihrer Grundlage wird kann ein bestehendes System um einen multimodal und proaktiv agierenden Begleiter (Companion) ergänzt werden. Er tritt kontextbasiert in Aktion und kann somit Anwendungen höchst effizient unterstützen.
+paragon semvox geni:OS
+ 
+ 
+Proaktive Assistenz und Künstliche Intelligenz
+Unsere Assistenz-Systeme verstehen die Bedeutung hinter dem Gesagten. Sie schließen auf die Intentionen des Nutzers, fragen bei unklaren Eingaben selbständig nach und lernen, basierend auf dem jeweiligen individuellen Verhalten, dazu. 
+Proaktive Assistenz und Künstliche Intelligenz
+ 
+Sprachsteuerung und Dialog
+Sprachtechnologie der neuesten Generation: paragon semvox-Lösungen für Sprachsteuerung verstehen Zusammenhänge, führen Aufgaben zuverlässig aus und geben intelligente Antworten mit natürlicher Stimme.
+Sprachsteuerung und Dialog
+ 
+Sprachsteuerung für mobile Anwendungen und Apps
+Mit unseren Sprachsteuerungslösungen für Smartphones und Tablet PCs wird Ihre App zum persönlichen digitalen Assistenten. Restaurantempfehlungen, in Datenbanken stöbern, unterwegs Mails checken oder sich über die Sehenswürdigkeiten des Urlaubsortes informieren – das geht schnell, intuitiv und unkompliziert per Sprache!
+Sprachsteuerung für Apps
+ 
+Cerence Spracherkennung und Sprachsynthese
+Der Cerence Spracherkenner CSDK (Cerence Software Development Kit) und die Sprachsynthese Cerence TTS Embedded sind State-of-the-art-Komponenten für alle Anwendungsbereiche von Spielzeugrobotern und Haushaltsgeräten über Ansagesysteme und Lernprogramme bis hin zur industriellen Steuerung.
+Cerence Spracherkennung und TTS
+Fortschritt bedeutet, das Leben der Menschen zu verbessern. paragon semvox bietet die weltweit fortschrittlichste Technologie für eine natürliche und intelligente Mensch-Maschine-Kommunikation.
+geni:OS von paragon semvox ermöglicht eine nahezu menschliche Interaktion mit einem proaktiven und empathischen Assistenten – einem Companion.
+Ein Companion kennt die Wünsche des Benutzers und die Kommunikationssituation. Durch dieses umfassende Wissen wird der gewohnte digitale Assistent zum persönlichen Companion, der den Benutzer optimal und situationsbedingt unterstützt. Er passt sich nicht nur einer Anwendungsdomäne, sondern auch auf der Ebene der Interaktion im Allgemeinen an. Diese Adaptivität in der Interaktion erleben wir als Empathie. Dafür benötigen wir Modelle, die nicht nur den Zustand des Benutzers, sondern auch den des Assistenten selbst berücksichtigen. Genau diese Möglichkeit bietet Ihnen die Plattform geni:OS.
+Jede geni:OS-Komplettlösung arbeitet in der Cloud, embedded oder hybrid. So können unsere Kunden die Hoheit über ihre Daten zurückerhalten.
+Für die Entwicklung von Interaktionssystemen auf Basis von geni:OS, steht unseren Kunden eine durchgängige Werkzeugkette inklusive Tutorials und Online-Dokumentation zur Verfügung.
+Und selbstverständlich die geballte Erfahrung des paragon-semvox-Teams.
+ 
+News
+7. Dezember 2022
+CARIAD SE übernimmt die paragon semvox GmbH
+paragon semvox wechselt den Eigentümer: CARIAD, das Software Unternehmen der Volkswagen Gruppe, unterzeichnete den entsprechenden Kaufvertrag mit der paragon GmbH & Co. KGaA. Während wir ein eigenständiges Unternehmen bleiben, ermöglicht uns der Kauf durch CARIAD, der nächsten Generation von KI-Assistenten mit noch größerer Geschwindigkeit Form zu verleihen. Wir freuen uns sehr auf dieses neue Kapitel […]
+Weiterlesen »
+ 
+29. Juni 2022
+MITHOS – sozio-emotionale Kompetenzen durch Mixed-Reality
+  Das Verbundprojekt „MITHOS“ (Mixed-Reality Interaktives Training zum Umgang mit Heterogenität und Konfliktsituationen in der Schule) erforscht und entwickelt ein Mixed-Reality-System für den Erwerb sozio-emotionaler Kompetenzen. Das Training basiert auf einer neuartigen Kombination von VR- und Sensortechnologien und Methoden zur Simulation interaktiver virtueller Agenten. Es hat das Ziel, Lehrpersonal an Schulen für den Umgang mit herausfordernden sozialen Situationen zu […]
+Weiterlesen »
+ 
+ 
+ 
+ 
+ 
+info@semvox.de
++49 (0)6841 80 90 10
+Impressum
+Kontakt und Anfahrt
+Allgemeine Geschäftsbedingungen – AGB
+Datenschutz
+Cookie-Richtlinie (EU)
+Powered by Complianzpowered by
+Cookie-Zustimmung verwalten
+Wir nutzen Cookies um Ihnen unsere Webseite mit bester Funktionalität zu präsentieren. Sie können über die Buttons in diesem Banner der generellen Verwendung von Cookies zustimmen und weitere Anpassungen machen.
+Nur systemrelevante Cookies
+Nur systemrelevante Cookies
+								Immer aktiv							
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+Vorlieben
+Vorlieben
+Die technische Speicherung oder der Zugriff ist für den rechtmäßigen Zweck der Speicherung von Präferenzen erforderlich, die nicht vom Abonnenten oder Benutzer angefordert wurden.
+für Statistiken
+für Statistiken
+The technical storage or access that is used exclusively for statistical purposes.
+Die technische Speicherung oder der Zugriff, der ausschließlich zu anonymen statistischen Zwecken verwendet wird. Ohne eine Vorladung, die freiwillige Zustimmung deines Internetdienstanbieters oder zusätzliche Aufzeichnungen von Dritten können die zu diesem Zweck gespeicherten oder abgerufenen Informationen allein in der Regel nicht dazu verwendet werden, dich zu identifizieren.
+für Marketingzwecke
+für Marketingzwecke
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Optionen verwalten
+Dienste verwalten
+Anbieter verwalten
+Lesen Sie mehr über diese Zwecke
+All cookies
+Ablehnen
+Cookies auswählen
+Auswahl speichern
+Cookies auswählen
+{title}
+{title}
+{title}
+Settings
+ 
+ 

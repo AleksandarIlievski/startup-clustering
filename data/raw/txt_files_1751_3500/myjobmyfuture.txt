@@ -1,0 +1,1 @@
+Verbindungsfehler: Access denied for user 'myjobmyfuture_webdata'@'localhost' (using password: YES)

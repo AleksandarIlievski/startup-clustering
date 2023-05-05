@@ -1,0 +1,224 @@
+ 
+Home - TruPhysics
+  
+ 
+Home
+About us
+Contact
+ 
+ Menü
+Home
+About us
+Contact
+ 
+ 
+ 
++49 711 40040510
+ 
+Home
+About us
+Contact
+ 
+ Menü
+Home
+About us
+Contact
+ 
+ 
+TruPhysics AI Platform 
+The General Purpose Robotics Platform - 
+One Platform fits it All 
+ 
+An intelligent robotic system can be a robot arm, a mobile platform or forklift, a drone or a fleet of hundrets of robotics devices 
+ 
+ 
+ 
+ 
+TruPhysics AI Platform 
+Configure your individual robotics system out of 100+ hardware, electronics and software modules, from our own portfolio as well as third party solutions. All modules are fully compatible to each other, reliable and safe. 
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore etdolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse  cillum dolore eu fugiat nulla pariatur. 
+ 
+Robot Arm Gripper 
+Handle everything 
+ 
+Head 
+SeeThinkCommunicate 
+Lifter 
+Reach everything 
+Mobile Base 
+Move everywhere 
+ 
+1. Head 
+SeeThinkCommunicate 
+2. Lifter 
+Reach everything 
+3. Mobile base 
+Move everywhere 
+4. Robot arm gripper 
+Handle everything 
+Hardware 
+To enable full compatibility and perfect fit for your individual requirements, we develop, build, wire and deploy your individual robotics solution 
+ 
+ 
+Software 
+A robot is only as intelligent, as the software that controls it.TruOS, the versatile robot operating system enhance the power of sensors and actuators 
+ 
+ 
+Software 
+A robot is only as intelligent, as the software that controls it.
+TruOS, the versatile robot operating system enhance the power of your robot 
+ 
+ 
+						Smart Control App					
+						Native App for intuitive programming and teleoperation support of all TruOS supported robots					
+						WEB/AR Configurator					
+						Configuration of individual out of the box robot systems out of 100+ robots and components					
+						TruFleet					
+						Evaluation of cycle time and system performance of your handling and mobile robots					
+						Marketplace					
+						Platform for various machine learning and as a service skills such as teleoperation support					
+Robot Operating System 
+TruSimTraining platform for robots enables scable and reliable virtual training of AI Skills 
+						SDK					
+						Use the API to create your own application or connect your robot with (MQTT, REST, Websocket, etc.)					
+ 
+						URCaps Plugins					
+						Various plugins for Universal Robot for gluing, welding, palletizing, 7th axis or your individual task					
+ 
+						TruCompare					
+						Point clouds processing and analytics for quality assurance and bin picking
+					
+ 
+Smart Control App 
+ 
+Smart Control App 
+Native App for intuitive programming and teleoperation support of all TruOS supported robots 
+ 
+WEB/AR Configurator 
+Configuration of individual out of the box robot systems out of 100+ robots and components 
+ 
+TruFleet 
+Evaluation of cycle time and system performance of your handling and mobile robots 
+ 
+Marketplace 
+Platform for various machine learning and as a service skills such as teleoperation support 
+ 
+SDK 
+Use the API to create your own application or connect your robot with (MQTT, REST, Websocket, etc.)
+ 
+ 
+TruSim 
+Training platform for robots enables scalable and reliable virtual training of AI Skills 
+ 
+URCaps Plugins 
+Various plugins for Universal Robot for gluing, welding, palletizing, 7th axis or your individual task 
+ 
+TruCompare 
+Point clouds processing and analytics for quality assurance and bin picking 
+Solutions 
+Select one of our already existing solutions and get in touch with our colleagues or just use our 3D Web Configurator (coming Q4 2022) 
+ 
+TruLifter Mobile 
+Extension for transport systems for automated handling of small load carriers in intralogistics 
+ 
+Handle the transport of multiple orders matching with pickup places & destination
+ 
+Automated or manual loading of carriers for intralogistics transports
+ 
+Variable pickup & place heights of carriers on conveyors
+ 
+Payload 
+25 kg / 80 kg 
+ 
+Operating hours 
+6 h 
+ 
+Loading and unloading height 
+590 mm
+-1325 mm 
+ 
+TruLifter Kit - Plug & Play Kit URCaps 
+Connection Kit to control up to 4 additional axis for universal robot 
+ 
+Connects igus linear Axis (Nema 23 / Nema 34) with UR & Epson products
+ 
+7th Axis Out-of-the-Box Programming with the URCap Plug-In
+ 
+Ideal concept for extending the radius of action and the flexibility of  collaborative robots with another modular linear axis
+ 
+Allows you to maximize the reach for all long-distance handling applications (up to 6 meter)
+ 
+By using a drylin® e-toothed belt axis from Igus, you get a complete solution
+ 
+TruMove DK 
+Full Stack AGV for individual purpose  
+ 
+Low-cost AGV
+ 
+Mecanum drive for extremely high maneuverability and optimized docking operations
+ 
+In combination with TruFleet, the performance of transport operations can be highly increased
+ 
+Standardized dimensions for adaptivity of existing MiR extensions (for TruMove 250)
+ 
+Payload 
+250 kg 
+ 
+Omni-directional 
+ 
+Battery 
+48V, 24 Ah 
+ 
+TruRunner 
+Fast transport AGV with lifting unit  
+ 
+Simple solution for long distance transport of EuroBoxes, KLT or similar goods
+ 
+A lifting unit with an integrated rotating unit allows the boxes to be picked up crosswise to the direction of orientation
+ 
+Optimization of transport operations according to the milkrun principle with the intelligent TruFleet fleet management system
+ 
+Intelligence Control by TruOS and TruFleet Skill (Indoor Navigation, Object detection, MES integration) 
+ 
+Payload 
+100 kg 
+ 
+Lift 
+50 mm 
+ 
+Operating hours 
+8 h 
+ 
+TruPortal  
+Gantry System for handling 
+ 
+Customizable gantry system with one or more axes. Individually expandable with robots, gripping applications, endeffectors and vision systems
+ 
+An efficient automation solution adapted exactly to your needs
+ 
+Optimal automation solution for pick & place and repalletizing applications
+ 
+Robert M3 
+ Humanoid robot for service applications  
+ 
+With its wide range of functions, Robert M3 can provide support in household, care and service 
+ 
+Thanks to the height-adjustable upper body he can get to any shelf
+ 
+Simple commissioning
+ 
+Our Vision 
+Our vision is to enable robots to understand our world with all its complexities in order to support mankind in their daily operations, both in private as well as business environments. 
+Imprint
+Privacy policy
+Contact us! 
+Mailing address:Seyfferstraße 34, 70197 Stuttgart, GermanyDelivery address:Kronenstraße 34, 70174 Stuttgart, Germany12 Channel Street Boston, MA 02210, United StatesPhone: +49 711 40040510Email: info@truphysics.com 
+TruViewer Login 
+ 
+								SessionID:								
+								Name:							
+Sitzung beitreten
+ TruViewer Login  SessionID: Name:    
+Copyright - TruPhysics 2015 - 2022 
+×
+This website uses cookies. If you continue to use the website, we assume that you have given your consent.AcceptPrivacy policy

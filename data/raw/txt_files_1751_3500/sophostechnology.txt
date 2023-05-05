@@ -1,0 +1,454 @@
+Sophos Cybersecurity as a Service: Cybersecurity Delivered
+      Skip to main content
+    
+Primary Menu
+Services & Products
+Solutions
+Partners
+About
+Support
+Cybersecurity as a Service
+Managed Services
+24/7 Threat Detection and Response
+Sophos Managed Detection and Response
+Experiencing a Cyberattack?
+Sophos Incident Response Services
+Get Started
+Managed Services
+Sophos Managed Detection and Response
+Sophos Incident Response Services
+Sophos Central Platform
+Products
+Endpoint
+Sophos Endpoint (EDR)
+Sophos Workload Protection
+Sophos Mobile
+Sophos Encryption
+Network
+Sophos Firewall
+Sophos Wireless
+Sophos Switch
+Sophos Zero Trust Network
+Email & Cloud
+Sophos Email
+Sophos Phish Threat
+Cloud Native Security
+Cloud Workload Protection
+Security Operations
+Sophos MDR
+Sophos XDR
+Sophos Factory
+For Small Business
+Sophos Small Business
+For Home
+Sophos Home
+Sophos Global Partner Program
+Profitable. Powerful. Adaptive.
+Become a Partner Partner Portal Sign In
+Partner Program
+Overview
+Managed Service Provider (MSP)
+Cloud Security Provider (CSP)
+Partner Care
+Technology
+Marketplace
+OEM
+Partner Tools
+Partner Portal
+Sophos Central Partner
+Partner Locator
+Partner Blog
+Partner Training
+Sophos Support
+Support Portal
+Get Help
+Support Plans
+Downloads & Updates
+Documentation
+Sophos Training
+Contact Support
+Support Portal
+Resources
+Join the Community
+Twitter Support
+Knowledge Base
+Techvids
+Sophos Central Status
+Submit a Threat
+Product Support
+Sophos Firewall
+Sophos Endpoint
+Sophos Server
+Sophos Central
+Sophos Email
+More Products
+Superior cybersecurity outcomes for real-world organizations.
+Read the Reviews
+Company
+About Us
+Press
+Sophos Events
+Careers
+Contact
+News
+Sophos News
+Naked Security
+Sophos AI
+Sophos X-Ops
+Sign In
+Sophos Home
+Sophos Central
+Partner Portal
+Licenses & Account
+Secure your small business.
+Enterprise-grade cybersecurity that's cost-effective for small businesses.
+Get Started
+Industries
+Education
+Finance and Banking
+US Federal
+Healthcare
+Manufacturing
+Retail
+More
+Compliance
+HIPAA
+PCI DSS
+CIPA
+GDPR
+NIST SP800-171
+ISO/IEC 27001:2022
+More
+Use Cases
+Cloud Security
+SASE
+Ransomware Prevention
+Supply Chain Security
+Securing Remote Workers
+Cyber Insurance Optimization
+More
+Toggle Language menu
+Services & Products
+Cybersecurity as a Service
+Managed Services
+24/7 Threat Detection and Response
+Sophos Managed Detection and Response
+Experiencing a Cyberattack?
+Sophos Incident Response Services
+Get Started
+Managed Services
+Sophos Managed Detection and Response
+Sophos Incident Response Services
+Products
+Endpoint
+Sophos Endpoint (EDR)
+Sophos Workload Protection
+Sophos Mobile
+Sophos Encryption
+Network
+Sophos Firewall
+Sophos Wireless
+Sophos Switch
+Sophos Zero Trust Network
+Email & Cloud
+Sophos Email
+Sophos Phish Threat
+Cloud Native Security
+Cloud Workload Protection
+Security Operations
+Sophos MDR
+Sophos XDR
+Sophos Factory
+For Small Business
+Sophos Small Business
+For Home
+Sophos Home
+Solutions
+Industries
+Education
+Finance and Banking
+US Federal
+Healthcare
+Manufacturing
+Retail
+More
+Compliance
+HIPAA
+PCI DSS
+CIPA
+GDPR
+NIST SP800-171
+ISO/IEC 27001:2022
+More
+Use Cases
+Cloud Security
+SASE
+Ransomware Prevention
+Supply Chain Security
+Securing Remote Workers
+Cyber Insurance Optimization
+More
+Partners
+Partner Program
+Overview
+Managed Service Provider (MSP)
+Cloud Security Provider (CSP)
+Partner Care
+Technology
+Marketplace
+OEM
+Partner Tools
+Partner Portal
+Sophos Central Partner
+Partner Locator
+Partner Blog
+Partner Training
+About
+Company
+About Us
+Press
+Sophos Events
+Careers
+Contact
+News
+Sophos News
+Naked Security
+Sophos AI
+Sophos X-Ops
+Sign In
+Sophos Home
+Sophos Central
+Partner Portal
+Licenses & Account
+Support
+Get Help
+Support Plans
+Downloads & Updates
+Documentation
+Sophos Training
+Contact Support
+Support Portal
+Resources
+Join the Community
+Twitter Support
+Knowledge Base
+Techvids
+Sophos Central Status
+Submit a Threat
+Product Support
+Sophos Firewall
+Sophos Endpoint
+Sophos Server
+Sophos Central
+Sophos Email
+More Products
+All Products
+Cybersecurity for Home
+Free Tools
+Switch Language
+English简体中文FrançaisDeutschItaliano日本語Português, BrasilEspañol
+Toggle Search
+Toggle Language menu
+Toggle Mobile menu
+Experiencing a Cyberattack? Get help now.
+More companies trust Sophos for MDR than any other cybersecurity provider.
+See HowLearn More
+Speak with an expert
+Instant Security Operations Center
+Achieve superior cybersecurity outcomes through a fully-managed MDR service or self-managed security operations platform.
+Instant Security Operations Center
+Achieve superior cybersecurity outcomes through a fully-managed MDR service or self-managed security operations platform. Stop being overwhelmed by alerts and start uplevelling your resources to focus on the most strategic issues for your business.
+Learn More
+Compatible With What You Already Have
+Get more value from your existing investments with security that integrates with your IT stack.
+Compatible With What You Already Have
+Get more value from your existing investments with security that integrates with your IT stack. Our ever-expanding list of 3rd party integrations includes SOAR, SIEM, ITSM, threat intel, and RMM/PSA tools with plans to support many more. 
+Learn More
+Non-stop Threat Detection and Response
+Proactive threat hunting, investigation, and incident response through our managed detection and response (MDR) services.
+Non-stop Threat Detection and Response
+Proactive threat hunting, investigation, and incident response through our managed detection and response (MDR) services. Delivered by an elite team of experienced threat hunters to support organizations of all sizes.
+Learn More
+More than 15,000 customers use Sophos Managed Detection and Response.
+No other cybersecurity vendor comes close.
+With 3x more MDR customers than any other cybersecurity vendor, Sophos has the experience to deliver the best possible cybersecurity outcomes.  Our elite team of threat hunters and incident response experts take targeted actions on your behalf to detect and eliminate advanced threats. Sophos Managed Detection and Response is the future of cybersecurity.
+Learn More
+Or take charge yourself.
+From endpoint to network we have you covered. 
+Endpoint
+Network
+Email
+Cloud
+Endpoint
+Keep your data safe wherever it is with superior prevention, detection and response that stops more threats, faster. Extend EDR beyond the endpoint for unparalleled protection.
+Endpoint
+XDR
+Server
+Mobile
+Encryption
+Learn More
+Firewall
+Integrated SASE-ready solutions to secure your cloud and hybrid networks - now and into the future. From Firewall and Zero Trust to Switches, Wi-Fi, and more.
+Firewall
+Wireless
+Switch
+ZTNA
+Learn More
+Email
+Trust your inbox again with cloud email security that protects your people and critical information from malware, phishing and impersonation attempts.
+Email
+Phishing
+Learn More
+Cloud Security Posture Management
+Secure cloud workloads, data, apps, and access from the latest advanced threats and vulnerabilities across your AWS, Azure, Google Cloud and Oracle environments.
+Cloud
+Workload
+Learn More
+All Powered by Sophos Central
+Centralized security management and operations from the world’s most trusted and scalable cloud security platform. With open APIs, extensive third-party integrations, and consolidated dashboards and alerts, Sophos Central makes cybersecurity easier and more effective.
+Instant Demo Start a Trial
+Sophos Provides Better Cybersecurity Outcomes
+Meet Sophos
+セキュリティ対策はサービスで保護される安心の時代へ。
+【ソフォス】Sophos MDR phone calls  ransomware attack（日本語字幕）
+Anwenderberichte
+Mehr als 15.000 Kunden vertrauen bereits auf Sophos MDR. Hier finden Sie eine Auswahl an Erfolgsgeschichten unserer MDR-Kunden. Lesen Sie selbst und lassen Sie sich überzeugen!
+Sicher vor modernen Cyberattacken
+Die Schletter Solar GmbH profitiert jetzt von einer IT-Security-Lösung, die flexibel auf die Anforderungen der Zukunft reagieren kann.
+Mehr erfahren
+Mehr Schutz und Effizienz
+Dank Sophos MDR hat die Transportgemeinschaft Wangen AG (TGW) nun maximale Kontrolle und Transparenz und kann auch modernsten Attacken Paroli bieten.
+Mehr erfahren
+Fit für die Zukunft
+Die WEFRA LIFE ist jetzt langfristig für die Aufgaben in IT-Sicherheit gewappnet und optimal aufgestellt, um das Thema Cyber-Versicherung anzugehen.
+Mehr erfahren
+Weitere Erfahrungsberichte finden Sie hier
+Don’t take our word for it.
+Vancouver Canucks score the cybersecurity hat trick with Sophos MTR, Sophos Central, and Sophos Endpoint.
+The Vancouver Canucks score a cybersecurity hat trick with Sophos MDR, Sophos Central, and Sophos Endpoint.
+Sophos Intercept X and Synchronized Security Set the Foundation for Safety and Compliance at Washakie County School District
+Washakie County School District uses Intercept X and Synchronized Security to create a foundation of safety and compliance for students and faculty. 
+The Diocese of Brooklyn uses Cutting Edge Security Solutions from Sophos to Protect Against the Latest Threats
+The Diocese of Brooklyn uses cutting-edge security solutions from Sophos to protect against the latest threats.  
+Sophos Endpoint, Network, and Ransomware Protection Provide Teekay Corporation the Ultimate Security from Ship to Shore
+Teekay Corporation implements Sophos endpoint, network, and ransomware protection for the ultimate security from ship to shore. 
+See How We’ve Secured Your Industry
+ソフォスのソリューションを導入されたお客様
+ 
+ 
+ソフォス導入事例を確認
+ 
+        “「Sophos MDRは、ソフォス製品以外の他社製セキュリティ製品などを導入・運用する拠点についても、数多くのベンダーのセキュリティテレメトリを取り込んで運用可能であるため、既存のセキュリティ資産を無駄にせず活用できることも採用の決め手の一つとなりました。」　株式会社荏原製作所さま”
+                      
+        “「Sophos MDRセキュリティサービスの採用により、私自身もセキュリティ対応の業務から開放され、企画IT部門としての本業である新たな企画やシステム開発など、生産的な業 務に注力できるようになりました。」 ゼオライト株式会社さま”
+                      
+        “「何らかの脅威が発見されても、Sophos Intercept X Advanced with EDRが即座にそのPCを遮断してくれるので、余裕を持って対処できるようになりました。また、以前に導入していたセキュリティ対策ソフトでは検出されなかったマルウェアなども、ソフォスエンドポイントセキュリティで検知できるようになりました」　東京工業大学さま”
+                      
+        “「中小企業ではそこまで人手がないので、ソフォスのエンドポイントセキュリティ製品はデフォルトで定義されているセキュリティ対策が的確で、標準の設定できちんとカバーできる点で運用の手間を大きく軽減してくれました。」　株式会社水上さま”
+                      
+        “「ソフォスエンドポイントセキュリティの、ランサムウェア対策テクノロジーに注目しました。また、パターンファイルに依存せずに、高度な機械学習システムを使用して、未知の脅威に対する防御も強化されている点を高く評価しました。」　株式会社バロックジャパンリミテッドさま”
+                      
+        “Sophos has set the bar for security. Its products integrate seamlessly to better service a company’s whole environment.”
+                  Wil Craig, Head of IT, HydraFacial
+        “The Sophos Central platform is accessible from anywhere and this has greatly simplified things for us.”
+                  Ugo Ojeda, IT Director, Universidad del Pacífico
+        “Sophos stops everything malicious and provides us with alerts, so we can respond quickly—and that’s worth its weight in gold.”
+                  Cliff Hogan, CIO, D4C Dental Brands
+        “Switching to Sophos Central was a simple transition and 80% of the work was carried out within just one week.”
+                  Andy Bone, Head of IT, NAHT
+        “We feel that Sophos is an ideal solution—especially for protecting against advanced threats like ransomware.”
+                  David Bristow, Information Technology Manager, City of Castlegar
+      Leader 2021
+    
+      #1 Exploit Protection
+    
+      Best Managed Security Services Offering
+    
+53158571-3916-4618-8B07-EA33E13319F4
+      Editor’s Choice Best Ransomware Protection
+    
+      4.8/5 Rating for Endpoint Protection
+    
+      Perfect Score Mac Protection
+    
+87A72EAB-52E5-4B6A-AFBF-333BDCB8A771
+See What People Are Saying About Us
+Sophos Newsroom
+ 
+04/20/2023
+New QakBot C2 servers detected with Sophos NDR
+ 
+04/19/2023
+‘AuKill’ EDR killer malware abuses Process Explorer driver
+ 
+04/17/2023
+Cybersecurity Guide: Securing the Manufacturing Sector
+Catch up on More Cybersecurity News
+Footer - Default
+Column 1
+Managed Services
+MDR
+Incident Response
+ENDPOINT
+Endpoint (XDR)
+Server
+Mobile
+Encryption
+Column 2
+NETWORK
+Firewall
+Wireless
+Switch
+ZTNA
+EMAIL & CLOUD
+Email Protection
+Anti-Phishing
+Cloud Native Security
+Workload Protection
+Column 3
+TRY FOR FREE
+Free Trials
+Product Demos
+Free Tools
+Solutions
+Small and Medium Business
+TRUST
+Trust Center
+Column 4
+SUPPORT
+Support Packages
+Contact Support
+Training
+Downloads and Updates
+Documentation
+CYBER INSURANCE
+Insurance Carriers
+Column 5
+Partners
+MSP
+Partner Training
+Partner News
+Become a Partner
+OEM
+Cloud Security
+Partner Care
+Find a Reseller
+Column 6
+About Us
+Company
+Careers
+Contact
+Overview
+Find a Partner
+Tech Support
+Switch Language
+English简体中文FrançaisDeutschItaliano日本語Português, BrasilEspañol
+Terms
+Privacy
+Privacy Notice
+Cookies
+Legal
+General
+Modern Slavery Statement
+Speak Out
+        © 1997-2023 Sophos Ltd. All Rights Reserved.

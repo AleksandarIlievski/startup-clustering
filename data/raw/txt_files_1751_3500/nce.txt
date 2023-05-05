@@ -1,0 +1,593 @@
+  We work hard to change the IoT Industry, so our customers can change the world!
+  
+              Dev
+            
+  
+              Shop
+            
+  
+              Login
+            
+  
+Select country
+Select Country
+US English
+                English
+              
+    1NCE Connect
+  
+    Our Features
+  
+    Our Coverage
+  
+    $10 for 10 Years
+  
+    1NCE OS
+  
+    Our Architecture
+  
+    Our Software Tools
+  
+    Included in 1NCE Connect
+  
+    About
+  
+    1NCE in a Nutshell
+  
+    Our Team
+  
+    Partners
+  
+    Careers
+  
+    Resources
+  
+    News & Insights
+  
+    Downloads
+  
+    Customer References
+  
+    Events
+  
+    1NCE Connect
+  
+    Our Features
+  
+    Our Coverage
+  
+    $10 for 10 Years
+  
+    1NCE OS
+  
+    Our Architecture
+  
+    Our Software Tools
+  
+    Included in 1NCE Connect
+  
+    About
+  
+    1NCE in a Nutshell
+  
+    Our Team
+  
+    Partners
+  
+    Careers
+  
+    Resources
+  
+    News & Insights
+  
+    Downloads
+  
+    Customer References
+  
+    Events
+  
+Select country
+Select Country
+US English
+                English
+              
+Contact-Form
+Support
+      Your browser does not support HTML5 video.
+    
+The World's FirstIoT Lifetime Flat
+Forget about cost control and data consumption monitoring. Connect your IoT device for 10 years for just $10.
+    See pricing
+    
+  
+    1NCE Shop
+    
+  
+1NCE – IoT Connectivity Pure Play
+1NCE offers managed connectivity services for low bandwidth IoT applications. It has developed a disruptive price model for IoT connectivity, the 1NCE IoT Lifetime Flat, and cooperates with leading operators in order to guarantee Tier-1 grade connectivity services.
+PRICING1NCE IoT Lifetime Flat
+1NCE offers an all-inclusive price model for IoT connectivity. It is a pre-paid offering to connect IoT devices for up to 10 years at a price of 10 Dollars, including all necessary features such as data allowance, SIM card cost, APN, OpenVPN and SMS.
+    See pricing
+    
+  
+IoT SIM Card Business
+IoT SIM Card Business - M2M Plastik SIM The IoT SIM Card Business (Half Size) is a commercial 3 in1 SIM in standard quality and is used for our 1NCE IoT Lifetime Flat and the Blockchain on a SIM. The IoT SIM Card Business China+ is a commercial 3 in1 SIM in standard quality and is used for the China+ SIM card.
+    Learn more
+    
+  
+IoT SIM Chip Industrial
+IoT SIM Chip Industrial - M2M SIM Chip The IoT SIM Chip Industrial is available at the highest quality and is used for the 1NCE IoT Lifetime Flat as an Industrial SIM chip for a surcharge of 2 $.
+    Learn more
+    
+  
+WORLD COVERAGE1NCE Coverage
+1NCE is steadily and rapidly increasing its country and region coverage. It already offers radio services in 150+ countries in Europe, Asia, North America, South America, Africa and Oceania. Furthermore, 1NCE supports all radio standards such as 2G, 3G, 4G/LTE-M as well as NB-IoT in selected countries and regions.
+    See details
+    
+  
+APPLICATIONReference Cases
+Learn all about the advantages that IoT can bring to your industry. Discover how 1NCE fits your IoT applications.
+ Your browser does not support HTML5 video.
+                  
+                Asset Tracking & Logistics
+              
+Thanks to end-to-end IoT connectivity across national borders and different transport routes, our customers, such as Mictrack, Altron, and Packwise can cost-efficiently offer their tracking solutions.
+ Your browser does not support HTML5 video.
+                  
+                Fleet Telematics & Automotive
+              
+Commercial vehicle operation is all about information and is transmitted securely, reliably, and cost-efficiently through our IoT connectivity – for customers like Vimcar, Moto.box, or Autogear.
+ Your browser does not support HTML5 video.
+                  
+                Healthcare
+              
+In the highly sensitive field of sports and medicine, we provide a reliable IoT connection for products such as Microdefender, Pissure Pocket, and Sportstation 2.
+ Your browser does not support HTML5 video.
+                  
+                Hospitality
+              
+Whether real-time monitoring of coffee machines for BibeCoffee and Coffee Cloud or intelligent solutions for facility managers for Taqt - 1NCE offers the right connection.
+ Your browser does not support HTML5 video.
+                  
+                IT
+              
+Whether it's a data hub, smart sensors, or IoT gateways, our IoT connectivity helps IT companies build and connect their products.
+ Your browser does not support HTML5 video.
+                  
+                Pest Control
+              
+Read here how IoT can revolutionise pest control. Possible solutions are connected rodent traps or digital monitoring devices in agriculture.
+ Your browser does not support HTML5 video.
+                  
+                Smart Building
+              
+From smart street lighting to smart parking solutions - we offer our customers, such as Flashnet, the right IoT connection for every case of smart city use.
+ Your browser does not support HTML5 video.
+                  
+                Smart City
+              
+From smart street lighting to smart parking solutions - we offer our customers, such as Flashnet, the right IoT connection for every case of smart city use.
+ Your browser does not support HTML5 video.
+                  
+                Smart Farming
+              
+We support the increasing digitization in agriculture with our quick-to-integrate IoT connectivity. Customers like BeeAndMe, FarmFacts, Nanolike, and Xfarm trust 1NCE to deliver.
+ Your browser does not support HTML5 video.
+                  
+                Smart Lighting
+              
+What is smart lighting? ✚ How can the Internet of Things drive the digitalisation of smart cities? ➨ Learn more
+ Your browser does not support HTML5 video.
+                  
+                Smart Metering
+              
+We help smart metering providers reach the next level of efficiency by delivering easy-to-manage IoT connectivity for customers like Xemex, Plum, and Lobaro.
+ Your browser does not support HTML5 video.
+                  
+                Smart Parking
+              
+What is Smart Parking? ✚ How can automated parking systems drive the digitization of cities (Smart Cities)? ➨ Inform now
+ Your browser does not support HTML5 video.
+                  
+                Waste Management
+              
+Connect your IoT-based Waste Management solution with 1NCE. Use our free Waste Management Playbook to support your decision-making process. 
+          Asset Tracking & Logistics
+        
+Mictrack
+Mictrack is a leading supplier for GPS-Tracking devices based on low power NB-IoT and LTE-M networks. The company specializes in the design and production of mobile cellular GPS trackers and offers OEM as well as ODM services. 
+Project Details
+              Industry: Asset Tracking & Logistics
+            
+            Technology: NB-IoT,LTE-M
+          
+            Location: Asia
+          
+Learn more
+          Asset Tracking & Logistics
+        
+Trackting
+Trackting provides IoT connected products that are designed to protect movable personal and business assets, such as motorcycles, scooters and cars... 
+Project Details
+              Industry: Asset Tracking & Logistics
+            
+            Technology: 2G,3G
+          
+            Location: Italy
+          
+Learn more
+          Fleet Telematics & Automotive
+        
+Autogear
+Autogear is a Norwegian company that offers a simple way to keep a driver’s logbook. Its solution automatically stores all driving activities of a car and calculates amounts and distances. It is perfectly suited for either using it in company cars or to keep track of business trips while driving with a private car. 
+Project Details
+              Industry: Fleet Telematics & Automotive
+            
+            Technology: 2G,3G,4G,NB-IoT,LTE-M
+          
+            Location: Scandinavia
+          
+Learn more
+          Fleet Telematics & Automotive
+        
+Vimcar
+Vimcar has developed a management software that digitizes the fleet management of small and medium-sized enterprises (SMEs)... 
+Project Details
+              Industry: Fleet Telematics & Automotive
+            
+            Technology: 2G,3G
+          
+            Location: DACH
+          
+Learn more
+          Healthcare
+        
+sportstation 2
+The sportstation 2 combines sport and exercise with the fun of social media. A multifunctional measuring device for sporting competition combined with a sophisticated app that keeps the fun going. 
+Project Details
+              Industry: Healthcare
+            
+            Technology: 2G,3G,4G,NB-IoT,LTE-M
+          
+            Location: DACH
+          
+Learn more
+          Healthcare
+        
+August International
+August International introduces a health-focused smartwatch, that comes with built-in internet connectivity provided with the integrated 1NCE Industrial eSIM. 
+Project Details
+              Industry: Healthcare
+            
+            Technology: NB-IoT,LTE-M
+          
+            Location: UK
+          
+Learn more
+          Hospitality
+        
+Coffee Cloud
+Coffee Cloud provides a retrofit solution for monitoring professional coffee/barista machines and real-time data analysis to optimise business processes. 
+Project Details
+              Industry: Hospitality
+            
+            Technology: 3G,4G,LTE-M
+          
+            Location: UK
+          
+Learn more
+          Hospitality
+        
+BibeCoffee
+BibeCoffee offers an IoT solution for coffee distributors, coffee chains and coffee shop owners to remotely monitor the coffee machine usage and consumption data. By providing an all-cloud environment the company makes it easy for its customers to have their coffee machine information thoroughly stored, analyzed and accessible at any time... 
+Project Details
+              Industry: Hospitality
+            
+            Technology: 2G,3G,4G
+          
+            Location: Globally
+          
+Learn more
+          IT
+        
+Datacake
+Datacake GmbH offers a multi-purpose and low-code IoT platform and a Gateway that connects via 1NCE. 
+Project Details
+              Industry: IT
+            
+            Technology: 2G,3G,4G,NB-IoT,LTE-M
+          
+            Location: DACH
+          
+Learn more
+          IT
+        
+Embever
+Germany-based Embever GmbH supports corporations, medium sized companies and start-ups in the development and secure operation of IoT products. 
+Project Details
+              Industry: IT
+            
+            Technology: NB-IoT
+          
+            Location: DACH
+          
+Learn more
+          Pest Control
+        
+eMitter
+eMitter is the name of a smart way of pest control by German Futura GmbH. The family-owned business has rethought the use of spring traps in a professional environment. 
+Project Details
+              Industry: Pest Control
+            
+            Technology: 2G,3G,4G,NB-IoT
+          
+            Location: DACH
+          
+Learn more
+          Pest Control
+        
+Next Farming
+With sophisticated sensors for yield monitoring, FarmFacts GmbH wants to prepare agriculture for the challenges of the future and climate change. 
+Project Details
+              Industry: Pest Control
+            
+            Technology: 2G,3G,4G,NB-IoT
+          
+            Location: DACH
+          
+Learn more
+          Smart Building
+        
+azeti
+The IoT solution provider azeti is a pioneer in the field of machine and sensor data evaluation. Together with 1NCE, azeti has developed an NB-IoT based remote water leakage monitoring solution. It helps to detect and prevent damage caused by water leakages... 
+Project Details
+              Industry: Smart Building
+            
+            Technology: NB-IoT
+          
+            Location: DACH
+          
+Learn more
+          Smart Building
+        
+ABO Wind
+ABO Wind is a worldwide project developer for renewable energies. With the ABO Lock access system the company offers intelligent access control. 
+Project Details
+              Industry: Smart Building
+            
+            Technology: 2G,3G,4G
+          
+            Location: DACH
+          
+Learn more
+          Smart City
+        
+Flashnet
+Flashnet is a fast paced tech company that integrates the latest IT, energy and telecommunications technologies into hardware and software solutions... 
+Project Details
+              Industry: Smart City
+            
+            Technology: 2G,3G,NB-IoT
+          
+            Location: Globally
+          
+Learn more
+          Smart City
+        
+GLA-intec
+The IceBox Sensor from GLA-intec is a small and independent device for the reliable measurement of disposal containers. It communicates via 1NCE. 
+Project Details
+              Industry: Smart City
+            
+            Technology: NB-IoT
+          
+            Location: DACH
+          
+Learn more
+          Smart Farming
+        
+Nanolike
+Nanolike's measurement sensors for agricultural use stand out for being non-intrusive, installed at ground level, with no cable or physical calibration required and a battery life of at least five years 
+Project Details
+              Industry: Smart Farming
+            
+            Technology: 2G,3G,4G,NB-IoT
+          
+            Location: France
+          
+Learn more
+          Smart Farming
+        
+Next Farming
+With sophisticated sensors for yield monitoring, FarmFacts GmbH wants to prepare agriculture for the challenges of the future and climate change. 
+Project Details
+              Industry: Smart Farming
+            
+            Technology: 2G,3G,4G,NB-IoT
+          
+            Location: DACH
+          
+Learn more
+          Smart Lighting
+        
+Flashnet
+Flashnet is a fast paced tech company that integrates the latest IT, energy and telecommunications technologies into hardware and software solutions... 
+Project Details
+              Industry: Smart Lighting
+            
+            Technology: 2G,3G,NB-IoT
+          
+            Location: Globally
+          
+Learn more
+          Smart Lighting
+        
+GLA-intec
+The IceBox Sensor from GLA-intec is a small and independent device for the reliable measurement of disposal containers. It communicates via 1NCE. 
+Project Details
+              Industry: Smart Lighting
+            
+            Technology: NB-IoT
+          
+            Location: DACH
+          
+Learn more
+          Smart Metering
+        
+Xemex
+Xemex is an innovative and leading technology company dedicated to smart energy communication solutions to monitor and manage energy streams. 
+Project Details
+              Industry: Smart Metering
+            
+            Technology: 2G,3G,4G
+          
+            Location: Benelux
+          
+Learn more
+          Smart Metering
+        
+PLUM
+PLUM has developed the MacR6N data logger, that allows to monitor water flow and pressure. Equipped with an internal GSM modem, communication can be realized with the 1NCE IoT Lifetime Flat via standardized cellular technologies for a maximum of reliability and a minimum of setup efforts. 
+Project Details
+              Industry: Smart Metering
+            
+            Technology: 2G,4G,NB-IoT
+          
+            Location: Globally
+          
+Learn more
+          Smart Parking
+        
+Flashnet
+Flashnet is a fast paced tech company that integrates the latest IT, energy and telecommunications technologies into hardware and software solutions... 
+Project Details
+              Industry: Smart Parking
+            
+            Technology: 2G,3G,NB-IoT
+          
+            Location: Globally
+          
+Learn more
+          Smart Parking
+        
+GLA-intec
+The IceBox Sensor from GLA-intec is a small and independent device for the reliable measurement of disposal containers. It communicates via 1NCE. 
+Project Details
+              Industry: Smart Parking
+            
+            Technology: NB-IoT
+          
+            Location: DACH
+          
+Learn more
+          Waste Management
+        
+GLA-intec
+The IceBox Sensor from GLA-intec is a small and independent device for the reliable measurement of disposal containers. It communicates via 1NCE. 
+Project Details
+              Industry: Waste Management
+            
+            Technology: NB-IoT
+          
+            Location: DACH
+          
+Learn more
+Here is what our customers say about us:
+“1NCE has proven to deliver IoT Connectivity that meets our high expectations in terms of flexibility, reliability and worldwide coverage.”
+            Alberto Falcione, Vice President Sales, Targa Telematics
+          
+“The total package of 1NCE convinced us. With the IoT Flat Rate, we not only get the perfect connectivity solution at a very transparent price. We also save additional efforts, such as for setting up secure communication channels via VPN.”
+            Jan Rübenach, Senior Project Manager, Abo Wind AG
+          
+“The price proposed by 1NCE for connectivity is currently the most advantageous available on the market, especially for small to medium size projects. Knowing that behind 1NCE are large companies like Deutsche Telekom, provide it additional credibility.”
+            Lorand Mozes, CEO, Flashnet
+          
+Get Started
+Developer
+No more flipping through hundreds of PDF pages trying to find the right AT commands for your modem. Our recipe collection puts a wide variety of chipsets at your fingertips. You can also explore the 1NCE Developer Hub for even more resources.
+    Learn more
+    
+  
+Solution Architect
+We know your job comes with a lot of responsibility. That’s why we take great pride in providing straight-forward and highly reliable solutions. Learn more about our network and our features.
+    Learn more
+    
+  
+Decision Maker
+Meet our experienced management team or read more about the pricing model to see the details for yourself.
+    Learn more
+    
+  
+HOW IT WORKSThe 1NCE Experience
+1. Select
+Order the 1NCE IoT Lifetime Flat at the 1NCE Shop and choose the desired type of SIM Card.
+2. Pay
+Complete the order by filling out personal data and shipping address as well as making payment via invoice or credit card.
+3. Ship
+Receive the SIM cards within 2-3 business days thanks to direct-from-stock shipping.
+Buy the 1NCE IoT Lifetime Flat now!
+Visit the 1NCE Shop and start connecting your IoT devices easily. Simply order your SIM cards, choose the desired type of SIM card and fill out all required forms. After the payment has been approved you get your cards within five to seven business days.
+    1NCE shop
+    
+  
+        Shop
+      
+  
+        Dev
+      
+  
+Login
+    1NCE Connect
+  
+    Our Features
+  
+    Our Coverage
+  
+    $10 for 10 Years
+  
+    1NCE OS
+  
+    Our Architecture
+  
+    Our Software Tools
+  
+    Included in 1NCE Connect
+  
+    About
+  
+    1NCE in a Nutshell
+  
+    Our Team
+  
+    Partners
+  
+    Careers
+  
+    Resources
+  
+    News & Insights
+  
+    Downloads
+  
+    Customer References
+  
+    Events
+  
+    Support
+  
+    FAQ
+  
+    Customer Portal
+  
+    Developer Hub
+  
+    Contact
+  
+© 2023
+            1NCE Inc.
+                Imprint
+              
+                Terms & Conditions
+              
+                Privacy Policy
+              

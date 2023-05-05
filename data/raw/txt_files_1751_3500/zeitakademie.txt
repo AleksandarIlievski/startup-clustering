@@ -1,0 +1,898 @@
+ 
+Die Zukunft des Lernens hat begonnen - Die ZEIT Akademie
+ 
+Datenschutzeinstellungen
+Wir nutzen Cookies auf unserer Website. Einige von ihnen sind essenziell, während andere uns helfen, diese Website und Ihre Erfahrung zu verbessern.
+check_box
+                                    Essenziell
+                                
+check_box_outline_blank
+                                    Statistiken
+                                
+check_box_outline_blank
+                                    Marketing
+                                
+check_box_outline_blank
+                                    Externe Medien
+                                
+Alle akzeptieren
+Speichern
+Individuelle Datenschutzeinstellungen
+Cookie-Details
+                    |
+                    Datenschutzerklärung
+                    |
+                    Impressum
+Datenschutzeinstellungen
+Hier finden Sie eine Übersicht über alle verwendeten Cookies. Sie können Ihre Zustimmung zu ganzen Kategorien geben oder sich weitere Informationen anzeigen lassen und so nur bestimmte Cookies auswählen.
+Zurück
+Alle akzeptieren
+Speichern
+Essenziell (7)
+Essenzielle Cookies ermöglichen grundlegende Funktionen und sind für die einwandfreie Funktion der Website erforderlich.
+Cookie-Informationen anzeigen
+Name
+                                                    Datenschutzeinstellungen
+                                                
+Anbieter
+                                                    Eigentümer dieser Website
+                                                
+Zweck
+                                                    Speichert Ihre hier getätigten Einstellungen bzgl. der Verwendung von Cookies
+                                                
+Cookie Name
+                                                    zak_cookie_consent
+                                                
+Cookie Laufzeit
+                                                    2 Jahre
+                                                
+Name
+                                                    Login
+                                                
+Anbieter
+                                                    Eigentümer dieser Website
+                                                
+Zweck
+                                                    Website Login (sog. "Session Cookie") und Auto-Login
+                                                
+Cookie Name
+                                                    wordpress_*, wordpress_logged_in_*, wordpress_test_cookie, zak_signup_layer
+                                                
+Cookie Laufzeit
+                                                    Session-Ende bzw. 12 Monate (Auto-Login)
+                                                
+Name
+                                                    Woocommerce/Shop
+                                                
+Anbieter
+                                                    Eigentümer dieser Website
+                                                
+Zweck
+                                                    Website Shop: Session, Warenkorb-Identifier, Anzahl Produkte und Check Rückkehr nach Abo-Bezahlvorgang bei externem Dienstleister
+                                                
+Cookie Name
+                                                    woocommerce_cart_hash, woocommerce_items_in_cart, wp_woocommerce_session_*, zasd_*
+                                                
+Cookie Laufzeit
+                                                    Session-Ende bis 2 Tage
+                                                
+Name
+                                                    PayPal
+                                                
+Anbieter
+                                                    PayPal (Europe) S.à r.l. et Cie
+                                                
+Zweck
+                                                    Dienstleister um Bezahlung per PayPal anzubieten. Die Cookies werden nur gesetzt, wenn Sie sich in unserem Shop für eine Bezahlung per PayPal entscheiden und daraufhin zum Anbieter weitergeleitet werden.
+                                                
+Datenschutzerklärung
+https://www.paypal.com/de/webapps/mpp/ua/privacy-full
+Cookie Name
+                                                    LANG, X-PP-L7, _ga, cookie_check, enforce_policy, ts, tsrce, ui_experience, x-pp-s, PYPF, akavpau_ppsd, nsid, tcs
+                                                
+Cookie Laufzeit
+                                                    Session-Ende bis "endlos" (>= 10 Jahre)
+                                                
+Host(s)
+                                                    .paypal.com, .paypalobjects.com
+                                                
+Name
+                                                    Saferpay
+                                                
+Anbieter
+                                                    SIX Payment Services AG
+                                                
+Zweck
+                                                    Dienstleister um Abo-Bestellungen per Kreditkarte anzubieten. Das Cookie wird nur gesetzt, wenn Sie sich bei einer Abo-Bestellung für eine Bezahlung per Kreditkarte entscheiden und daraufhin zum Anbieter weitergeleitet werden.
+                                                
+Datenschutzerklärung
+https://www.six-payment-services.com/de/services/legal/privacy-statement.html
+Cookie Name
+                                                    ASP.NET_SessionId
+                                                
+Cookie Laufzeit
+                                                    Session-Ende
+                                                
+Host(s)
+                                                    .saferpay.com
+                                                
+Name
+                                                    Typeform
+                                                
+Anbieter
+                                                    TYPEFORM SL
+                                                
+Zweck
+                                                    Dienstleister um Bewertungen und Kommentare unserer Seminare anzubieten
+                                                
+Datenschutzerklärung
+https://admin.typeform.com/to/dwk6gt
+Cookie Name
+                                                    PHPSESSID, ajs_anonymous_id, attribution_user_id, zero_interaction, device_view
+                                                
+Cookie Laufzeit
+                                                    12 Monate
+                                                
+Host(s)
+                                                    .typeform.com
+                                                
+Name
+                                                    Mollie
+                                                
+Anbieter
+                                                    Mollie B.V.
+                                                
+Zweck
+                                                    Dienstleister um Bezahlung per Kreditkarte anzubieten. Das Cookie wird nur gesetzt, wenn Sie sich in unserem Shop für eine Bezahlung per Kreditkarte entscheiden und daraufhin zum Anbieter weitergeleitet werden.
+                                                
+Datenschutzerklärung
+https://www.mollie.com/de/privacy
+Cookie Name
+                                                    SESSIONID
+                                                
+Cookie Laufzeit
+                                                    1 Jahr
+                                                
+Host(s)
+                                                    .www.mollie.com
+                                                
+Aus
+An
+Statistiken (3)
+Statistik Cookies erfassen Informationen anonym. Diese Informationen helfen uns zu verstehen, wie unsere Besucher unsere Website nutzen.
+Cookie-Informationen anzeigen
+Akzeptieren
+Aus
+An
+Name
+                                                    Interne Statistik
+                                                
+Anbieter
+                                                    Eigentümer dieser Website
+                                                
+Zweck
+                                                    Das Cookie wird verwendet für Website-Analysen um z.B. unsere Newsletter zu optimieren.
+                                                
+Cookie Name
+                                                    ZAKEnv, ZAKUTM
+                                                
+Cookie Laufzeit
+                                                    1 Monat
+                                                
+Akzeptieren
+Aus
+An
+Name
+                                                    ZEIT Online
+                                                
+Anbieter
+                                                    ZEIT ONLINE GmbH
+                                                
+Zweck
+                                                    Internes Tracking
+                                                
+Datenschutzerklärung
+https://www.zeit.de/hilfe/datenschutz
+Cookie Name
+                                                    Zufällige Kombination aus Buchstaben und Zahlen, z.B.: o4klicl88987674
+                                                
+Cookie Laufzeit
+                                                    20 Tage
+                                                
+Host(s)
+                                                    zeitakademie.zeit.de
+                                                
+Akzeptieren
+Aus
+An
+Name
+                                                    Google Analytics
+                                                
+Anbieter
+                                                    Google LLC
+                                                
+Zweck
+                                                    Cookie von Google für Website-Analysen. Erzeugt statistische Daten darüber, wie der Besucher die Website nutzt.
+                                                
+Datenschutzerklärung
+https://policies.google.com/privacy
+Cookie Name
+                                                    CONSENT, _ga, _gat, _gid, NID
+                                                
+Cookie Laufzeit
+                                                    2 Jahre bzw. für Consent dauerhaft (>= 10 Jahre)
+                                                
+Host(s)
+                                                    .google.com, .google-analytics.com
+                                                
+Aus
+An
+Marketing (7)
+Marketing Cookies werden von Drittanbietern oder Publishern verwendet, um den Erfolg von Marketing-Kampagnen zu verfolgen. Sie tun dies, indem sie Besucher über Websites hinweg verfolgen.
+Cookie-Informationen anzeigen
+Akzeptieren
+Aus
+An
+Name
+                                                    LinkedIn Insight Tag
+                                                
+Anbieter
+                                                    LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Irland
+                                                
+Zweck
+                                                    Prüfung des Erfolgs von LinkedIn Anzeigenkampagnen
+                                                
+Datenschutzerklärung
+https://www.linkedin.com/legal/privacy-policy?trk=hb_ft_priv
+Cookie Name
+                                                    Tracking Pixel
+                                                
+Cookie Laufzeit
+                                                    LinkedIn erfasst URL, Referrer-URL, IP-Adresse, Geräte- und Browsereigenschaften, Zeitstempel und Seitenansichten. Die Daten werden innerhalb von sieben Tagen anonymisiert und innerhalb von 90 Tagen gelöscht.
+                                                
+Akzeptieren
+Aus
+An
+Name
+                                                    Facebook Share
+                                                
+Anbieter
+                                                    Facebook Ireland Limited
+                                                
+Zweck
+                                                    Wird verwendet um den Facebook Share-Button anzuzeigen. Beim Aufruf dieser Internetseite wird über Ihren Browser kurzfristig eine Verbindung zu Servern von Facebook aufgebaut, mit denen die "Facebook Share-Button"-Funktionen erbracht werden.
+                                                
+Datenschutzerklärung
+https://www.facebook.com/policy.php
+Akzeptieren
+Aus
+An
+Name
+                                                    XING Share
+                                                
+Anbieter
+                                                    New Work SE
+                                                
+Zweck
+                                                    Auf dieser Internetseite wird der "XING Share-Button" eingesetzt. Beim Aufruf dieser Internetseite wird über Ihren Browser kurzfristig eine Verbindung zu Servern von XING aufgebaut, mit denen die "XING Share-Button"-Funktionen (insbesondere die Berechnung/Anzeige des Zählerwerts) erbracht werden. XING speichert keine personenbezogenen Daten von Ihnen über den Aufruf dieser Internetseite. XING speichert insbesondere keine IP-Adressen. Es findet auch keine Auswertung Ihres Nutzungsverhaltens über die Verwendung von Cookies im Zusammenhang mit dem "XING Share-Button" statt.
+                                                
+Datenschutzerklärung
+https://www.xing.com/app/share%3Fop%3Ddata_protection
+Akzeptieren
+Aus
+An
+Name
+                                                    Google Tag Manager
+                                                
+Anbieter
+                                                    Google LLC.
+                                                
+Zweck
+                                                    Wir verwenden auf unserer Webseite "Google Tag Manager". Google Tag Manager ermöglicht uns als Vermarkter Webseiten-Tags über eine Oberfläche verwalten zu können. Das Tool Google Tag Manager, welches die Tags implementiert, ist eine cookielose Domain und erfasst selbst keine personenbezogenen Daten. Google Tag Manager sorgt für die Auslösung anderer Tags, die ihrerseits unter Umständen Daten erfassen. Google Tag Manager greift nicht auf diese Daten zu. Wenn auf Domain- oder Cookie-Ebene eine Deaktivierung vorgenommen wurde, bleibt diese für alle Tracking-Tags bestehen, die mit Google Tag Manager implementiert werden.
+                                                
+Datenschutzerklärung
+http://www.google.de/intl/de/policies/privacy
+Akzeptieren
+Aus
+An
+Name
+                                                    Salesviewer
+                                                
+Anbieter
+                                                    SalesViewer® GmbH
+                                                
+Zweck
+                                                    Auf dieser Webseite werden mit der SalesViewer®-Technologie der SalesViewer® GmbH Daten zu Marketing-, Marktforschungs- und Optimierungszwecken gesammelt und gespeichert. Hierzu wird ein javascript-basierter Code eingesetzt, der zur Erhebung unternehmensbezogener Daten und der entsprechenden Nutzung dient. Die mit dieser Technologie erhobenen Daten werden über eine nicht rückrechenbare Einwegfunktion (sog. Hashing) verschlüsselt. Die Daten werden unmittelbar pseudonymisiert und nicht dazu benutzt, den Besucher dieser Webseite persönlich zu identifizieren.
+                                                
+Datenschutzerklärung
+https://www.salesviewer.com/datenschutz
+Akzeptieren
+Aus
+An
+Name
+                                                    Pipedrive Website Visitors (Leadfeeder)
+                                                
+Anbieter
+                                                    Liidio Oy / Leadfeeder
+                                                
+Zweck
+                                                    Auf dieser Webseite werden mit der Leadfeeder-Technologie Daten zu Marketing-, Marktforschungs- und Optimierungszwecken gesammelt und gespeichert. Hierzu wird ein javascript-basierter Code eingesetzt, der zur Erhebung unternehmensbezogener Daten und der entsprechenden Nutzung dient. Die Daten werden nicht dazu benutzt, den Besucher dieser Webseite persönlich zu identifizieren.
+                                                
+Datenschutzerklärung
+https://www.leadfeeder.com/privacy/
+Akzeptieren
+Aus
+An
+Name
+                                                    Facebook Pixel
+                                                
+Anbieter
+                                                    Facebook Inc.
+                                                
+Zweck
+                                                    Wir verwenden Facebook Pixel zu Marketing- und Optimierungszwecken, insbesondere um für Sie relevante und interessante Anzeigen bei Facebook zu schalten und so unser Angebot zu verbessern, für Sie als Nutzer interessanter auszugestalten und belästigende Anzeigen zu vermeiden.
+                                                
+Datenschutzerklärung
+https://www.facebook.com/about/privacy
+Aus
+An
+Externe Medien (2)
+Inhalte von Videoplattformen und Social Media Plattformen werden standardmäßig blockiert. Wenn Cookies von externen Medien akzeptiert werden, bedarf der Zugriff auf diese Inhalte keiner manuellen Zustimmung mehr.
+Cookie-Informationen anzeigen
+Akzeptieren
+Aus
+An
+Name
+                                                    Youtube
+                                                
+Anbieter
+                                                    YouTube LLC
+                                                
+Zweck
+                                                    Einbindung von Youtube-Videos in den Content (z.B. Seminar-Trailer, Teaser, Lerninhalte)
+                                                
+Datenschutzerklärung
+https://policies.google.com/privacy?hl=de
+Cookie Name
+                                                    VISITOR_INFO1_LIVE, YSC
+                                                
+Cookie Laufzeit
+                                                    6 Monate
+                                                
+Host(s)
+                                                    .youtube.com
+                                                
+Akzeptieren
+Aus
+An
+Name
+                                                    Chatroll
+                                                
+Anbieter
+                                                    Arithum Technologies Inc.
+                                                
+Zweck
+                                                    Stellt in unseren Webinaren einen Chat zur Verfügung, mittels dessen Fragen gestellt und die Anwender sich untereinander austauschen können.
+                                                
+Datenschutzerklärung
+https://chatroll.com/privacy
+Cookie Name
+                                                    JSESSIONID, timezoneOffset, _ga, _gid, __ctma
+                                                
+Cookie Laufzeit
+                                                    Session-Ende (JSESSIONID) bzw. 2 Jahre
+                                                
+Host(s)
+                                                    .chatroll.com
+                                                
+Datenschutzerklärung
+                    |
+                    Impressum
+close
+Externer Inhalt
+Hier finden Sie ein Video von YouTube LLC. Um dieses Video anzeigen zu können, müssen Sie der Verwendung zustimmen.
+                        Inhalte von Youtube zulassen:
+                        
+Aus
+An
+Ich bin damit einverstanden, dass mir externe Inhalte von Youtube angezeigt werden. Damit können personenbezogene Daten an Drittplattformen übermittelt werden. Mehr dazu in unserer Datenschutzerklärung
+close
+Externer Inhalt
+Hier finden Sie den Webinar Chat, welcher mit dem Produkt "Chatroll" der Firma Arithum Technologies Inc. realisiert ist. Um den Chat anzeigen zu können, müssen Sie der Verwendung zustimmen.
+                        Webinar Chat zulassen:
+                        
+Aus
+An
+Ich bin damit einverstanden, dass mir externe Inhalte von Chatroll angezeigt werden. Damit können personenbezogene Daten an Drittplattformen übermittelt werden. Mehr dazu in unserer Datenschutzerklärung
+ 
+Online-Kurse
+Themen
+BusinessNaturwissenschaftenKörper & GeistSchöne KünsteKultur & ReligionWirtschaft & Politik
+Suche
+ModuleLeadershipSoft SkillsMethodenWandel & ZukunftKurseArbeitsrechtGrundlagen für FührungskräfteDigital LeadershipFühren in Zeiten des digitalen WandelsDiversity & InclusionDie Kraft der VielfaltHomeofficeStrategien für eine erfolgreiche virtuelle ZusammenarbeitHybrides FührenNeue Kompetenzen für erfolgreiche ZusammenarbeitMixed LeadershipGemeinsam in Führung gehenMixed LeadershipTaking the lead togetherPsychologie der FührungFührung, Verhandlung und Konfliktmanagement
+3 Kurse  →
+Psychologie der Führung: Das IndividuumPsychologie der Führung: Das TeamPsychologie der Führung: Die Organisation
+Psychology of LeadershipIndividuals, Teams, Organizations
+3 Kurse  →
+Psychology of Leadership: IndividualsPsychology of Leadership: OrganizationsPsychology of Leadership: Teams
+Remote workKeys to successful digital collaborationCreativityThe skill to shape the futureGut entscheidenUnsicherheit managen, aus Fehlern lernenInterkulturelle KompetenzStrategien für eine erfolgreiche ZusammenarbeitKonflikte lösenPotenziale erkennen und gemeinsam wachsenKreativitätMut zu neuen LösungenPersönlichkeitMit mehr Gelassenheit zu beruflichem und privatem ErfolgPsychologie der VerhandlungMenschen verstehen. Mehr erreichen.PurposeArbeit mit Sinn gestaltenRichtig Karriere machenErfolgreich durchstarten im JobÜberzeugend kommunizierenWie Frauen im Beruf erfolgreich sindVerhandeln mit ErfolgZiele, Strategien, TaktikenPeperoni-StrategieFür mehr Biss im Business.The Psychology of NegotiationMaster the human side of deal makingWirkungsvoll kommunizierenStorytelling, Körpersprache, AuftrittOptimismus im BusinessMit Freude mehr erreichenZeit- und SelbstmanagementDer Schlüssel zu mehr ProduktivitätAgile Teamarbeit3 Methoden für erfolgreiche InnovationenDesign ThinkingDer kreative Weg zu innovativen LösungenOnline MarketingEine kompakte EinführungKarriere-GuideVon der Jobsuche zum TraumberufDSGVOIhr Fahrplan für die praktische UmsetzungAgile Teamwork3 methods for successful innovationsNachhaltigkeitWie wir unsere Zukunft verantwortungsvoll gestaltenNachhaltigkeit in UnternehmenDen Wandel erfolgreich gestaltenKünstliche IntelligenzDie Zukunft von Mensch und MaschineDigitale RevolutionWie die Vernetzung der Welt unser Leben verändertPerspektiven des HumanismusWie wir unsere digitale Zukunft gestaltenAstronomieEine Reise durch unser UniversumEvolutionDie Entstehung des LebensDas Moor als UmweltschützerMultitalent für Klima, Mensch und NaturDigitale RevolutionWie die Vernetzung der Welt unser Leben verändertKünstliche IntelligenzDie Zukunft von Mensch und MaschineMathematikMenschen, Rätsel und Beweise NachhaltigkeitWie wir unsere Zukunft verantwortungsvoll gestaltenErneuerbare EnergienMit Sonne, Wind und Wasser in eine saubere ZukunftAchtsamkeitDie Kraft des Augenblicks nutzenEntwicklungs­psychologieVerstehen, wie Kinder denken, fühlen und handelnErnährungGesundheit, Lebensmittel und PsychologieFit mit GenussMehr Energie durch gesunde ErnährungIntelligenzWas unser Gehirn besser machtZEIT Wochenmarkt KochkursRisotto, ein Klassiker in 6 VariationenMehr LebenskraftGesund und glücklich in der zweiten HälftePersönlichkeitMit mehr Gelassenheit zu beruflichem und privatem ErfolgPsychologieEinführung in die AlltagspsychologieUnser GehirnWie wir denken, lernen und fühlenWeinErleben, verstehen, genießenZuversichtDie Kraft unserer inneren Haltung Angewandte FotografieTipps, Tools und Techniken für bessere BilderFotografieDie Kunst der guten BilderJournalismusVon der Reportage bis zum EssayKlassische MusikDie Vielfalt der Klassik neu entdecken und verstehenKunstgeschichteGoya, Picasso, Warhol: Das Abenteuer der ModerneLiteraturDeutschsprachige Gegenwartsliteratur nach 1945RhetorikDie Kunst der guten Rede - von Aristoteles bis heuteWeltliteraturKlassiker des 20. JahrhundertsArchäologieEine Reise durch die MenschheitsgeschichteEthikDie Grundfragen unseres LebensGeschichteDie deutsche Geschichte im RückblickIslamReligion, Geschichte und KulturPhilosophieEine Einführung in die Praktische PhilosophiePolitische PhilosophieGrundfragen des politischen DenkensDas Einmaleins für FinanzenWie Sie einfach mehr von Ihrem Geld habenPolitikDas demokratische System der Bundesrepublik DeutschlandPolitische PhilosophieGrundfragen des politischen DenkensSoziologieGesellschaft im 21. JahrhundertWirtschaftMärkte, Krisen, Trends - So funktioniert unsere VolkswirtschaftBeliebte Kurse
+Für Unternehmen
+PersonalentwicklungThemenbereichePlattformExpert*innenAwardsBusiness-TestzugangKontakt
+Abo
+AbonnementGeschenk-Abo
+Blog
+Login
+ 
+Online-Kurse
+Business
+Leadership
+Arbeitsrecht
+Digital Leadership
+Diversity & Inclusion
+Homeoffice
+Hybrides Führen
+Mixed Leadership
+Mixed Leadership
+Psychologie der Führung
+Psychologie der Führung: Das Individuum
+Psychologie der Führung: Das Team
+Psychologie der Führung: Die Organisation
+Psychology of Leadership
+Psychology of Leadership: Individuals
+Psychology of Leadership: Organizations
+Psychology of Leadership: Teams
+Remote work
+Soft Skills
+Creativity
+Gut entscheiden
+Interkulturelle Kompetenz
+Konflikte lösen
+Kreativität
+Persönlichkeit
+Psychologie der Verhandlung
+Purpose
+Richtig Karriere machen
+Überzeugend kommunizieren
+Verhandeln mit Erfolg
+Peperoni-Strategie
+The Psychology of Negotiation
+Wirkungsvoll kommunizieren
+Optimismus im Business
+Zeit- und Selbstmanagement
+Methoden
+Agile Teamarbeit
+Design Thinking
+Online Marketing
+Karriere-Guide
+DSGVO
+Agile Teamwork
+Wandel & Zukunft
+Nachhaltigkeit
+Nachhaltigkeit in Unternehmen
+Künstliche Intelligenz
+Digitale Revolution
+Perspektiven des Humanismus
+Naturwissenschaften
+Astronomie
+Evolution
+Das Moor als Umweltschützer
+Digitale Revolution
+Künstliche Intelligenz
+Mathematik
+Nachhaltigkeit
+Erneuerbare Energien
+Körper & Geist
+Achtsamkeit
+Entwicklungs­psychologie
+Ernährung
+Fit mit Genuss
+Intelligenz
+ZEIT Wochenmarkt Kochkurs
+Mehr Lebenskraft
+Persönlichkeit
+Psychologie
+Unser Gehirn
+Wein
+Zuversicht
+Schöne Künste
+Angewandte Fotografie
+Fotografie
+Journalismus
+Klassische Musik
+Kunstgeschichte
+Literatur
+Rhetorik
+Weltliteratur
+Kultur & Religion
+Archäologie
+Ethik
+Geschichte
+Islam
+Philosophie
+Politische Philosophie
+Wirtschaft & Politik
+Das Einmaleins für Finanzen
+Politik
+Politische Philosophie
+Soziologie
+Wirtschaft
+Für Unternehmen
+Personalentwicklung
+Themenbereiche
+Plattform
+Expert*innen
+Awards
+Business-Testzugang
+Kontakt
+Abo
+Abonnement
+Geschenk-Abo
+Blog
+Login
+Suche
+ 
+Die Zukunft des Lernens hat begonnen
+Lust auf neues Wissen?
+Freuen Sie sich auf über 70 interaktive Online-Kurse mit den besten Expert*innen ihres Fachs – inklusive Webinaren, Booklets und Quiz. 
+Starten Sie kostenlos mit ausgewählten Kapiteln unserer Online-Kurse.
+Nach der Anmeldung stehen Ihnen ausgewählte Kapitel unserer Online-Kurse kostenlos zur Verfügung
+Bitte geben Sie eine gültige E-Mail Adresse ein!Jetzt gratis starten
+Mehr als 150 Expert*innen garantieren eine vielfältige und exzellente Weiterbildung, die Spaß macht.
+ZEIT Akademie Kurse auf einen Blick
+Unsere neuesten und beliebtesten Kurse
+                Unsere neuesten und beliebtesten Kurse
+                    
+Weitere durchstöbern
+chevron_right
+chevron_right
+Neuplay_circle_outlined
+Zeit- und Selbstmanagement
+Der Schlüssel zu mehr Produktivität
+68 Minuten
+                                 in 
+3  Kapitel
+                            
+(33)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+Neuplay_circle_outlined
+Fit mit Genuss
+Mehr Energie durch gesunde Ernährung
+70 Minuten
+                                 in 
+2  Kapitel
+                            
+(84)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+Neuplay_circle_outlined
+Das Moor als Umweltschützer
+Multitalent für Klima, Mensch und Natur
+74 Minuten
+                                 in 
+4  Kapitel
+                            
+(35)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+Neuplay_circle_outlined
+ZEIT Wochenmarkt Kochkurs
+Risotto, ein Klassiker in 6 Variationen
+145 Minuten
+                                 in 
+3  Kapitel
+                            
+(100)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+Neuplay_circle_outlined
+Kreativität
+Mut zu neuen Lösungen
+143 Minuten
+                                 in 
+3  Kapitel
+                            
+(52)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+Neuplay_circle_outlined
+Achtsamkeit
+Die Kraft des Augenblicks nutzen
+206 Minuten
+                                 in 
+3  Kapitel
+                            
+(132)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+Neuplay_circle_outlined
+Hybrides Führen
+Neue Kompetenzen für erfolgreiche Zusammenarbeit
+97 Minuten
+                                 in 
+3  Kapitel
+                            
+(16)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+play_circle_outlined
+Psychologie der Verhandlung
+Menschen verstehen. Mehr erreichen.
+316 Minuten
+                                 in 
+16  Kapitel
+                            
+(38)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+play_circle_outlined
+Mehr Lebenskraft
+Gesund und glücklich in der zweiten Hälfte
+240 Minuten
+                                 in 
+4  Kapitel
+                            
+(163)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+play_circle_outlined
+Zuversicht
+Die Kraft unserer inneren Haltung 
+208 Minuten
+                                 in 
+4  Kapitel
+                            
+(316)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+play_circle_outlined
+Gut entscheiden
+Unsicherheit managen, aus Fehlern lernen
+97 Minuten
+                                 in 
+5  Kapitel
+                            
+(89)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+play_circle_outlined
+Nachhaltigkeit
+Wie wir unsere Zukunft verantwortungsvoll gestalten
+150 Minuten
+                                 in 
+6  Kapitel
+                            
+(117)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+Neuplay_circle_outlined
+Creativity
+The skill to shape the future
+143 Minuten
+                                 in 
+3  Kapitel
+                            
+(7)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+play_circle_outlined
+Peperoni-Strategie
+Für mehr Biss im Business.
+52 Minuten
+                                 in 
+3  Kapitel
+                            
+(114)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+play_circle_outlined
+Entwicklungs­psychologie
+Verstehen, wie Kinder denken, fühlen und handeln
+400 Minuten
+                                 in 
+9  Kapitel
+                            
+(36)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+play_circle_outlined
+Persönlichkeit
+Mit mehr Gelassenheit zu beruflichem und privatem Erfolg
+189 Minuten
+                                 in 
+7  Kapitel
+                            
+(615)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+play_circle_outlined
+Journalismus
+Von der Reportage bis zum Essay
+228 Minuten
+                                 in 
+8  Kapitel
+                            
+(90)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+play_circle_outlined
+Rhetorik
+Die Kunst der guten Rede – von Aristoteles bis heute
+211 Minuten
+                                 in 
+8  Kapitel
+                            
+(134)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+play_circle_outlined
+Astronomie
+Eine Reise durch unser Universum
+298 Minuten
+                                 in 
+12  Kapitel
+                            
+(124)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+play_circle_outlined
+Deutsche Weine
+Erleben, verstehen, genießen
+152 Minuten
+                                 in 
+6  Kapitel
+                            
+(192)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+play_circle_outlined
+Unser Gehirn
+Wie wir denken, lernen und fühlen
+253 Minuten
+                                 in 
+11  Kapitel
+                            
+(225)
+Gratiskapitel ansehen
+                                    chevron_right
+ 
+ 
+Ein Baustein fehlt?  Wir produzieren gerne für Sie.
+Ihr Kurs oder Webinar
+Ein Baustein fehlt?  Wir produzieren gerne für Sie.
+Ihr Kurs oder Webinar
+Alle Kurse
+Lernen kann so einfach sein
+Jetzt jederzeit, von überall lernen und weitere Vorteile sichern
+Zertifikate
+Nach Abschluss eines Kurses werden Sie mit einem Zertifikat der ZEIT Akademie ausgezeichnet
+Zusatz-Formate
+Zugriff auf exklusives Begleitmaterial und Online-Gespräche von den »Freunden der ZEIT«
+Lernen mit der App
+Dank der Downloadfunktion alle Kurse bequem unterwegs genießen und Meilensteine erreichen
+Zum Abo
+Neuplay_circle_outlined
+Trailer starten
+Neuer Kurs
+ZEIT Wochenmarkt Kochkurs
+Risotto – ein Klassiker in sechs Variationen
+Starten Sie jetzt mit unserem neuen Kochkurs: »Risotto – ein Klassiker in sechs Variationen« – Durch die Zusammenarbeit von ZEIT Akademie und ZEIT Wochenmarkt wird Kochen zu einem interaktiven Erlebnis. 
+Mehr erfahren
+E-Learning für Ihr Unternehmen
+Mit den Online-Kursen der ZEIT Akademie lernen Ihre Mitarbeiter*innen von den besten Expert*innen aus Wissenschaft und Praxis. Starten Sie die interaktiven E-Learning-Kurse direkt über die ZEIT Akademie Plattform oder binden Sie den hochwertigen LMS-Content in Ihre Lernplattform ein.
+Mehr erfahren
+Lernen mit den Besten
+Unsere Expert*innen aus Wissenschaft und Praxis
+Prof. Dr. Maja Göpel
+diplomierte 2001 als Medienwirtin an der Universität Siegen und wurde 2007 an den Universitäten Hamburg und Kassel in politischer Ökonomie promoviert. Die Expertin für Nachhaltigkeitswissenschaft war Generalsekretärin des Wissenschaftlichen Beirats der Bundesregierung Globale Umweltveränderungen, engagiert sich als Initiatorin der Scientists-for-Future-Bewegung und ist heute Wissenschaftliche Direktorin der 2020 in Hamburg gegründeten Denkfabrik The New Institute.
+Expertin im ZEIT Akademie Kurs »Nachhaltigkeit«
+Prof. Dr. Jens Weidner
+Experte in den ZEIT Akademie Kursen »Peperoni-Strategie« und »Optimismus«
+Dr. med. Anne Fleck
+Expertin im ZEIT Akademie Kurs »Mehr Lebenskraft«
+Prof. Dr. Niels Van Quaquebeke
+Experte in den ZEIT Akademie Kursen »Psychologie der Führung«, »Home-Office« und »Psychologie der Verhandlung«
+Alle Dozent*innen
+Zum Abo
+Ab 19,99€ mtl. 
+Entfalten Sie Ihr Potenzial
+Profitieren Sie noch heute von über 70 Online-Kursen mit renommierten Expert*innen
+inklusive Webinare, Booklets und Quiz
+Häufige Fragen
+ ZEIT Akademie
+Was ist die ZEIT Akademie Die ZEIT Akademie ist das digitale Weiterbildungsangebot der ZEIT Verlagsgruppe. Sie entwickelt und produziert digitale Kurse zur privaten und beruflichen Weiterbildung. In den Kursen der ZEIT Akademie lernen Sie 1:1 von hochkarätigen Dozent*innen – und zwar komfortabel online und zeitlich flexibel. Sorgfältige didaktische Konzeption, das erstklassige Netzwerk der ZEIT-Expert*innen und hochwertige Produktionen machen E-Learning zum Erlebnis. Die Kurse richten sich an alle wissenshungrigen Menschen und Fachkräfte bis zum Top-Management. Sie versprechen ein unabhängiges und effizientes Lernen mit Zugang zu exklusivem Wissen aus Wissenschaft und Praxis – immer mit einer Einführung ins Fachgebiet. Quizfragen und Übungen sorgen für Wissenstransfer und Vertiefung, auch anhand von Begleitmaterialien.  Was ist die ZEIT Akademie für Unternehmen Als Partner in der digitalen Personalentwicklung bieten wir Unternehmen Weiterbildungskurse und Webinare auf höchstem Niveau, jederzeit verfügbar und angepasst an die Bedürfnisse der Organisation. Vorausschauend, kuratiert und mehrsprachig – die ZEIT Akademie unterstützt Ihre Organisationsentwicklung. Über 150 Expert*innen aus Wissenschaft und Praxis sorgen in unseren Online- sowie Videokursen für messbaren Erfolg: 85 Prozent der Lernenden empfehlen unsere Kurse begeistert weiter. Wir verfolgen eine Lernkultur mit Zukunft und System. Integrieren Sie die ZEIT Akademie-Kurse in Ihr Lernmanagement(LMS)-System. Die Unterteilung in kurze Lerneinheiten mit Video-Nuggets, Quizaufgaben, Grafiken und Bildern sorgt für eine umfassende Lernerfahrung. Das ist die Weiterbildungsform der Zukunft für Ihre Mitarbeiter*innen.  Welche Inhalte werden bei der ZEIT Akademie vermittelt? Das E-Learning-Spektrum reicht thematisch von ganz persönlicher Wissensvertiefung bis hin zum beruflichen Update neuer Strategien und Techniken. Die Kurse zu Naturwissenschaften, Kultur, Business, Kunst, Wirtschaft und Politik, Körper und Geist garantieren ein wissenschaftlich fundiertes Niveau, sind aber dennoch für Einsteiger*innen gut verständlich. Die Kursvielfalt mit über 70 Online-Kursen aus den verschiedensten Fachgebieten reicht von der Archäologie über die Ökonomie und von Business-Themen bis hin zur Kunstgeschichte. Vorkenntnisse sind nicht erforderlich – nur die Lust am Lernen und Weiterbilden.  
+Die Abonnements der ZEIT Akademie
+Welche Abo-Möglichkeiten gibt es? Es gibt das Jahresabo mit unbegrenztem Streaming, dem Zugriff auf über 70 Kurse, jährlicher Zahlungsweise und einer Kündigungsfrist von 4 Wochen zum Ende des Bezugsjahres.Und es gibt das Monatsabo mit unbegrenztem Streaming, dem Zugriff auf über 70 Kurse, der monatlichen Zahlungsweise und einer Mindestlaufzeit von 3 Monaten – danach ist es jederzeit zum Monatsende kündbar.  Welche Kurse sind im Abonnement enthalten? Das Jahresabo und das Monatsabo beinhalten beide das komplette Online Kursangebot der ZEIT Akademie. Die ZEIT Akademie-Abos enthalten jedoch keine physischen Produkte, also kein Buch, keine DVD- oder CD-Versionen und keine Sprachkurse. Alle neu erscheinenden Kurse stehen ebenfalls in beiden Aboformen zur Verfügung. Die Abos enthalten die Online-Versionen der Kurse als Stream auf der ZEIT Akademie-Homepage, sowie die Download-Version des Buches als PDF.  Ist der Download der digitalen Kurse im Abo enthalten? Ja. Mit der kostenlosen ZEIT Akademie App stehen Ihnen als Abonnent*in alle Kurse auch zum Download zur Verfügung.  Wie kann ich mein Abo kündigen? Kontaktieren Sie dafür einfach unseren Abo-Kundenservice unter 0 40 – 5555 447 oder  abo@zeitakademie.de. Sie können auch hier online kündigen: Abo kündigen  
+ 
+Login
+Registrieren
+Bitte warten...
+ Fehler: Bitte prüfen Sie Ihre Zugangsdaten und versuchen Sie es noch einmal:
+Melden Sie sich hier mit Ihren Zugangsdaten an:
+ Login
+Haben Sie Ihr Passwort vergessen?
+Registrieren Sie sich hier:
+Nach Ihrer Registrierung können Sie sich jederzeit und ganz bequem mit Ihren Zugangsdaten einloggen und alle Gratis-Kapitel unserer Online-Kurse ohne Verpflichtung unbegrenzt genießen. Sie erhalten zudem unseren ZEIT Akademie-Newsletter, mit dem wir Sie regelmäßig über spannende Angebote sowie exklusive Veranstaltungen und Webinare informieren.
+Sie können der Zusendung des Newsletters jederzeit widersprechen oder Ihre Einwilligung widerrufen.
+Bitte registrieren Sie sich jetzt für Ihr Gratiskapitel
+Nach Ihrer Registrierung können Sie sich jederzeit und ganz bequem mit Ihren Zugangsdaten einloggen und alle Gratis-Kapitel unserer Online-Kurse ohne Verpflichtung unbegrenzt genießen. Sie erhalten zudem unseren ZEIT Akademie-Newsletter, mit dem wir Sie regelmäßig über spannende Angebote sowie exklusive Veranstaltungen und Webinare informieren.
+Sie können der Zusendung des Newsletters jederzeit widersprechen oder Ihre Einwilligung widerrufen.
+Registrieren Sie sich hier:
+ Fehler: 
+Anrede *
+Herr
+Frau
+Titel
+Dr.
+Prof.
+Prof. Dr.
+Hiermit erkläre ich mich mit den AGB einverstanden und habe die Datenschutzbestimmungen zur Kenntnis genommen.
+Ja, ich möchte den Newsletter erhalten und über neue Produkte, besondere Angebote und außergewöhnlichen Geschenkideen informiert werden.
+ 
+Registrieren
+Besuchen Sie uns auch auf:
+Genießen Sie mit unserer neuen App die Freiheiten des Lernens von unterwegs!
+Jetzt in allen App-Stores unter »ZEIT Akademie« erhältlich. Probieren Sie es gleich aus! So haben Sie Ihre Mediathek schnell, übersichtlich und immer griffbereit zur Hand.
+Newsletter
+Informieren Sie sich über unsere neuen Produkte, besonderen Angebote und außergewöhnlichen Geschenkideen.
+zur Anmeldung
+Kundensupport
+Mo.-Fr. von 8 bis 18 Uhr
+ 040 3280 1190
+ service@zeitakademie.de
+Abo Auftragsservice (Abrechnung, Kündigung, Vertrag):
+Mo.-Fr. von 09:00 Uhr bis 17:00 Uhr 
+ 040 5555 4477
+ abo@zeitakademie.de
+Unternehmenskunden (für Personalentwickler*innen, zur beruflichen Weiterentwicklung):
+ 040 3280 1984
+ firmenkunden@zeitakademie.de
+Für Unternehmen
+Impressum
+AGB
+Datenschutz
+Privacy Einstellungen
+FAQ
+Karriere
+Abo kündigen
+ PageLines 

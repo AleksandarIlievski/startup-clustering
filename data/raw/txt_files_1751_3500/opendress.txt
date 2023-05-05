@@ -1,0 +1,231 @@
+Homepage - OpenDress
+	Zum Inhalt wechseln
+ 
+Products
+BEAWEAR app
+E-commerce API
+Sewing patterns & size charts
+Deep tech analytics
+About us
+Who we are
+Team
+R&D
+Partners
+Awards
+Careers
+ 
+Menu
+Products
+BEAWEAR app
+E-commerce API
+Sewing patterns & size charts
+Deep tech analytics
+About us
+Who we are
+Team
+R&D
+Partners
+Awards
+Careers
+ 
+Evolutionizing the clothing industry with human-centered deep tech 
+ Scan, capture and leverage actual 3D body data of real consumers to define and match sizes and sewing patterns – making made-to-measure scalable. 
+Our solutions
+More about us
+As seen in 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Our value proposition 
+Digitizing the clothing industry 
+We aim to reconnect consumers with the clothing industry to meet both their needs while connecting the physical with the digital world.  
+Our value proposition 
+Digitizing the clothing industry 
+We aim to reconnect consumers with the clothing industry to meet both their needs while connecting the physical with the digital world.  
+Our value proposition 
+Digitizing the clothing industry 
+We aim to reconnect consumers with the clothing industry to meet both their needs while connecting the physical with the digital world.  
+ 
+Leveraging body measurement data 
+Enabling the clothing industry to use their customers‘ body data independently to learn how they are sized and shaped. 
+ 
+Providing virtual try-ons and fit-checks 
+We provide the clothing industry with virtual visual try-on solutions to let customers perform instant fit-checks through their devices. 
+ 
+Optimizing production cycles 
+Our solutions support an agile production process that enables a sustainable future-proof clothing production system.  
+ 
+Our Core 
+Our core 
+Using deep tech 
+Our patented 3D body scanning solution for mobile devices capture the most complete and accurate set of body measurements, generating a 3D avatar that exactly describes the proportions, shape, and measurements of individual bodies.With over 90K scans in our database we are able to deliver valuable analytics, statistics and insights and recommendations based on ai-powered algorithms and deep tech.Our proprietary IT approach combines 3D, 4D, AI and classic data bank architecture and aligns it with expertise in apparel manufacturing.We hold a patent for 3D/4D based pattern development. 
+Our reason – the root of the problem 
+The clothing technology hasn't evolved during the past 160 years.  
+The history 
+Bespoke tailoringCustomized on-demand manufacturing – analogue and individual. 
+First Industrial RevolutionTransition from hand crafting production methods to machines through the use of steam power and water power.
+In 1863 E. Butterick developed sewing patterns for mass production principles.
+Made-to-measure clothing. Two collections per year. 
+Second Industrial (Technological) RevolutionInstallations of extensive railroad and telegraph networks allowed for faster transfer of people and ideas. Increasing electrification allowed for factories to develop the modern production line. It was a period of great economic growth, with an increase in productivity, many factory workers were replaced by machines.
+Standardization of size charts, standardized sizes and statistical mean. 
+Third Industrial (Digital) RevolutionExtensive use of computer and communication technologies in the production process; machinery began to abrogate the need for human power.
+Adoption and implementation of digital technology to improve efficiency, value or innovation.
+Mass production principles and centralized factory production. 
+50-100 micro collections per year.
+ 
+Industry 4.0Trend towards automation and data exchange in manufacturing technologies and processes which include cyber-physical systems, IoT, industrial internet of things, cloud computing, cognitive computing, and artificial intelligence.
+This marks the beginning of the post-industrialisation age towards more customized, digital emerging production technologies.
+Now is the time for change with digital data sets, avatar systems, digital production, made-to-measure and local micro factories.  
+ 
+ 
+Until the 18th century
+1760-1840
+1871-1914
+Late 20th century
+21th century
+ 
+ 
+ 
+ 
+ 
+Standard sizes were made to serve fast fashion consumerism and led to mediocre-fitting clothes. 
+Since E. Butterick developed sewing patterns for mass production principles in 1863 nothing much has developed on how measurements are taken and transcribed into standardized sewing patterns and sizing charts that are used worldwide.Standardized size charts were last updated in 1970 for men and 1990 for women and are compiled from the averages of the population at that time. They are based on 2D manual measured data points and fail to take the diverse distribution of body proportions into consideration.The fashion industry is making clothes for calculated averages but people with standard measurements don’t exist. 
+Our why 
+The consequences 
+Today’s mass production of standard-sized, so-so-fitting clothes results in consumer frustration, high return rates, overproduction, waste of time and resources, textile waste and pollution. 
+ 
+Consumers 
+Only 30% of the population fits into standard clothing sizes. 
+ 
+Clothing industry 
+Over 50% of online returns are due to size fitting problems which leads to billions of returns globally and 40% overproduction. 
+ 
+Our world 
+The textile industry is the 2nd biggest polluter in the world. 30% of unsold items get thrown away. 
+ 
+Consumers 
+Only 30% of the population fits into standard clothing sizes. 
+ 
+Clothing industry 
+Over 50% of online returns are due to size fitting problems which leads to billions of returns globally and 40% overproduction. 
+ 
+Our world 
+The textile industry is the 2nd biggest polluter in the world. 30% of unsold items get thrown away. 
+New 
+Norm 
+New EU norm and regulations for sustainable production and consumption in fashion 
+To reduce the burden for our environment, the EU just released a strategy for sustainable and circular textiles to make sustainable products the norm which tackles fast fashion, textile waste and the destruction of unsold textiles; and to ensure the production respects human rights. 
+Our products 
+Our solutions create a symbiotic customer-business-relationship and benefit the consumers, the clothing industry and the environment alike.  
+Our products 
+Our solutions and products create a symbiotic customer-business-relationship and benefit the consumers, the clothing industry and the environment alike.  
+01 
+For consumers (humans 😉) 
+BEAWEAR app 
+Customers can easily scan themselves and get exact size recommendations based on their personal body data to make informed buying decisions.
+They own their data and can use their avatar for virtual try-ons on all connected platforms while simultaneously enjoying a gamified and VR-enhanced “phygital” shopping experience. 
+Visit Website
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We offer packages for all types of brands, producers and retailers in the fashion industry as well as specific solutions for the workwear industry.  
+To learn more about our API plugins and packages 
+BEAWEAR fashion
+BEAWEAR work
+02 
+For e-commerce  
+API solution 
+Our plug-and-play API allows shop owners to implement our 3D body scan solution with accurate size recommendations, virtual try-ons as well as extensive consumer data analytics in a separate admin dashboard. 
+ 
+ 
+More available data on customer body sizes, morphotypes and size matches
+ 
+Increased controlling quality e.g. for orders and production
+ 
+Increased accuracy of size charts and sewing patterns
+ 
+Less returns
+ 
+CO2 emission savings
+03 
+For clothing producers 
+Sewing patterns and size charts 
+Our recommendations based on real body data allow producers to adjust their sewing patterns and size charts according to their customers bodies.  
+ 
+Increase data communication with ecommerce
+ 
+Produce better fitting clothes
+ 
+Less time to market
+ 
+Production on demand
+ 
+Minimize overproduction
+ 
+ 
+04 
+For the apparel industry 
+Deep tech analytics 
+Why does digitization in the clothing industry matter?The clothing industry has a data problem! The clothing industry does not know what their customers look like.A fashion supply chain that uses data breaks the cycle of overproduction by providing a memorable and magical shopping experience.We aim to create the most user-friendly 3D body scanning experience for customers while developing the largest database for fit information, drawing conclusions for adjusted size tables and sewing pattern analytics. Our aim is to move the industry into the future with data-driven insights and improvements throughout the apparel lifecycle from manufacturing to marketing: 
+ 
+Lead time shortening
+ 
+Fit information and analytics of target groups
+ 
+Consumer records and preferences
+ 
+Data sets for accurate sizing recommendations
+ 
+Instant e-commerce uplift via increased conversions and reduced return rates as well as a long-term, strategic customer intelligence advantages that put machine learning at the heart of apparel operations.
+ 
+Solving sizing for shoppers and improving apparel e-commerce margins
+ 
+Accessing size and styling data on demand to close the customer gap
+ 
+Harnessing the power of machine learning to make better business decisions
+ 
+Unlocking detailed demographic data
+ 
+With a dashboard view of all purchases on their site, shop owners are able to stay on top of all major metrics and monitor usage in real time.
+The fashion industry can be transformed from the inside out by leveraging data and AI to combat overproduction. With our deep tech data analysis we digitise fashion and supply chain processes to reduce online return quotes, over production and stock.
+OpenDress supports brands and retailers that struggle most with high online return quotes, pre- and overproduction and stock, towards an agile infrastructure that offers the potential to change and digitalize their supply chain cycles.
+Our solution provides brands and producers with freedom and ownership that is more in line with turnover and consumer demand by providing them with the flexibility to produce on their own and in-time, which allows them to avoid excess spendings and production waste.
+We combine production size chart data and 3D body scanning expertise with analytics of retail sale and return records to provide robust, 360-degree fit prediction. 
+The overall results 
+Our solutions create a symbiotic customer-business-relationship and benefit the consumers, the clothing industry and the environment alike.  
+ 
+better fitting clothes for everyone
+ 
+happier customers
+ 
+fewer returns
+ 
+optimized value chain
+ 
+saved costs due to demand-oriented production and more accurate inventory
+ 
+better sell-through
+ 
+less time to market
+ 
+less waste and pollution
+ 
+reduced climate and biodiversity impact
+The movement 
+Be part of the change! 
+Everybody who scans themselves takes part in improving size recommendation, size chart accuracy and sewing pattern development based on real human bodies to achieve more inclusive and better fitting clothes and thus protect the environment.Join the movement and support our mission for clothes that fit and scan your body now! 
+Start your body scan
+The movement 
+Be part of the change! 
+Everybody who scans themselves takes part in improving size recommendation, size chart accuracy and sewing pattern development based on real human bodies to achieve more inclusive and better fitting clothes and thus protect the environment.Join the movement and support our mission for clothes that fit and scan your body now! 
+Start your body scan
+ 
+All rights reserved

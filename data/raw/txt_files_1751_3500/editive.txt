@@ -1,0 +1,161 @@
+Enterprise Content Collaboration - EDITIVE
+ 
+ 
+Home 
+Technologie   
+GitHub für Docs 
+HD-Diff Vergleichstechnologie 
+Multi Level Content Architektur 
+API 
+About   
+Über EDITIVE 
+Founding Team 
+Founder 
+Kontakt 
+Blog 
+EN 
+        Log in    
+ 
+ 
+ 
+                            New work flow. 
+10x effizientere Zusammenarbeit an Dokumenten.                        
+Know the Difference 
+Professionelle Versionierung und Textvergleiche in Sekundenschnelle.Änderungen nicht nur sehen, sondern verstehen.  
+ 
+Mehr zum Textvergleich mit HD-Diff Technologie
+ 
+						Qualität					
+10x bessere Textvergleiche mittels revolutionärem HD-Diff Algorithmus.					
+ 
+						Visualisierung					
+						Fokus auf Veränderung. Unverändertes wird ausgeblendet.
+					
+ 
+						Effizienz					
+10x effizienter.
+Unterschiede sofort verstehen.
+					
+Zum Produkt
+ 
+Make the Difference 
+Nutzen Sie bewährte Prinzipien aus der Softwareentwicklungfür die Zusammenarbeit an Dokumenten:Das Erfolgsgeheimnis liegt in dem Abzweigen von Variantenfür die getrennte Bearbeitung und der anschließendenautomatisierten Zusammenführung. 
+Mehr zur Technologie
+ 
+ 
+						Gemeinsame Wurzel					
+Alle Dokumente haben jeweils eine Masterversion als gemeinsame Wurzel.					
+ 
+						Auseinandergehen					
+Für die dezentrale Ideen- und Lösungsentwicklung werden Varianten abgezweigt.Damit arbeiten alle Beteiligten ungestört an ihren eigenen Versionen.					
+ 
+						Zusammenkommen					
+						Die Zusammenführung aller Varianten erfolgt größtenteils automatisch, insbesondere bei Überschneidungen. Zudem erhalten alle Beteiligten volle Transparenz und Nachvollziehbarkeit.					
+Zum Produkt
+From Open Source to Open Enterprise 
+EDITIVE ist ein Technologie Spin-off des Open Source Lehrstuhls der Friedrich-Alexander-Universität Erlangen-Nürnberg.Inspiriert von Prinzipien und dem Mindset aus der Open Source Softwareentwicklung verändert EDITIVE die Zusammenarbeit im Enterprise Umfeld – über Unternehmensgrenzen hinaus. Als Content Collaboration Hub. 
+Über EDITIVE
+                        Ready for knowmakingthe Difference?                    
+ Zugang beantragen 
+ 
+ 
+EDITIVE GmbH i.L.Henkestraße 9191052 Erlangen
+Copyright © EDITIVE 
+About 
+Über EDITIVEFounderKontakt 
+Ressourcen 
+NutzungsbedingungenDatenschutzImpressum 
+Folge uns 
+ 
+ 
+ 
+ 
+Wir verwenden auf dieser Webseite Cookies, u.a. um Einstellungen für spätere Besuche zu speichern und um zu Messen, wie viele Besucher unsere Webseite hat und woher sie kommen. Klicken Sie auf “Alle akzeptieren” um der Verwendung aller Cookies zuzustimmen. Alternativ können Sie auf "Einstellungen" klicken und im Detail auswählen, welche Cookies Sie zulassen möchten.EinstellungenAlle akzeptierenCookies verwalten
+Schließen
+Datenschutz 
+Diese Webseite verwendet Cookies um eine leichtere Bedienung und Interaktivität auf der Webseite zu ermöglichen. Diese als "notwendig" bezeichneten Cookies werden in ihrem Browser gespeichert, da sie für die Funktionalität der Webseite zwingend erforderlich sind. Davon abgesehen verwenden wir Cookies, die uns helfen, die Anzahl der Besucher und das Verhalten von Besuchern auf unserer Webseite besser zu verstehen. Diese Cookies werden nur mit Ihrem Einverständnis in Ihrem Browser gespeichert. Sie können Ihre Entscheidung jederzeit revidieren, indem Sie dieses Menü erneut aufrufen.
+ 
+								Notwendig							
+Notwendig
+immer aktiv 
+									Notwendige Cookies sind für die Funktion der Webseite unbedingt erforderlich, damit grundlegende Funktionalität gewährleistet ist.
+CookieDauerBeschreibungcookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".PHPSESSIDThis cookie is native to PHP applications. The cookie is used to store and identify a users' unique session ID for the purpose of managing user session on the website. The cookie is a session cookies and is deleted when all the browser windows are closed.saasland_css1 dayNo descriptionsaasland_js1 dayNo descriptionsaasland_settings1 dayNo descriptionviewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+								Functional							
+Functional
+ 
+									Funktionelle cookies helfen uns bestimmte Funktionen der Webseite umzusetzen.
+CookieDauerBeschreibung__cf_bm30 minutesThis cookie is set by CloudFlare. The cookie is used to support Cloudflare Bot Management. 
+								Analytics							
+Analytics
+ 
+									Analytics Cookies werden verwendet um besser zu verstehen, wie Besucher unserer Webseite benutzen. Die Cookies helfen uns um die Anzahl der Besucher, die Herkunft, die Absprungrate etc. zu ermitteln.
+CookieDauerBeschreibung_ga2 yearsThis cookie is installed by Google Analytics. The cookie is used to calculate visitor, session, campaign data and keep track of site usage for the site's analytics report. The cookies store information anonymously and assign a randomly generated number to identify unique visitors._gat_gtag_UA_196723023_31 minuteThis cookie is set by Google and is used to distinguish users._gid1 dayThis cookie is installed by Google Analytics. The cookie is used to store information of how visitors use a website and helps in creating an analytics report of how the website is doing. The data collected including the number visitors, the source where they have come from, and the pages visted in an anonymous form. 
+								Others							
+Others
+ 
+									Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+CookieDauerBeschreibungCONSENT16 years 6 months 20 days 10 hoursNo description 
+								Advertisement							
+Advertisement
+ 
+									Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+CookieDauerBeschreibungIDE1 year 24 daysUsed by Google DoubleClick and stores information about how the user uses the website and any other advertisement before visiting the website. This is used to present users with ads that are relevant to them according to the user profile.test_cookie15 minutesThis cookie is set by doubleclick.net. The purpose of the cookie is to determine if the user's browser supports cookies.VISITOR_INFO1_LIVE5 months 27 daysThis cookie is set by Youtube. Used to track the information of the embedded YouTube videos on a website. 
+								Performance							
+Performance
+ 
+									Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+CookieDauerBeschreibungYSCsessionThis cookies is set by Youtube and is used to track the views of embedded videos. 
+SPEICHERN & AKZEPTIEREN
+Unterstützt von 
+				Zugang beantragen			
+ 
+ Ihr Vorname
+ 
+ Ihr Nachname
+ 
+ Ihre E-Mail-Adresse
+ 
+ Branche
+ 
+ Für welche Dokumente / Szenarien wollen Sie mit EDITIVE den Unterschied machen?
+ 
+			×            
+				Demotermin vereinbaren			
+ 
+ Ihr Vorname
+ 
+ Ihr Nachname
+ 
+ Ihre E-Mail-Adresse
+ 
+ Branche
+ 
+ Für welche Dokumente / Szenarien wollen Sie mit EDITIVE den Unterschied machen?
+ 
+			×            
+				Up-to-date bleiben			
+ 
+ Ihr Vorname
+ 
+ Ihr Nachname
+ 
+ Ihre E-Mail-Adresse
+ 
+ Branche
+ 
+ Für welche Dokumente / Szenarien wollen Sie mit EDITIVE den Unterschied machen?
+ 
+			×            
+				Demotermin vereinbaren			
+ 
+ Ihr Vorname
+ 
+ Ihr Nachname
+ 
+ Ihre E-Mail-Adresse
+ 
+ Branche
+ 
+ Für welche Szenarien wollen Sie mit EDITIVE den Unterschied machen?
+ 
+			×            

@@ -1,0 +1,1 @@
+Fatal Error: Uncaught error: Call to undefined function userErrorHandler() [stack trace hidden due to security reasons].

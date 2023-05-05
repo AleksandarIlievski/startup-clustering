@@ -1,0 +1,39 @@
+Home - Tweakstreet
+ Skip to content
+MenuUse CasesData PreparationData IngestionData ExportsData WarehousingSupportDocumentationUser ForumSupport PortalServicesTrainingConsultingPricingDownload
+ 
+HomeSlawomir Chodnicki2021-08-20T17:49:55+02:00 
+Automate your
+Data ProcessesCreate data automation workflows.Design on your desktop — run anywhere.
+DownloadPricingA tool for modern data integrationDesign using a desktop app and run anywhere: your desktop, data center, or cloud servers.
+Tweakstreet is a tool you run on your computers. It is not a service. You are always in complete control of your data.
+Connects to anything
+Tweakstreet has connectors for many common data sources such as file formats, databases, and online services. We’re regularly adding new connectors with new releases.
+File formats
+Out of the box support for common data exchange formats such as: CSV, XML, and JSON files.
+SQL databases
+Work with SQL databases like Postgres, MariaDB, SQL Server, Oracle, MySQL, or DB2, Redshift or BigQuery.
+No-SQL databases
+Work with No-SQL databases like MongoDB.
+Web APIs
+Tweakstreet supports HTTP interfaces such as REST-style APIs for popular services such as Salesforce, Marketo, Jira, or Sharepoint.
+Runs everywhereTweakstreet run on Windows, macOS and Linux systems.
+Design on your desktop
+Tweakstreet offers a desktop workbench with an intuitive GUI to design and run data pipelines.
+Run on command line
+Schedule and run data pipelines on headless server environments.
+Deploy with Docker
+Use ready-made Docker images to run your data pipelines in production.
+Perfect for tree-like data
+JSON support
+Easily parse JSON data from any data source. You can also generate JSON-encoded data in case you need to save a JSON file or call a JSON-based web service.
+XML support
+Parse XML to nested list and map data structures. You can just as easily produce XML from data if you need to save XML files or call XML-based data services.
+ 
+ 
+LEGALToggle NavigationTerms of ServicePrivacy PolicyLegal NoticeCOMPANYToggle NavigationAbout UsContactJoin us on Slack!© 2021 • Twineworks GmbH. All rights reserved
+ 
+ 
+Page load link
+ 
+ 

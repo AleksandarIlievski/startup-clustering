@@ -1,0 +1,189 @@
+FIX-Protocol | FIXhub.net | Baden-Württemberg
+top of page
+HOMEWHY FIXhubWHAT WE OFFERBUY/SELL SIDEWHO WE ARECONTACTMoreUse tab to navigate through the menu items.NewsletterExecution VenuesPartnersNewsDownloadsWELCOME
+to FIXhub.net – connect to a world of execution possibilities!The new standard in FIX-based messaging
+ 
+ WELCOME
+to FIXhub.net – connect to a world of execution possibilities!
+The new standard in FIX-based messagingFIXhub.netFIXhub.net operates a fully hosted & managed, neutral electronic network, connecting buy-side and sell-side institutions for the exchange of messages based on FIX Protocol or alternative messaging standards. Our customers include investment managers, banks, custodians, execution and clearing brokers.
+We support bi-directional message flow across asset classes: foreign exchange, money market, fixed income, equities, commodities, energy and derivatives (over- the-counter and exchange traded) - pre trade, trade and post trade.
+Offering the simplicity of one single connection to the widest range of counterparties!
+Don't worry about global execution access:
+ 
+FIXhub offers:
+global coverage
+support for all asset classes
+access to algorithms offered by different execution brokers 
+flexible message customization to fit individual and system requirements
+message patching, transformation and enrichment
+seamless connectivity to 3rd party applications and networks through open interface infrastructure
+​Don‘t worry about security and maintenance:
+ 
+Including full hosting & management, FIXhub.net provides:
+connectivity to a robust, high volume and low latency order routing service 
+secure access to all counterparties
+redundant data center infrastructure
+continuous monitoring and real-time alerting 
+quick adaptation to changing business requirements (quickly add or cancel connections whenever needed)
+Don‘t worry about cost!
+ 
+FIXhub.net is based on:
+a fair partnership!
+our membership model offers unmatched flexibility
+"free-of-charge" membership to FIXhub.net for both buy- and sell-side 
+sell-side firms generally cover the peering fee per session and connected customer, i.e. the routing of orders via FIXhub.net is generally free of charge for buy-side firms
+WHY FIXhub.netWHAT WIE OFFR
+FIXhub.net At-A-Glance!
+​
+Inbound Message Format:
+multi message: FIX, FIXML, SWIFT, FAST, etc.
+multi API
+​Outbound Message Format:
+FIX (4.0 – 5.0) , FIXML, FAST
+additional message standards
+​
+Transport Protocols:
+TCP/IP
+TIBCO RV
+MQ Series
+​JMS
+RMI
+Corba, 
+etc.
+​
+Choice of Connectivity Carriers:
+Atrium, BT, Colt, Telekom, Versatel,....etc.
+Choice of Network Providers:
+Leased Line: Bloomberg, BT Radianz, Fixnetix, TNS, ......etc.
+Internet: VPN and SSL 
+ 
+Connectivity to and from 3rd party order routing networks (ORN), EMS
+and OMS, i.e. Charles River, Linedata, PATRONAS OPUS, etc.
+ 
+Unrivaled setup time for new counterparties
+ 
+Support of Algos and Smart Order Routing  (offered by brokers)
+ 
+Expert support staff available
+FrontFIX by PATRONAS Financial Systems GmbH
+​
+FrontFIX, developed by PATRONAS Financial Systems (a sister company of FIXhub GmbH), is a multi protocol messaging platform. FrontFIX is fully integrated within FIXhub.net and thus enables customers to convert any non-FIX messaging standard into FIX and vice versa.  
+FrontFIX enables the:
+validation 
+transformation
+monitoring and enrichment of messages. 
+The solution comes with a customisable GUI, helping users to  filter, search, monitor and control the complete message flow.   
+FrontFIX is offered in a fully hosted & managed set-up and can be licensed as a stand-alone solution.
+Lower total cost of ownership
+ 
+By offering our sophisticated, proven products on a securely hosted “Software as a Service (SaaS) basis, we make it easy for Investment Managers, Banks and Brokers of all sizes to take advantage of our powerful messaging technology without the need for large upfront capital investment, local IT resources and time consuming installation and configuration projects.
+​
+Software and hardware administration by FIXhub ensures the secure and reliable availability of the application on a daily basis, including the provision of hardware, installation of necessary 3rd party applications (operating systems, Java SDK, etc.). The service also covers the installation, monitoring and management of the software, considerably reducing Total Cost of Ownership. 
+​
+ 
+Do you need help?
+ 
+Every FIX related implementation should be well prepared and managed throughout the lifecycle of the project:
+​
+We offer support and assistance related to:
+analysis of requirements
+feasibility studies
+implementation
+FIX training 
+ 
+Our experts have gained years of experience in numerous customer projects and they will be happy to share their broad knowledge about messaging technology and FIX in particular with you - wherever and whenever required! We look forward to hearing from you: info@fixhub.netBUY/SELL SIDE
+Connect to one or many Execution Venues
+​
+reach hundreds of brokers, trading platforms, networks, and custodians globally - with one single connection to FIXhub.net.
+ 
+trade across asset classes and markets 
+ 
+get real-time feedback of the status of your orders
+ 
+profit from our expertise and a fully hosted & managed service
+​
+FIXhub.net fully integrates with your existing system landscape and allows you to route order flow from any in-house or 3rd party OMS or EMS solution. 
+Receive Orders from one or many Buy-Side-Firms
+ 
+receive FIX order flow from hundreds of counterparties globally - with one single connection to FIXhub.net.
+ 
+send and receive pre trade, trade and post trade messages across all asset classes 
+ 
+improve your customer service by providing real-time feedback of any order and trade status to your customers
+ 
+profit from our expertise and a fully hosted & managed service
+​
+FIXhub.net enables you to receive and make visible electronic order flow from many different sources. We offer a wide range of standard adapters and an integrated messaging technology to optimize the information exchange via FIX and non-FIX protocol.
+WHO WE ARE
+FIXhub GmbH was founded in 2013 with the objective to define a new standard for FIX-based messaging. We are independent and not tied to any broker, investment bank or information service provider.
+We develop FIX and multi-protocol messaging technology and operate a fully managed electronic order routing network. We connect buy-side and sell-side institutions for the exchange of order and trade related information via FIX or alternative message standard. Our customers include investment managers, banks, execution and clearing brokers.
+We support FIX based messaging across all relevant asset classes: Foreign Exchange, Money Market, Fixed Income, Equities, Commodities, Energy and Derivatives (over the counter and exchange traded).
+Our employees are our greatest asset!
+​
+We strive to deliver added value to our customers through innovation, partnership and excellent service – without any exception!
+​
+We are fully aware of the fact, that a successful business requires people who make things happen. 
+​
+At FIXhub, we are proud of our employees and interested in their personal development and well being. Being a small company, we are looking for team players with a proactive attitude and who are interested to do cool things that make a difference!
+Network- and Unix System Administrator
+​
+implementation, configuration, extension and operation of our network infrastructure, OSPF routing and BGP peering
+Administration and monitoring of Cisco IOS routers and Cisco ASA security appliances
+Ideally CCNP
+Support in the area of DevOps (Jenkins, SVN, deployment, etc.)
+Administration of our Linux / Unix infrastructure (mail server, DNS, groupware, Kerberos, LDAP, backup systems…)
+Monitoring of databases and server systems in HA environments
+System documentation
+ 
+Interested or in need of more information? Please send an email to info@fixhub.net with your phone number and/or email address. We look forward to hearing from you!contact
+FIXhub GmbH
+Schnewlinstr. 12
+79098 Freiburg i. Br.
+Germany
+Phone: +49 761 88 79 58 -0
+Fax: +49 761 88 79 58 -50
+Email: info@fixhub.net
+Internet: www.fixhub.net
+​
+Management Board: Heribert Steuer | Carsten Osswald | Johann Horch
+V.i.S.d.P.: Heribert Steuer | Carsten Osswald| Johann Horch
+Commercial register: Amtsgericht Freiburg i. Br., HRB 727581
+VAT identification number  (§27a): DE288221903
+​
+Our website contains links to the websites of third parties (“external links”). As the content of these websites is not under our control, we cannot assume any liability for such external content. In all cases, the provider of information of the linked websites is liable for the content and accuracy of the information provided. At the point in time when the links were placed, no infringements of the law were recognisable to us.GLOBAL
+REACHOPEN
+CONNECTIVITYTERMS
+OF BUSINESSFIX BASED
+TRADING NETWORKFIX MESSAGING
+TECHNOLOGYFIX 
+AS A SERVICEFIX 
+KNOWLEDGE
+TRANSFERBUY
+SIDESELL
+SIDEBROKER
+COMMUNITYABOUTEMPLOYEESJOBSLEGAL 
+NOTICEPRIVACYWHY FIXhub.net?FIX made easy!
+​
+If you don’t have the resources to set-up, manage, monitor and test connections for all counterparties and asset classes, our “hosted & managed” FIX Messaging Network is the most cost-efficient solution. Reach hundreds of counterparties (buy- and sell-side) globally with one single connection to FIXhub.net.
+​
+We develop smart messaging solutions, so that our customers can fully concentrate on their core business.WHO WE AREWE CAN HELPBUY/SELL SIDEFINANCIAL EXCHANGE PROTOCOL (FIX)BLESSING AND CURSE – Fidelity Management & Research and Salomon Brothers have revolutionized securities trading with their initiative to standardize the electronic communication between counterparties. Today thousands of counterparties exchange millions of FIX messages every day. 
+ 
+In 1994 it all started with stocks only – today, FIX is the global standard for trading in all asset classes and for the distribution of market data. FIXatdl (FIX Algorithmic Trading Definition Language) has been the latest initiative to standardize algorithmic trading of securities. Different FIX Protocol versions (4.2., 4.3, 4.4, and 5.0) are being used, depending on asset class and use case.
+​
+With increasing complexity, the efficient management of your own FIX infrastructure and message flow can turn into a competitve advantage.
+Our PASSION is FIX. With our expertise and advanced technology we help you reach more customers and trading counterparts and grow your business without any need for internal resources or big investment. List of execution venues
+Legal disclaimer and data protection declarationOUR ADDRESS
+FIXhub GmbH
+Schnewlinstr. 12
+79098 Freiburg i. Br.
+Germany
+Phone: +49 761 88 79 58 -0
+Fax: +49 761 88 79 58 -50
+Email: info@fixhub.net
+​
+Our switchboard is available to you from Monday to Friday between 8:00 am and 6:00 pm CET.
+ 
+Click Here to Find UsFor any general inquiries, please fill in the following contact form:
+SendThanks for submitting!BACK TO TOP
+CONTACT
+FIXhub.net© 2023 FIXhub.net | Legal notice | Privacybottom of page

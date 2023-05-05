@@ -1,0 +1,91 @@
+metaphacts - Decision Intelligence through Knowledge Democratization
+Productmetaphactory OverviewSemantic Knowledge ModelingSolutionsPharma & Life SciencesEngineering & ManufacturingCultural HeritageUse Cases OverviewCompanyAbout usCustomersPartnersmetaphacts AcademyNews & EventsResearch ProjectsPublicationsCareerResource HubBlogGet Started
+Decision Intelligence through Knowledge Democratizationmetaphactory supports collaborative knowledge modeling & knowledge generation & enables on-demand citizen access to consumable, contextual & actionable knowledge
+   Speak with an expert
+Please provide your name.
+Invalid Input
+Please provide your job title.
+Please provide a valid email address.
+Please provide your organization.
+Invalid Input
+Please provide a few details about your use case and the nature of your inquiry.
+Department
+Please do not enter anything in here
+Sign me up for the metaphacts newsletter.
+Invalid Input
+* I have read & agree to the metaphacts Privacy Policy »
+Please confirm that you agree with our Privacy Policy.
+Invalid Input
+Send request
+Speak with an expert
+Button Text
+    
+    
+What we do
+With metaphactory you fast-track your Knowledge Graph journey and drive enterprise-wide knowledge democratization.Empower end users to experience & consume data in contextmetaphactory abstracts from the underlying complexity of a Knowledge Graph and allows you and your users to consume data intuitively and in context and connect the dots between individual pieces of information.Improve data literacy through meaningful and actionable insightsA Knowledge Graph provides a machine-understandable view of your data; metaphactory makes that view human-understandable through intuitive exploration, search and visualization interfaces that deliver actionable insights.Collaborate across user groups & capture hidden expert knowledgeWith metaphactory, business users, domain experts, application engineers and knowledge graph engineers can contribute to the semantic model, transforming data into reusable and company-wide available knowledge.Build Knowledge Graph apps that allow you to adapt as you gometaphactory accelerates your time-to-market for new digital services and products by allowing you to start with a targeted business case, iterate often and extend the use case, semantic model and data sources on the fly.Learn moreGo from idea to production in just a few weekswith an agile, iterative process
+Together with your business users and domain experts, we review your current processes, discuss your solution goals and current pain points, and define your users' information needs. 
+Knowledge graph engineers and domain experts use metaphactory's visual ontology and vocabulary editor to collaboratively define a knowledge model that reflects your domain-specific concepts, relations and the end-user information needs identified in the previous step. The knowledge model is validated with business users in an iterative manner.
+Data stewards leverage metaphactory's data cataloging and data governance features to maintain and curate heterogeneous data sources and map data to the domain knowledge model. 
+Application engineers use metaphactory's low-code approach to translate end-user information needs into intuitive, model-driven interfaces and quickly build apps for search, visualization, discovery, exploration, and authoring. Business users and domain experts are onboarded early to validate the user experience and interaction patterns. 
+Business users and domain experts access the application to consume data, quickly find relevant information, and gain meaningful and actionable insights for their daily tasks.
+  
+Pinpoint your specific information needs
+Model your domain
+Connect your data
+Build the user experience
+Delight end users
+Today
+Week 2-4
+Powered byData & model-drivenQuick resultsFast iterationsLow maintenanceEnd user involvementProven technologyFast time-to-market for a Knowledge Graph-based Turbine Spare Parts Management AppThe key advantage of metaphactory was that we could easily visualize our data during development for early feedback from the business allowing data quality improvements, and fast and target-focused development of our data model and application.Paul Zolnowski
+Section Lead - Post Documentation, Siemens Energy
+March 2019First demo by metaphacts
+April 2019Development installation at Siemens Energy
+May 2019Onboarding of first business users
+June 2019Production instance goes live for all users
+Ever sinceNew data sources, updates & agile iterations
+Your benefits0reduction in project runtime
+Data collection & integration is automated based on rules & constraints in the Knowledge Graph
+The reusability of existing data & findings accelerates new projects & time-to-market for new business solutions
+Tedious & error-prone manual steps are eliminated allowing end users to focus on value-adding tasks
+0more likely to identify efforts that would duplicate previous results
+Company-wide data fabric improves data literacy and leads to a comprehensive understanding of available data
+Existing knowledge is visible & accessible to all relevant stakeholders and delivered in use case-driven formats
+Surfacing existing knowledge allows you to focus on value-adding initiatives & projects
+0of generated data is directly transformed into knowledge available enterprise-wide
+Data becomes meaningful & actionable knowledge that can drive forecasts, prediction, and decisions
+Information is at the fingertips of employees and streamlines daily tasks
+Solution deployment boosts productivity & supports mission-critical business decisions
+Happy customersSuccess storiesKnowledge hub for science & clinical analytics at an American multinational pharma corporationCASE STUDY - PHARMA & LIFE SCIENCESUsing metaphactory, this American Multinational Pharma Corporation built a science and clinical analytics knowledge hub that supports researchers, scientists and clinicians & bridges the gap betwe...Smart turbine spare parts management at Siemens EnergyCASE STUDY - ENGINEERING & MANUFACTURINGSiemens Energy application engineers leveraged metaphactory's low-code approach to build a smart turbine spare parts application that allows turbine service engineers to save thousands of hours on man...Fraud detection at an international financial services providerPROJECT INSIGHTS - FINANCE & INSURANCEThis international financial services provider used metaphactory to build a fraud detection knowledge graph app that helps fraud handlers to quickly identify suspicious claims through intuitive search...Get started with metaphactory for free and accelerate your Knowledge Graph journey!
+Browse & explore your Knowledge Graph out-of-the-box
+Build intuitive interfaces for search, discovery and data curation
+Share your results with colleagues
+Highlight the benefits of the Knowledge Graph to your decision makers
+Get started
+Daimlerstraße 36
+69190 Walldorf
+Germany
++49 6227 6989965
+info@metaphacts.com
+Contact usEXPLOREProduct
+Solutions
+Company
+Customers
+Partners
+metaphacts Academy
+Latest News
+Career
+Resource Hub
+Blog
+Get startedSOCIALTwitter
+LinkedIn
+YouTubeDISCLAIMERTerms & Conditions
+Privacy & Cookies Policy
+Imprint
+© 2023 by metaphacts GmbH
+Part of Digital Science 
+NEWSLETTERSubscribe to the metaphacts newsletter an stay up-to-date with our latest news and developments. You can, of course, unsubscribe at any time but we promise to not send out more than 12 emails per year. 
+Invalid Input
+Invalid Input
+Invalid Input
+Invalid Input
+Subscribe

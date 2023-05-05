@@ -1,0 +1,471 @@
+ES-DB.de - E-Scooter Datenbank 
+    	E-Scooter Datenbank
+Suche (current)
+Detailsuche
+Übersicht
+AZ Liste
+Kontakt
+Name
+Hersteller/Importeur
+2roll Too 7.1
+2roll AG
+2roll Too 8.3
+2roll AG
+856P
+SCHEUFER Technologies GmbH
+A-TO Ultron Air EKFV
+KSR Group GmbH
+A-TO Ultron Air One EKFV
+KSR Group GmbH
+A-TO Ultron One EKFV
+KSR Group GmbH
+Adasmart 1000
+Evectro Mobility GmbH
+Allmara EX-7
+Allmara GmbH
+Alpha X3 Pro
+Axdia International GmbH
+B1D, FLASH, CIRC
+LMTS Holding S.C.A.
+Bird One
+Bird Rides Europe B.V.
+Bird Two
+Bird Rides Europe B.V.
+blu:s Stalker XT600
+Karcher AG
+blu:s Stalker XT950
+Karcher AG
+Bluewheel IX500
+InnovaMaxx GmbH
+BMW X2City
+BMW AG
+Bolt C1
+Bolt Operations OÜ
+Brumbey Super S
+Orange Ventures B.V. 
+BWS504 Stark Bewegt
+Stark Products GmbH
+City Explorer Pro
+ECD Germany GmbH
+City Explorer Pro+
+ECD Germany GmbH
+CITYBLITZ  CB083SZ COBRA
+CityBlitz GmbH
+CITYBLITZ BTS002SZ
+CityBlitz GmbH
+CITYBLITZ CB064SZ
+CityBlitz GmbH
+CITYBLITZ CB075SZ
+CityBlitz GmbH
+CITYBLITZ CB076SZ
+CityBlitz GmbH
+CITYBLITZ CB079SZ
+CityBlitz GmbH
+CITYBLITZ CB081SZ
+CityBlitz GmbH
+CITYBUG
+JD Europe Components GmbH
+CityExplorer
+ECD Germany GmbH
+Concept 350 Pro
+Concept GmbH  
+DDN
+Segway Europe B.V.
+Denver Thor SCO-85351
+Denver Electronics International A/S
+Digger jubelt ES3
+MAS Elektronik AG
+Digger läuft
+MAS Elektronik AG
+Doc Green ESA 1919 EKFV
+KSR Group GmbH
+Doc Green ESA 1950 EKFV
+KSR Group GmbH
+Doc Green ESA 5000 EKFV
+KSR Group GmbH
+Doc Green ESA 800 EKFV
+KSR Group GmbH
+Doc Green EWA 6000
+KSR Group GmbH
+Dott
+emTransit B.V.
+Dott
+emTransit B.V.
+Dott 2
+emTransit B.V.
+Dott SO03
+emTransit B.V.
+Driveman City
+Driveman GmbH
+Driveman Country
+Driveman GmbH
+Ducati City Cross-e x series
+MT Distribution S.r.l.
+e-kick 1.0
+Swaprad GmbH
+E-Rock X8
+Dr. Ferrari GmbH
+E-TWOW Booster-eKFV
+E-TWOW Elektrofahrzeuge Deutschland GmbH
+efloater
+Floatility GmbH
+EGRET EIGHT V3
+Walberg Urban Electrics GmbH
+Egret One
+Walberg Urban Electrics GmbH
+Egret Pro
+Walberg Urban Electrics GmbH
+EGRET TEN V4
+Walberg Urban Electrics GmbH
+EGRET TEN V4 36V
+Walberg Urban Electrics GmbH
+electric scooter S12
+Baka Sport GmbH
+Elmoto Kick
+Govecs Poland Sp. z o.o.
+EM2GO FW103ST
+D-Parts Mobilphon und Zubehör GmbH
+EM2GO FW106ST
+D-Parts Mobilphon und Zubehör GmbH
+ePowerFun ePF-1
+ePowerFun.de GmbH
+ePowerFun ePF-1 PRO
+ePowerFun.de GmbH
+ePowerFun ePF-2
+ePowerFun.de GmbH
+ERG 02 EKFV
+KSR Group GmbH
+ES1030-DE
+Orange Ventures B.V.
+ES200
+OKAI GmbH
+ES400
+OKAI GmbH
+ES400B
+OKAI GmbH
+ES500
+OKAI GmbH
+ESA 804 Explorer EKFV
+KSR Group GmbH
+ESA 808 EKFV
+KSR Group GmbH
+Fischer IOCO 1.0
+MTS MarkenTechnikService GmbH & Co.KG
+Futura MF365 E-ROCK
+Dr. Ferrari GmbH
+go!mate stæp ER1
+go!mate GmbH
+go!mate stæp ER2
+go!mate GmbH
+H102P
+SI-Zweirad-Vertriebs GmbH
+HITWAY H5
+Glückswelle Handels GmbH
+IconBIT CITY
+Iconbit GmbH
+IconBIT CITY PRO
+Iconbit GmbH
+IconBIT DELTA PRO
+Iconbit GmbH
+IconBIT TRACER
+Iconbit GmbH
+IO HAWK Collide
+IO HAWK Invest GmbH
+IO Hawk Exit-Cross 2.0 Exclusive
+IO Hawk Invest GmbH
+IO Hawk Exit-Cross 2.0 Premium
+IO Hawk Invest GmbH
+IO Hawk Exit-Cross Entry
+IO Hawk Invest GmbH
+IO HAWK Legacy
+IO HAWK Invest GmbH
+IO Hawk Legend
+IO Hawk Invest GmbH
+IO HAWK Sparrow 2
+IO HAWK Invest GmbH
+IO Hawk Sparrow Legal
+IO Hawk Invest GmbH
+JUMP
+LEV Certifications GmbH
+Katarga Delta 10
+ZEG Zweirad-Einkaufs-Genossenschaft eG
+Katarga Delta 8
+ZEG Zweirad-Einkaufs-Genossenschaft eG
+Kickster S
+S4 Handelsgruppe GmbH
+Kugoo M2 Pro
+Smartbuyer GmbH
+Kuickwheel Super S T
+Orange Ventures B.V. 
+L.A. Sports Deluxe
+L.A. Sports GmbH & Co. KG
+LEHE L3 STVZO
+Karcher AG
+LEHE L5 STVZO
+Karcher AG
+Lime ES400B
+LimeBike Germany GmbH
+Lime-S 3.0
+LimeBike Germany GmbH
+Lime-S 3.2
+LimeBike Germany GmbH
+Lime-S 4.0
+LimeBike Germany GmbH
+LINK Scooter
+Superpedestrian Europe BV
+LuXXon XR300
+Karcher AG
+LuXXon XR350
+Karcher AG
+Maginon Street One
+SUPRA Foto-Elektronik-Vertriebs-GmbH
+Mega Motion M5
+Glückswelle Handels GmbH
+Metz Moover
+METZ mecatech GmbH 
+Metz Moover Plus
+METZ mecatech GmbH
+Mi Electric Scooter 3
+Tekpoint GmbH
+MICRO Colibri 
+Micro Mobility Systems D GmbH
+Micro Condor 2
+Micro Mobility Systems D GmbH
+MICRO Explorer
+Micro Mobility Systems D GmbH
+MOON Alpha Two Scooter EKFV
+KSR Group GmbH
+Moovi StVO
+Kaufmann Sortimentsgroßhandel GmbH
+Moovi StVO Pro
+Kaufmann Sortimentsgroßhandel GmbH
+NAVEE Electric Scooter S65
+AXIDIA International GmbH
+Ninebot E22D
+Segway Europe B.V.
+Ninebot E25D
+Segway Europe B.V.
+Ninebot E45D
+Segway Europe B.V.
+Ninebot ES1LD
+Segway Europe B.V.
+Ninebot F40D
+Segway Europe B.V.
+Ninebot Max G30D
+Segway Europe B.V.
+NIU KQi2 Pro
+Keymate System GmbH
+NIU KQi3 Max
+Keymate System GmbH
+NIU KQi3 Pro
+Keymate System GmbH
+NIU KQi3 Sport
+Keymate System GmbH
+ODYS Alpha X10
+Axdia International GmbH
+ODYS Alpha X3 Pro
+Axdia International GmbH
+ODYS-PAX
+Axdia International GmbH
+OneBike ES 350 Pro
+Concept GmbH 
+ORBO
+WeRoll Tech GmbH
+ORBO
+WeRoll Tech GmbH
+PATONA PT12-1
+PATONA International SL 
+PATONA PT13-1
+PATONA International SL 
+Prophete
+SI-Zweirad-Vertriebs GmbH
+Prophete, TT-EL-H102P, H102P
+SI-Zweirad-Vertriebs GmbH
+racetec R10
+Karcher AG
+Rennfix E-Scooter 1
+Hanseatische Fahrzeug Manufaktur GmbH
+Revokick-S2 L
+ENEWAY GmbH 
+Revokick-S2 M
+ENEWAY GmbH 
+Revokick-S2 S
+ENEWAY GmbH 
+RIDE4 EM1250
+Delta-Sport Handelskontor GmbH
+SCHEUFER es200
+SCHEUFER Technologies GmbH
+Scotex H10
+POL-Planet GmbH & Co. KG
+SCOTEX H20
+POL-Planet GmbH Co. KG
+Segway Air
+Segway Europe B.V.
+Segway Ninebot G30LD
+Segway Europe B.V.
+SEL-10350-ODIN
+Denver Electronics International A/S
+Shell SR-5S EKFV
+KSR Group GmbH
+Shift-iQ RS 17 Cone
+Shift GmbH
+Si.o K2.2 legal
+Uebler GmbH
+Six Degrees VELO E7
+authentic sports & toys GmbH
+Skotero Bamox
+Orange Ventures B.V. 
+Skotero Extreme XR
+Orange Ventures B.V.
+Skotero Force XR
+Orange Ventures B.V. 
+Skotero Freeze XR
+Orange Ventures B.V.
+Skotero Stepley
+Orange Ventures B.V. 
+Skotero Super S
+Orange Ventures B.V. 
+Skotero Tetrod
+Orange Ventures B.V. 
+SLIDEFOX P1 S
+EFOX Mobility GmbH
+SNSC 2.3
+Segway Europe B.V.
+SNSC 2.3.3
+VOI Technology AB
+SO myTIER
+SoFlow B.V.
+SoFlow SO1
+SoFlow B.V.
+SoFlow SO1 PRO
+SoFlow B.V.
+SoFlow SO2/SO2+
+SoFlow B.V.
+SoFlow SO3
+SoFlow B.V.
+SoFlow SO4 Basic
+SoFlow B.V.
+SoFlow SO4 Pro
+SoFlow B.V.
+SoFlow SO6
+SoFlow B.V.
+Speedy One E-Racer
+P-Collection Bernd Plutzkat e.K.
+STEEREON C20
+PLEV Technologies GmbH
+STREETBOOSTER One
+Cryptoboost GmbH
+STREETBOOSTER Two
+Cryptoboost GmbH 
+SXT Buddy V2 eKFV
+POL-Planet GmbH & Co.KG
+SXT Light Plus V eKFV
+POL-Planet GmbH & Co. KG
+SXT MAX
+POL-Planet GmbH & Co. KG
+SXT Tito eKFV
+POL-Planet GmbH & Co.KG
+TECHNOSTAR TES 200 E-RICH
+TrekStor GmbH
+TECHNOSTAR TES 300 E-RICA
+TrekStor GmbH
+TELEFUNKEN Synergie S600
+Karcher AG
+TELEFUNKEN SYNERGIE S950
+Karcher AG
+THE-URBAN #BRLN V3
+Walberg Urban Electrics GmbH
+THE-URBAN #HMBRG V3
+Walberg Urban Electrics GmbH
+THE-URBAN #RVLTN
+Walberg Urban Electrics GmbH
+THE-URBAN xC1
+Walberg Urban Electrics GmbH
+THE-URBAN xH1
+Walberg Urban Electrics GmbH
+THE-URBAN xR1
+Walberg Urban Electrics GmbH
+THE-URBAN xT1
+Walberg Urban Electrics GmbH
+Tier ES 200D myTIER GO
+Tier Mobility GmbH
+Tier ES 200G myTIER
+Tier Mobility GmbH
+Tier ES-400
+Tier Mobility GmbH
+Tier-ES200D-B2C
+Tier Mobility GmbH
+ToGo01
+Mike85 GmbH
+TREKSTOR e.GEAR EG3168
+TrekStor GmbH
+TREKSTOR e.GEAR EG3178
+TrekStor GmbH
+TREKSTOR e.GEAR EG40610
+TrekStor GmbH
+TREKSTOR e.GEAR EG6078
+TrekStor GmbH 
+Trittbrett Fritz
+Plan M GmbH
+Trittbrett Kalle
+Plan m GmbH
+Trittbrett Paul
+Plan M GmbH
+TROTTY 7808SZ
+TELESTAR-DIGITAL GmbH
+TT-EL-H102P
+SI-Zweirad-Vertriebs GmbH
+Uni Boost
+Hanseatische Fahrzeug Manufaktur GmbH  
+Velix E-Kick 20
+Soletek GmbH
+Velix E-Kick 20 Pro
+Soletek GmbH
+VIRON XI-700-S
+EveMotion GmbH
+VMAX R20 Komm Cruise Pro-S
+NTP New Tech Products Handels GmbH
+VMAX R25 Wheel.I.Am Pro-S
+NTP New Tech Products Handels GmbH 
+VMAX R90 Wheely Wonka Pro-S
+NTP New Tech Products Handels GmbH
+VMAX VX1
+NTP New Tech Products Handels GmbH
+VMAX VX2
+NTP New Tech Products Handels GmbH
+VMAX VX3
+NTP New Tech Products Handels GmbH
+VOI ES100D
+Voi Technology AB
+VOI SNSC 2.3
+VOI Technology AB
+VOI Voiager 1
+Voi Technology AB
+WIND 3.0
+WIND Mobility GmbH
+Wizzard 2.5 Plus
+Wizzard Scooters
+XIAOMI 4 PRO
+Axdia International GmbH
+Xiaomi Electric Scooter 3 Lite
+Tekpoint GmbH
+Xiaomi Mi Scooter 1S
+Axdia International GmbH
+Xiaomi Mi Scooter Pro 2
+Axdia International GmbH
+XQISIT X-100
+Strax GmbH
+ZAMELUX E9-2
+ZAMELUX GREEN, S.L.
+ZAMELUX GREEN E9
+ZAMELUX GREEN, S.L.
+ZEUS YIMI + 2
+Eco Urban Scooters Ltd
+ZEUS YIMI PLUS 3
+Eco Urban Scooters Ltd
+ZWHEEL
+ZAMELUX GREEN, S.L.
+Copyright © E-Scooter Datenbank 2021  Impressum
+Akzeptieren
+Diese Website verwendet Cookies. Durch die Nutzung dieser Webseite erklären Sie sich damit einverstanden, dass Cookies gesetzt werden.
+    Mehr erfahren

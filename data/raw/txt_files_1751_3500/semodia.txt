@@ -1,0 +1,191 @@
+  
+SEMODIA | Innovative Anwendungen für die modulare Prozessindustrie
+ 
+Semodia
+ 
+Lösungen
+Module Type Package
+Produkte
+MTP-Box
+MTP-Engine
+MTP-ControlEngine
+MTP-Workshop
+Projekt/Beratung
+MTPlatform
+Über Semodia
+News
+Jobs
+Kontakt
+DE
+EN
+Home
+Plug & Produce
+für die modulare Prozessindustrie
+                                                                                                                            Mehr erfahren                                                                                                                    
+ 
+Time to market reduzieren,
+Outcome maximieren
+                                                                                                                            Mehr erfahren                                                                                                                    
+ 
+Maximale Flexibilität
+für Labor, Technikum und Laboranlage
+                                                                                                                            Mehr erfahren                                                                                                                    
+ 
+Durchgängiges Engineering
+für Ihren Entwicklungsprozess
+                                                                                                                            Mehr erfahren                                                                                                                    
+ 
+SEMODIA sagt monolithischen Anlagen sowie Vendor Lock den Kampf an und sorgt dafür, dass manuelle Rekonfigurationen von Labor, Technikum und Produktion der Vergangenheit angehören. Damit tritt SEMODIA an, um die Wertschöpfung Ihrer modularen Anlage zu steigern. Mit langjähriger Expertise in der Prozessindustrie und Automatisierungstechnik hat das Tech-Unternehmen Softwareprodukte und Dienstleistungen geschaffen, die die Effizienz steigern, Ressourcen einsparen und damit die Prozessindustrie revolutionieren. 
+ 
+Mehr über uns
+Mitglied bei
+BioEconomy ClusterMitglied bei 
+5-HTMitglied bei 
+NAMUR e.V.Laufende Teilnahme 2023Gewinner
+2022Gewinner AUTOMATION
+Startup Award 2022Gewinner
+IDT 2022Top40 
+2021Finalist 
+2021Startup of the year 
+2019 
+Registrieren Sie sich jetzt kostenlos auf unserer 
+MTPlatform! 
+Kostenlos registrieren ...MTP hochladen ...MTP validieren ...und im MTP Viewer anzeigen lassen. 
+ Zurück
+ Weiter
+Erfahre mehr
+Wer profitiert? 
+ 
+ 
+engineeringtool-hersteller
+ 
+Engineeringtool-hersteller
+								profitierten von SEMODIA durch Bibliotheken für die schnelle und einfache Umsetzung von modularer Automation.
+							
+Mehr erfahren
+ 
+feldgeräte-hersteller
+ 
+Feldgeräte-hersteller
+								profitierten von SEMODIA durch vorgefertigten Code, um den Markt schnell zu erschließen.							
+Mehr erfahren
+ 
+modul-hersteller
+ 
+Modul-hersteller
+								profitierten von SEMODIA durch ausgesprochene Expertise und vorgefertigte Bibliotheken, um Module per Plug and Produce anzuschließen.
+							
+Mehr erfahren
+ 
+steuerungs-hersteller
+ 
+Steuerungs-hersteller
+								profitierten von SEMODIA durch Bibliotheken, um schnell und einfach die Steuerungen fit für die modulare Automation zu machen.
+							
+Mehr erfahren
+ 
+labor-betreiber
+ 
+Labor-betreiber
+								profitierten von SEMODIA durch eine Out of the Box Lösung für Plug and Play.
+							
+Mehr erfahren
+ 
+anlagen-betreiber
+ 
+Anlagen-betreiber
+								profitierten von SEMODIA durch die Expertise und das Know-how. 
+							
+Mehr erfahren
+Lösung 
+ 
+Im Fokus unserer Entwicklungsarbeit steht das Module Type Package (MTP). Wir stellen Ihnen diese Lösung im Detail für die Prozessindustrie vor. 
+ 
+                        MTP                    
+Die neue Beschreibungs-semantik macht hochflexible Anlagen, Labor und Technika einfach und schnell rekonfigurierbar.
+                                                                            Mehr zu MTP                                                                    
+ 
+Produkte 
+ 
+                        MTP-Box                    
+Erweitern Sie Ihre Bestands- und Laborgeräte und machen Sie diese MTP-fähig.
+                                                                            Mehr                                                                     
+                        MTP-Engine                    
+Verschaffen Sie Ihren Engineeringtools, Leitsystemen und Laborinformations-Systemen die MTP-Fähigkeit.
+                                                                            Mehr                                                                     
+                        MTP-ControlEngine                    
+Machen Sie Ihre Feld- und Laborgeräte MTP-fähig.
+                                                                            Mehr                                                                     
+                        Projekte & Beratung                    
+Wir unterstützen Sie bei Ihren Projekten.
+                                                                            Mehr                                                                     
+                        MTP-Workshops                    
+Wir bringen Sie und Ihr Team auf den neuesten Stand.
+                                                                            Mehr                                                                     
+                        MTPlatform                    
+Hochladen, validieren und Inspektion Ihrer MTP Dateien!
+                                                                            Mehr                                                                     
+                                                                            Start                                                                    
+Workshops 
+ 
+In unseren Inhouse- oder Remote-Workshops beleuchten wir gemeinsam den Markt der modularen Prozessindustrie und machen Ihr Team mit der VDI/VDE/NAMUR 2658 Richtlinie vertraut. Im Anschluss daran erarbeiten wir eine auf Sie, und Ihre Anforderungen abgestimmte MTP-Strategie. 
+Mehr erfahren
+Neuigkeiten 
+ 
+ 
+Equinor Ventures investiert in Semodia
+Posted by Semodia 
+Equinor Ventures investiert in Semodia Die Semodia GmbH mit Sitz in Radebeul (nahe Dresden) hat sich eine Finanzierungsrunde von ca. 2 M€ gesichert. Das Startup ist Anbieter von modularen Software-Lösungen, mit der Kunden aus der Energie- und Prozessindustrie ihre Anlagen flexibler und einfacher auslegen, integrieren und betreiben können. Neben Equinor … Read More
+18. April 2023
+Featured Post
+ 
+Dosiermodule mit MTP umsetzen
+Posted by Maximilian Stecklina 
+Dosiermodule mit MTP umsetzen Abstract In der chemischen und pharmazeutischen Industrie ist der Wandel hin zu flexiblen, modular aufgebauten Produktionsanlagen bereits in vollem Gange. Nun stehen auch Anlagen für Versuchsstände und Labore im Fokus dieses Wandels. Fink Chem+Tec hat Dosiermodule für Technikum und Labor mithilfe der Software MTP Controlengine von … Read More
+18. Januar 2023
+Featured Post
+Kontakt 
+ 
+ 
+Rufen Sie uns an!
+Sie erreichen uns unter folgender Telefonnummer: 
++49 (0) 351 27 18 68 0
+ 
+Schicken Sie uns eine Mail!
+Schreiben Sie uns eine Mail an info@semodia.com oder nutzen Sie das Kontaktformular - wir melden uns bei Ihnen!
+ 
+Besuchen Sie uns bei LinkedIn!
+Besuchen Sie uns auf LinkedIn und erfahren Sie von unseren aktuellen Aktivitäten!
+Name
+        *
+Firma
+        *
+Position
+        
+E-Mail-Adresse
+        *
+Telefonnummer
+        
+Nachricht
+        *
+Bitte senden Sie mir Informationen zu Ihren Produkten und den Anwendungsfällen von MTP  zu und schlagen Sie mir einen Termin für eine Produktvorstellung vor.
+*Pflichtfelder
+Zustimmung zur Datenverarbeitung
+        *
+  Ich stimme der  Datenschutzerklärung zu.
+Text
+        
+E-Mail
+        
+					Falls Du menschlich bist, lasse dieses Feld leer.				
+ 
+ 
+ 
+ 
+ 
+Meißner Str. 3701445 Radebeulinfo@semodia.com Tel +49 (0) 351 /27 18 68 0Fax +49 (0) 351 /27 18 68 99 
+Linkedin
+ 
+Vertrags- und Lizenzbedingungen  •  Datenschutzerklärung  •  Impressum •  Downloads 
+© SEMODIA GmbH 2023 – Semantic Modelling in Automation 
+ 

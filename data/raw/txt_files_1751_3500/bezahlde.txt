@@ -1,0 +1,107 @@
+Home | bezahl.de
+top of pageGeldwäscheprävention
+Automatisiertes Forderungsmanagement
+Digitales Zahlungsmanagement
+Zahlungsmethoden
+Kommunikationsdienste
+Analysen, Exporte und Monitoring
+Termin buchenEntdecken Sie bezahl.de mit unseren Expert:innenLösungenUnternehmenBranchenEntwicklungLoginDeveloper-Hub
+Help-Center
+Was Sie erwartet..!
+Über uns
+Nachhaltigkeit
+Karriere
+Newsroom
+Automotive
+Erfolgsgeschichten
+UnternehmenDigitales Zahlungsmanagement
+Zahlungsmethoden
+Kommunikations-Dienste
+Analysen, Exporte und Monitoring
+Geldwäsche Prävention
+Automatisiertes Forderungs-Management
+LösungenBranchenAutomotive
+Erfolgsgeschichten
+EntwicklungDeveloper Hub
+Help Center
+Was sie erwartet..!
+Entdecken Sie bezahl.de mit unseren ExpertenJetzt Demo buchenLog in About bezahl.de
+Sustainability
+Academy
+Career
+Newsroom
+CompanyReceivables Management
+Payments
+Communication Services
+Reports, Exports & Monitoring
+Money Laundering Prevention
+Automated Dunning Process
+SolutionsIndustriesAutomotive
+Success stories
+DevelopmentDeveloper Hub
+Help Center
+What's next
+Discover bezahl.de with our expertsBook demoLog in xx
+Über uns
+Nachhaltigkeit 
+Karriere
+Newsroom
+Die #1 All-in-One Plattform für digitales ZahlungsmanagementVon Rechnungsstellung bis Mahnwesen: Optimieren Sie Ihr gesamtes Zahlungsmanagement mit unserer Komplettlösung!Jetzt kontaktieren!About bezahl.de
+Sustainability
+Academy
+Career
+Newsroom
+CompanyReceivables Management
+Payments
+Communication Services
+Reports, Exports & Monitoring
+Money Laundering Prevention
+Automated Dunning Process
+SolutionsIndustriesAutomotive
+Success stories
+DevelopmentDeveloper Hub
+Help Center
+What's next
+Discover bezahl.de with our expertsBook demoLog in x>€5 Mrd.Automatisch verwaltetes Plattformvolumen>20 minEinsparung manueller Zeit pro Transaktion im Durchschnitt>97%Zufriedenheit und Umsetzung des Rollouts nach Start mit bezahl.deUnsere LösungenDigitales ZahlungsmanagementManuell war gestern: bezahl.de ordnet jede Zahlung automatisiert zu und verbucht sie in Ihrem Buchhaltungssystem.
+ZahlungsmethodenBieten Sie Ihren Kund:innen jederzeit einen Überblick ihrer Transaktionen in Echtzeit sowie den Komfort modernster Zahlungsmethoden.
+Auswertungen, Export & AnalysenErhalten Sie Auswertungen sowie Analysen und exportieren diese unkompliziert in andere Buchhaltungssysteme.
+KommunikationsdiensteBieten Sie Ihren Kund:innen Echtzeit-Informationen sowie ein modernes und digitales Bezahlerlebnis.
+Geldwäscheprävention (ADM)Senken Sie Verwaltungsaufwand und optimieren Ihre Geldwäscheprävention durch einen automatisierten Datenabgleich.
+Intelligentes ForderungsmanagementUnser intelligentes Forderungsmanagement sorgt für eine schnellere Bezahlung Ihrer offenen Forderungen.
+NewsfeedEffizientes Arbeiten mit bezahl.de TagsMit der innovativen Zahlungsmanagementplattform bezahl.de optimieren Sie Ihre Arbeitsprozesse von der digitalen Zahlungseinladung bis zur...Konfigurieren Sie Ihren Zahlungsplan komfortabel und transparentDie innovative Zahlungsmanagementplattform bezahl.de unterstützt deutsche Autohäuser seit 2018 bei der effizienten Abwicklung und...Exklusiv und volldigital: bezahl.de ab sofort in “My BMW App” nutzbar Starke Partner: bezahl.de und BMW schließen sich zusammen, um digitale Zahlungsprozesse im Automobilhandel zu fördern. Seit Februar 2023...1/26Bereit loszulegen?Buchen Sie eine kostenlose Produktvorstellung oder kontaktieren Sie uns, um ein maßgeschneidertes Angebot für Ihr Unternehmen zu erhalten.Termin buchenAutomatisierte BuchhaltungSparen Sie wertvolle Zeit und Geld durch die Digitalisierung Ihres Forderungs- und Zahlungsmanagements100% VerbuchungsquoteErhalten Sie strukturierte Daten zur automatisierten Zuordnung und Verbuchung von Zahlungen in Ihrem BuchhaltungssystemModerne ZahlungsmethodenBieten Sie Ihren Kund:innen ein ideales Bezahlerlebnis durch das Angebot verschiedener Multichannel ZahlungsmethodenTransparenz in EchtzeitBehalten Sie Ihre Forderungen mit dem Live-Bezahlstatus jederzeit im Blick.
+Alle relevanten Stakeholder und Systeme werden automatisiert via API-Schnittstelle benachrichtigt.Mehr erfahren
+Intransparent communication of payment request and confirmationChaotic paperworkIntransparent payment statusManual reprocessing of incorrect incoming paymentsTime-consuming administration of receivables that have not yet been paid
+Before : Receivables management through manual workarounds
+Digital Payment RequestIntelligent Dunning SystemUp-to-date Payment MethodsLive Status of all ReceivablesAutomated Booking
+New:Receivables management via bezahl.de automated, transparent - in real time
+Digitale ZahlungseinladungVersenden Sie digitale Zahlungseinladungen, mit denen Ihre Kund:innen die Zahlungsabwicklung sofort starten können.Mit unserer Komplettlösung halten Sie Ihr Geld im FlussModerne ZahlungsmethodenProfitieren Sie von einer Vielzahl an digitalen und individuellen Zahlungsmöglichkeiten. So erhalten Sie Ihr Geld so schnell und so einfach wie möglich!Mehr erfahrenLive-Status aller ForderungenAlle relevanten Akteur:innen erhalten automatisierte Zahlungsbestätigungen in Echtzeit.Intelligentes MahnwesenAutomatisierte Zahlungserinnerungen und Mahnungen für ausstehende Forderungen. Optional: Übermittlung der Daten an ein renommiertes Inkassounternehmen.Mehr erfahrenAutomatisierte VerbuchungJede Zahlung wird individuell zugeordnet und anschließend in Ihrem Finanzbuchhaltungssystem verbucht.{
+    „orgId“: „12345678“,
+    „name“: „Fahrzeugverkauf“,
+    „lang“: „en“,
+    „assets“: [
+        {
+            „label“: „Kaufpreis“,
+            „amount“: 3529000
+        }
+    ],
+    „recipient“: „max.mustermann@example.de“,
+    „metafields“: [
+        {
+            „type“: „Farbe“,
+            „desc“: „blau“
+        },
+        {
+            „type“: „FIN“,
+            „desc“: „WAUZZZFFS666766XXX“
+        }
+    ]Entwickelt für Entwickler:innenIntegrieren Sie bezahl.de ganz einfach über unsere leistungsstarke und benutzerfreundliche API.
+ 
+Unsere API-Schnittstelle garantiert Ihnen eine optimale Kompatibilität mit Ihren bestehenden Systemen. So muss Ihr Team keine kostbare Zeit damit verschwenden, unterschiedliche Systeme zusammenzufügen oder Zahlungsfunktionen zu integrieren.Lesen Sie die DocsDigital Payment RequestUp-to-date Payment MethodsIntelligent Dunning SystemManual reprocessing of incorrect incoming paymentsLive Status of all Receivables
+Receivables management through manual workarounds
+Zahlungen mühelos erhaltenbezahl.de macht es möglich: Die innovative Plattform automatisiert, digitalisiert und vereinfacht den gesamten Forderungsprozess von der Zahlungsaufforderung bis zur Verbuchung im Finanzbuchhaltungssystem seiner Kund:innen. Vereinfachen Sie Ihr internes Zahlungsmanagement und sparen Sie wertvolle Zeit und Kosten im Backoffice ein. Und das Wichtigste: Ihre Kund:innen profitieren gleichzeitig von einem reibungslosen Bezahlerlebnis.<<Ein Auszug unserer Partner:innen© 2023 by Name of Site. Created on Editor X.Made in GermanyImpressumDatenschutzAGBFeedbackWir suchen talentierte, leidenschaftliche Leute für unser Team.JobsNX Technologies GmbH
+Hohenzollernring 89-93, 
+50672 Cologne
+​
++49 (0)221-9501840NewsletterImpressumDatenschutzAGBFeedbackKontakt© von NX Technologies GmbH | Digital Performance by
+Menu
+SolutionsDigitales ZahlungsmanagementZahlungsmethodenKommunikationsdiensteAnalysen, Export und MonitoringAutomatisierter ForderungsmanagementGeldwäschepräventionCompanyÜber bezahl.deNachhaltigkeitKarriereNewsroomIndustriesAutomotiveErfolgsgeschichtenDevelopmentDeveloper HubHelp CenterWhat's Nextbottom of page

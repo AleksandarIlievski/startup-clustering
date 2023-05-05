@@ -1,0 +1,218 @@
+Pinestack | Die Plattform für Smart Building Property Management
+Produkt
+Anwendung
+Preise
+Jobs
+Kontakt
+DE
+EN
+ 
+Seite wählen
+  
+ 
+ 
+ 
+WE ARE HIRING
+ 
+ 
+ 
+Die Plattform für effizientes Property Management
+Pinestack ist ein integratives Smart Building-Betriebssystem.
+ 
+Kostenlose Demo
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pinestack macht Ihre Immobilie zukunftssicher.
+ 
+Smart Office-Applikationen wie mobile Raumbuchung, Funktionen zur Gebäudeautomation auf KNX und vielen weiteren Standards sowie effektives Energiedaten-Management machen aus Ihrer Immobilie ein Smart Building, eine lernende Immobilie. Und aus Kostentreibern Leistungserbringer.
+ 
+Weitere Informationen
+ 
+ 
+ 
+ 
+ 
+Pinestack erschafft den Digital Twin.
+Unsere modulare Software ist darauf ausgelegt, Ihnen so viele Informationen wie möglich über Ihre Immobilie zu liefern und ist sofort einsatzbereit. Herausragende Schnittstellen-Architektur stellt sicher, dass sich unsere Lösungen reibungslos in Ihre aktuelle Infrastruktur integrieren.
+ 
+ 
+ 
+Management Software
+Wir erschaffen den Digital Twin Ihres Gebäudes. Mit unserer Web-Oberfläche verwalten Sie Inhalte, erstellen Wartungsaufträge für Dienstleister und werten Analysen des Gebäudebetriebs aus. Besonders effektiv in Kombination mit Worxpace.
+ 
+ 
+Mehr Details
+ 
+Worxpace App
+Datengewinnung und Effektivitätssteigerung durch Service: Navigation im Gebäude, mobile Raumbuchung und Echtzeit-Mängelmeldungen via App sorgen für neue Nutzererfahrung und für neue Einblicke in die Nutzung Ihrer Immobilie.
+ 
+ 
+Mehr Details
+ 
+Integration
+Unsere Plattform ist voll modular und deshalb individuell skalierbar. Services von Drittanbieter können problemlos integriert werden. Mehr Services bedeutet mehr Nutzen für Kunden und mehr Daten für die Analysen Ihres Gebäudebetriebs.
+ 
+ 
+Mehr Details
+ 
+ 
+ 
+Die Schaltzentrale. Pinestack führt Ihr Gebäude ins Internet der Dinge.
+ 
+Verwalten Sie Ihren Gebäudebetrieb. Analysieren und benchmarken Sie die Performance Ihres Gebäudes: Hohe Konnektivität liefert valide Live-Einblicke in den Betrieb Ihrer Immobilie – bis tief in die Feldebene.
+ 
+ 
+ 
+POI ManagementWartungsfälleRaumnutzung AnalyseHeatmapping Analyse
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Die Worxpace-App.Standalone oder integriert.
+ 
+Bieten Sie Ihren Kunden Smart-Office-Services an. Steigern Sie damit den Nutzwert und das Datenvolumen Ihrer Immobilien. Flexibel, voll integrierbar in bestehende Systeme oder als eigene App im Wunsch-Corporate Design.
+ 
+ 
+ 
+Offce App ServicesIndoor NavigationRaumbuchungMaintenance Requests
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+So starten Sie mit Pinestack durch. 
+ 
+ 
+ 
+1
+ 
+Aufbau einer Sensor-Infrastruktur
+ 
+iBeacons oder Multisensensoren zur Navigation, Positionierung von Assets und Heatmapping.
+ 
+ 
+2
+ 
+Integration des Pinestack Betriebssystems
+ 
+Anbindung an Ihre Drittanbieter und Installation unserer Services.
+ 
+ 
+3
+ 
+Bereitstellung und Verwaltung der Services
+ 
+App Nutzung durch Sie und Ihre Kunden für extra Umsatz und zur Datengenerierung.
+ 
+ 
+4
+ 
+Performance-Analyse und -Optimierung
+ 
+Optimierung des Gebäudebetriebs durch vielseitige Analysen.
+ 
+ 
+ 
+ 
+Jetzt durchstarten und Immobilien upgraden.
+ 
+Mehr Konnektivität. Mehr Interaktion. Mehr Attraktivität. Mehr Effizienz.
+ 
+Beratung anfordern
+ 
+ 
+ 
+ 
+Sie haben Fragen? Wir haben die Antworten.
+ 
+Wie sieht es mit der Datensicherheit von Mitarbeitern und Kunden aus?
+Privacy by Design bedeutet „eingebauter Datenschutz“. Bereits bei der Entwicklung wird bei Pinestack der Datenschutz nach der „Europäische Datenschutzgrundverordnung“ (EU-DSGVO) oder „General Data Protection Regulation“ (GDPR) berücksichtigt. Das unterscheidet uns maßgelblich von anderen Anbietern, die zum größten Teil nachträglich diese Komponente aufsetzen müssen. Datenschutzrisiken will Pinestack von Anfang an vermeiden, was auch mit dem Gründungsdatum 2018 zusammenhängt. In Bezug auf IoT-Geräte empfiehlt sich eine Unterscheidung zwischen dem Gerät selbst und den mit dem Gerät verbundenen IoT-Services, zum Beispiel die Steuerung über eine App. 
+ 
+Wie hoch sind die Einsparungen in den Bewirtschaftungskosten?
+Pinestack unterteilt die Einsparungen nach den einzelnen TGA-Bausteinen. Aktuell sinkt nach Schätzungen der Messwerte aus unseren Installationen der Energieverbrauch um ca. 25% bei der Beleuchtung, 30% bei Lüftung & Klima, und ca. 18% bei Raumwärme und Warmwasser. 
+ 
+Welchen Einfluss haben die Daten in die zukünftige bauliche Ausrichtung meiner Immobilien?
+Durch die umfassende Nutzer- und Gebäudedatenerfassung kann der Bedarf an Arbeitsplätzen analysiert und Kennzahlen abgeleitet werden. 
+ 
+Kann ich mit Pinestack den Bedarf an Quadratmeter meiner Kunden genauer bestimmen?
+Pinestack-Analytics bietet die Möglichkeit auf der Grundlage der erfassten Daten, dass Nutzerverhalten zu bestimmen und daraus Interpretationen für die architektonische Nutzung abzuleiten. 
+ 
+Bietet Pinestack auch Beratungsleistungen zum Thema Smart-Building?
+Ja, wir bieten qualifizierte Beratungsleistung sowie Projektmanagement für die Entwicklung von Smart-Buildings. 
+ 
+Besteht die Möglichkeit, Raumnutzungs- und Flächenauslastungsdaten zu erhalten?
+Ja, das ist sogar ohne großen Aufwand über die bestehende Wifi-Infrastruktur möglich als Grundlage für die Datenanalyse. Damit werden schnell Flächeneffizienzen mit Unterstützung von Algorithmen optimiert und eine Belegungsrate erstellt. 
+ 
+Ist es nicht möglich, die Flächenauslastung über das bestehende Wifi-Netzwerk zu ermitteln?
+Über die Datenströme in den Büroflächen und der Unterstützung durch Positionierung von Geräte mit Ortstriangulation, können aggregierte Statistiken in Echtzeit über die Nutzer erstellt werden. Diese Methode sollte jedoch mit den Datenschutzrichtlinien überprüft werden. 
+ 
+ 
+ 
+Kostenlose Beratung
+ 
+ 
+  
+ 
+ 
+ 
+   ProduktProdukt
+Anwendung
+Preise
+  UnternehmenKontakt
+Jobs
+Impressum
+Datenschutz
+  Social Media    
+ 
+Facebook
+Twitter
+RSS
+Designed by Elegant Themes | Powered by WordPress  
+ 
+ 
+ 
+Cookie-Zustimmung verwalten 
+Mit meinem Klick auf die Schaltfläche willige ich freiwillig in das setzen oder aktivieren der jeweiligen Cookies und externen Verbindungen ein, deren Funktionen in der Datenschutzerklärung oder in dort verlinkten Dokumenten bzw. externen Links genauer erläutert werden und mir deshalb bekannt sind. In dem ich die Schaltfläche betätige erteile ich auch meine Einwilligung in personalisierte Werbung durch die in der Datenschutzerklärung genannten Unternehmen, insbesondere für Übermittlungen an Drittländer. Ich kann die datenschutzrechtliche Einwilligung jederzeit mit Wirkung für die Zukunft durch die Änderung meiner Cookie-Einstellungen oder das Löschen meiner Cookies widerrufen. Durch den Widerruf der Einwilligung wird die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt. Mit einer einzelnen Handlung (dem Betätigen der Schaltfläche), erteile ich mehrere Einwilligungen. Dabei handelt es sich sowohl um Einwilligungen nach dem Datenschutzrecht als auch um die des CCPA/CPRA, ePrivacy und Telemedienrechts, die zum Speichern und Auslesen von Informationen notwendig und als Rechtsgrundlage für eine geplante weitere Verarbeitung der ausgelesenen Daten erforderlich sind. Mir ist bekannt, dass ich meine Einwilligung mit dem Klick auf die andere Schaltfläche verweigern oder ggf. individuelle Einstellungen vornehmen kann. Mit meiner Handlung bestätige ich ebenfalls, die Datenschutzerklärung und das Transparenzdokument gelesen und zur Kenntnis genommen zu haben.
+Funktional
+Funktional
+								Immer aktiv							
+Die technische Speicherung oder der Zugang ist unbedingt erforderlich für den rechtmäßigen Zweck, die Nutzung eines bestimmten, vom Teilnehmer oder Nutzer ausdrücklich gewünschten Dienstes zu ermöglichen, oder für den alleinigen Zweck, die Übermittlung einer Nachricht über ein elektronisches Kommunikationsnetz durchzuführen. 
+Vorlieben
+Vorlieben
+Die technische Speicherung oder der Zugriff ist für den rechtmäßigen Zweck der Speicherung von Präferenzen erforderlich, die nicht vom Abonnenten oder Benutzer angefordert wurden.
+Statistiken
+Statistiken
+Die technische Speicherung oder der Zugriff, der ausschließlich zu statistischen Zwecken erfolgt.
+Die technische Speicherung oder der Zugriff erfolgt ausschließlich zu anonymen statistischen Zwecken. Ohne eine Vorladung, die freiwillige Zustimmung Ihres Internetdienstanbieters oder zusätzliche Aufzeichnungen von Dritten können die zu diesem Zweck gespeicherten oder abgerufenen Informationen im Allgemeinen nicht dazu verwendet werden, Sie zu identifizieren. 
+Marketing
+Marketing
+Die technische Speicherung oder der Zugriff ist erforderlich, um Nutzerprofile zu erstellen, um Werbung zu versenden oder um den Nutzer auf einer Website oder über mehrere Websites hinweg zu ähnlichen Marketingzwecken zu verfolgen.
+Optionen verwalten
+Dienste verwalten
+Anbieter verwalten
+Lese mehr über diese Zwecke
+Cookies akzeptieren
+Ablehnen
+Einstellungen
+Einstellungen speichern
+Einstellungen
+{title}
+{title}
+{title}
+Zustimmung verwalten 
+ 

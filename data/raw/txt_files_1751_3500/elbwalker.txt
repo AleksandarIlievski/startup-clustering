@@ -1,0 +1,58 @@
+elbwalker | The easiest way to implement event trackingWorkflowOpen main menuDevelopersServicesBlogAbout usContact usCapture first-party data directly through your markupWalker.js is a lightweight, open-source library to capture analytics events in the browser and send them to any destination.Get started on GitHubLive demo Creates the full event context Handles the triggers Orders the race conditions// Walker.js creates a full event for you
+{
+  "event": "promotion view", // combination of entity and action
+  "data": {
+    // arbitrary set properties with the data-elb-promotion attribute
+    name: "Setting up tracking easily",
+    category: "analytics",
+  },
+  "context": {
+    // Related properties defined with the data-elbcontext attribute
+    test: ["engagement", 0] // Value and order
+  },
+  "globals": {
+    // General properties defined with the data-elbglobals attribute
+    language: "en"
+  },
+  "user": {
+    // stored user ids (manually added once)
+    id: "userid",
+    device: "cookieid",
+    session: "sessionid",
+  },
+  "nested": [], // all nested entities within the promotion
+  "consent": { functional: true }, // status of the consent state(s)
+  "id": "1647968113641-01b5e2-5", // timestamp, group & count of the event
+  "trigger": "visible", // name of the trigger that fired
+  "entity": "promotion", // entity name
+  "action": "view", // entity action
+  "timestamp": 1647968113641, // time when the event fired
+  "timing": 3.14, // how long it took from the page load to trigger the event
+  "group": "01b5e2", // random group id for all events on a page
+  "count": 2, // incremental counter of the events on a page
+  "version": {
+    // Helpful when working with raw data
+    walker: 1.6, // used walker.js version
+    config: 42, // a custom configuration version number
+  },
+  "source": {
+    // Origins of the event
+    type: 1, // Source type of the event (1=Web)
+    id: "https://github.com/elbwalker/walker.js", // Source id of the event's origin (url)
+    previous_id: "https://www.elbwalker.com/" // Previous source id of the event's origin (referrer)
+  },
+  "walker": true, // flag to filter events
+}Workcation”I used walker.js in multiple projects to create a first-party data foundation for marketing analytics. I like the overall simplicity and flexibility of the library.”Timo DechauFounder & Data Engineer, DeepskydataFeatures of the walker.jsWalker.js is a descriptive approach to creating a vendor-agnostic data collection layer.Coupled with markup (like CSS)Walker.js is building upon data-attributes instead of traditional code.Pre-built triggersThe walker comes with a bunch of integrated triggers that will fire your events at the right moment.Entity action modelEvents consist of entities & actions. The concept forces you to capture events clean and consistent across tools. Global context of an eventEasily add global properties like logged-in status or language settings to give events the important context.Destinations Walker.js is extendable with destinations to speed up the implementation of analytics tools and minimize code maintenance.Google Tag ManagerTag ManagementPlausible AnalyticsAnalyticsGoogle Analytics 4AnalyticsGoogle BigQueryData WarehouseCustomYour own endpointHow to get startedStart with setting up a new analytics tool, or extending an existing one.1.Install the walker.jsInstall the walker.js library either via npm or as a script.2.Define entity scope and actionsYou define the entity scope by setting the data-elb attribute with the name of an entity to an element. Then set a data-elbaction attribute on the same level or all child elements in combination with a matching trigger.3.Add properties and global attributesOptionally set composited attributes to define the entities' properties. Properties that are related to all entities can be collected once using our global attributes.<body data-elbglobals="language:en;test:darkmode;pagetype:home">
+  <div data-elb="hero">
+    <h1 data-elb-hero="title:analytics_hacks">
+      Awesome Analytics Hacks
+    </h1>
+      <button data-elbaction="click:github">Check it out on GitHub</button>
+  </div>
+  <div data-elb="newsletter" data-elb-newsletter="position:overlay">
+    <h1 data-elb-newsletter="list:analytics_hacks">
+      Awesome Analytics Hacks Newsletter
+    </h1>
+    <button data-elbaction="click:signup">Signup</button>
+  </div>
+</body>Our servicesSupport & consulting by elbwalkerDo you need short- or long-term support for your next data project? We're experts at building custom data pipelines and durable first-party data foundations for digital product and marketing teams. Exemplary services:- Tracking strategy and concept creation- Tech Sparring for developers - Freelance project-based workTo talk about your project please set up a quick call or use our contact form and we will come back to you within two business days.More about our services →Supported byReady to dive in?Scale your tracking implementation with walker.js.Get started on GitHubFooterSimplifying Data Collection.GitHubLinkedInMailProductswalker.js libraryWeb AppServicesResourcesDocumentationTemplate GalleryCompanyAbout usBlogContactLegalPrivacy PolicyTerms of ServicesImprint© 2023 elbwalker GmbH | crafted in Hamburg, Germany

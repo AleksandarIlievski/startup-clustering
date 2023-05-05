@@ -1,0 +1,203 @@
+  
+aurivus – From scanning to digital
+aurivus
+ 
+Home
+Solution
+Industries
+Structural Modeling
+MEP
+Architecture
+Industrial
+BIM
+Pricing
+Blog
+News
+Features
+Educational
+Events
+Webinars
+Support
+Support FAQs
+Support Videos
+Webinars
+About us
+Careers
+Reseller Program
+News
+Legal disclaimer / Imprint
+Privacy Policy
+Terms of Use
+Contact
+Reseller Program
+ 
+ Menu
+Home
+Solution
+Industries
+Structural Modeling
+MEP
+Architecture
+Industrial
+BIM
+Pricing
+Blog
+News
+Features
+Educational
+Events
+Webinars
+Support
+Support FAQs
+Support Videos
+Webinars
+About us
+Careers
+Reseller Program
+News
+Legal disclaimer / Imprint
+Privacy Policy
+Terms of Use
+Contact
+Reseller Program
+ 
+Get Started
+Home Page
+The fastest way from Scan-to-BIM 
+Save 50% modeling time 
+Plug-and-play in your workflow 
+Only 30 minutes training required 
+Your modeling team will love our AI 
+Deliver faster and better quality 
+Get Started
+Explore
+ 
+We are suppliers for: 
+ 
+ 
+ 
+ 
+ 
+56  
+Countries Licences sold in 
++1300 
+Number of Users 
+50% 
+Average Project Saving Time 
+Unlimited 
+Size of point cloud file 
+How aurivus AI Works 
+ 
+1. Upload your point cloud to our AI 
+2. The AI finds the objects and their attributes 
+3. Use the pre-modeled point cloud 
+The AI needs only a few minutes to analyze the scan data. The result is a pre-modeled point cloud with objects and layers just like in a CAD-model.Let our AI assist you to make modeling easier, faster and cheaper. 
+Partners and Friends: 
+ 
+ 
+ 
+ 
+Try aurivus with your own project up to 20 GB for only 80 EUR.
+                                                    Start using                                            
+ 
+Pipes 
+Our aurivus AI can easily detect pipes & their fittings. Allowing the point cloud user to view as a single object (With our Speed Drawing Mode you can save up to 50% of your time modeling pipes). 
+Trusses 
+Our aurivus AI can easily cross section and focus on Trusses you need to model. Saving you lots of time with 1 click. 
+ 
+ 
+Stairways 
+Our aurivus AI can detect any & all stairways in your point cloud. 
+Furniture 
+No need for cleaning up your point cloud anymore! The aurivus AI detects furniture and other distracting objects in the point cloud, which then simply can be hidden with one click. 
+ 
+ 
+						Walls (Wall Placer Tool)					
+The aurivus AI easily detects Walls, so you can confirm the object with 1 click. Helping you save time, reducing errors & increase quality. 
+ 
+						Window & Doors (Window & Door Placer)					
+The aurivus AI easily detects the Windows & Doors within the point cloud. The Windows & Door Placer tool, will then replace them with a matching object from your Revit library. 
+ 
+						Floors (Automatic Level Placer)					
+The aurivus AI detects the floors within the point cloud, and the Level Placer tool will automatically set the levels. 
+ 
+						Objects					
+The aurivus AI detects objects, allowing you to freely move or hide with one click. 
+ 
+						2D Modelling					
+With 1 click you can see 2D view of your building. 
+ 
+						Roofs					
+The aurivus AI will detect a roof within your point cloud, allowing you to hide the roof from the 360 view. 
+ 
+						Speed Drawing					
+The aurivus Speed Drawing Mode automatically adjusts the views in every of the four perspectives to let you focus on modeling e.g. pipes or beams, instead of losing time finding the right view to continue work with. 
+Our Short Webinars show the AI point cloud tools
+                                                    Watch                                            
+How we help 
+Scan-To-BIM AI 
+Our aurivus AI finds objects in 3D laser scans of buildings, facilities, and plants. It’s trained for architecture, structure, MEP and industrial pipes. 
+ 
+Less costs and higher profitLess costs for manual work, recruitment, hardware and higher productivity 
+ 
+10x Faster LearningLess learning time to work with point clouds and higher motivation for modelers 
+ 
+No training requiredaurivus is super intuitive and simple to use 
+ 
+2x Faster modellingNo need for tools for clean-up, slicing and 360 degree images 
+ 
+No riskNo setup costs and no maintenance for hardward and software 
+ 
+Development with customersPerfectly integrated in today´s modelling workflow 
+ 
+						Faster Cloud Processing					
+						Extremely fast calculation					
+ 
+Work from Aurivus with rEVIT 
+Import into Revit 
+Download our free plugin for Revit. 
+Get answers 
+Frequently Asked Questions 
+Process To Work
+Upload your point cloud to our aurivus portal app.aurivus.com and let the magic happen. On average the AI data processing can take 30 minutes (depending on file size), afterwards you can start modelling in Revit. **Take a seat and have a coffee**
+How Long It Works
+On average the AI data processing can take 30 minutes, larger files can take 1 hour.*Maybe 2 coffees*
+File Formats
+Please upload your point cloud as E57 and ReCap RCP.  Structured or unstructured doesn’t matter but we recommend unstructured.Did you know that in some cases you can reduce the point cloud file size from 300 GB to 10 GB using unified RCP export? We recommend to export a unified RCP project with 5mm point distance. Zip the rcp file with the support folder for your upload.
+Which Scanners do you support
+We support all Laser Scanners or Lidar Systems. (Also iPad Pro or iPhone scanners)
+Price
+Please refer to our Pricing 
+How can I test
+We offer starter package at €80, so you can test a project of your choice, with upto 20GB file size. Learn more…A free 30 minute webinar is included, to help you get started.
+University License
+We offer all universities Geospatial / BIM / Digital Construction departments & students access to aurivus AI. Please contact us(Register to our University license, must include university email address during contact)
+Revit
+We have partnered with Revit with our aurivus plugin to give you the best experience using our AI. 
+Which Software can I use
+We have partnered with Revit.More partnerships coming soon…
+Research Program
+Are you using Point Clouds in a unique and researching manner ?Research helps to change the world and we love to help. Please contact us and tell us your story
+Ready to get started? 
+Sign up now or contact for questions 
+Get started
+Contact sales
+ 
+ 
+About Us aurivus provides this intelligent tool and makes scan-to-BIM faster by assigning BIM attributes directly to the point cloud of the objects. Modelers can use it to reach their goal much faster.
+ 
+Contact Info aurivus GmbH
+Magirus-Deutz-Strasse 13
+89077 Ulm
+Germany
+Phone: +49 (0) 731 / 141 146 14
+Email: web@aurivus.com
+ 
+Reseller Program
+Pricing
+Contact
+Support
+News
+Blog
+ 
+ Made with  by aurivus

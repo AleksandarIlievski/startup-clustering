@@ -1,0 +1,82 @@
+myLike | get inspired by people you trust
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-161548367-1', { 'anonymize_ip': true });
+ Skip to content
+ HomeIndustries HospitalityMobility & TransportOTAs & Travel AgenciesPrint MediaTouroperators & DMOSBlogger & InfluencerProducts Mobile ConciergeAboutPricingDigital Travel GuideAboutPricingBlogger ToolPersonal Travel PlannerMap WidgetCompany AboutNewsJobs Work Student Business DevelopmentHelpContactLogin 
+Search for:
+HomeMobile ConciergeDigital Travel GuideBlogger ToolPersonal Travel PlannerMap WidgetPricingJobs Work Student Business DevelopmentAboutContactHelpLOGIN/REGISTERDownload appEnglishDeutsch
+Search for:
+ 
+BESPOKE DIGITAL TRAVEL GUIDE 
+							Create and share your personal recommendations for great places and experiences with your customers and network embedded in all your physical and digital communication channels and systems 
+							
+ 
+ 
+HomemyLike2023-03-15T10:17:53+01:00
+Private User
+Please scan to get the app
+Business User
+please contact us to get your personal tour
+GET YOUR PERSONAL DEMO–
+or login if you have an account
+LOGIN
+ 
+ 
+myLike UG (haftungsbeschränkt)
+Bruderstrasse 8
+80538 München
+Deutschland
+English
+Deutsch
+ 
+Home
+About
+Presskit
+Help
+Contact
+Travel Blog
+News
+Personal Travel Planner
+Mobile Concierge
+Digital Travel Guide
+Blogger Tool
+Map Widget
+Pricing - Mobile Concierge
+Pricing - Digital Travel Guide
+ 
+ 
+ 
+ 
+ 
+		Copyright  myLike | All Rights Reserved | Home | Imprint | Privacy | Terms 
+ 
+ 
+ 
+ 
+ 
+ 
+Page load link
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. You consent to our cookies if you continue to use our website.							Settings 
+			Ok		
+Necessary
+					
+											Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.					
+					
+				
+Statistic
+					
+											Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.					
+																	
+										Tracking Cookies								
+Marketing
+					
+											Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.					
+											
+						
+													YouTube										
+													Vimeo										
+													Facebook										
+													Google Maps										
+Go to Top

@@ -1,0 +1,545 @@
+GitHub - infinimesh/infinimesh: Home of infinimesh, the first portable cloud-native IoT platform
+Skip to content
+Toggle navigation
+            Sign up
+          
+ 
+        Product
+        
+Actions
+        Automate any workflow
+      
+Packages
+        Host and manage packages
+      
+Security
+        Find and fix vulnerabilities
+      
+Codespaces
+        Instant dev environments
+      
+Copilot
+        Write better code with AI
+      
+Code review
+        Manage code changes
+      
+Issues
+        Plan and track work
+      
+Discussions
+        Collaborate outside of code
+      
+Explore
+      All features
+    
+      Documentation
+    
+      GitHub Skills
+    
+      Blog
+    
+        Solutions
+        
+For
+      Enterprise
+    
+      Teams
+    
+      Startups
+    
+      Education
+    
+By Solution
+      CI/CD & Automation
+    
+      DevOps
+    
+      DevSecOps
+    
+Case Studies
+      Customer Stories
+    
+      Resources
+    
+        Open Source
+        
+GitHub Sponsors
+        Fund open source developers
+      
+The ReadME Project
+        GitHub community articles
+      
+Repositories
+      Topics
+    
+      Trending
+    
+      Collections
+    
+Pricing
+        In this repository
+      
+        All GitHub
+      
+↵
+      Jump to
+      ↵
+No suggested jump to results
+        In this repository
+      
+        All GitHub
+      
+↵
+      Jump to
+      ↵
+        In this organization
+      
+        All GitHub
+      
+↵
+      Jump to
+      ↵
+        In this repository
+      
+        All GitHub
+      
+↵
+      Jump to
+      ↵
+ 
+              Sign in
+            
+              Sign up
+            
+        infinimesh
+ 
+/
+infinimesh
+Public
+ 
+Notifications
+ 
+ 
+Fork
+    17
+ 
+          Star
+ 90
+  
+        Home of infinimesh, the first portable cloud-native IoT platform
+      
+infinitedevices.io
+License
+     Apache-2.0 license
+    
+90
+          stars
+ 
+17
+          forks
+ 
+ 
+          Star
+  
+ 
+Notifications
+ 
+Code
+Issues
+7
+Pull requests
+1
+Discussions
+Actions
+Wiki
+Security
+Insights
+ 
+ 
+More
+ 
+                  Code
+ 
+                  Issues
+ 
+                  Pull requests
+ 
+                  Discussions
+ 
+                  Actions
+ 
+                  Wiki
+ 
+                  Security
+ 
+                  Insights
+ 
+infinimesh/infinimesh
+This commit does not belong to any branch on this repository, and may belong to a fork outside of the repository.
+master
+Switch branches/tags
+Branches
+Tags
+View all branches
+View all tags
+Name already in use
+      A tag already exists with the provided branch name. Many Git commands accept both tag and branch names, so creating this branch may cause unexpected behavior. Are you sure you want to create this branch?
+    Cancel
+    Create
+4
+branches
+22
+tags
+ 
+Code
+Local
+ Codespaces
+  
+  Clone
+            HTTPS
+ 
+            GitHub CLI
+ 
+        Use Git or checkout with SVN using the web URL.
+    
+      Work fast with our official CLI.
+      Learn more about the CLI.
+    
+    Open with GitHub Desktop
+    Download ZIP
+ 
+Sign In Required
+                Please
+                sign in
+                to use Codespaces.
+              
+Launching GitHub Desktop
+    If nothing happens, download GitHub Desktop and try again.
+  
+Launching GitHub Desktop
+    If nothing happens, download GitHub Desktop and try again.
+  
+Launching Xcode
+    If nothing happens, download Xcode and try again.
+  
+Launching Visual Studio Code
+Your codespace will open once ready.
+There was a problem preparing your codespace, please try again.
+Latest commit
+ 
+ 
+Git stats
+3,849
+                      commits
+                    
+Files
+Permalink
+    Failed to load latest commit information.
+  
+ 
+Type
+Name
+Latest commit message
+Commit time
+.github
+Bump snok/container-retention-policy from 1 to 2 (#380)
+February 17, 2023 13:45
+Dockerfiles
+Console Customizations in the runtime (#391)
+March 10, 2023 21:51
+cmd
+Console Customizations in the runtime (#391)
+March 10, 2023 21:51
+console
+Console Customizations in the runtime (#391)
+March 10, 2023 21:51
+docs
+Add files via upload
+December 5, 2022 11:12
+e2e
+delete LDAP providers failed to connect
+July 5, 2022 13:09
+hack
+Switch Namespace & minor impovements (#378)
+February 9, 2023 16:55
+pkg
+ensure unsubscribe
+February 21, 2023 15:59
+.dockerignore
+Console builder
+May 5, 2022 15:34
+.env
+log level
+December 12, 2022 15:53
+.gitignore
+swagger
+December 13, 2021 15:04
+CODE_OF_CONDUCT.md
+Create CODE_OF_CONDUCT.md
+July 9, 2021 11:23
+CONTRIBUTING.md
+Update CONTRIBUTING.md
+July 9, 2021 11:51
+LICENSE
+update license
+September 14, 2021 11:39
+README.md
+Update README.md
+January 18, 2023 14:49
+api.swagger.json
+Merge branch 'v3.0'
+September 16, 2022 11:08
+docker-compose.yaml
+add handsfree to repo
+January 19, 2023 19:47
+go.mod
+Bump github.com/rs/cors from 1.8.3 to 1.9.0 (#397)
+April 14, 2023 15:00
+go.sum
+Bump github.com/rs/cors from 1.8.3 to 1.9.0 (#397)
+April 14, 2023 15:00
+traefik.yml
+raise logger level for traefik
+May 6, 2022 02:33
+vetur.config.js
+rename: dashaboard -> console
+May 5, 2022 14:25
+    View code
+ 
+infinimesh IoT Platform
+Documentation
+Build status
+Community
+CLI
+Usage
+Homebrew
+Snap
+Linux
+.deb (Debian, Ubuntu, etc.)
+.rpm (RedHat, CentOS, Fedora, etc.)
+AUR (Arch Linux, Manjaro, etc.)
+Others
+macOS
+Windows
+Build From Source
+Development
+Local development installation
+Generating proto files
+Local Development
+License
+README.md
+infinimesh IoT Platform
+infinimesh is a opinionated multi-tenant hyperscale Internet of Things platform to connect IoT devices fast and securely with minimal TCO. It features a unique Graph-based authorization system, allowing users & engineers to create arbitrary hierarchical ontologies, with the possibility to scope permissions down to single sub-devices to specific users (e.g. suppliers). It exposes simple to consume RESTful & gRPC APIs with both high-level (e.g. device shadow) and low-level (sending messages) concepts. The infinimesh IoT platform is open source and fully kubernetes compliant. No vendor lock-in - run it yourself on Kubernetes in your own datacenter, under your control with maximum data privacy.
+Our API's (REST / gRPC) are considered als beta and may change in future. infinimesh has already available:
+MQTT support for version 3 and 5
+State management (digital twin)
+Graph-based permission management (multi-dimensional permissons at data layer)
+TLS 1.2 / 1.3 support
+Device-to-Cloud and Cloud-to-Device messages
+Enhanced UI
+k8s and Docker environments
+Documentation
+Check out our:
+Wiki here.
+Swagger UI
+Build status
+Community
+You can reach out to the community via Discord.
+CLI
+Usage
+Start with inf help and inf help login ;)
+Homebrew
+See macOS.
+Snap
+Just run
+snap install inf
+and see usage usage
+Linux
+.deb (Debian, Ubuntu, etc.)
+Go to CLI Releases
+Get .deb package for your CPU arch (arm64 or x86_64)
+dpkg -i path/to/.deb
+If you're using some other arch, let us know, we'll add it to the build. Meanwhile - try building from source
+Then see usage usage
+.rpm (RedHat, CentOS, Fedora, etc.)
+Go to CLI Releases
+Get .rpm package for your CPU arch (arm64 or x86_64)
+yum localinstall path/to/.rpm or dnf install path/to/.rpm
+If you're using some other arch, let us know, we'll add it to the build. Meanwhile - try building from source
+Then see usage usage
+AUR (Arch Linux, Manjaro, etc.)
+If you have yaourt or yay package must be found automatically by label inf-bin
+Otherwise,
+git clone https://aur.archlinux.org/packages/inf-bin
+cd inf-bin
+makepkg -i
+Then see usage usage
+Others
+If you're using other package manager or have none, you can download prebuilt binary in .tar.gz archive for arm64 or x86_64, unpack it and put inf binary to /usr/bin or your $PATH/bin.
+If you're using some other arch, let us know, we'll add it to the build. Meanwhile - try building from source
+Then see usage usage
+macOS
+If you're using Homebrew:
+brew tap infinimesh/inf
+brew install inf
+You're good to go!
+Then see usage usage
+If you don't have Homebrew, consider using it ;), otherwise you can get prebuilt binary from CLI Releases page as an .tar.gz archive.
+# if you have wget then
+wget https://github/infinimesh/inf/releases/#version/inf-version-darwin-arch.tar.gz
+# if you don't, just download it
+tar -xvzf #inf-version-darwin-arch.tar.gz
+# move binary to /usr/local/bin or alike
+mv #inf-version-darwin-arch/inf /usr/local/bin
+You're good to go!
+Then see usage usage
+Windows
+Go to CLI Releases
+Get prebuilt binary from CLI Releases page as an .zip archive.
+Unpack it
+Put it somewhere in $PATH
+Then see usage usage
+Build From Source
+See CLI repo for source and instructions.
+Development
+Local development installation
+We have built an automated local development setup based on Docker.
+Add this entries to /etc/hosts:
+127.0.0.1 api.infinimesh.local 
+127.0.0.1 console.infinimesh.local
+127.0.0.1 traefik.infinimesh.local
+127.0.0.1 rbmq.infinimesh.local
+127.0.0.1 db.infinimesh.local
+127.0.0.1 media.infinimesh.local
+127.0.0.1 mqtt.infinimesh.local
+Clone this repo via git clone https://github.com/infinimesh/infinimesh.git
+cd into the fresh cloned repo
+Run docker compose up
+Swagger API: https://infinimesh.github.io/infinimesh/
+Generating proto files
+Clone proto repo
+Navigate to cloned repo directory and run:
+docker run -it \
+  -v $(pwd):/go/src/github.com/infinimesh/proto \
+  ghcr.io/infinimesh/proto/buf:latest
+Right now we keep protos generated only for Go. If you need one of the other languages, add according module to buf.gen.yaml.
+PRs are as always welcome.
+Local Development
+Start the local dev environment via docker compose up -d.
+Login locally via CLI:
+inf login api.infinimesh.local infinimesh infinimesh --insecure
+Access the Console at http://console.infinimesh.local
+License
+Copyright 2018 - 2023, The Infinite Devices team
+Licensed under the Apache License, Version 2.0 (the "Licenses"); you may not use
+this file except in compliance with the License. You may obtain a copy of the License at
+https://github.com/infinimesh/infinimesh/blob/master/LICENSE
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+The authors of infinimesh are Infinite Devices GmbH, birdayz and 2pk03, all rights reserved.
+About
+      Home of infinimesh, the first portable cloud-native IoT platform
+    
+infinitedevices.io
+Topics
+  go
+  kubernetes
+  golang
+  mqtt
+  iot
+  iot-platform
+  cloud-native
+  iot-cloud
+  industry-40
+  infinimesh
+Resources
+        Readme
+ 
+License
+     Apache-2.0 license
+    
+Code of conduct
+        Code of conduct
+      
+Stars
+90
+    stars
+Watchers
+12
+    watching
+Forks
+17
+    forks
+        Report repository
+ 
+    Releases
+      11
+Version 3.0.3
+          Latest
+ 
+Mar 10, 2023
+ 
+        + 10 releases
+    Packages 17
+ 
+ 
+ 
+      + 14 packages
+        Used by 3
+ 
+                    @infinimesh
+                    /
+                    
+                      inf
+ 
+                    @slntopp
+                    /
+                    
+                      nocloud
+ 
+                    @infinimesh
+                    /
+                    
+                      operator
+ 
+    Contributors 14
+      + 3 contributors
+Languages
+Go
+52.6%
+Vue
+39.5%
+JavaScript
+6.3%
+Dockerfile
+1.0%
+Shell
+0.4%
+HTML
+0.1%
+CSS
+0.1%
+Footer
+ 
+        © 2023 GitHub, Inc.
+        
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+    You can’t perform that action at this time.
+  
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.

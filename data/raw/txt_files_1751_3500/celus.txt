@@ -1,0 +1,162 @@
+CELUS 
+Product
+                                                    CELUS Engineering Platform
+                                                
+                                                    CELUS Orbit
+                                                
+                                                    CELUS Supernova
+                                                
+Company
+                                                    About
+                                                
+                                                    Careers
+                                                
+                                                    Press Center
+                                                
+Resources
+                                                    Knowledge Base
+                                                
+                                                    Video Library
+                                                
+                                                    Platform Login
+                                                
+                                                    Release Notes
+                                                
+                                    Blog
+                                
+                                    Contact
+                                
+                                    Request a Demo
+                                
+EN
+                        DE
+                    
+EN
+                        DE
+                    
+The Smartest Way to Design Electronics
+The AI-powered CELUS Engineering Platform generates schematics, PCB Floorplan, and BOM compatible with the industry’s EDA tools at the touch of a button. By automating all manual steps in the engineering process, and by using rich component databases, we reduce development times by up to 90%.
+Be a CELUS Power Driver
+CELUS is preparing a new version of our platform and we are gathering a crowd of electronics experts as beta testers. Get early access to the platform, a private beta community and lots of free training.
+Three Easy Risk Mitigation Strategies to Navigate the Chip Shortage
+Find out, how the CELUS Engineering Platform can help to increase enterprise resilience and flexibility.
+Can AI be Used to Create PCB Designs?
+Read this review by analyst John McMillan of Lifecycle Insights about the CELUS Engineering Platform.
+CELUS is a Top Company
+kununu, the leading jobs and careers community in Austria, Germany and Switzerland, has rated CELUS a Top Company 2023.
+            What’s New at CELUS
+        
+            Explore our latest blog entries and company news along with selected third-party reading recommendations from the world of electronics engineering.
+        
+                                    Events
+                                
+                                    A Perfect Event for the CELUS Open Space Go-Live
+                                
+After months of planning and preparation, the CELUS team experienced three busy days at embedded world 2023 in Nuremberg, Germany.
+                                    Tech Articles
+                                
+                                    Electronic Components Datasheets - Then and Now
+                                
+Having a datasheet is a necessary, but usually not sufficient, condition for a successful design. And there is a reason for that.
+                                    Events
+                                
+                                    ''Engineering Insights'' with Stuart Cording on 8th March
+                                
+We had a talk with Stuart Cording about speeding up electronics design, our plans for embedded world 23 and answering your questions.
+                                    Inside Celus
+                                
+                                    Living Our Values - Working at CELUS
+                                
+Learn about our core values and why CELUS is a great place to work...
+                                    Blog
+                                
+                                    Automating Electronics Design
+                                
+[Article in German] In an article for the magazine Elektronik Industrie, CELUS CEO Tobias Pohl talks about automating the electronics design process.
+            Upcoming events
+        
+            Meet the CELUS Team at an Event Near You
+        
+11
+May 2023
+Munich Tech Job Fair 
+Whether you are looking for a job or recruiting, Munich Tech Job Fair is the place to be! The CELUS recruiting team will be there to discuss your career in electronics.
+15
+June 2023
+XPERTS on tour - Dortmund (DE)
+CELUS has been invited to present how smart tools and digital processes accelerate your electronics development. Meet us at three roadshows in Germany and Austria, hosted by PCB manufacturer KSG.
+28
+September 2023
+XPERTS on tour - Jena (DE)
+CELUS has been invited to present how smart tools and digital processes accelerate your electronics development. Meet us at three roadshows in Germany and Austria, hosted by PCB manufacturer KSG.
+ECOSYSTEM
+CELUS Works With Leading Players in the Electronics Industry
+“The automation of industrial hardware engineering is an important step that leads to immense speed gains and cost reductions with significantly higher process reliability. Thanks to the CELUS Engineering Platform, this automation will be possible for the first time – conventional tools are not designed for it.”
+Christian Faust,
+Managing Director, Viessmann Elektronik GmbH
+“Zuken supports the digital transformation of the manufacturing industry with a comprehensive range of best-in-class tools and technologies. As part of this transformation process, we are partnering with CELUS to extend the electronics design capability to help our customers to move fast from initial product idea to an initial electronics design. Through our connection with CELUS, this design data flows seamlessly into our electronic system design tools. As such, our customers benefit from our powerful design data and configuration management functions as well as integrated solutions”
+Klaus Wiedemann,
+Marketing Manager (Europe), Zuken GmbH
+“Combining the data from our library of components with CELUS’ AI algorithms help eliminate guesswork and accelerate the design process so engineers can work smarter, not harder.”
+Frank Frank,
+Product Architect, Ultra Librarian
+            Additional resources
+        
+            Next Steps for Automating Your Electronics Design Process
+        
+                            Packaging Overview
+                        
+                            Take a look the CELUS product licensing overview and learn, what’s included in a subscription.
+                        
+                            Request a Demo
+                        
+                            Our application engineers will be happy to give you a live demo of the CELUS Engineering Platform.
+                        
+                            Request a Quote
+                        
+                            Reach out to our sales team to request pricing information for the subscription of your choice.
+                        
+        Subscribe to our Newsletter
+        
+        Subscribe to our newsletter and be the first one to know about the latest news and developments
+        
+                        Products
+                    
+                        CELUS Engineering Platform
+                    
+                        CELUS Supernova
+                    
+                        CELUS Orbit
+                    
+                        Cubos
+                    
+                        Request a Demo
+                    
+                        Company
+                    
+                        About
+                    
+                        Careers
+                    
+                        Press Center
+                    
+                        Imprint
+                    
+                        Contact us
+                    
+                        Resources
+                    
+                        Knowledge Base 
+                    
+                        Video Library
+                    
+                        FAQ
+                    
+                        Platform Login
+                    
+                CELUS © 2023 - CELUS GmbH. All rights reserved.
+            
+                            Legal
+                        
+                            Cookie Declaration
+                        

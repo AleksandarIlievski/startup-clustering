@@ -1,0 +1,30 @@
+zenrema – z Enterprise Ressource Management
+	Skip to content
+			No results		
+Welcome
+Services
+Software
+Company
+Contact
+Events
+Welcome
+Services
+Software
+Company
+Contact
+Events
+Search
+Menu
+Welcome 
+Enterprise Resource Management
+Due to outsourcing, age-related retirement of employees and thus the know-how carriers, lack of junior staff, etc., the available time of internal employees for regular monitoring and constant optimization of the existing hardware and software resources in combination with the quite recurring changes in the workload mix fails.
+We combine over 100 years of experience in z/OS, the z/OS subsystems and their fields of application.
+Our specialties include performance in workload management as well as detailed analysis and optimization of your WLM policies, IBM pricing, capacity planning, hardware upgrades but not limited to these.
+Learn more about our offerings:
+Our services around z/OS Workload Management and WLM Policies
+Want help switching to TFP or optimizing your R4HA?
+Our offer around Hardware and Software capacity management
+z/OS Architecture and Infrastructure – It’s just not working as it should?
+Our know-how around the topic of dynamic soft capping
+Data Privacy
+Terms of Use

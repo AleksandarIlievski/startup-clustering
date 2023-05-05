@@ -1,0 +1,132 @@
+Pidoco - Online Wireframe and UX Prototyping Tool
+Skip to main content
+POWERFUL PROTOTYPING
+ 
+Log in
+Contact
+close
+Log in
+E-mail 
+Password 
+Forgot your password?
+Log in using OpenID 
+What is OpenID?
+Log in using OpenID
+Cancel OpenID login
+Or login using
+								Home
+							
+								Pricing							
+								Company							
+								Support							
+            We are sunsetting Pidoco effective May 31, 2023. Learn more… 
+Please activate JavaScript to use all features of our site.
+Please activate cookies to use all features of our site.
+Pidoco. Your wireframing tool.
+Signup is no longer possible. 
+Pidoco is software that lets you quickly create click-through wireframes and fully interactive UX prototypes.Small and large companies in over 50 countries trust us.
+ 
+ 
+What Our Customers Say
+   
+					Max Ahrens, Productmanager at zimory, Berlin, Germany					 
+"Collaboration and software prototyping brings all stakeholders together."
+   
+					Jörn Hartwig, Senior Consultant & CEO at D-Labs, Berlin, Germany					 
+"Having ready-to-use stencils makes GUI prototyping and wireframing extremely fast!"
+Read more customer comments »
+ 
+close
+Place your order
+Please enter your contact information and select the option you are interested in. One of our representatives will contact you to discuss any questions you may have and confirm your order.
+Features
+								Interactivity							
+							Create fully interactive prototypes to simulate what your application will really feel like. Use clicks, touch gestures, device motion, keyboard entries and even location data to trigger highly configurable reactions in your prototypes.						
+	
+								Collaboration							
+							Share prototypes, collect comments and edit screens with others in real-time. Our collaboration features are easy to use and include versioning, comment history and issue tracking to give you all the tools you need.						
+	
+								Mobile Simulation							
+							Test drive your prototypes on mobile devices like iOS and Android in real-time. Pidoco allows you to run your prototypes on mobile devices directly without downloading or installing any app. Simply open the sharing link in your mobile web browser. You can also add the project to your home screen to view it in full-screen mode.						
+	
+								Exports & Specifications							
+							Generate handy specification documents at the click of a button to hand to your development team as a blue print or to clients for sign-off. Or export your prototypes as PNG wireframes or vector files or as HTML for times when you are offline.						
+	
+								Reusable Components							
+							Create custom building blocks that will make your prototyping super fast and improve design consistency in your projects. Create layers and masters as reusable components, upload your own image files or add screenshots as page backgrounds.						
+	
+								Usability							
+							Pidoco is easy to learn and easy to use so you will be productive from minute one. This makes rolling Pidoco out within your organization easy as well. In addition, you can run usability tests with your prototypes using on-site and remote testing methods.						
+	
+								Integrations & Customizing							
+							Pidoco integrates with apps like Planio or JIRA via our API. Write your own add-ons or connect Pidoco to your wiki or other IT systems. Or get our Enterprise Edition offering customizing and a scripting module to write your own action scripts.						
+	
+								Software-as-a-Service & Security							
+							Pidoco lives in the cloud in secure German data centers, so you do not need to install software, run updates or buy licenses for each new user. Simply log in and you are ready to go with the latest version available to you. Need more users? Just add them on the fly.						
+Stay in touch
+ 
+Newsletter Signup
+Sign up for our newsletter to stay up to date.
+Don't worry. We only use your email to send you relevant news. No spam. Promise.
+Subscribe
+Tour
+Why pidoco
+Key Features
+Prototype Gallery
+Prices & Plans
+Product
+Wireframes
+Prototypes
+Collaboration
+Usability Tests
+Exports
+Mobile Apps
+Templates
+Integrated API
+Software-as-a-Service
+Company
+About Us
+Careers
+Press
+Blog
+Affiliate
+Referral Program
+Contact
+Support
+Topics
+FAQs
+API Documentation
+UX Dictionary
+This Website is Safe
+Online Wireframing and Prototyping Tool
+Pidoco is a collaborative online wireframing and prototyping tool, which works entirely in
+			your web browser. With Pidoco you can easily create clickable mockups, wireframes and GUI
+			prototypes without programming. You can share your results with collaborators, reviewers
+			and test users for real-time editing, discussion and approval. This will help you design better
+			user interfaces (UI) for web, mobile and desktop applications and create solutions that work
+			for the end user.
+Great User Interface Design with Wireframes, Mockups, UI Prototypes
+Functions: Create mockups, wireframes and UI prototypes. Share mockups, wireframes and
+			prototypes for reviewing and collect feedback online. Use sharing functions and HTML exports to run online and offline usability
+			tests with end users. Generate visual functional specifications with
+			the click of a button.
+Interface Design Tool for Profitable Software Projects
+Benefits: Pidoco can speed up your development projects by more than 50 percent. Create
+			interactive UI prototypes and wireframes faster. Share concepts faster. Communicate with
+			your team faster. Get feedback and concept approval faster. Get usability test results faster.
+			And implement approved prototypes faster. This will save you lots of money and boost
+			project success. Pidoco will help you be on time, on budget and on target, all the while
+			exceeding expectations!
+iOS®, iPhone®, iPad®, and iTunes® are registered trademarks of Apple Inc., registered in the U.S. and other countries. Android™, Nexus™, and Google Play™ are trademarks of Google inc..
+This offering is not intended for consumers as defined by § 13, German Civil Code [BGB]. Pidoco reserves the right to request appropriate evidence from the user at any time the he/she is not acting as consumer. If you as a consumer would like to conclude contracts with us, please contact us.
+Sitemap
+Terms & Conditions
+Privacy Policy
+Data Processing Agreement
+Legal Notice
+Company
+Affiliate
+Support
+© Pidoco GmbH 2008-2023
+Proudly engineered and hosted in Germany.
+ 

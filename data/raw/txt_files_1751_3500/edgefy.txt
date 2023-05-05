@@ -1,0 +1,63 @@
+Edgefy - Automatisiere dein Portfolio mit Leichtigkeit
+Home
+Unser Team
+            En
+          
+            De
+          
+Zur App
+Edgefy - Automatisiere dein Portfolio mit Leichtigkeit
+never trade without an edge again
+        Automatisiere dein Krypto-Portfolio
+      
+        Unsere Handelsalgorithmen analysieren durchgehend die Märkte und treffen stündliche Handelsentscheidungen
+        basierend auf maschinellem Lernen und quantitativen Methoden. Unser Ziel ist es dadurch ein besseres
+        Rendite-Risiko-Verhältnis als das klassische „Buy and Hold“ zu erreichen. Insbesondere vor starken
+          Kurseinbrüchen, zu denen es im Kryptomarkt regelmäßig kommt, möchten wir schützen.
+        Mittels API-Zugangsdaten,
+        kannst auch Du unsere Algorithmen nutzen.
+      
+        Features unserer Algorithmen
+      
+            Maschinelles Lernen und quantitative Methoden
+          
+            Stündliche automatisierte Ausführung von Handelssignalen rund um die Uhr
+          
+            Plug & Play: Verbinde unsere Algorithmen in weniger als 5 Minuten mit deinem Account
+          
+FAQ
+          Wie kann ich eure Algorithmen verwenden?
+        
+          Du benötigst ein Konto bei einer der unterstützten Krypto-Börsen. Um automatisiert für Dich zu handeln,
+          benötigt der Algorithmus Deinen API-Key und API-Secret. Mit diesen Software-Anmeldedaten kann der Algorithmus
+          für Dich handeln jedoch keine Kryptos abheben. Du findest sie in den Kontoeinstellungen Deiner bevorzugten
+          Krypto-Börse.
+        
+          Welche Krypto-Börsen werden unterstützt?
+        
+          Momentan unterstützen wir FTX, Binance, Coinbase, Kraken und Bitpanda.
+        
+          Ab wann wird eine Registrierung möglich sein?
+        
+          Da wir uns momentan in der Entwicklungsphase befinden ist eine Registrierung noch nicht möglich. Wir planen
+          den Launch im ersten Quartal 2022.
+        
+          Wie kommt der Name zustande?
+        
+          Im Trading spricht man von einer „Edge“, wenn man über einen Vorteil gegenüber den anderen Markteilnehmern
+          verfügt. Da „Fy“ wie der Anfang von „Finance“ klingt, kam die Wordkombination zustande, denn unser Ziel ist es
+          durch automatisiertes Handeln finanzielle Vorteile gegenüber dem Markt zu erreichen.
+        
+    Newsletter
+  
+Bleibe up to date
+Melde Dich bei unserem Newsletter an, um zu erfahren, wann das automatische
+      Handeln losgehen kann.
+    
+Deine E-Mail:
+          abonnieren
+        
+Mit Deiner Anmeldung stimmst Du unseren 
+          Datenschutzbestimmungen zu.
+      
+Copyright 2021 | EDGEFY | Impressum | Datenschutz
