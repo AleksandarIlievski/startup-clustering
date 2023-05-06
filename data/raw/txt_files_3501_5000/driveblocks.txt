@@ -1,0 +1,171 @@
+The future is autonomous. – driveblocks
+driveblocks
+    Start
+    Product
+    News
+    About
+    Downloads
+    Jobs
+    Contact
+          
+    The future is
+      autonomous.
+    
+          
+    driveblocks' software modules drive heavy duty vehicles – 
+    in container terminals, mining, agriculture, and hub-to-hub logistics.
+    This transformation to automation unlocks cost-saving potentials,
+    safety improvements and more efficient workflows.
+          
+Request a demo
+              Use Cases
+            
+              How does it work for yourautonomy application?
+            
+                Combine driveblocks software modules to match your autonomy requirements. Integrate them with your vehicle, your software stack, and your hardware components. Achieve safety, cost, and performance targets faster than the competition.
+              
+                    Add functionality or redundancy to an in-house autonomy solution.
+                  
+You have a well-functioning autonomy system but have challenges with reliability in edge-cases? Integrate a driveblocks perception module as a parallel pipeline to your in-house solution, e.g., using LIDAR or RADAR sensors and combine the results with a sensor fusion module.
+                
+                    Learn more about the available functionalities of our modules.
+                  
+                    Enhance sensors with autonomy algorithms.
+                  
+Your sensor generates unprecedented level of detail when scanning the environment and vehicle networks struggle to cope with the generated data amount? Integrate a set of driveblocks perception modules to preprocess the data and enable customers to use object list, drivable space and flow-based odometry interfaces.
+                
+                    Learn more about the available functionalities of our modules.
+                  
+                    Design an autonomous vehicle based on the driveblocks software modules.
+                  
+Your fleet consists of multiple different vehicles with varying geometries and tasks? The driveblocks software modules allow you to leverage a pre-configured autonomy solution with continuous safety, security, and feature updates. The open-architecture design lets you customize modules while relying on a solid and safe foundation.
+                
+                    Learn more about the available functionalities of our modules.
+                  
+        What people say about driveblocks      
+«
+The highly modular approach in conjunction with the utilization of open-source technologies makes the driveblocks software platform an ideal framework for autonomous driving in the commercial vehicle sector
+Markus Lienkamp | Professor of Automotive Technology at TUM
+«
+The driveblocks software platform enables OEMs to automate their vehicles in weeks instead of years and allows them to achieve certification targets cost efficiently
+Christian Wagner | Investor and Founder in-tech GmbH
+        Want to benchmark the driveblocks software modules in your application?
+      
+Request a demo
+          Do you want to deliver
+          fully autonomous vehicles faster
+          than the competition?
+        
+          Autonomy is here to stay.
+        
+          Focus on delivering autonomy functions based on
+          your application expertise. Build on the modular,
+          scalable, and safe driveblocks platform.
+          Leverage the open ecosystem of ready-to-use autonomy
+          hardware, simulation, and base software.
+        
+            Interaction-aware decision making.
+          
+            Interactive
+          
+            The real world is complex. Manually driven vehicles, emergency vehicles on highways, or humans entering the driving zone in a logistics center. Our decision-making algorithms predict the intentions of others and understands how the autonomous vehicle’s behavior will impact them. For safe and continuous operation in mixed traffic scenarios.
+          
+            All-weather and conditions perception.
+          
+            Robust
+          
+            A combination of sensor technologies enables all-weather perception - Commercial vehicles have to operate continuously. 24 hours a day, seven days a week. In all conditions: rain, snow, and dust. None of this is an excuse to stop an autonomous vehicle from operating. Our sensor fusion algorithms combine inputs from multiple data-driven classifiers to achieve maximum performance. A combination of semi-automated training data management and transfer learning allows to mix small real-world datasets with data generated in photorealistic simulation environments. This strategy helps to cover rare edge-cases before they actually happen.
+          
+            Independent of sophisticated HD-maps.
+          
+            Scalable
+          
+            The world around autonomous trucks changes every day, no matter if they operate on the road or in confined environments. The driveblocks modules do not rely on pre- scanned representations of the operating domain and therefore scale better to new areas, changing conditions and unknown situations. The drivable space and potential driving corridors are identified during operation by relying on advanced probabilistic fusion of multiple LIDAR and Camera sensors from various perspectives.
+          
+            Built on top and in collaboration with successful open-source projects.
+          
+            Collaborative
+          
+            
+        The driveblocks modules are easy to integrate with your existing
+        hardware and software solutions, as they are built to support
+        ROS 2 and various other compatible frameworks. These are part
+        of a large open-source ecosystem for autonomous vehicles and robots.
+        Use established tools and workflows and focus on deploying the
+         autonomy solution instead of fixing integration issues.
+      
+          
+        Want your sensors, compute hardware or actuators
+    to be integrated with the driveblocks software
+    modules and open-source ROS 2?
+      
+Become a partner
+    Our Partners
+  
+            News, Press & Articles
+          
+        driveblocks Mapless Autonomy Platform receives major feature updates with new 2023.02 version
+      
+        
+        2023-04-12
+      
+The Mapless Autonomy Platform is updated with various new features and improvements with a large focus on perception and sensor-fusion components. These additions can be applied within highway as well as off-road scenarios and boost the sensor-based environment model capabilities significantly. 
+read more
+        The emergence of an ecosystem of software components for autonomous driving around ROS 2
+      
+        
+        2023-01-27
+      
+The driveblocks mapless autonomy stack can be combined with various software components of the ROS 2 ecosystem. Learn more about this integration! 
+read more
+        driveblocks presents new release of Mapless Autonomy Platform at CES®
+      
+        
+        2022-12-31
+      
+driveblocks releases the next version of its modular Mapless Autonomy Platform with algorithms for highly automated and autonomous driving of commercial vehicles at CES® in Las Vegas. New features have proven their capabilities already within real-world tests on German highways.
+read more
+        Fast reaction times – why end-to-end latency matters in autonomous driving
+      
+        
+        2022-11-28
+      
+Learn why the minimization of end-to-end latency is important to achieve safe autonomous driving capabilities for commercial vehicles and what is done in the driveblocks mapless autonomy stack to achieve this.
+read more
+Navigate
+Start
+Product
+News & Articles
+About
+Downloads
+Jobs
+Contact
+Visit us
+driveblocks gmbH
+Email: contact@driveblocks.ai
++49 (0) 89 – 452 456 – 0
+https://driveblocks.ai
+Parkring 30
+85748
+München/Garching
+connect
+LinkedIn
+contact@driveblocks.ai
+legal
+Imprint
+Privacy Policy
+Cookies
+      ©  2022-2023 driveblocks
+    
+      We would like to learn from your visit.
+      Learn more about Matomo.
+      All collected data is anonymized,
+      otherwise you will be asked for further permission.
+      
+Privacy Policy
+Imprint
+Required cookies
+Matomo
+    Accept all
+    Accept selected
+ 

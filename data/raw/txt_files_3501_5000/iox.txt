@@ -1,0 +1,105 @@
+IOX GmbH - IoT solutions fast, individual and scalable
+ 
+Skip to content 
+Menu
+MENUMENUIoT Solutions
+Why IOXIoT ConsultingIoT End-to-EndAgile DevelopmentResearch 
+IOX SolutionsIOX RFIDIOX Smart City PlatformIoT Button 
+ 
+Engineering
+Product DevelopmentIdeation & UX DesignRapid PrototypingFull-Scale Production 
+Embedded SystemsElectronics DevelopmentConnectivity 
+SoftwareApp DevelopmentCloud ArchitectureComputer Vision 
+ 
+Academy
+IoT Blog (german)IoT Podcast (german) 
+IoT Whitepaper (german)IoT Online Academy 
+IOX Newsletter (german)IOX Meetup 
+ 
+References
+Smart Scale - Vodafone 
+RFID Tracking System 
+smart.click one 
+Soundlounge - BBDO 
+Future Car - Smart 
+Research Projects 
+ 
+Company
+About IOXTeam 
+PressPartner 
+Events 
+ 
+JobsContact 
+We are your development partner for IoT solutions
+IOX develops IoT solutions for various industries -
+fast, individually and scalably!
+More Information
+Our Services
+We are an enthusiastic team of experts in the fields of industrial design, electrical engineering, software and hardware development. Together we support you in the implementation of end-to-end IoT projects and smart products.
+Ideation & UX Design 
+Design development of your IoT solution - from interface to product design. Holistic and user-centered approach.
+ 
+Learn more
+Rapid Prototyping 
+From idea to prototype in 30 days. Additive manufacturing with 3D printing, modular hardware and software.
+ 
+Learn more
+Electronics development 
+Development of application specific electronics and embedded software for IoT products and retrofit solutions.
+ 
+Learn more
+App Development 
+Development of native apps for Android and iOS.
+Visualize your smart product for the end user.
+ 
+Learn more
+Cloud Architecture 
+Cloud configuration for your IoT solution. Our key areas: Device, user and data management.
+ 
+Learn more
+Data Science 
+Data & Machine Learning Architecture for your IoT solution. Sensible use of Big Data from sensors, apps and clouds.
+ 
+Learn more
+More than 100 projects in 3 years
+Unfortunately we cannot talk about all our projects. Here are some we can talk about.
+Smart CO²-Scale
+IOX developed a smart scale for Vodafone that detects the fill level of CO² cartridges.
+Via a narrowband module, a notification is automatically sent to the facility management in time.
+Learn more
+Smart Future Car
+The vision of a world in which autonomous driving becomes reality was put into practice by Daimler AG together with IOX.
+Since children are our future, they are the ones who test the self-driving car.
+Learn more
+Bob, the Robot
+Bob is the first life-size 3D robot manufactured in 3D.
+It was created to give our customers an idea of how the technology can be used to develop new interfaces for artificial intelligence.
+Learn more
+Our awards
+Get in touch with us
+ABOUT US
+We deliver IoT solutions quickly, individually and scalably. 
+MAKE THINGS NOT SLIDES!
+CONTACT
+Phone: +49 211 545548 90
+Mail: hello@ioxlab.de
+ADDRESS
+IOX GmbH
+Speditionstr. 15a
+40221 Düsseldorf
+ 
+Home
+Community
+Contact
+GTC
+Imprint
+Datenschutz
+ 
+Scroll To Top 
+ 
+Loading Comments...
+ 
+Write a Comment...
+Email (Required)
+Name (Required)
+Website

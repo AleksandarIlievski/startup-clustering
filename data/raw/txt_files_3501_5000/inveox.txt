@@ -1,0 +1,102 @@
+Digital Pathology Solutions to Diagnose Cancer Accurately | Inveox
+Digital Pathology Solutions to Diagnose Cancer Accurately | Inveox
+HomeProducts
+InvorderSamplex
+About UsOur CultureCareersContact UsENG
+ENGDEU
+ 
++49 (0) 89 / 57 84 76 01
+Let’s talk
+ 
+Close
+HomeProducts
+InvorderSamplex
+About UsOur CultureCareersContact UsENG
+ENGDEU
+ 
+Improving lives one sample 
+at a time.
+With our state-of-the-art pathology ecosystem.
+Contact Us
+Intelligent sample container
+digital lab order | order entry
+sample pre-processing module
+casette making module
+sample transfer module
+Improving lives one sample 
+at a time.
+With our state-of-the-art pathology ecosystem.
+Contact Us
+Intelligent sample container
+digital lab order | order entry
+sample pre-processing module
+casette making module
+sample transfer module
+Bringing pathologyinto the future.
+One out of every two people will receive a cancer diagnosis in their lifetime. Through technology and innovation, we’re fighting uncertainty, removing human error and ensuring that every cancer test is quick, safe and reliable.
+Solving an age old problem.
+Since the invention of modern sample testing over 100 years ago, doctors and scientists have struggled with collecting, transporting and delivering quality samples. Studies show that anywhere from 1-15% of tissue samples still get mixed up, contaminated or lost during the first stage of diagnosis. From biopsy to slide, inveox enables faster and more reliable cancer diagnoses through a digitalized, fully-automated and integrated histopathology process.
+How it works
+From biopsy to diagnosis…
+The doctor collects a sample from a patient
+The doctor places the sample into our intelligent container
+How it looks today
+The doctor registers the sample in our digital invorder system and sends to the lab
+Physician puts samples in containers and documents manually
+The sample arrives safely at the destination lab
+The order entry lab software registers the incoming sample, automates the selection of stains, and processes other relevant information input by the doctor
+And ID assignation to containers and documents
+The samplex machine scans IDs, takes pictures, characterizes, registers and organizes samples per case 
+Manual triage containers by cases
+The cassette marking module (CMM) will automatically label data using the laser onto the cassettes 
+Cassette printing and matching with containers
+The sample transfer module (STM) automatically transfers samples from containers to the corresponding cassettes
+Manual transfer of samples from containers to cassettes
+The sample is analyzed and results are shared instantly via invorder (KIS API) with doctors
+A Doctor collects a sample from a patient
+The Doctor places the sample into our intelligent container
+The Doctor registers the sample into our digital invorder system and sends to the lab
+The sample arrives safely to the destination lab
+The order entry lab software registers the incoming sample, automates the selection of stains and processes other relevant information input by the Doctor
+The samplex machine scans IDs, takes pictures, characterizes, registers and organizes samples per cases
+The cassette marking module (CMM) will automatically label data by laser onto cassettes corresponding to the correct containers
+The sample transfer module (STM) automatically transfers samples from containers to the corresponding cassettes
+The sample is analyzed and results are shared instantly via invorder (KIS API) with Doctors
+inveox is trusted by
+Voices of inveox.
+Whether it’s patients, relatives, doctors or lab technicians who are directly or indirectly impacted by inveox, our Pathology ecosystem is saving lives, one sample at a time.
+I estimate that the inveox’system speeds up our sample extraction process by 10 to 20 percent.
+Dr. med. Marc SchäpsmeierInternal Medicine and Gastroenterology
+Traditionally, the process has always been mostly manual. So we looked for a connection to the lab that was more direct.
+Dr. med. Johannes HofmannPraxis Dr. med. Johannes Hofmann
+samples registeredwith inveox so far
+€$
+costs savings and avoid employee turnover
+TIME
+automate a demanding and  error-prone process
+Let’s talk about how inveox can help transform your diagnostics business.
+Contact Us
+info@inveox.com+49 (0) 89 / 57 84 76 01
+inveox GmbHLichtenbergstraße 885748 Garchingbei München
+inveox Sp. z o.o.ul. Kurniki 931-156 Kraków
+inveox Inc.Houston, Texas 77259PO Box 590306+1 8329 4603 77
+Sitemap
+HomeProductsAbout UsOur CultureCareersContact UsPrivacy PolicyData protection and IT security at inveoxLegal NoticeDisclaimer and legal information
+Socials
+Facebook
+LinkedIn
+Twitter
+Partners
+© Copyright 2023 – © inveox GmbH. All rights reserved
+info@inveox.com+49 (0) 89 / 57 84 76 01
+inveox GmbHLichtenbergstraße 885748 Garchingbei München
+inveox Sp. z o.o.ul. Kurniki 931-156 Kraków
+inveox Inc.Houston, Texas 77259PO Box 590306+1 8329 4603 77
+Sitemap
+HomeProductsAbout UsOur CultureCareersContact UsPrivacy PolicyData protection and IT security at inveoxLegal NoticeDisclaimer and legal information
+Socials
+Facebook
+LinkedIn
+Twitter
+Partners
+© Copyright 2023 – © inveox GmbH. All rights reserved

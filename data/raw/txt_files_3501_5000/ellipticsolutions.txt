@@ -1,0 +1,38 @@
+Home - elliptic solutions
+ 
+About
+Contact
+Make crypto data visible
+Extract and translate the data produced by a blockchain network for organizations and ventures.
+              Get in touch            
+1. Project Implementation
+Smart Contract Audits and Writing
+Consulting about private networks
+Consulting about ICO process
+2. Monitoring
+App (Etherlytics) for monitoring ERC20 and other smart contracts
+Export of Balance Sheets and other specific views on data
+Weekly/Daily reports
+3. (Forensic) Analysis
+Tracking of token transfers
+Identification of actors via a blockchain address registry
+Writing reports for auditors, regulatory authorities and criminal investigations
+Elliptic Solution’s Goals 
+The rise of the blockchain technology and in particular the smart contract enabled implementation are giving hope for new sophisticated services and models to organize the interactions of a digitally driven society. The promise is tightly coupled to the technical details of the blockchain paradigm and their implications of transparency, decentralization and immutability.
+Nevertheless, the technology itself is not easy to comprehend. Although the technical details are given, their usability and handling are not necessarily practical and for most participants the blockchain remains a black box. Tools like blockchain.info and etherscan.io are the defacto standard for monitoring transactions on the blockchain but they guarantee the readability only to a certain degree (as they need to stay agnostic) and for more specific use cases their limitations are obvious.
+Elliptic Solutions​ goal is to extract and translate the data produced by a blockchain network for organizations and ventures in a human comprehensible form by delivering services and providing tools to build, monitor and analyze projects based on it. It dives into the semantics specific to a project and delivers insights to the dynamic movement of the data produced by coin/token transfers and other smart contract related transactions. Additionally it provides insights into the best practices of writing smart contracts, indicates implications of a chosen set of smart contracts and monitors the projects once it is live thereby accompanying projects from planning to execution. 
+We offer support for
+Let's get things done!
+We are here to provide you with more information, answer any questions you may have and create an effective solution for your instructional needs.
+What can we do for you?
+Provide you a demo of etherlytics
+Give you support for our products
+Bring your thoughts to the crypto world
+Bring the crypto world right into your project
+Write us an email
+By submitting the request, you agree that your data will be transmitted, processed and stored. The data will be used solely to answer the request and will not be disclosed to third parties. Further information in our privacy policy.
+Send
+Get in touch
+Privacy
+Legal Disclosure
+ 

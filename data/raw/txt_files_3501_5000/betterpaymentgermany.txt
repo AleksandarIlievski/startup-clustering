@@ -1,0 +1,51 @@
+Better Payment - Payment & White Label provider for payment processing
+ 
+ 
+☰
+HomeServices 
+Payment ENWhite LabelJetztZahlenRisk ManagementReceivables Management
+IntegrationAbout 
+PartnersCustomers
+Contact 
+CareerPress
+ 
+ login  Support 
+One of the most comprehensive online payment processings in Germany
+Our services for companies of all types and sizes consist not only of classic online payment, but also of services such as our decision engine for fraud prevention. In addition, we offer downstream services such as individualised payment pages (JetztZahlen) and a white label solution that allows you to become a payment service gateway yourself.
+ request quote 
+Our ServicesGerman payment technology adapted to your needs under consideration of highest security standards. Our offer includes customizable and flexible solutions for online and offline payments. Profit from our experience in e-commerce and FinTech to increase the turnover of your business.
+Online & Offline Payment
+Accept more than eight of the most popular online payment methods. In addition we integrate payments from stationary retail via POS terminal into the Better Payment Gateway, so you have everything at a glance - online & offline.
+White Label
+Become a payment service provider yourself with a dedicated gateway instance in your own look and feel. We make it easier for you to enter the new business field and find a suitable solution for all individual requirements.
+JetztZahlen
+Reduce the number of outstanding payments. With JetztZahlen you can offer your customers the most convenient solution for online payment of invoices, overdue bills  or donations via customizable payment pages.
+Further ServicesAlongside our payment solutions, we provide you with additional services.
+Risk Management
+Minimize payment defaults by integrating our comprehensive fraud protection using risk & score checks
+Receivables Management
+Reduce process costs through tailored receivables management solutions for collection and factoring
+Subscription Payments
+Control recurring payments from your subscription customers with maximum flexibility
+Platform Payments
+Online payment for platform users and end customers with simple processes in compliant payment models
+We equip you with everything you need.
+In the following graphic you will find an overview of our services.
+IntegrationThe Better Payment Gateway can be easily integrated via plug-in for your shop system in just a few steps or via REST API.
+REST API
+Integration via API provides you with the full range of functions and thus the full potential of the payment gateway.
+Read more
+Plug-In
+Fast and easy integration through our payment plugins, provided by Sellxed and optimized for more than 15 online shop systems.
+Read more
+News and Updates
+Register now for the newsletter (German only) and receive the latest news.
+ register now 
+© Better Payment Germany GmbH, All rights reserved.Imprint. Privacy Policy. Terms of Use.
+About
+ContactPressCareerStyleguideRegistrationHuman Rights (db.com)
+Services
+PaymentPayment MethodsWhite LabelJetztZahlenRisk Management
+Support
+GlossaryFAQAPI DocMerchant DocJetztZahlen Doc
+ request quote 

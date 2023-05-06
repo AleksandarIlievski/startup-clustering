@@ -1,0 +1,116 @@
+MoneyMoney: Online-Banking für den Mac
+MoneyMoney
+Übersicht
+Features
+Hilfe / FAQ
+Banken / FAQ
+Sicherheit
+Download
+Kaufen
+/
+Facebook
+/
+Twitter
+Ausprobieren
+Kaufen
+Basisversion einmalig 34,99 € inkl. MwSt
+Erweiterungen als In-App-Kauf erhältlich
+Systemvoraussetzung Apple macOS 10.10.0–13.x.x
+Alle Bankkonten im Blick mit MoneyMoney.
+Finden Sie heraus, wo Ihr Geld herkommt und wo es hingeht.
+Überweisungen, Umbuchungen, grafische Auswertung – MoneyMoney erspart die umständliche Anmeldung auf der Bank-Website. 
+											Laden Sie unverbindlich die kostenlose Demoversion.
+Funktionen »
+Unterstützte Banken »
+↓ Demoversion
+»Eine empfehlenswerte Banking-Software für den Mac ist MoneyMoney. […] Als praktisch und zeitsparend erweist sich die gute Integration der Software in das macOS und die Anbindung an andere Programme.«
+— MacLife.de 5/2017
+»Das Rundum-Sorglos-Programm für die private und berufliche Finanzverwaltung hält sämtliche Finanzen im Überblick und erlaubt auf benutzerfreundliche Weise das Führen eines Haushaltsbuchs.«
+— heise.de 10/2021
+»Unser ungeschlagener Banking-Favorit am Mac liefert einmal mehr solide Bestandskundenpflege ab, die mit verantwortlich für unsere anhaltende Kaufempfehlung der Finanz-Applikation ist.«
+— ifun.de 12/2020
+Go-Go-Gadgetto-Überblick Ohne Aufwand alle Finanzen im Blick
+Aufmachen – Zahlen angucken – zumachen.So ist man eins-fix-drei auf dem Laufenden.
+Erstellen Sie Kategorien und Budgets für Ihre Umsätze. Legen Sie Kategorisierungs-Regeln an, um Ihre Umsätze automatisch kategorisieren zu lassen. Nutzen Sie Splitbuchungen, um Beträge auf mehrere Kategorien aufzuteilen.
+Geben Sie einen Suchbegriff ein oder schränken Sie den angezeigten Zeitraum ein. Die Suchergebnisse erscheinen sofort beim Tippen und die Summe steht unten in der Leiste. So finden Sie in Sekunden, was mit dem Browser ewig gedauert hätte.
+Mit einem Rechtsklick auf einen Umsatz können mit »Suche nach ...« die Umsätze mit dem gleichen Absender oder Empfänger angezeigt werden. Sehr praktisch, wenn man z.B. alle Telefonrechnungen auf einen Blick sehen will.
+Ersparen Sie sich die Portokosten oder den Weg zum Kontoauszugsdrucker: MoneyMoney kann die elektronischen Kontoauszüge als PDF-Dateien für Sie abrufen.
+Überweisungen, Daueraufträge & Umbuchungen So einfach wie E-Mail
+Unterstützte Geschäftsvorfälle:
+Überweisungen, Umbuchungen
+Echtzeitüberweisungen
+Terminüberweisungen
+Sammelüberweisungen
+Daueraufträge
+Auslandsüberweisungen
+Freigabe von SRZ-Aufträgen
+Lastschrifteinzug und Sammellastschriften als In-App-Kauf für 39,99 €
+Unterstützte Sicherheitsverfahren:
+HBCI-Chipkarte, HBCI-Schlüsseldatei, Secoder
+mobileTAN, smsTAN
+pushTAN, TAN2go, SecureGo, SecureGo plus
+photoTAN, QRTAN
+Sm@rtTAN optisch/photo/manuell/USB/Bluetooth
+chipTAN optisch/QR/manuell/USB/Bluetooth
+SecurePlus, activeTAN, multiTAN
+BestSign, appTAN, easyTAN, apoTAN, 1822TAN
+Verwaltungsarm
+MoneyMoney merkt sich einfach die letzten Überweisungen.
+Zusätzlich zum Verlauf können Sie aus jedem Ihrer Umsätze eine neue Überweisung machen. Wählen Sie dazu im Kontextmenü den Eintrag »Neu aus Auswahl«.
+Eine klassische Vorlagenverwaltung besitzt MoneyMoney natürlich auch. Sogar mit Platzhaltern im Verwendungszweck.
+Rechnungen ganz einfach bezahlen in nur 2 Schritten
+Wie oft haben Sie eine E-Mail oder ein PDF bekommen, aus dem Sie dann umständlich Zeile für Zeile ins Onlinebanking kopiert haben?Mit MoneyMoney ist es viel einfacher …
+ 
+Kopieren Sie den kompletten Block mit der Bankverbindung.
+Wählen Sie im Überweisungsfenster »Einfügen aus Zwischenablage«.
+Sm@rtPaste
+MoneyMoney findet intelligent alle verwertbaren Informationen im kopierten Text und füllt die Überweisung aus.
+Visualisierungen Sehen, was blanke Zahlen nicht verraten
+MoneyMoney beantwortet etliche Fragen mit Leichtigkeit und auf einen Blick:
+Wieviel Geld gebe ich pro Monat für bestimmte Dinge aus?
+Wie viel habe ich letztes Jahr eingenommen?
+Liegen meine Ausgaben noch im Budget?
+Erstellen Sie Kontengruppen, Kategorien und Kategoriengruppen, um die Auswertung zu verfeinern.
+Budgets lassen sich flexibel für einzelne Kategorien und Kategoriengruppen festlegen. Wechseln Sie in der grafischen Auswertung schnell zwischen einer Monats-, Quartals- und Jahresansicht.
+Die grafische Auswertung in MoneyMoney zeigt Ihnen die Geldflüsse auf Ihren Konten besser als jede öde Liste (wobei unsere Listen eigentlich auch ganz sexy sind).
+Icons: Für jeden was dabei!
+Suchen Sie sich für jedes Konto eins aus! So können Sie die einzelnen Banken hervorragend unterscheiden. Wir haben Icons für Zaster, Moneten, Penunzen und Kohle dabei.
+English Version
+Yes, MoneyMoney speaks English. Ideal in case you have a German bank account and you’re not comfortable with the German language.
+Kontenvielfalt
+MoneyMoney kann Girokonten, Tagesgeldkonten, Festgeldkonten, Kreditkarten, Wertpapierdepots, Bausparverträge, Darlehenskonten, Fremdwährungskonten, PayPal-, Bargeld- und Offline-Konten anzeigen.
+Unterstützte Banken …
+Erledigt-Markierungen
+Umsätze können als erledigt markiert werden. Dies dient zur eigenen Kontrolle, z.B. ob man den Rechnungsbeleg in der Buchhaltung abgeheftet hat oder ob die bestellte Ware geliefert worden ist.
+Sammelaufträge
+Mit einer Sammelüberweisung können mehrere Überweisungen auf einmal, mit nur einer einzigen TAN-Eingabe, bei der Bank eingereicht werden.
+Die Sammelaufträge können aus dem Ausgangskorb oder aus Vorlagen erstellt werden. Eine Übernahme der Sammel­überweisung oder Sammellastschrift aus einer SEPA-XML-Datei ist ebenfalls möglich.
+SRZ-Aufträge von Lohnbuchhaltungsbüros können mit MoneyMoney freigegeben werden.
+Auf Nummer sicher
+Mit FinTS und HBCI werden alle Daten zwischen Ihrem Mac und Ihrer Bank abhörsicher übertragen.
+MoneyMoney speichert Ihre Zugangsdaten und Kontoumsätze in einer verschlüsselten Datenbank auf Ihrer Festplatte.
+Mehr Informationen dazu …
+HBCI – German Engineering
+FinTS/HBCI ist ein von der Deutschen Kreditwirtschaft entworfenes, bewährtes Protokoll, mit dem sich Kontoumsätze abrufen und Überweisungen durchführen lassen.
+Einrichtung: Nur 3 Schritte
+Die Einrichtung ist einfach und für jede Bank in drei Schritten erledigt:
+IBAN eingeben oder Dienst wählen
+Zugangsdaten eingeben
+Konten auswählen
+Es gibt keine künstlichen Beschränkungen in MoneyMoney. Fügen Sie so viele Bankkonten hinzu, wie Sie möchten.
+Import & Export, aber richtig!
+MoneyMoney kann die Kontoumsätze aus gängiger Finanzsoftware übernehmen, und zwar von folgenden Importformaten:
+CSV
+QIF
+OFX, QFX
+CAMT
+MT940
+MoneyMoney bietet einen Umsatzexport für folgende Exportformate:
+Microsoft Excel
+iWork Numbers
+CSV
+OFX
+CAMT
+MT940
+Darüber hinaus können Umsätze aus MoneyMoney in die Anwendungen BudgetBudget, GrandTotal, Receipts und Umsatz übernommen werden.
+© 2011–2023 MRH applications GmbH Alle Rechte vorbehalten. | Presse | Datenschutzerklärung | Lizenzvereinbarung | Impressum 

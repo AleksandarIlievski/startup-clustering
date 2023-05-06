@@ -1,0 +1,307 @@
+twingle | Fundraising für Alle
+Navigation
+twingle ist anders
+Gute Gründe für twingle
+Das kostet twingle
+Ich will twingle!
+twingle ist anders
+Gute Gründe für twingle
+Das kostet twingle
+Ich will twingle!
+Online-Fundraising – Einfach für Alle. 
+ 
+Was macht twingle besonders?Mit twingle gelingt Ihr Fundraising! Ob auf der eigenen Webseite, mobil auf dem Smartphone oder direkt vor Ort - twingle bietet für jeden Anlass die passende Lösung.
+Das usability-optimierte Spenden-Widget sorgt durch kompakte und übersichtliche Darstellung, komfortable Bedienung und den Verzicht auf überflüssige Eingaben dafür, dass das Spenden leichtfällt.
+Der Spendenprozess bleibt einfach und übersichtlich. Die Wahrscheinlichkeit eines Abbruchs wird deutlich geringer.
+Warum soll man als Spender endlose ­Formulare ausfüllen, um spenden „zu dürfen“? 
+Das twingle Spenden-Widget reduziert die vom ­Spender abgefragten Daten auf ein Minimum. 
+ 
+Bei twingle kann man beliebig viele Formulare erstellen – ohne Aufpreis. 
+ 
+twingle mit IF DESIGN AWARD ausgezeichnettwingle hat den iF DESIGN AWARD 2021 gewonnen und zählt somit zu den Preisträgern des weltweit renommierten Design-Labels,  der weltweit ältesten unabhängigen Designinstitution. twingle überzeugte die 98-köpfige, unabhängige, internationale Expertenjury durch sein Design und das innovative User Interface. Die Juroren hatten unter fast 10.000 Einreichungen aus 52 Ländern das begehrte Gütesiegel zu vergeben.Fundraising - einfach überallGespendet wird, wo Inhalte wirken. Deshalb lässt sich das Spenden-Widget auf jeder Seite Ihrer Webpräsenz direkt in den Inhalt einbetten. Sie können so viele Widgets anlegen, wie Sie benötigen - ohne zusätzliche Kosten.
+Fit für die Zukunft des FundraisingDigitales Fundraising ­findet nicht nur auf der Webseite statt. Immer mehr Zahlungen werden heute bargeldlos durchgeführt. twingle bietet dafür zum Beispiel das Modul fürs kontaktlose Spenden per NFC (“Near Field Communication”) vor Ort - auf der Straße oder beim Spenden-Event oder die Möglichkeit der Zahlung des Spendenbetrags über die Mobilfunkrechnung beim mobilen Spenden. 
+mehr zu mobilen Spenden
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+twingle passt sich jeder Situation anUnsere „Smart Responsive“-Technologie sorgt dafür, dass immer nur das angezeigt wird, was wirklich notwendig ist. So werden Ladezeiten reduziert und schnelles und einfaches Spenden ermöglicht – auch unterwegs.  
+Noch mehr Fundraising FeaturesMit Spendenaktionen von twingle ermöglichen Sie es Ihren Unterstützer/innen, Freunde und Bekannte zum Spenden zugunsten Ihrer Organisation einzuladen. Die Erweiterung für Geschenkspenden erzeugt automatisch eine Spendenurkunde im PDF-Format. Diese wird direkt mit der Danke-E-Mail nach einer Spende verschickt.
+mehr zu SpendenaktionenFundraising-Projekte verwaltenIhre Fundraising-Projekte erstellen und verwalten Sie in Ihrem persönlichen Kundenbereich. Hier können Sie beispielsweise das Aussehen Ihrer Spenden-Widgets bearbeiten (z.B. Farben und Texte an Ihre Webseite anpassen), Ihren eigenen Text für die Danke-E-Mail  eingeben oder Spendenzwecke bearbeiten.
+Den Erfolg im Blick  Grafische Auswertungen zeigen Ihnen den Erfolg Ihrer Projekte und bringen Transparenz in Ihr Fundraising.
+Sie können die Daten von Personen und Transaktionen ­einsehen oder gezielt suchen. Für die Nutzung dieser Daten in Ihren bestehenden CRM- oder Newsletter-Systemen sind Exportfunktionen oder direkte APIs vorhanden. 
+ 
+ 
+ 
+Die Funktionen von twingle im ÜberblickSpenden-WidgetBeliebig viele Spenden-Widgets im eigenen Layout - integriert in Ihre Webseite oder als eigenständige Spendenseite zur VerlinkungBezahlen z.B. per Mobilfunkrechnung, Lastschrift, PayPal, Kreditkarte, Apple Pay, SOFORT Überweisung, paydirekt/giropay oder ÜberweisungAutomatischer Lastschrifteinzug bei vielen Banken, z.B. GLS Bank, Sparkassen, Genossenschaftsbanken, Commerzbank oder PostbankEinmalige und wiederkehrende Spenden (z.B. für Mitglied- oder Patenschaften)Erfassung von Kontaktdaten (z.B. Anschrift, Telefon, E-Mail)Spenden-Projekte starten (Spendenstand und Anzahl der Spender*innen live anzeigen)Mehrere Sprachversionen eines Widgets möglich (DE, EN, FR und ES)Social Sharing: Spendenaktivität kann mit anderen geteilt werden (per Facebook, twitter, Whatsapp und E-Mail)Persönlichen Text für Dankes-E-Mail festlegen und jederzeit anpassenTracking-Codes ins Widget einfügen und Erfolg in den eigenen Tools sichtbar machenNewsletter-Anmeldung (sicherer Double-Opt-In)Unterstützer können Spenden-Aktionen startenDatenschutzkonforme Einbindung ohne Cookies direkt in Ihre WebseiteGeschenkspenden und Spendenurkunden möglichAuf Wunsch: Liste von Spender*innen inkl. Kommentarfunktion aktivierenVerwaltung und InfrastrukturGrafische Übersichten und Auswertungen der Spenden­aktivitätenEinfache Integration des Spenden-Widgets: Copy & Paste eines Code-Schnipsels oder Link auf die eigene SpendenseiteWordpress Plugin zur einfachen Integration des Spenden-Widgets auf Ihrer WebsiteExport von Spender- und Transaktionsdaten (CSV-Format)Gesicherte Kommunikation per SSL (alle Schnittstellen - von der API bis zum Spenden-Widget)Erstellung und Archivierung der SEPA-MandateErstellung und Versand digitaler Zuwendungsbescheinigungen (Spendenquittungen) per E-MailAPIs zur Anbindung externer CRM- oder Newslettersysteme (z.B. CiviCRM, Salesforce, cobra CRM, OpenHearts, CleverReach, MailChimp, Rapidmail, Sendinblue, u.a.)Sicherer und grüner Betrieb - unsere Server stehen in ISO27001­-zertifizierten Rechenzentren in Deutschland und werden zu 100% mit Ökostrom betriebenDas sagen unsere Kunden 
+"Das Spenden einfacher zu gestalten, hat die Spenden signifikant gesteigert und die Gebühren zahlen wir natürlich gern, denn die Betreuung durch twingle ist wie beim Späti nebenan – immer erreichbar, Bedürfnisse werden schnell befriedigt, ein netter Plausch zwischen Tür und Angel und dazwischen geht jeder seiner Wege." 
+Stefanie Talaska
+Geschäftsführung
+netzpolitik.org e.V.
+ 
+"Professionell, ansprechend, intuitiv - das schätze ich an der Spendensoftware. Und ganz besonders viel Freude macht mir die Arbeit mit dem twingle-Team, das die Software immer weiter entwickelt, Feedback sofort umsetzt. Wann immer ich einmal nicht weiterkomme: Der twingle Support ist fast schneller als ich schreiben kann und findet immer eine Lösung." 
+Cornelia Tiller
+Pressesprecherin
+Christian-Liebig-Stiftung e.V.
+ 
+"Ich bin sehr froh, dass wir uns für twingle entschieden haben. Die Integration des Tools ist super einfach und intuitiv - und der Support sehr persönlich und schnell. Zu 100% empfehlenswert!" 
+Liana Heinrich 
+Projektleitung 
+HACKER SCHOOL gGmbH
+ 
+"Auch ein Traditionsverein wie der Schwarzwaldverein begibt sich auf den Weg der Digitalisierung. Wir möchten neue Zielgruppen ansprechen und haben mit twingle eine innovative Technologie gefunden, wie man uns einfach und direkt unterstützen kann. Die Kombination eines digitalen Spendentools, das mit QR-Codes auf unseren Wanderwegen in der Natur beworben wird, hat richtig viel Potenzial!“ 
+Mirko Bastian
+ Hauptgeschäftsführer
+Schwarzwaldverein e.V. 
+ 
+"Von der Registrierung bis zur ersten Spende via twingle ging es rasend schnell. Wir freuen uns über das einfache Interface des Spendenwidgets, dass unseren Spendern das Spenden erleichtert. So können überzeugte Menschen uns so einfach wie möglich unterstützen".  
+Christian Ehl - CEO Hillert & Co 
+Team Make The Planet Great Again 
+ 
+"Mit twingle passen wir unsere Sammelschiffchen an das geänderte Nutzerverhalten an: Viele Menschen möchten heute auf einfache und spielerische Art spenden können. Dies ist jetzt über die Near Field Communication-Technik möglich. Zudem waren wir der Meinung, dass auch unsere „kleinste Bootsklasse“ genauso wie unsere leistungsfähigen Rettungseinheiten mit modernsten „Kommunikations- und Navigationseinrichtungen“ ausgestattet sein sollte." 
+Nicolaus Stadeler - Geschäftsführer 
+Die Seenotretter – DGzRS 
+ 
+"Mit Wigwam und twingle haben wir professionell arbeitende Partner gefunden, die kreative Ideen wachsen lassen. Die Zusammenarbeit macht Spaß und ist einfach großartig." 
+Oliver Reff  
+Customer Relationship Management & Fundraising 
+Amnesty International
+ 
+"Wir sind äußerst zufrieden mit der Zusammenarbeit. twingle ist für uns ein professioneller und flexibler Partner. Unsere Kunden schätzen an twingle die intuitive Bedienung, die zuverlässige Zahlungsabwicklung und den schnellen und persönlichen Support.”  
+Michael Beek 
+GLS Bank 
+ 
+Gute Gründe für twingleSmartes Spenden-WidgetPasst sich automatisch an die Gewohnheiten und das Endgerät des Spenders anHohe ReichweiteMehr Spender erreichen durch Unterstützung aller wichtigen Online-ZahlverfahrenSpender zu Multiplikatoren machen Mit dem twingle Spendenaktions-Widget die Spender eigene Spendenaktionen erstellen lassenEinfache KonfigurationGeben Sie mit wenigen Klicks jedem Spenden-Widget ein eigenes AussehenAlles im BlickGrafische Übersichten über Transaktionen und SpenderdatenNFC & QR-CodesEinfach vor Ort mit dem Smartphone direkt spendenZahlung auch über MobilfunkrechnungEinfach und schnell spenden mit dem SmartphoneDas kostet twingle0 € GrundgebührKeine EinrichtungsgebührKeine MindestvertragslaufzeitNutzungsgebühr 2,5% - 5% (volumenabhängig)Die Gebühren für alle Zahlarten sind inklusive (z.B. PayPal, Kreditkarte)Eigenständige Spendenseite inklusiveGeschenkspenden inklusiveAnlassspenden inklusive Unbegrenzte Anzahl frei konfigurierbarer Spenden-Widgets inklusiveVon zukünftigen Updates und Erweiterungen kostenlos profitieren NutzungsentgelteUnser Nutzungsentgelt ist abhängig vom jährlichen twingle-Spendenvolumen und staffelt sich wie folgt:
+5,0% ab 1€
+4,0% ab 10.000€
+3,5% ab 25.000€
+3,0% ab 60.000€
+2,5% ab 120.000€
+(mindestens 0,10 EUR pro Transaktion)
+inkl. Umsatzsteuer und Kosten für die Zahlungsabwicklung (z.B. PayPal- oder Kreditkartengebühren)
+Jetzt für twingle registrieren......und direkt ohne Grundgebühr loslegen!Ja, ich will twingleoder Schreiben Sie uns eine NachrichtIch will twingle!
+ 
+ Ihr Vorname*
+ 
+ Ihr Name*
+ 
+ Organisation
+ 
+ Ihre E-Mail-Adresse*
+ 
+ Ihre Telefonnummer
+ 
+ Ihre Nachricht
+ 
+Bitte lasse dieses Feld leer.
+twingle Kunden (Auszug)
+ 
+Bürgerbewegung FINANZWENDE
+Bürgerbewegung Finanzwende e.V. ist eine unabhängige Interessenvertretung für Bürgerinnen und Bürger. Durch Kampagnenarbeit, finanzpolitische Bildung und Verbraucherschutz kämpfen wir für ein gemeinsames Ziel: Eine Finanzwende - damit die Finanzmärkte wieder den Menschen dienen.
+ 
+ 
+netzpolitik.org e.V.
+netzpolitik.org ist eine Plattform für digitale Freiheitsrechte. Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft und Politik und zeigen Wege auf, wie man sich auch selbst mit Hilfe des Netzes für digitale Freiheiten und Offenheit engagieren kann. Mit netzpolitik.org beschreiben wir, wie die Politik das Internet durch Regulierung verändert und wie das Netz Politik, Öffentlichkeiten und alles andere verändert.
+ 
+ 
+Animal Equality
+Animal Equality ist eine internationale Organisation, die gemeinsam mit Gesellschaft, Politik und Unternehmen daran arbeitet, Grausamkeit in der Massentierhaltung zu beenden. Durch groß angelegte Bildungsprogramme, Undercover-Recherchen, medienwirksame Aktionen sowie Unternehmenskampagnen will Animal Equality einen langfristigen sozialen Wandel herbeiführen und eine Welt schaffen, in der alle Tiere Respekt und Schutz erfahren.
+ 
+ 
+Pflasterpass®
+Mit dem Pflasterpass®-Programm möchten wir 4- bis 8-Jährige an das Thema „Erste Hilfe für Kinder“ heranführen, sie für die Gefahren in Heim, Schule und Freizeit sensibilisieren und ihnen die altersgerechten Grundlagen der Ersten Hilfe vermitteln.
+ 
+ 
+Karuna Deutschland
+Karuna Deutschland ist ein gemeinnütziger Verein und trägt dazu bei, dass sich die Lebenssituation von Menschen verbessert, die zu den benachteiligtesten, ärmsten und ausgegrenzten Bevölkerungsgruppen gehören.
+ 
+ 
+FeM Mädchen*haus Frankfurt
+FeM hilft Mädchen* und jungen Frauen* in Not schnell und unbürokratisch. Es bietet Beratung, Zuflucht, Notunterkunft, Treff.
+ 
+ 
+Pro Wildlife
+Pro Wildlife rettet Wildtiere in Not, schützt die Artenvielfalt und begeistert Menschen für den Tierschutz – vor Ort und am Verhandlungstisch.
+ 
+ 
+Transparency International Deutschland e.V.
+Transparency Deutschland arbeitet deutschlandweit an einer effektiven und nachhaltigen Bekämpfung und Eindämmung der Korruption. 
+ 
+ 
+Dekoder gGmbH
+dekoder bietet Medien und Kompetenz zum Thema Russland. Wir bringen russischen Journalismus und wissenschaftliche Kompetenz aus deutschen Universitäten auf eine gemeinsame Plattform.
+ 
+ 
+FEMNET e.V.
+FEMNET setzt sich mit politischem Engagement, Bildungs- und Beratungsarbeit sowie einem Solidaritätsfonds für die Rechte von Frauen in der globalen Bekleidungsindustrie ein.
+ 
+ 
+ican germany
+Als junger Akteur in der deutschen friedenspolitischen Community engagieren wir uns für eine Welt, in der die Menschen Konflikte gewaltfrei und in Achtung der menschlichen Würde bearbeiten.
+ 
+ 
+terres des hommes
+Unterstützt von twingle bei mobilen Spendenaktionen
+ 
+ 
+Make The Planet Great Again
+ 
+ 
+BUND Bremen
+Wir engagieren uns – zum Beispiel – für eine ökologische Landwirtschaft und gesunde Lebensmittel, für den Klimaschutz und den Ausbau regenerativer Energien, für den Schutz bedrohter Arten, des Waldes und des Wassers.
+ 
+ 
+AMICA e.V.
+AMICA e.V. unterstützt Frauen und Mädchen in Krisenregionen und Nachkriegsgebieten.
+ 
+ 
+Seenotretter
+Die Rettung von Menschen aus Seenot auf Nord- und Ostsee erfolgt freiwillig. Die meisten Seenotretter sind Freiwillige. Die Seenotretter sind unabhängig und eigenverantwortlich tätig. Weder die öffentliche Hand noch einzelne Geldgeber beeinflussen die Entscheidungsfindung der DGzRS.
+ 
+ 
+OXFAM
+Unterstützt von twingle bei mobilen Spendenaktionen
+ 
+ 
+Tandem-Verein zur Förderung beruflicher Fort-und Weiterbildung
+Der Verein wurde 2018 mit dem Ziel gegründet, finanziell benachteiligten Menschen die Teilnahme an systemischen Zertifikatskursen am tandem Institut zu ermöglichen. Inbesondere will der Verein alleinerziehende Frauen und Männer in prekären finanzellen Situationen fördern.
+ 
+ 
+Konrad Adenauer Stiftung
+Unterstützt von twingle bei mobilen Spendenaktionen
+ 
+ 
+Pestizid-Aktions-Netzwerk (PAN Germany e.V.)
+PAN Germany ist eine gemeinnützige Organisation, die über die negativen Folgen des Einsatzes von Pestiziden informiert und sich für umweltschonende, sozial gerechte Alternativen einsetzt. Wir sind Teil des internationalen Pesticide Action Network (PAN).
+ 
+ 
+Stiftung trias
+Seit der Gründung in 2002 übernehmen wir Grundstücke in unseren Vermögensstock und damit aus der Spekulation. Die „Bodenrente“ fließt über Zuwendung und eigene Arbeit zurück in die Gesellschaft. Wissen und Erfahrung stocken unser Vermögen auf.
+ 
+ 
+Engagement Global
+Unterstützt von twingle bei mobilen Spendenaktionen
+ 
+ 
+Institut für Strömungswissenschaften
+Im Institut für Strömungswissenschaften werden verschiedene Wässer nicht nur auf ihre chemisch-physikalische Beschaffenheit untersucht, sondern auch auf ihre lebensfördernden Eigenschaften.
+ 
+ 
+Christian Liebig Stiftung
+ 
+ 
+amnesty international
+Unterstützt von twingle bei mobilen Spendenaktionen
+ 
+ 
+Allerweltshaus Köln
+Als private Initiative gegründet, betreiben wir seit über 20 Jahren ein interkulturelles Begegnungszentrum in Köln-Ehrenfeld. Schwerpunkte unserer Arbeit sind die Bekämpfung von Rassismus und einer Politik der sozialen Ausgrenzung.
+ 
+ 
+Freunde der Opera Mauritius e.V.
+Als Berliner Förderverein „Freunde der Opera Mauritius“ unterstützen wir mit Ihrer Hilfe nicht nur das jährliche Opernfestival, sondern ermöglichen musikalische Ausbildung von der Grundschule bis zum Bachelor und die Renovierung des ehrwürdigen Opernhauses.
+ 
+ 
+Euro-Trainings-Centre e.V.
+Seit 1996 sind wir in Betreuungs- und Qualifizierungsmaßnahmen tätig.
+ 
+ 
+EUDEC e.V.
+Demokratische Schulen stärken Kinder. EUDEC stärkt demokratische Schulen. Wir arbeiten mit Dir daran, die Bildungslandschaft und deine Schule positiv zu verändern.
+ 
+ 
+Dayemi Gemeinschaft e.V.
+„Den Kindern zuliebe” ist ein internationales Spendenprojekt zur Unterstützung von Waisen- und Schulkindern im ländlichen Bangladesch. Wir sicheren die Grundbedürfnisse von Tausenden von Kindern in einem der ärmsten Länder der Welt.
+ 
+ 
+Stiftung Brandenburgische Gedenkstätten
+Die Gedenkstätte und das Museum Sachsenhausen ist heute ein internationaler Friedhof, ein zeithistorisches Museum, ein Ort des Lernens und der wissenschaftlichen Forschung.
+ 
+ 
+Solidarische Landwirtschaft
+Solidarische Landwirtschaft fördert und erhält eine bäuerliche und vielfältige Landwirtschaft, stellt regionale Lebensmittel zur Verfügung und ermöglicht Menschen einen neuen Erfahrungs- und Bildungsraum.
+ 
+ 
+Das Boot e.V. Aktion psychosoziale Hilfe und Selbsthilfe
+„Das Boot“ ist ein gemeinnütziger Verein, der sich seit mittlerweile 30 Jahren um die Versorgungslage psychisch erkrankter und behinderter Menschen kümmert.
+ 
+ 
+Werkstatt Zukunft!
+Werkstatt Zukunft befasst sich gezielt mit Zukunftsfragen zu den Themen Nachhaltigkeit, Klimawandel, Frieden, Gerechtigkeit, Eine Welt, Entwicklungszusammenarbeit, soziales Miteinander, Jugend und Kultur.
+ 
+ 
+The Dolphins Voice
+Wir möchten mit unserer Aufklärungsarbeit und der Unterstützung verschiedener Aktionen und Maßnahmen zum Schutz von Delfinen und Walen beitragen, sowie zur Sicherung ihres Lebensraums, der Ozeane.
+ 
+ 
+Ökolöwe - Umweltbund Leipzig
+Der Ökolöwe - Umweltbund Leipzig e.V. ist ein gemeinnütziger Verein, der im Interesse des Natur- und Umweltschutzes arbeitet. Wir setzen uns für eine umweltgerechte und ökologisch nachhaltige Entwicklung der Region Leipzig ein.
+ 
+ 
+VSR Gewässerschutz
+Der VSR-Gewässerschutz entstand Anfang der 80er Jahre als Zusammenschluss von Bürgerinitiativen. Wir machen mit unseren Messwerten auf ökologische Probleme und auch auf Risiken für die Gesundheit eines jeden Einzelnen aufmerksam.
+ 
+Wir sind twingle
+Ralf Musick
+ENTWICKLUNG/ ARCHITEKTUR
+Fabian Schreiber
+GESCHÄFTSFÜHRUNG
+Oliver Albrecht
+TECHNISCHE LEITUNG
+Dirk Agelek
+UX KONZEPT
+Oliver Habboub
+UX KONZEPT & DESIGN
+twingle Partner
+ 
+Wigwam
+ 
+GLS Bank
+ 
+Samsung
+ 
+NXP
+ 
+Smart-TEC
+Sie interessieren sich für twingle?Registrieren Sie sich jetzt für twingle und profitieren Sie von allen Vorteilen für ein erfolgreiches Fundraising. Jetzt für twingle registrieren
+Impressum twingle GmbH
+Prinzenallee 74
+13357 Berlin
++49 (0)30 – 98 32 37 77
+info@twingle.de
+Eingetragen im Handelsregister Berlin (Charlottenburg) HRB 140291 B
+Geschäftsführer:
+Fabian Schreiber
+Datenschutzerklärung
+ 
+Alles Wichtige über twingleHome
+was macht twingle anders?
+mobiles Fundraising
+twingle passt sich an
+Fundraising Projekte verwalten
+Spendenaktionen
+Alle Funktionen
+Das sagen twingle Kunden
+twingle Kundenreferenzen
+Gute Gründe
+Das kostet twingle
+Ich will twingle
+Kontakt Wir freuen uns auf Ihre Anfrage.
+Hilfe Quick Start Guide
+FAQ und Wissensdatenbank
+twingle Produktbeschreibung
+ 
+twingle Produktbeschreibung
+©2023 twingle GmbH 
+ 
+ 

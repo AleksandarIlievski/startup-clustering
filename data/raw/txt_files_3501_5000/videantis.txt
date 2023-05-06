@@ -1,0 +1,147 @@
+videantis - processors for deep learning, computer vision and video coding
+ 
+Processor IP
+For Developers
+News
+Company
+ 
+Subscribe
+Get in touch
+AI and visual computing for embedded applications
+The videantis solutions enable high-performance and low-power deep learning and visual computing applications.
+For smarter embedded systems
+videantis helps customers to integrate deep learning, computer vision, image processing, and video coding into embedded systems.
+Processor IP
+videantis has developed the most power-efficient and highest-performing processor architecture in the market. The v-MP6000UDX runs deep learning, computer vision, image processing, and video compression, all on the same architecture.
+Processor IP
+For Developers
+videantis offers a wide variety of software, tools, partners,
+and services to help customers complete their system developments faster and make sure performance targets are met.
+For Developers
+Markets
+Over the past few years, deep learning has gone from a niche technology being worked on in research labs to a must-have new technology for next-generation smart systems. videantis offers a range of visual computing solutions for these high-growth markets.
+Automotive solutions
+videantis plays a key role in automotive, with millions of videantis-enabled cars already on the road. Its solutions increase safety and enhance the driving experience.
+Augmented & virtual reality
+Combining computer vision and deep learning to accurately track the position of the head mounted display, hands, recognize objects, and much more.
+Drone & digital camera
+Increasing picture quality using object recognition, segmentation, and computational photography. Drones use deep learning to become autonomous.
+Emerging applications
+Many new applications are adopting cameras and deep learning: wearables, consumer robotics, smart toys, and of course IoT devices.
+Gaming solutions
+Gaming is becoming fully immersive, higher-quality, and is including new sensors that use computer vision to further enhance the experience.
+Mobile and tablet
+Phones and tablets have several cameras and high-resolution displays. This requires a high-performance AI system that can efficiently process the images.
+Professional applications
+Data centers are adding accelerator hardware to efficiently process video and analyze images. Robots in industry 4.0 applications use AI everywhere.
+Set-top box & TV
+videantis coding and vision computing solutions deliver high resolution with high dynamic range (10-bit) using the latest standards.
+Surveillance solutions
+videantis combines video content analysis with video coding on a single architecture, an ideal basis for building security solutions that include embedded vision.
+Running all visual computing tasks on the smallest footprint with broadest versatility
+Beating hardwired solutions in both power and performance,
+while remaining fully software programmable.
+Deep  learning
+The v-MP6000UDX processor runs the most demanding neural networks in real-time, at very low power, and in a extremely small silicon footprint.
+Unified architecture
+Whether it’s deep learning, computer vision, imaging, or video coding, all software is developed using the same single programming toolsuite.
+Automotive solutions
+videantis' driver assistance and autonomous mobility solutions adhere to automotive standards and practices. Millions of vehicles already use videantis' technology. 
+We learned many new insider tips and tricks which enabled us to achieve a much higher level of optimization of several of our core algorithms.
+Carmeq,   a Volkswagen subsidiary
+We’re excited to bring our extensive portfolio of vision functions to the videantis processor architecture and jointly work together to fulfill our customer’s needs.
+  Ficosa SA
+videantis is providing an architecture that can run all the visual computing tasks that a typical embedded vision system needs, while meeting stringent power, performance, and cost requirements
+Mike Demler,  The Linley Group
+By enabling the deployment of deep learning as well as conventional computer vision algorithms, processors like the v-MP6000UDX are making the promise of more intelligent devices a reality.
+Jeff Bier,  Edge AI and Vision Alliance
+Latest news
+December newsletter: AI, the Universe and Everything
+Newsletter
+KI-FLEX AI chip tapes out with flexible videantis processor platform
+Press Releases
+videantis and ADTechnology to build 5nm ADAS/AD SoCs
+Press Releases
+Funding round fuels videantis' growth
+Press Releases
+TEMPO AI chip tapes out with videantis processor platform
+Press Releases
+videantis focuses on growth by hiring Chief Financial Officer
+Press Releases
+                    All news
+                    
+Get in touch
+Leave your contact details
+Your name
+Your email
+Your message
+Send
+                        
+Your message was sent successfully
+What’s next?
+We typically respond within 24 hours over email to follow up.
+Our support staff has a wealth of experience and will be in touch.
+We’re always happy to hop on a call to explore how we can help you bring value to your company.
+                            videantis is a one-stop deep learning, computer vision, image processing, and video coding and solutions provider. Based on a unified processor platform approach that is licensed to chip manufacturers, videantis provides tailored solutions to meet the specific needs of its customers. With core competencies of deep learning, camera, and video application, and strong SoC design and system architecture expertise, videantis serves a worldwide customer basis.                        
+                                                Processor IP                                            
+                                                Unified architecture                                            
+                                                Deep learning                                            
+                                                Computer vision                                            
+                                                Video coding                                            
+                                                Development tools                                            
+                                                Contact us                                            
+                                                For Developers                                            
+                                                System design                                            
+                                                Development tools                                            
+                                                Automotive systems                                            
+                                                Software libraries                                            
+                                                Support solutions                                            
+                                                Demo videos                                            
+                                                Support                                            
+                                                Contact us                                            
+                                                News                                            
+                                                All                                            
+                                                Press releases                                            
+                                                Newsletters                                            
+                                                Articles                                            
+                                                Company                                            
+                                                Management                                            
+                                                Company milestones                                            
+                                                Recognitions                                            
+                                                Careers                                            
+                                                Contact us                                            
+Subscribe
+© 2022 videantis GmbH
+                                        Imprint                                    
+                                        Cookies                                    
+                                        Data Policy                                    
+Would like to learn more?
+×
+Your email
+Your request
+Send
+                            
+Your message was sent successfully
+Sign up for our newsletter
+×
+Your email
+Subscribe
+                            
+You have subscribed successfully
+A notice about cookiesWe use cookies and similar technologies to store information on your device. This is to help personalize content, analyze traffic, and provide a more convenient browsing experience.
+Please choose between accepting either only necessary cookies (for basic functionality) or both necessary and non-necessary cookies. You can change your consent at any time.
+For more information please read our Privacy Policy
+Cookie settingsSave preferencesAccept allPrivacy & Cookies Policy
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+ 
+                        Necessary 
+                    
+ Necessary 
+                        Always Enabled                    
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+                        Non-necessary 
+                    
+non-necessary
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.

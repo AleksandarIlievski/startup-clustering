@@ -1,0 +1,138 @@
+Home - XR-EASY
+ 
+ProductProduct OverviewSupported FormatsFree Version & TestUse CasesAssembly PlanningDesign ReviewShowroomStudioPricingBlogSupportVR as a Trend in Manufacturing Technology
+Date: 5th May 2023
+Location: 70569 Stuttgart
+English
+Deutsch
+Request a DemoDownload
+Meet YourRealityLoad existing 3D CAD models into Virtual Reality with the user-friendly VR software XR-EASY. Plan and present your design virtually and make better decisions faster.
+Download software for freeXR-EASY is applied by companies worldwide (selection) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VR makes planning, reviewing and presenting your projects more successful
+Assembly Planning
+With XR-EASY, assembly processes can be simulated in a realistic way and carried out with bare hands. All stakeholders can thus jointly understand the arrangement in VR and efficiently discuss change requests.
+Learn moreDesign Review
+Design reviews are essential in the planning of machines, systems, or workstations, where digital layouts or prototypes are evaluated against established requirements before approval. XR-EASY simplifies this process.
+Learn moreVR Showroom
+With a virtual showroom in your hand luggage, you can demonstrate complex products anywhere in a fully immersive way. This leads to better product understanding by customers and faster sales closures compared to traditional presentations.
+Learn moreVR Studio
+XR-EASY enables specialists to present building and space planning as well as products immersively already during the design phase. For customers, using VR headsets feels like being in reality instead of just looking at 3D models on a screen.
+Learn moreR3DT markets new VR software as XR-EASY
+Read the announcementAssembly Planning
+New ways in assembly process planning
+XR-EASY revolutionizes assembly process planning by enabling intuitive manipulation of virtual prototypes with the use of bare hands. This feature allows users to simulate assembly processes, optimize gripping and assembly steps, and reduce waste. As a result, XR-EASY saves time and money while increasing work safety.
+One of the standout features of XR-EASY is its ability to simulate assembly processes in a highly realistic way. Users can interact with the design in a natural and intuitive way, making it easier to identify any potential issues or inefficiencies in the assembly process.
+Learn more
+“The VR tool from R3DT really gives you a feel for the haptics right from the planning stage, especially during the ergonomics check.”
+Michael Mohren, Head of process planning at DEHN
+Learn more
+“With XR-EASY, our team can validate assembly concepts ahead of time just like in real life. We use existing data from factory planning as input.”
+Marius Mutter, Project Leader Production Engineering at Voith
+Design Review
+Simplified and accelerated design review
+XR-EASY streamlines the design review process, significantly reducing time to market. By evaluating digital drafts or prototypes against established requirements prior to their release, businesses can ensure the quality of their machines, systems, or workstations. This process is made faster and more efficient with XR-EASY, which also facilitates documentation of decisions.
+XR-EASY’s Coop-in-VR feature enables team collaboration regardless of location, while the tool’s intuitive working in the VR room with bare hands makes it easy for users to interact with the design in a natural and realistic way. This makes it an ideal solution for businesses looking to improve their design review process and increase collaboration and efficiency.
+Learn more
+“With XR-EASY, our team can validate assembly concepts ahead of time just like in real life. We use existing data from factory planning as input.”
+Dr. Felix Straßburger, Product Line Manager Trucks at GHH
+Showroom
+Significant cost savings compared to traditional methods
+Virtual showrooms are a powerful tool for companies that want to showcase their products in an immersive way, without the need for physical displays. With XR-EASY SHOWROOM companies can create virtual experiences for customers that are highly realistic, and can even simulate trade show booths.
+Converting own models is a straightforward process, and the VR headset can be shipped directly to customers. This makes VR showrooms an ideal solution for businesses that want to save on the costs of traditional trade shows, while still providing customers with an engaging and interactive experience.
+Learn moreStudio
+Presentation without physical prototypes
+XR-EASY is a powerful tool that enables businesses to transform their CAD plans into immersive virtual experiences, making it an excellent way to showcase designs and products. Businesses can offer their customers a professional way to visualize for example planned houses, apartments, kitchens, bathrooms or other products.
+One of the standout features of XR-EASY is its accessibility and user-friendliness. The tool is designed to work with existing Windows workstations, eliminating the need for expensive hardware. This makes XR-EASY an ideal solution for businesses that are looking for a cost-effective way to showcase their designs and products to customers.
+Learn more
+“Customers have a better idea using the virtual presentation whether the new interior corresponds to their initial idea or if any changes are required. This helps to avoid misunderstandings in the first place!”
+Danny Hammer, Managing Director at Hammer Margrander Interior
+Learn moreWhat customers say about us
+“That‘s the first thing in industry 4.0 that really convinces me.”
+Executive Vice President
+“Within 5 minutes anyone can use it.”
+Teamleader
+“The simplicity of the VR tool benefits suppliers and customers who avoided the complexity of previous solutions.”
+Managing Director
+Virtual Reality Software for Work System Planning at DEHN SE
+Read the whitepaper about DEHN’s experience with XR-EASY and how any company can quickly gain benefits by using virtual reality.
+Read whitepaperTest XR-EASY with your team today
+Download for freeTest the software featuresVR prototyping anytimeMeet virtually or on screen
+Frequently Asked Questions
+What kind of software is XR-EASY?XR-EASY is the most user-friendly Virtual Reality (VR) software for industrial engineering. The innovative technology for working with virtual prototypes is used along the entire development process. Particular attention is paid to planning errors that are difficult to identify without VR.
+Our customers’ applications include work and assembly planning, ergonomics study, determination of assembly sequences, overall production and layout planning, special machinery and plant construction as well as technical purchasing and sales.
+Overall, the development and planning phases are shortened. Elaborate mockups and real prototypes become superfluous. The bottom line is that companies save a lot of time and money.
+XR-EASY is started and operated by users themselves, anywhere and at any time within a few minutes. So, anyone can automatically generate virtual prototypes from 3D CAD data at the push of a button. Immediately afterwards, with VR glasses and your bare hands (instead of annoying controllers, which you can however also use), you can work virtually at planned workstations, production lines or machines, or you present in a 360-degree all-round view.
+Together with co-workers and business partners, critical design reviews and virtual assembly processes become possible quickly and anywhere. Ergonomics checks can also be carried out at a very early stage in order to assess the physical stress situation at the respective workplace.
+What are the technical requirements?XR-EASY basically supports all common 3D-CAD file formats. The possibilities essentially depend on the structure and the number of polygons, less on the file size. The performance of the VR hardware is also crucial.
+The PRO Edition of XR-EASY offers a fully automated CAD-to-VR converter for importing the standard data exchange formats STEP (AP203, AP214, AP242), JT and OBJ. Other native formats from the CAD providers Catia, Creo, NX, Solidworks and others can also be booked.
+VR-enabled gaming hardware is widely available and includes a Windows PC (laptop or desktop) and a suitable VR headset. Together with a leap motion sensor for hand tracking, you can safely omit the controllers.
+Either you or your IT partner set up the VR tool and install the XR-EASY “EXE”. After that simply upload your CAD data and start in VR without training!
+Is it possible to test before buying?You can test the VR software extensively in advance. You can download the license-free VIEWER Edition here for free and get started.
+In the operational environment, you can also test your own models in VR. You can send us your 3D CAD models and contact details here.
+If the file/s meet the requirements, we will send you a link to download the converted VR models within 24 hours on weekdays.
+Professional interested parties can also arrange a 14-day test phase with a full license in order to be able to comprehensively test the PRO Edition independently.
+Does the VR tool work in any IT environment?The VR software is used by XR-EASY users worldwide with a wide variety of VR hardware. As a VR tool, this also works in very restrictive corporate IT environments. The benefit of the VR tool is already high at a single workstation that is not connected to a network.
+Many users connect to the outside world via the Internet (company or guest WLAN) to collaborate with colleagues and business partners. An open CLOUD solution is used, for which IT ports may have to be activated. Unauthorized participation by third parties with the appropriate CAD model is in principle impossible.
+If necessary, global companies can still book an on-premise CLOUD solution with the highest security standards across different areas and locations.
+How are beginners and champions supported?Setting up and starting a VR tool with the XR-EASY software is possible with little IT knowledge. The installation instructions for hardware and software are tailored to the consumer world and are therefore easy to understand. In addition, there are many comprehensible video instructions online, e.g. on YouTube or in specialist media.
+A detailed help page with text, images and videos is also available to XR-EASY users at all times.
+For PRO customers and testers, the XR-EASY team is available via email during working hours.
+In short: you can do it yourself, we can support you!
+Get your 3D model converted
+Please send us your 3D CAD file(s) (max 100mb) that you want to get converted to VR file(s) that can be used with XR-EASY. We will send you a download link for your converted file(s) within 24 hours.
+ProductProduct Overview
+Supported Formats
+Pricing
+Free Version & Test
+Request a Demo
+Help & FAQ
+Use CasesAssembly Planning
+Design Review
+Showroom
+Studio
+ServiceEducational Institutions
+CAD File Conversion
+Add-on Partnerships
+Newsletter
+Glossary
+Affiliate
+CompanyAbout Us
+Testimonials
+Career
+Blog
+In the News
+Contact
+EnglishDeutschProductProduct Overview
+Supported Formats
+Pricing
+Free Version & Test
+Request a Demo
+Help & FAQ
+ServiceEducational Institutions
+CAD File Conversion
+Add-on Partnerships
+Newsletter
+Glossary
+Affiliate
+Use CasesAssembly Planning
+Design Review
+Showroom
+Studio
+CompanyAbout Us
+Testimonials
+Career
+Blog
+In the News
+Contact
+EnglishDeutschYouTubeLinkedInXingTwitterFacebook© 2023 R3DT GmbH. All Rights Reserved.
+Legal NoticePrivacy PolicyDisclaimer
+ Menu

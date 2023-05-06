@@ -1,0 +1,131 @@
+3D point cloud classification: automatic & manual | Pointly
+ 
+Skip to content
+Menu ItemMenu ItemMenu ItemNewsFeedbackJobsContact UsToggle NavigationServicesOverviewUse CasesPoint Cloud Custom ClassifierKnowledge BaseBlogFAQUser GuideAPI DocumentationPricingLOG IN
+ 
+StartseiteChris_DICREATE2022-09-01T15:02:54+00:00 
+3D point cloud classification made smart, fast, and accessible.
+Pointly is an intelligent, cloud-based B2B software solution to manage and classify big data in 3D point clouds.
+Our innovative AI techniques enable an automatic as well as accelerated manual classification of data points within point clouds – making it faster and more precise for you than ever before.
+Try out Pointly today!Start now with a FREE ACCOUNT and experience Pointly.
+Want more benefits? Contact us at sales@pointly.ai to open a Professional account.
+Visit Pointly Pricing for further pricing info.
+Start your FREE ACCOUNTKey Features.Explore the Pointly benefits for your 3D point cloud classification:
+Fast manual labelingStandard ClassifiersCustom ClassifiersSecure Cloud ProcessingCollaborationAPI & On-Premise ClassificationFast manual labelingUsing innovative AI approaches, points that belong together can be selected with minimal effort and high accuracy.
+With the automatically pre-processed segments, you can apply classification to complex objects with just a few clicks.
+Standard Classifiers
+By building on deep learning, we train standard classifiers for semantic segmentation. With a steady input of training data, the standard classifiers will be able to automate mapping for certain use cases such as:
+Airborne Laser Scans
+City Inventories & Urban Objects
+Highway Scans
+Benefit from automatic point cloud object classification right upon uploading your data.
+Custom Classifiers
+Make use of our Pointly 3D Point Cloud Services to train a custom classifier, should our standard classifiers not meet the requirements of your cloud data. Our custom classifiers are trained explicitly for the specific needs of our clients.
+These classifiers are fully customizable for the proper visualization and analysis of your data. By supplying it with enough information, the custom classifier is able to automatically recognize the fitting class for your point cloud on upload.
+We also offer Training Data Generation as Labeling Services to create the perfect alignment of training data and AI model.
+Secure Cloud Processing
+Pointly uses Microsoft’s fast, flexible, and secure Azure Cloud Computing Services. The parallel processing architecture allows elastic and independently scalable processing of even extensive amounts of data.
+Everything you need to use Pointly is Internet access and a browser. No installation is required – simply sign up and benefit from the power of cloud storage and computing.
+There is no need to invest in building data centers, external hardware, or maintenance. “Point out what matters to you,” right out of the box.
+Your data is safe with us. Building on Azure’s 256-bit AES encryption standard and advanced threat protection, we protect your information whether in storage or transit.
+Your user identity is managed through Azure B2C and ensures that only you have access to your data.Collaboration
+Pointly allows multiple individuals to access a project or point cloud simultaneously. Share it with your clients or your team – our tool allows you to perform classifications on various point clouds at once from several end points.
+Streamline work processes by applying tags to:
+add properties
+document a status
+assign tasks to team members
+API & On-Premise Classification
+Via an API you can access the point cloud classification to utilize standard as well as custom classifiers without using the Pointly interface. The classification models can also be implemented into other platforms.
+Instead of using the Pointly point cloud classification through a cloud, you can also order the standard or custom classifiers as a software package on-premise, allowing you to directly run it on local computers on client side.
+Why Pointly?
+Pointly does not only help you to accelerate and simplify your annotation work – but also to make it fun. What else?
+Pointly offers advanced tools for easy manual as well as automatic point cloud classification, reducing the effort needed – thus saving time and resources.
+Pointly is independent of the point cloud type (LiDAR, sonar, photogrammetric point clouds or otherwise generated point clouds), giving you ultimate flexibility.
+With Pointly, you can create any class you like. Thus, you can customize your class catalog and generate training data for your specific AI project.
+Pointly allows easy visualization of your point cloud and Pointly Services enable the conversion of your point clouds into further data products, for example CAD data, map layers or meshes.
+Made for professionals.
+Companies in the following industries benefit from using Pointly:
+Agriculture and forestry
+Supply network operator
+Power lines
+Real estate
+Public transport services
+Insurance
+Agriculture and forestry
+Supply network operator
+Power lines
+Real estate
+Public transport services
+Insurance
+Manufacturing
+Construction
+Public sector
+Asset management
+Planning and surveying
+Robotics
+Automotive
+Warehouse logistics
+Mining
+Digital forensics
+Archaeology and museums
+Manufacturing
+Construction
+Public sector
+Asset management
+Planning and surveying
+Robotics
+Automotive
+Warehouse logistics
+Mining
+Digital forensics
+Archaeology and museums
+The Pointly AI Workflow.
+In the Pointly platform the full AI workflow for your use case can be covered:
+Initial training data generation and fetching for point cloud model training.
+Deployment of the trained classifier.
+Upload of new data and application of the trained classifier (Inference).
+Point cloud viewer + Pointly tools for correction of false classifications.
+Iterative retraining of the classifier based on corrected classifications.
+From the first deployment on, the classifier can be used in your projects and the model can become better the more you use it.
+Your simple start.
+Request a demo of the Pointly platform now.
+We’re ready to show you just how easy it is.
+GET DEMOSuccess Story.“Modern surveying technologies (laser scanning, drone flights etc.) allow the recording of high-precision 3D point clouds from existing construction sites. With the help of this data and by using Pointly, construction sites can be better organized and processes can be monitored and improved.”
+.
+Dr. Dirk Ebersbach
+Managing Director at VIA IMC GmbH
+“Thanks to the developed 3D Deep Learning based point cloud classification by Pointly Services we are now able to classify ground points with higher accuracy than before, leading to more precise elevation models. Pointly can detect additional objects like powerlines and vehicles for us which allows to filter for specific changes. Recurring tasks such as the inventory of georeferenced objects and the recording of terrain changes become easier and more efficient.
+What stands out the most to us is Pointly’s adaptability – the new approach can learn continuously. Thus, any manual correction to the automatic classification (if necessary at all) improves the process for future applications.”
+Dipl. Ing. Andreas Schlienkamp
+Group Leader Remote Sensing at RAG Aktiengesellschaft
+BLOG.
+ 
+Point Cloud Custom Classifier: AI-trained algorithmDo you have a specific use case and need to work with a certain type of point cloud data, with a special interest in a select group of object classes? While you could manually label your point cloud, it is more efficient to train an algorithm for the task - this is where our Custom Classifiers come into play. 
+ 
+Airborne Laser Scan Standard Classifier for LiDARDo you regularly work with LiDAR and need an efficient solution for labelling your gathered data? Our ALS Standard Classifier is specifically trained to work with your aerial scanning data! Find out more about it in this blog post.
+ 
+Point Cloud Standard Classifier – automated mappingWhen working with 3D point clouds, it usually takes a lot of time to correctly map your input data. Since assigning classes to objects manually is a laborious task, it is more efficient to automatically map them. Our point cloud Standard Classifiers do exactly that – find out how they work and what they can do in this blog article.
+Our Partners.
+Together with our great partners, we realize tailor-made solutions for you.
+Stay informed.
+Get all news about our innovative 3D point cloud classification platform straight to your mailbox.
+No Spam – Promise
+Please make sure to confirm your email address in the opt-in email you will get after submitting out this form. Otherwise, we won’t be able to keep you up-to-date and informed.
+Pointly GmbH requires the contact information you provide to contact you regarding our products and services. You can unsubscribe from these notifications about the new standard of 3D point cloud classification at any time. For information on how to unsubscribe as well as our privacy practices and our commitment to protecting your data, please see our Privacy Policy.
+Developed by Experts.Geo Data Science Technology
+made in Germany
+Pointly is a spin-off of Supper & Supper GmbH from Germany. The company is one of the leading full-service data science service providers in the country and develops customized solutions in the areas of machine learning, artificial intelligence, process optimization and digital transformation.
+supperundsupper.com
+This Project is supported by the Federal Ministry for Economic Affairs and Climate Action (BMWK) on the basis of a decision by the German Bundestag.
+ 
+ 
+		© Copyright 2023 by Pointly GmbH   |    Imprint |    Privacy Statement    |    Terms & Conditions 
+ 
+ 
+ 
+ 
+ 
+ 
+Page load link
+ 
+Go to Top

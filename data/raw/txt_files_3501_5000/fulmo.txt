@@ -1,0 +1,183 @@
+Building the Lightning Network - Fulmo
+Lightning Hackdays  Barcelona 2020
+Previous
+The Lightning Conference
+Blog
+Shop
+BOS Score
+About
+ 
+					Get started				
+					Get started				
+							Building the Lightning Network						
+Home
+ 
+				Get in Touch!			
+Community
+FULMO is the host of the well-known Lightning Hacksprints and organizer of the first Lightning Conference (LNconf) in the world. Building the community around development of the Lightning Network is one of our key focus areas.
+				SEE MORE			
+Software
+FULMO has been in the Bitcoin space since 2011. We are networked with many experienced developers who can help you with custom tailored software solutions for the Bitcoin and Lightning protocols.
+Hardware
+FULMO supports the RaspiBlitz project, a secure and reliable Lightning routing node. With the help of a great community of contributors, it offers a suite of unique applications for any professional.
+				GET ONE			
+Infrastructure
+FULMO administers hardware and software infrastructure to handle various challenges on the Lightning Network. We operate several routing nodes and host a BTCPay server, so anyone is able to accept Bitcoin within just a few clicks.
+				OUR NODES			
+				START ACCEPTING BTC			
+Consultancy
+FULMO has an extensive knowledge base and industry connections to address any question you may have regarding Bitcoin and the Lightning Network. We have expertise in hardware, software, hosting and liquidity operations.
+				Get in touch			
+Workshops
+FULMO has managed several technical workshops and community meetups focused on Bitcoin and the Lightning Network. Show your company / co-workers what this technology can offer by booking a workshop with us.
+				REQUEST ONE			
+Lightning Hackdays
+Watch the #LightningHackdayNYC livestream, hosted in October 2018 in New York, NY.
+				New York Livestream			
+Watch the #LightningHackdayMUC livestream, hosted in June 2019 in Munich, Germany.
+				Munich Livestream			
+Lightning Hacksprints
+Watch the wrap up for the #LightningHacksprint, our first event hosted completely online.
+				WATCH April 2020			
+				WATCH May 2020			
+				WATCH June 2020			
+Youtube
+Tune in to #Potzblitz, your weekly Lightning Network talk featuring new speakers every week, hosted on Youtube.
+				WATCH			
+Blog
+				READ ON OUR BLOG			
+The Lightning Conference is the first conference bringing together all three lightning implementations. Over the course of two days we hosted more than 60 speakers and 500 participants from all over the world. Hosted in Berlin, Germany, on the 19th & 20th of October 2019.
+				WATCH			
+Our Lightning Nodes
+ node01.fulmo.org
+ 
+				GET DETAILS			
+ node02.fulmo.org
+ 
+				GET DETAILS			
+ node03.fulmo.org
+ 
+				GET DETAILS			
+Press
+ 
+"Want to learn about bitcoin? Try conference-driven development"
+(EN) January 10th, 2020
+ 
+ 
+"Enormer Tatendrang"
+(DE) March 10th, 2019
+ 
+ 
+"This event reminds me of the early Linux days"
+(EN) October 25th, 2019
+ 
+ 
+"Der Pioniergeist lebt"
+(DE) September 29th, 2019
+ 
+ 
+ We're an open source company dedicated to research, development and consultancy for the Bitcoin Lightning Network.
+CONTACT US Fulmo GmbH
+Eberswalder Straße 6 – 9
+10437 Berlin
+info@fulmo.org
+Impressum
+RT  bisq_network : Bisq v1.7.0 is now available.
+It fixes a privacy issue that will be disclosed in about 1 week.
+As a result, in 1 week,… 
+											#LightningHackday										
+July 2, 2021
+RT  shopinbit : Letzte Chance um ein Ticket für die wohl geilste Deutsche #Bitcoin Konf  BTCZitadelle  zu GEWINNEN.
+Nur bis heute Nacht 23:59… 
+											#LightningHackday										
+July 2, 2021
+Nerdbashing ist so Achtziger. 🥱
+Wir brauchen übrigens noch Reinigungspersonal für die  BTCZitadelle , wie sieht's a…  https://t.co/lU1TAxjT4C  
+											#LightningHackday										
+July 2, 2021
+ BTCZitadelle   webdiverblue   LightRider5   beyondbitcoinDe   21isenough  
+											#LightningHackday										
+July 1, 2021
+RT  get_flitz : Hello world!
+Are you a Bitcoin / Lightning enthusiast living in 🇩🇪Germany, 🇫🇷France, 🇳🇱the Netherlands or 🇧🇪Belgium? Do you… 
+											#LightningHackday										
+July 1, 2021
+RT  _einundzwanzig_ : #90 - Sommer, Sonne & Satoshi 🌞
+🏰 Alles zur  https://t.co/MY5D20PTdN 
+📉 Größter Hashrate-Drop der #Bitcoin-Geschichte… 
+											#LightningHackday										
+June 30, 2021
+RT  Egge24_ : I just payed my  BTCZitadelle  conference ticket using the #Bitcoin Lightning network!
+417k satoshi (145 USD) transferred inst… 
+											#LightningHackday										
+June 30, 2021
+RT  shopinbit : Freut euch gemeinsam mit uns auf die  BTCZitadelle ! Endlich wieder eine #Bitcoin Konferenz von Bitcoinern für Bitcoinern in… 
+											#LightningHackday										
+June 30, 2021
+RT  BTCZitadelle : Unterstützt wird die Bitcoin-Zitadelle 2021 von
+- unserem Hauptsponsor Pocket Bitcoin  PocketBitcoin  
+- Shopinbit  shopi … 
+											#LightningHackday										
+June 30, 2021
+RT  BTCZitadelle :  https://t.co/8JLXXowta6   https://t.co/6YctuVsv2v  
+											#LightningHackday										
+June 30, 2021
+RT  BtcpayServer : Just to be clear, if you are from El Salvador and want to set up a few BTCPay instances for your local community to accep… 
+											#LightningHackday										
+June 30, 2021
+RT  BtcpayServer : 🔔Set your reminders Bitcoiners, next Wednesday, July the 7th, we’ll discuss how communities in El Salvador 🇸🇻 can accept… 
+											#LightningHackday										
+June 30, 2021
+RT  BTCZitadelle : Heute Abend, 20 Uhr! 
+											#LightningHackday										
+June 30, 2021
+RT  thelightningatm : Another LightningATM is in the making to place fiat shitcoins where they belong. Into Fiat Hell!
+Thanks  CandleHater … 
+											#LightningHackday										
+June 30, 2021
+ pete_rizzo_   phenomen_s   BitcoinIsSaving  I meant the "conscious effort to scrub Mircea from Bitcoin's history" part of your tweet. 
+											#LightningHackday										
+June 27, 2021
+ pete_rizzo_   phenomen_s   BitcoinIsSaving  Got anything to back that up? 
+											#LightningHackday										
+June 27, 2021
+RT  RaspiBlitz : La comunidad de RaspiBlitz también habla español. ¡Participar! 🤝🏼
+Con personas reales que pueden hablar español sin Google… 
+											#LightningHackday										
+June 27, 2021
+ kilian2002  "Crypto" (aka #Bitcoin) has always been cross-border. 
+											#LightningHackday										
+June 27, 2021
+RT  BitcoinMemeHub : This guy  MauriceHoefgen  is one of the “eCONomists” who advices the German parliament on #bitcoin 😂 
+We have seriously… 
+											#LightningHackday										
+June 27, 2021
+ Justdoitalex  Das ist Noteninflation. Wahrscheinlich kein Bundesland mit Zentralabitur? 
+											#LightningHackday										
+June 26, 2021
+RT  ottosuess : Do you want to build iOS apps at  ln_strike ?  https://t.co/HCDkUCcVpM  
+											#LightningHackday										
+June 26, 2021
+RT  _einundzwanzig_ : Im Interview #46 sprechen wir mit den Jungs von  PocketBitcoin , Matt  21isenough  und Tobias  KollerTobias  über Pocket… 
+											#LightningHackday										
+June 25, 2021
+RT  keegan_hamilton : I dug into the mystery behind "Bitcoin Beach" — the tiny surf town that led to El Salvador becoming the first country… 
+											#LightningHackday										
+June 24, 2021
+ 
+ 
+ 
+ 
+ 
+http://premier-pharmacy.com/product-category/cholesterol-lowering/ http://healthsavy.com    
+Search for:
+			Search		
+Hit enter to search or ESC to close
+Lightning Hackdays  Barcelona 2020
+Previous
+The Lightning Conference
+Blog
+Shop
+BOS Score
+About
+					Get started				

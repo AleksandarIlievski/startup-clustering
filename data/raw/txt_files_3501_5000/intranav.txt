@@ -1,0 +1,299 @@
+RTLS Echtzeit-Lokalisierungssystem & IoT Plattform für Track & Trace
+ 
+ 
+NEWS: INTRANAV has been acquired by Inpixon, innovators of Indoor Intelligence for people, places and things. Visit www.inpixon.com to learn more.  |  READ ANNOUNCEMENT
+NEWS: INTRANAV wurde von Inpixon übernommen, dem Innovator von Indoor Intelligence für Menschen, Orte und Dinge. Website besuchen.  |  MITTEILUNG LESEN
+Digitale Lösungen
+RTLS Intelligence für den Einsatz mit SAP®
+Smart Warehouse
+Smart Factory
+Paperless Factory
+Yard Management
+Supply Chain
+Starter Kits
+RTLS Anwendungen
+Produktionsprozess
+Material- und Warenfluss
+Flurförderzeug Flotten
+Container & Ladungsträger
+Equipment & Werkzeug
+Collision Avoidance
+Social Distance Management
+Workforce Safety
+Plattform Suite
+INTRANAV.IO
+INTRANAV.APP
+INTRANAV.RTLS
+INTRALYTICS
+Connectivity Technologies
+Multi-RTLS Use Cases
+News & Media
+Showrooms
+Success Stories
+Media Center
+Downloads
+Webinare
+Events & Messen
+Pressemitteilungen
+Über Uns
+Partner und Vereinsnetzwerk
+Awards
+Karriere
+Standorte
+UN Global Compact
+ 
+Kontakt
+Englisch
+Deutsch
+X
+Digitale Lösungen
+RTLS Intelligence für den Einsatz mit SAP®
+Smart Warehouse
+Smart Factory
+Paperless Factory
+Yard Management
+Supply Chain
+Starter Kits
+RTLS Anwendungen
+Produktionsprozess
+Material- und Warenfluss
+Flurförderzeug Flotten
+Container & Ladungsträger
+Equipment & Werkzeug
+Collision Avoidance
+Social Distance Management
+Workforce Safety
+Plattform Suite
+INTRANAV.IO
+INTRANAV.APP
+INTRANAV.RTLS
+INTRALYTICS
+Connectivity Technologies
+Multi-RTLS Use Cases
+News & Media
+Showrooms
+Success Stories
+Media Center
+Downloads
+Webinare
+Events & Messen
+Pressemitteilungen
+Über Uns
+Partner und Vereinsnetzwerk
+Awards
+Karriere
+Standorte
+UN Global Compact
+Digitale Lösungen
+RTLS Intelligence für den Einsatz mit SAP®
+Smart Warehouse
+Smart Factory
+Paperless Factory
+Yard Management
+Supply Chain
+Starter Kits
+RTLS Anwendungen
+Produktionsprozess
+Material- und Warenfluss
+Flurförderzeug Flotten
+Container & Ladungsträger
+Equipment & Werkzeug
+Collision Avoidance
+Social Distance Management
+Workforce Safety
+Plattform Suite
+INTRANAV.IO
+INTRANAV.APP
+INTRANAV.RTLS
+INTRALYTICS
+Connectivity Technologies
+Multi-RTLS Use Cases
+News & Media
+Showrooms
+Success Stories
+Media Center
+Downloads
+Webinare
+Events & Messen
+Pressemitteilungen
+Über Uns
+Partner und Vereinsnetzwerk
+Awards
+Karriere
+Standorte
+UN Global Compact
+ 
+Real-Time Location System 
+Für die Digital Supply Chain, Smart Factory & Warehouse
+Termin vereinbaren              
+INTRANAV RTLS & IIoT Plattform – Digitalisierung und Automatisierung von Industrieprozessen
+Entdecken Sie die Leistungsfähigkeit von INTRANAV.IO zur Optimierung Ihrer Produktions-, Logistik- und Materialflüsse durch Digitalisierung, Ortung und Automatisierung. Integrieren Sie Status-, Identifikations- und Prozessinformationen nahtlos in Ihr ERP-, WMS- oder Supply-Chain-System, um vollständige Transparenz und Kontrolle zu erhalten.
+1
+Smart Warehouse
+Der Digital Twin bildet alle Warehouse Assets (Paletten, Boxen, Container) als virtuelles Warenlager ab, Sie erhalten eine digitale Echtzeit-Bestandsübersicht. Die automatische Identifikation ermöglicht Verbuchungen von Warenein- und Ausgängen mit Erfassung im ERP. Durch die optimale Stellplatzvergabe erfolgt die effizienteste Warehouse- und Transportroutenauslastung.
+2
+Auto-ID & Booking
+Automatische Identifikation und Warenverbuchung (AutoID) von Produktionsgütern, Montagegestellen und Produktionsteilen durch die intelligenten Sensoren. Pakete als Paketverbund „Virtual Pallets“ bündeln und Einlagern. Weiteres eliminieren von Barcode-Scans durch definieren von Scan-Zonen.
+3
+Smart Forklift
+Mit Hilfe der Echtzeitortungsdaten der Transportfahrzeuge können Routen optimiert und Stau- &amp; Gefahrensituationen proaktiv vermieden werden. Zusätzlich erfolgt ein scanner-loser Warentransport einzelner Ware oder „Virtual Pallets“ zur Ein- und Auslagerung.
+4
+Fleet Manager
+Durch die präzise Indoor-Ortung und einer heterogenen AGV/FTS Flotte, kann eine effizientere Ressourcenauslastung erreicht und Prozesse flexibler gestaltet werden.
+Assistance Guiding für AGV sowie adaptives AGV Routing unterstützen bei der Kollisionsvermeidung und Reduzierung von Blindfahrten im Einsatz bei autonomen- oder Mischflotten, für einen flüssigen und sicheren Transportfluss.
+5
+Safety Manager
+Collision Avoidance gibt Kollisionswarnungen aus, über ein adaptives Routing System wird Fahrern im Fall von Staus oder hoher Routenauslastung, prädiktiv und automatisch ein neuer Transportweg vorgeschlagen. Mit Social Distance Management halten Mitarbeiter bei Pandemien den Mindestabstand ein, zudem können Infektionsketten zurückverfolgt werden. Workforce Safety erhöht die Mitarbeitersicherheit, sodass bei Zwischenfällen sofortige Sicherheitsmaßnahmen eingeleitet werden.
+6
+Smart Production
+Durchgängiges Tracking von Fertigungsaufträgen (FAUF) und Virtualisierung der Begleitpapiere durch den Digital Twin. Geo-Fence getriggerte Events prüfen Fehler, starten Folgeschritte und lösen eine automatische Vorgangsrückmeldung in ERP/MES Systemen aus.
+7
+Materialfluss Kontrolle
+Die Echtzeitdaten unterstützen Sie durch zusätzliche Prozesstransparenz. Die integrierten Analyse-Tools geben Ihnen Informationen über Fehler im Materialfluss, was Ihnen ermöglicht Optimierungsmaßnahmen aufzusetzen.
+8
+Equipment Manager
+Echtzeitortung für schnelles Auffinden, Prozesskontrolle, -Absicherung, und effiziente Auslastung (OEE). Verfügbarkeitsabfrage von Sonderwerkzeugen sowie Predictive Maintenance durch automatisierte Wartungsmeldungen.
+9
+Yard Manager
+Echtzeitüberblick über Standortinformationen von Assets, Fahrzeugen und Personen im Yard, Field oder City – digitalisiert als virtueller Parkplatz. Fahrzeuge können manuell oder mittels Kopplung an Transportleitsysteme zum korrekten Dock oder Tor navigiert werden. Erhalten Sie Kontrollsicherheit bei der Verladung und automatische Warnmeldungen bei Verzögerungen im Prozess.
+10
+Shipment Manager
+Überwachen der Zustände von Gütern und Lieferungen durch monitoren von Temperatur, Luftfeuchtigkeit und Schock. Prüfen der Beladungszustände – Bei Abweichung von Sollwerten und KPIs unmittelbar informiert werden. Kontrolle der Container-Flottenauslastung, Einhaltung von Routen, schnelles agieren bei Routenanomalien, Diebstahlschutz durch SMART Sensorik und Auslösen von Prozessaufträgen mittels Geofencing.
+Smart Warehouse
+Der Digital Twin bildet alle Warehouse Assets (Paletten, Boxen, Container) als virtuelles Warenlager ab, Sie erhalten eine digitale Echtzeit-Bestandsübersicht. Die automatische Identifikation ermöglicht Verbuchungen von Warenein- und Ausgängen mit gleichzeitiger Erfassung im ERP. Durch die optimale Stellplatzvergabe erfolgt die effizienteste Warehouse- und Transportroutenauslastung.
+1
+Auto-ID & Booking
+Automatische Identifikation und Warenverbuchung (AutoID) von Produktionsgütern, Montagegestellen und Produktionsteilen durch die intelligenten Sensoren. Pakete als Paketverbund „Virtual Pallets“ bündeln und Einlagern. Weiteres eliminieren von Barcode-Scans durch definieren von Scan-Zonen.
+2
+Smart Forklift
+Mit Hilfe der Echtzeitortungsdaten der Transportfahrzeuge können Routen optimiert und Stau- & Gefahrensituationen proaktiv vermieden werden. Zusätzlich erfolgt ein scanner-loser Warentransport einzelner Ware oder „Virtual Pallets“ zur Ein- und Auslagerung.
+3
+Fleet Manager
+Durch die präzise Indoor-Ortung und einer heterogenen AGV/FTS Flotte, kann eine effizientere Ressourcenauslastung erreicht und Prozesse flexibler gestaltet werden.
+Assistance Guiding für AGV sowie adaptives AGV Routing unterstützen bei der Kollisionsvermeidung und Reduzierung von Blindfahrten im Einsatz bei autonomen- oder Mischflotten, für einen flüssigen und sicheren Transportfluss.
+4
+Safety Manager
+Collision Avoidance gibt Kollisionswarnungen aus, über ein adaptives Routing System wird Fahrern im Fall von Staus oder hoher Routenauslastung, prädiktiv und automatisch ein neuer Transportweg vorgeschlagen. Mit Social Distance Management halten Mitarbeiter bei Pandemien den Mindestabstand ein, zudem können Infektionsketten zurückverfolgt werden. Workforce Safety erhöht die Mitarbeitersicherheit, sodass bei Zwischenfällen sofortige Sicherheitsmaßnahmen eingeleitet werden.
+5
+Smart Production
+Durchgängiges Tracking von Fertigungsaufträgen (FAUF) und Virtualisierung der Begleitpapiere durch den Digital Twin. Geo-Fence getriggerte Events prüfen Fehler, starten Folgeschritte und lösen eine automatische Vorgangsrückmeldung in ERP/MES Systemen aus.
+6
+Materialfluss Kontrolle
+Die Echtzeitdaten unterstützen Sie durch zusätzliche Prozesstransparenz. Die integrierten Analyse-Tools geben Ihnen Informationen über Fehler im Materialfluss, was Ihnen ermöglicht Optimierungsmaßnahmen aufzusetzen.
+7
+Equipment Manager
+Echtzeitortung für schnelles Auffinden, Prozesskontrolle, -Absicherung, und effiziente Auslastung (OEE). Verfügbarkeitsabfrage von Sonderwerkzeugen sowie Predictive Maintenance durch automatisierte Wartungsmeldungen.
+8
+Yard Manager
+Echtzeitüberblick über Standortinformationen von Assets, Fahrzeugen und Personen im Yard, Field oder City – digitalisiert als virtueller Parkplatz. Fahrzeuge können manuell oder mittels Kopplung an Transportleitsysteme zum korrekten Dock oder Tor navigiert werden. Erhalten Sie Kontrollsicherheit bei der Verladung und automatische Warnmeldungen bei Verzögerungen im Prozess.
+9
+Shipment Manager
+Überwachen der Zustände von Gütern und Lieferungen durch monitoren von Temperatur, Luftfeuchtigkeit und Schock. Prüfen der Beladungszustände – Bei Abweichung von Sollwerten und KPIs unmittelbar informiert werden. Kontrolle der Container-Flottenauslastung, Einhaltung von Routen, schnelles agieren bei Routenanomalien, Diebstahlschutz durch SMART Sensorik und Auslösen von Prozessaufträgen mittels Geofencing.
+10
+2 m
+INTRANAV Location Intelligence für den Einsatz mit SAP® Management Produkten
+INTRANAV, an Inpixon company, präsentiert Location Intelligence für den Einsatz mit SAP® Produktions- und Logistik-Management Produkten, wie SAP® Extended Warehouse Management (EWM), SAP® Manufacturing Execution (ME), SAP® S/4HANA oder SAP® Supply Chain Management (SCM) für automatisierte Industrieprozesse sowie für die Integration von Status-, Ident- und Prozessinformationen in Echtzeit.
+Mehr erfahren
+Inpixon erneut als ein Leader im Gartner® Magic Quadrant ernannt
+für Indoor Location Services
+2. aufeinanderfolgendes Jahr als Leader
+5. Jahr im Magic Quadrant anerkannt
+Lesen Sie den Bericht und erfahren Sie, warum Inpixon als Leader eingestuft wurde.
+ 
+Download Bericht
+Download Bericht
+Blog, News und Stories
+                  Bleiben Sie up to Date! In unseren News informieren wir Sie regelmäßig über aktuelle Real-Time Location System und IoT Themen aus der Praxis. 
+Zu den News
+Die Zukunft des Bestandsmanagements: Wie RTLS die Branche prägt
+ 
+Zu den News
+Top-Prognosen für intelligente Lagerhäuser und Fabriken im Jahr 2023
+ 
+Zu den News
+Beschleunigung der Transportprozesse im Lager mit INTRANAV smart Warehousing Lösungen
+ 
+Zu den News
+Logistics & Automation Dortmund  Treffen Sie uns!
+24.-25. Mai, Messe Dortmund
+Stand C-14-7
+Erfahren Sie mehr über die Vorteile eines intelligenten, vernetzten Lagers mit modernster Ortungstechnologie. Vereinbaren Sie jetzt einen Termin und sichern Sie sich ein kostenfreies Ticket!
+An unserem Stand erwartet Sie:
+Interaktive Lager-Simulation eines intelligenten Warehouses
+RTLS- & IIoT-Plattform Demo
+Full-Stack Real-Time Location System
+Mehr erfahren
+Mehr erfahren
+Success Stories: Wie Kunden mit INTRANAV ihre Ziele erreichen      
+Inventar Management – BMW Group
+Wie die BMW Group Echtzeit-Ortungstechnologie und -Software für ein intelligentes Bestandsmanagement einsetzt
+Kunden Success Story
+Schnellere, effizientere eCommerce-Lagerprozesse
+Wie TB International GmbH mit INTRANAV Smart Warehouse und der Integration von RFID, UWB und SAP die Produktivität um 40% steigerte
+Kunden Success Story
+Produktionsmittel und Werkzeuge sofort lokalisieren und Nutzungszeiten überwachen
+Wie dieses Unternehmen INTRANAV.IO und RTLS Tags von Inpixon einsetzt, um Suchzeiten zu reduzieren und das Qualitätsmanagement in der Produktion zu verbessern
+Kunden Success Story
+INTRANAV Smart Production
+INTRANAV erhöht die Prozesssicherheit des Materialtransports und digitalisiert mit papierlosem Handling die Fertigungsprozesse
+Kunden Success Story
+Intelligentes Bauteillager 
+Digital Twin sorgt für Eindeutigkeit im Materialverbauungs-Prozess und reduziert Suchaufwände
+Kunden Success Story
+SMART Material Flow 
+Durchlaufzeit- & Prozessoptimierung
+durch Materialfluss-Tracking
+Kunden Success Story
+Erfolgreiche Projekte und zufriedene Kunden: Eine Auswahl
+Sie wollen wissen, wie Sie mit Echtzeitortung Ihre Prozesse effizienter gestalten können?
+Unser Team berät Sie gerne mit umfassendem Know-how aus der RTLS Welt!
+ 
+Digitale LösungenRTLS Intelligence für den Einsatz mit SAP®
+Smart Warehouse
+Smart Factory
+Paperless Factory
+Yard Management
+Supply Chain
+Starter Kits
+ RTLS AnwendungenProduktionsprozess
+Material- und Warenfluss
+Flurförderzeug Flotten
+Container & Ladungsträger
+Equipment & Werkzeug
+Collision Avoidance
+Social Distance Management
+Workforce Safety
+ IoT EDGE SuiteINTRANAV.IO
+INTRANAV.APP
+INTRANAV.RTLS
+INTRALYTICS
+Connectivity Technologies
+Multi-RTLS Use Cases
+ Folgen Sie Uns 
+ News & MediaShowrooms
+Success Stories
+Media Center
+Downloads
+Webinare
+Events & Messen
+Pressemitteilungen
+ Über UnsPartner und Vereinsnetzwerk
+Awards
+Karriere
+Standorte
+UN Global Compact
+ Kontakt 
+INTRANAV, an Inpixon companyIntraNav GmbH Frankfurter Str. 27 65760 Eschborn Germany
+ Contact us  intranavinfo@inpixon.com
+        
+Inpixon 2479 E. Bayshore Rd, Suite 195 Palo Alto, CA 94303United States
+Contact us  +1 408 702-2167
+ 
+ © All rights reserved. INTRANAV and INTRALYTICS are registered trademarks of IntraNav GmbH.
+Impressum
+Datenschutz
+ 
+×
+Contact Form
+Englisch
+Deutsch

@@ -1,0 +1,47 @@
+NetForce 365 GmbH - Die Zukunft der Online-Redaktion
+		Zum Inhalt springen
+ 
+Hauptmenü
+ 
+Kontakt
+DeutschMenü umschalten
+English
+Deutsch
+ 
+ 
+ 
+Die Zukunft der Online-Redaktion   
+Was ist NetForce 365? 
+  NetForce 365 ist ein junges, dynamisches Startup spezialisiert auf Microsoft 365 Technologien. Wir fokussieren uns hierbei insbesondere auf die Bereiche PowerPlatform und Dynamics 365 CRM aus der Microsoft Produktfamilie.  Mit diesen Technologien bauen wir hochmoderne Nachrichten– und Informations-Portale, die in Sicherheit, Zuverlässigkeit, Erreichbarkeit und Geschwindigkeit den neusten Stand der Technik abbilden.   
+ 
+ 
+Stichwort Künstliche Intelligenz  
+Künstliche Intelligenz (KI) ist heutzutage in so gut wie jedem Werbetext zu finden. Bei uns ist es aber vielmehr als ein gut klingendes Buzzword: Wir setzen neuste Technologien und KI-Algorithmen ein, um automatisierte Texterkennung und die Zusammenfassung von Nachrichten ohne Redakteure zu ermöglichen. Damit wird es auch für Startups möglich, in kurzer Zeit eine große Anzahl von qualitativ hochwertigem Content auf dem eigenen Nachrichtenportal bereitzustellen. Aber hier hört der Einsatz von KI noch nicht auf: Wir nutzen die Künstliche Intelligenz ebenso zur Zielgruppensteuerung von Inhalten. Somit können wir auf der einen Seite Artikel und Inhalte bestimmten Themen und Gruppen zuordnen und auf der anderen Seite Besucher der Nachrichtenportale genau die Inhalte und Themen präsentieren, die sie interessieren.   
+Technologie - Microsoft 365 und Azure 
+Um diese modernen Lösungen anbieten zu können, bauen wir auf dem soliden Fundament der Microsoft 365 Lösung Dynamics 365 CRM und ergänzen dieses durch Entwicklungen im Bereich React, Next.js und C#.  So kann das komplette Back-End des Nachrichten-Portals in der Dynamics 365 CRM-Lösung und der PowerPlatform abgebildet werden. Auch für das Front-End bieten wir fertige Next.js / React Lösungen, um alle Bestandteile von modernen Informations-Portalen bereitzustellen. Wir bieten Komplett-Solutions für News (News Center), Veranstaltungsdatenbanken, Produktdatenbanken, Knowledge Base uvm..  
+ 
+ 
+Wer wir sind?  
+Die Gründer haben bereits mehrjährige Erfahrung in verschiedensten M365 Business Projekten. Hierbei haben sie für verschiedenste Kunden aus Wirtschaft und öffentlicher Hand Projekte mit Microsoft 365 Technologien umgesetzt. Alle drei Gründer haben bereits für namenhafte Unternehmen gearbeitet und so Erfahrungen in großen und anspruchsvollen Business und Software Projekten sammeln können.  
+Unser Portal - HubSite 365 
+Wir sind so überzeugt von unseren Portalen, dass wir selbst eins gestartet haben: HubSite365Hier finden Microsoft 365 Enthusiasten, Projekt Manager, Entwickler und alle anderen Interessierten die neusten Nachrichten, die wichtigsten Events aus dem Microsoft 365 Kosmos und hochwertige Wissensartikel. Über unsere Zielgruppensteuerung finden Besucher direkt die Informationen, die sie interessieren und für Content-Creator und Publisher bieten wir die Möglichkeit ihre Inhalte zielgerichtet an die gewünschte Zielgruppe zu verteilen. Unser Dashboard gibt Aufschluss über die wichtigsten aktuellen Informationen zu Microsoft 365: Service Health Status, Neuerungen, Inhalte aus der Microsoft Roadmap mit Versionsverlauf und vieles mehr!  
+ 
+Künstliche IntelligenzRedaktions-Unterstützung 
+Moderne TechnologieUnglaubliche Performance 
+Flexibles Back-EndIdeale Anpassbarkeit 
+Unser Team 
+ 
+Ralf Heid 
+Chief Executive Officer 
+ 
+Christian Badouin 
+Chief Marketing Officer 
+ 
+Niklas Wilhelm 
+Chief Technology Officer 
+ 
+							Copyright © 2023 NetForce 365 GmbH						
+Impressum
+Datenschutzerklärung
+ 
+ 

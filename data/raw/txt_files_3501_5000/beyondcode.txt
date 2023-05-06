@@ -1,0 +1,79 @@
+ Beyond Code
+What The Diff: Get AI-powered pull request summaries and weekly reports automatically.
+What The Diff: Get AI-powered pull request summaries and weekly reports automatically.
+Create free account →
+BeyondCode
+Software
+Video Courses
+Services
+Open Source
+About Us
+Blog
+Sign In
+Create Account
+Software
+Services
+Video Courses
+ Open Source
+About Us
+Blog
+Essential tools for web developers
+From local full stack development to cutting-edge AI platforms, you can buy all tools individually on their
+own websites or request a custom quote for your whole team.
+Request a team quote
+Tinkerwell
+The must-have tinker tool for the smart PHP and Laravel developer
+What The Diff
+Speed up code reviews with an AI-powered assistant
+Expose
+Share local sites via secure tunnels through any firewall and VPN
+Windy
+Convert HTML elements from any website to a Tailwind component
+Invoker
+Invoker is a no-code admin panel for all your Laravel applications
+HELO
+Framework independent and painless local email testing
+Latest posts
+Mar 2023
+Build a ChatGPT clone using the new OpenAI Chat API
+Learn how you can build a ChatGPT clone using Laravel and the new OpenAI chat API.
+Feb 2023
+Query your Laravel database using natural language
+Learn how you can make use of AI to query your database using natural language.
+Feb 2023
+The new Process facade in Laravel 10
+Learn all about the new Process facade that comes with Laravel 10!
+Feb 2023
+Fix your Laravel exceptions with AI
+Learn how you can take advantage of OpenAI to enhance your Laravel error pages with AI-powered solutions.
+Read more
+Open Source
+We are part of the open source community and develop packages for PHP and Laravel developers. Thousands of applications
+use these libraries and countless developers work with them daily.
+Expose
+The open-source ngrok alternative for PHP developers
+Expose is a beautiful and open-source tunnel application that allows you to share your local websites with others over the internet.
+Read the docs
+Laravel WebSockets
+WebSockets for Laravel. Done right.
+With Laravel Websockets, you don't need any additional software to start your own WebSocket server. Use the power of PHP.
+Read the docs
+Laravel Dump Server
+Bring Symfony's Var-Dump Server to Laravel 
+This package will give you a dump server, that collects all your dump call outputs, so that it does not interfere with HTTP / API responses.
+Read the docs
+Blog
+Newsletter
+Software
+Video Courses
+Open Source
+About Us
+Support
+Terms and Conditions
+Privacy Policy
+Disclaimer
+Sign up
+Beyond Code GmbH, An der Lingenmühle 10, 41061 Mönchengladbach, Germany
+VAT ID: DE315110518 / Managing Partners: Marcel Pociot, Sebastian Schlein
+Commercial Register: Amtsgericht Krefeld, HRB 16540
+ 

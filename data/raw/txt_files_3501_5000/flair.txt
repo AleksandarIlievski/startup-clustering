@@ -1,0 +1,185 @@
+HR Platform Built on Salesforce | flair.hr
+     
+      Products
+         Features   Absences Time tracking Onboarding Recruiting Payroll Shift Planner Cheers Performance Reviews Document Management Surveys
+      Pricing
+      
+      Resources
+            Success Hub flair Library Learning Hub Developer Hub
+      Blog
+      
+      What's new?
+        
+      en
+     
+        Deutsch
+      
+        English
+       Book a demo       
+      Products
+         Features   Absences Time tracking Onboarding Recruiting Payroll Shift Planner Cheers Performance Reviews Document Management Surveys
+      Pricing
+      
+      Resources
+            Success Hub flair Library Learning Hub Developer Hub
+      Blog
+      
+      What's new?
+        Book a demo    
+      en
+     
+        Deutsch
+      
+        English
+        The Only HR Software Without Limitations flair helps modern HR teams shape and perfect every aspect of the employee experience. Using precise insights and rich data, flair gives you the tools to easily design, adapt, and scale a world-class culture that drives your company forward. Book a demo       
+          Trusted by companies around the world
+    Built for Companies from 1 to 10,000+ Employees   
+    Shift Planner
+  
+    Absences
+  
+    Recruiting
+  
+    OKRs
+  
+    Payroll
+  
+    Time Tracking
+  
+    Feedback
+  
+    Documents
+     Visualize & plan  
+      Plan shifts based on demand filtered by team, location, and skills. So you always have the right people at the right time working.
+      Trade shifts  
+      Agile work has never been so easy – allow your employees to trade their shifts directly in the Employee Hub.
+      Integrate with anything  
+      Use your planned shifts for absences, time tracking, powerful reporting, invoicing, and much more.
+          Request Absences  
+      Allow employees to easily request their leave anywhere, anytime. Requests can be made through our app, online, or directly within Slack.
+      Import Any Local Holidays  
+      Automatically import and edit all local holidays to ensure correct absence balances and save time in managing approvals.
+      Configure Accrual Policies  
+      With flair, you can fully customize different accrual policies based on location, legislation, or even employee level.
+          Set Up Your Career Page  
+      Create and customise your own career page to receive applications directly into your recruiting funnel.
+      Post on Over 4,000 Job Sites  
+      Save time by easily posting on thousands of job sites across the world with just one click. Track conversions and success in one place.
+      Collaborate on Candidates  
+      Invite your colleagues to fill out score cards and evaluation forms directly in their Employee Hub.
+          Set Company & Team Goals
+  
+      Align your whole organization by setting company goals and then breaking them down into team and individual goals.
+      Track Progress
+  
+      Oversee the progress of your organization and allow employees to see how their efforts contribute to your company goals.
+      Use OKR Results in Reviews
+  
+      Easily import OKR Results in performance reviews and discuss them with your employee.
+          Prepare Your Payroll
+  
+      With flair, all employee data is automatically collected and used to prepare payroll runs across multiple locations and legislations.
+      Mass Upload Payslips
+  
+      Easily mass import payslips for your employees and automatically add them into their Employee Hub.
+      Export to Sage, Datev & More
+  
+      Export all payroll information, including salary adjustments, bonuses, and employee data changes.
+          Track Time from Anywhere  
+      Allow your employees to track their time in their browser, Mac app, or our app for iOS and Android.
+      Approve Time Sheets
+  
+      As a manager, you can approve timesheets, manage overtime, and customize working hours for each location and employee.
+      Disable Time Tracking
+  
+      Not looking to track time at specific locations? No worries: easily deactivate and hide the function for your employees.
+          Create Feedback Cycles
+  
+      Set up feedback cycles to collect feedback from your employees – while giving feedback to them as their manager.
+      Fully Customize Your Forms
+  
+      Use different question formats such as free text, multiple-choice, scorecards, drop-downs, and free sliders.
+      Schedule Feedback Meetings
+  
+      Schedule feedback meetings to compare answers one on one, hide different fields, and sign the discussed results at the end.
+          Request Data Changes
+  
+      Employees can use the Employee Hub to easily request data changes. Managers will receive a notification to approve the changes.
+      Upload & Download Documents
+  
+      Document management was never easier - allow your employees to upload and download documents directly in the Employee Hub.
+      Integrate into your payroll
+  
+      Stay compliant by automatically adding data changes to your payroll exports.
+         Org Chart Do you like to work in Miro or Figma? We do too.    Shiftplanner With flair, planning shifts is easy and effortless.    Reports Ensure transparency by creating powerful reports.      Org Chart Do you like to work in Miro or Figma? We do too.    Shiftplanner With flair, planning shifts is easy and effortless.    Reports Ensure transparency by creating powerful reports.       "flair really focuses on the processes around HR, which really simplifies things for us and allows us to grow and scale." Florian Gehring Founder and CEO     "Compared to the HR Software I used before, flair saves us an enormous amount of time and helps us to easily manage over 100 employees in multiple locations and legislations." Luca Bartucca HR Specialist     "We love flair because of its variety of features which helped us digitalize all our HR processes for more than 400 employees. It allows us to minimize chaos and focus on growth." Marcel Kubli Co-Founder     "All the features of flair, but especially the absence management in combination with the Slack integration, make our lives much easier." Michael Kessler Founder and CEO     Discover How flair Improves Your Processes Employee Hub Save Time for Your Employees The Employee Hub gives your employees all tools they need, whether they want to request an absence, plan shifts, fill out evaluation templates, or track their goals.     Salesforce Use the Power of Salesforce Use the endless opportunities by connecting flair to all of your other business processes in Salesforce.
+     Slack Seamlessly Integrates Into Your Slack Workspace
+ Make HR as easy as a Slack message by using flair directly in your Slack workspace.
+     App Make HR Accessible From Anywhere
+ Allow your employees to easily request absences, track their time, and upload their documents with the flair mobile app.
+          Import anything Securely Import to the Future of HR Within Minutes Easily import all your HR data and processes from your previous system to flair – securely and automatically. We support you during implementation to ensure a smooth migration.    Integrations Integrate flair With Over 4,000 Tools Using the power of Salesforce, flair can easily integrate with over 4,000 tools. This enables your organization to implement limitless processes across every department.    Data security Proven Data Security for Over 20 Years
+ All data is stored on Salesforce servers, which are known for being the most secure data centers. With flair’s data security features, every process conforms with the General Data Protection Regulation (GDPR).
+    Features
+ Save money by having all features in flair.
+ With flair you can recruit employees, offer them the best employeee-experience and manage talents - all within one powerful tool - Accessible from anywhere.
+      Import anything Securely Import to the Future of HR Within Minutes Easily import all your HR data and processes from your previous system to flair – securely and automatically. We support you during implementation to ensure a smooth migration.    Integrations Integrate flair With Over 4,000 Tools Using the power of Salesforce, flair can easily integrate with over 4,000 tools. This enables your organization to implement limitless processes across every department.    Data security Proven Data Security for Over 20 Years
+ All data is stored on Salesforce servers, which are known for being the most secure data centers. With flair’s data security features, every process conforms with the General Data Protection Regulation (GDPR).
+    Features
+ Save money by having all features in flair.
+ With flair you can recruit employees, offer them the best employeee-experience and manage talents - all within one powerful tool - Accessible from anywhere.
+      Proven Solution Leading Employee Experience Toolkit Thanks to a large number of positive reviews, flair has received several awards on the leading software review platforms.24/7 Real-Time Support The success of our customers is our top priority at flair.  Learning Hub In the Learning Hub, every employee can learn how to use flair. Implementation Support We help you to get started with flair and to transfer data from previous tools. Email & Phone We support you via email as well as by phone in a video call.Discover How flair Improves Your Processes Get in touch now for a free demo. Book a demo  Watch tour video        
+          flair is the leading HR culture platform native to Salesforce – helping modern teams shape and perfect every aspect of every employee's experience.
+         
+            Follow us
+            Product   
+      Absences
+      
+      Time tracking
+      
+      Onboarding
+      
+      Recruiting
+      
+      Payroll
+      
+      Shift Planner
+      
+      Cheers
+      
+      Performance Reviews
+      
+      Document Management
+      
+      Surveys
+      Resources   
+      Success Hub
+      
+      flair Library
+      
+      Learning Hub
+      
+      Developer Hub
+      Information   
+      Blog
+      
+      What's new
+      
+      Pricing
+      
+      Press Kit
+      
+      Reviews
+      Company   
+      About us
+      
+      Careers
+      
+      Contact us
+      
+      Support
+      
+      Partner Program
+      
+      Brand Guidelines
+      
+      Feature Request
+         2023 © flair.hr  TermsImprintCookiesPrivacy Policy  Free Demo 

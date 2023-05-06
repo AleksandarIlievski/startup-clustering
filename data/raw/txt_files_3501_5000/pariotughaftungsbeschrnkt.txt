@@ -1,0 +1,82 @@
+Pariot One | Smart Home neu gedacht
+   
+ Home (current) 
+ Beschreibung 
+ Bedienung 
+ Technologie 
+ Blog 
+Kontakt
+Pariot One 
+Smart Home neu gedacht.
+Pariot One
+Unsere Vision war schon immer eine Zentrale, die alle smarten Geräte bedienen kann. So intelligent, dass es auf ein Tippen oder sogar ein Wort reagieren kann und dich so gut kennt, wie du dich selbst. Mit der Pariot One Zentrale ist diese Vision jetzt Realität. 
+Eine Zentrale für alle Geräte.
+Entscheide selbst: 
+Unzählige Smart Home Systeme, fast alle Systeme verwenden unterschiedliche Standards und kommen mit einer eigenen App. Wäre es nicht gut, wenn man eine Smart Home Bridge hätte, die alle bekannten Standards in einer Zentrale bündelt, die man durch eine einzige App steuern kann?
+  
+ 
+ 
+  
+  
+Pariot One - Die Smart Home Plattform
+Alle großen Smart Home Standards in einer Zentrale gebündelt, damit sich alle Geräte mit einer App bedienen lassen. Ganz einfach.
+Design trifft Technologie
+Smart Home Geräte sollten nicht nur intelligent sein, sondern sie sollten auch mit ins Leben integrierbar sein. Daher war uns das Design der Zentrale ein besonders wichtiges Anliegen.
+Designed um gesehen zu werden.
+ Hier den Pariot Image-Film ansehen
+Steuere alle deine Geräte auch per Sprachbefehl - einfach so.
+Ganz egal, ob nun Amazon Alexa oder Google Home - beide Systeme werden unterstützt. Du hast noch keinen Smart Speaker? Kein Problem, verbinde deine Zentrale mit einem Bluetooth-Lautsprecher und schon kannst du deine Zentrale auch ohne Smart Speaker per Sprache steuern.
+Alexa, schalte die Lampe auf 100% Helligkeit.
+Schalte einfache Geräte an und aus.
+ Alexa, stelle die Heizung für eine Stunde auf 23°C. 
+Lass Alexa komplexere Szenarien erstellen für deine Wohlfühltemperatur.
+Alexa, aktiviere den Kinomodus und schalte Prosieben an.
+Erstelle deine persönliche Senderliste, sodass Pariot auch problemlos deinen Lieblingssender anschalten kann, wenn du nach Hause kommst.
+Der smarte Dolmetscher 
+Wir wissen, es gibt nicht den einen Smart Home Standard! Es gibt viele verschiedene Funk-Standards die alle unterschiedliche Zwecke erfüllen und dementsprechend unterschiedliche Anwendungsbereiche besitzen, jedoch nicht zueinander kompatibel sind. Daher haben wir Pariot One mit möglichst vielen Funk-Standards aufgerüstet, damit er zwischen diesen so vermitteln kann, wie ein Dolmetscher zwischen unterschiedlichen Sprachen.
+Entdecke eine neue Welt des Smart Homes
+Die Einrichtung der Zentrale ist denkbar einfach.
+1
+Stecker anschließen
+Ganz einfach: Die Zentrale auspacken und mit dem beiliegenden Netzteil anschließen.
+2
+App herunterladen
+Nun muss die iOS/Android-App heruntergeladen werden. Dort müssen nun die erforderlichen Schritte erledigt werden, damit sich die Zentrale mit dem eigenen Netzwerk verbindet.
+3
+Das smarte Leben genießen
+Sobald die Einrichtung abgeschlossen ist, kann es losgehen. Geräte hinzufügen, benutzerdefinierte Szenarien erstellen, Sensordaten graphisch darstellen lassen: Was du nun machen möchtest, ist ganz dir überlassen. Es ist dein Smart Home. 
+Universalfernbedienungen waren gestern.
+Ersetzt jede Fernbedienung. Kompromisslos.
+Egal ob es nun die Funksteckdose vom Baumarkt oder der Fernseher und die HiFi-Anlage ist: Mit nur zwei Klicks in der Pariot-App lässt sich jede Fernbedienung anlernen. Hierbei muss man das anzulernende Gerät lediglich anschalten - nicht wie etwa früher üblich jede Taste einzeln anlernen. Pariot One besitzt eine große Datenbank an Infrarot-Codes, sodass die Zentrale bereits beim Anschalten weiß, um welches Gerät es sich handelt. 
+Ein Ende dem Fernbedienungschaos.
+Ein Fernseher, eine Hifi-Anlage, ein Blueray-Player, eine Multimedia-Zentrale - wer kennt es nicht: das übliche Fernbedienungschaos, das in den meisten Wohnzimmern vorherrscht. Wir sagen mit der Pariot App dem Chaos den Kampf an, denn das hat nichts im 21. Jahrhundert zu suchen. 
+Reichweite? Kein Problem dank Mesh-Networking
+ZigBee besitzt die Fähigkeit des Mesh-Networking, das dafür sorgt, dass nur die erste Leuchte eine unmittelbare Verbindung zur Zentrale benötigt. Die erste Lampe leitet diese Signale nun an die zweite Lampe weiter. Kurzum: Mehr ZigBee Geräte sorgen für eine bessere Reichweite und Zuverlässigkeit!
+So sicher wie nie zuvor
+Jeden Tag werden neue Smart Home Systeme gehackt - weil Hersteller unsichere Verschlüsselungsalgorithmen verwenden, oder sogar komplett darauf verzichten. Daher war uns die Datensicherheit ein besonders wichtiges Anliegen. Alle Daten, die gesammelt werden, bleiben lokal auf der Pariot One Zentrale gespeichert. Die Kommunikation zwischen Pariot One und der Pariot App wurde mittels SSL 256-Bit-verschlüssselt - dem Standard beim Online-Banking. Somit sind die Daten gegen jegliche äußeren Eingriffe geschützt.
+Modern, sicher, disruptiv. Die Pariot-Cloud.
+Die Pariot-Cloud ist keine gewöhnliche Cloud, keine einsame Insellösung. Sie verbindet viel mehr bestehende Insellösungen zu einer ganzheitlichen Smart Home Lösung! Seid gespannt!
+Sei informiert, wenn es losgeht!
+In Kürze startet die Produktion von Pariot One. Trag dich nun in den Newsletter ein und sei der Erste, der in den Genuss der Pariot One Zentrale kommt.
+*Angaben benötigt
+Email-Adresse *
+Demnächst verfügbar
+Die iOS und Android App
+ App Store
+ Google play
+*Läuft unter iOS 10.0.5+, Android Kitkat und höher. 
+Über Pariot
+Jobs
+Presse
+Kontakt
+ 
+Resourcen
+Impressum
+Datenschutz-Erklärung
+AGBs
+Widerrufsbelehrung
+ 
+ 
+Copyright: Pariot Smart Home GmbH 2021, All rights reserved.
+ 
+ 

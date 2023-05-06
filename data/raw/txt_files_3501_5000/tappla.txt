@@ -1,0 +1,159 @@
+Tappla - OTT App Builder for Apple TV, Roku & Fire TV
+Apple TV App Builder
+Apple TV apps for Vimeo users
+Apple TV Apps for Roku Channels
+Roku Channel Builder
+Roku Channel for Vimeo users
+Use Cases
+CHURCH TV APPS
+Blog
+Pricing
+Login
+Try Tappla FREE
+ 
+Create Apps for Apple TV, Roku and Fire TV fast,        no coding required.
+Powerful, easy-to-use tools to create, publish & update Apple TV apps and video feeds for Roku Direct Publisher and Amazon Fire TV.
+The Tappla OTT builder turns your video content from your CDN, a Roku feed, or Vimeo into your own branded video-streaming TV app.
+One-click signup with Vimeo
+Not on Vimeo? Sign up with email here
+(Besides Vimeo, you have the option to pull in your video content from a CDN or a Roku Direct Publisher Feed.)
+]
+Turn your Vimeo videos into Apple TV App
+]
+Create an Apple TV App from your Roku Feed
+]
+Pre-build Apple TV design templates
+]
+Roku feed from unlimited Vimeo Showcase
+]
+Automatic syncs with Vimeo, CDN or feed
+]
+Instant app preview on Apple TV
+Start with pulling in your video content
+Vimeo: Tappla has a powerful and direct integration with Vimeo to help stay synced.
+Roku Feed: You used Roku Direct Publisher already? Then use the same feed URL to build your Apple TV app with Tappla. 
+CDN or own Server: send us your video streaming URLs and metadata and we write a JSON feed code to get your video data.
+OLD WAY
+Building Apps the Old Way is complicated & full of setbacks
+Think twice before going with an overpriced TV App Development Agency.
+You need the flexibility to update your app by yourself.
+You have new videos – so you need the tools to update your app without having to rely on developers or going through the app submission process again and again.
+You don’t have the budget to pay extra
+You have a tight budget? Or simply want to try it out first? Paying an app development agency quickly can cost you thousands of dollars just to get started with a basic app.  
+You want to launch now, not in 2-6 months
+You have deadlines and want to launch on time? App developers easily get distracted with other clients, delay deadlines & overcharge because of ‘unexpected requests’. 
+NEW WAY
+Build & Launch OTT Video Apps Yourself, Without Developers
+With Tappla you can easily launch apps for Apple TV, Fire TV, and Roku
+✓ Do-it-yourself without coding & be independent of developers. ✓ Launch your apps in a fraction of the time it would take with an app development agency. ✓ Push updates instantly – without having to do re-submissions to the App Store.
+Easy video streaming integration options:
+Apple TV App Builder
+Build native Apple TV Apps quickly using our visual app builder
+Go from idea to launch with our visual Apple TV app builder & templates – no coding or developers required. 
+f
+Customize your app
+With our cloud-based app builder you can customize every part of your app. No coding necessary. Plus you instantly see a preview while editing. 
+
+Easy video integrations
+Populate your video content from Vimeo (direct integration) or your server / CDN (through a JSON / MRSS feed).
+
+Instant app preview
+Instantly check out a preview of your app  directly on Apple TV – even bevor starting the app submission process to the App Store.
+
+Done-for-you App Store Publishing
+Get published in the App Store fast. We use your own Apple Developer account & take care of the entire submission process (incl. app screenshots).
+Launch your own custom Apple TV App now
+Forget developer bottlenecks & budget restrictions, create and launch your Apple TV app yourself, at a fraction of the cost of an app development agency. 
+Start my free trial
+“Creating my own Apple TV app with Tappla was easy & fast. Believe me, I don’t know anything about coding.”
+Carolina Puga, Founder of Paulina Cocina
+
+Tappla's Feed Manager 
+Quickly launch Roku & Fire TV apps with  Tappla’s Video Feed Manager
+Need a video feed to create a Roku Direct Publisher Channel & Amazon Fire TV App? Tappla’s Video Feed Manager syncs with your video catalog from Vimeo & HTTP live stream URLs and generates a video feed URL optimized for Roku and Fire TV.
+
+Easily generate feeds for Roku & Fire TV
+We connect with your Vimeo account and live stream URLs and generate feed URLs optimized for Roku & Fire TV
+
+One feed with your entire video library
+Roku & Fire TV require one single Feed URL – not multiple. We give you the tools to merge all your Vimeo playlists & live streams into a single feed URL.
+
+Keep your Vimeo playlists always in sync
+Forget dealing with syntax errors while updating your feed manually. We keep your feed in sync with the changes you make in your Vimeo playlists.
+
+Feeds optimized  for Fire TV & Roku
+Get your videos discovered through the right metadata: apply the right content types (e.g. mini-series vs TV special), category, language etc.
+Launch your Roku / Fire TV App today in three simple steps
+#1
+Sign up to Tappla & connect your video provider
+#2
+Setup & match your videos & generate feed URLs
+#3
+Use our feed to create your app at Amazon Creator / Roku Publisher
+Start my free trial
+Integrations
+Deeply integrated with your video tools
+Tappla integrates directly with Vimeo and HLS Live streaming URLs (live events or 24/7 channels) to keep your video apps always in sync. 
+Trusted by video creators all over the world & from different industries 
+
+Churches
+Give your congregation an easier way to watch your services.
+
+Sports
+Engage your fans with live & on-demand videos on the big screen.
+
+Conferences 
+Broadcast your conference to TV screens with custom branded apps.
+
+Schools & Education
+Give your students an easier way to watch your courses & tutorials. 
+
+Brands & Agencies
+Get branded Netflix-style video streaming apps quickly & easily.
+
+Local TV & Radio
+A new way to distribute your 24/7 streams to a worldwide audience.
+Creating my own TV app for Apple TV was so easy and fast. Believe me I don’t know anything about programming… If I can do it you can do it, too.
+Carolina Puga,  Paulina Cocina
+We were exited about the quick & easy setup that Tappla is providing us and I think it is one of the best tools out there in the market at the moment.
+Michael Gebert, Crowd Dialog
+Create your free account today
+Quickly create and publish your video apps with Tappla. 
+Start my free trial
+Easy setup • No credit card required
+How To Create Your Own Apple TV App
+You have a video business and now want to move forward and build your own TV app. But have no knowledge of how to code an app and now clue about programming. The good news is – you don’t have to.
+Tappla is an app builder for Apple TV where no IT experience or coding knowledge is required. With Tappla’s new web dashboard it is easy to update and manage the video content of your Apple TV app. Building your own Apple TV app just takes less than 20 minutes and Tappla assists you also in the submission of your TV app to Apple’s App Store.
+Over The Top Media Services (OTT Apps)
+Over the top (OTT) apps provide new opportunities for broadcasting companies, video producers and media licence owners to reach new audiences directly in the family room via Apple TV, Roku or Amazon Fire TV.
+As OTT apps stream media (e.g. video content) over the internet you can bypass the cable service providers. You don´t need to get one of the rare TV channel spots of cable TV anymore. All you need is to develop an OTT App for Apple TV, Roku or Fire TV.
+Create Your Own TV Channel
+You can easily create your own TV channel without any coding skills with an all in one TV app service provider like TAPPLA. With an own TV Channel your audience can then download your App on their preferred streaming device (e.g. Apple TV) and watch your videos and live streams.
+This makes sense for many different use case. For example many churches use Tappla to build their own custom church TV app. Then their audience can browse the video library of your own TV Channel / App & select the videos they want to watch (video on demand). Your videos will be accessible any time, day or night.
+Apple TV App Development
+Tappla is an Apple TV app development platform that let´s you build your own tvOS app within minutes. We give you a web interface where you can customize your Apple TV app to your specifications and use your own graphics, colors … to match the look and feel of your brand.
+You’ll get an account to our web interface and there you can update by yourself all your video content and life streams – any time and in real time. We have developed many different Apple TV Apps already and optimized them for TV.
+ 
+Products
+Pricing
+Get a demo
+Church App Development for Apple TV
+Feed URL Builder for Roku & Fire TV
+Apple TV App Development
+Ressources
+About Tappla
+Blog
+Apple TV Apps Case Studies
+Help Docs
+Legal
+Imprint
+Privacy Policy
+Cookie Policy
+Terms of Service
+User Guidelines
+DMCA
+ 
+Facebook
+Twitter
+RSS
+ 

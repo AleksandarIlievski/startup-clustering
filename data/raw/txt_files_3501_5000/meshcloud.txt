@@ -1,0 +1,185 @@
+Erfolgreiche Cloud-Transformation
+ 
+Produkt
+Services
+Cloud Foundation Assessment
+Landing Zones Showcase
+Lösung
+Nach Cloud
+AWS
+Azure
+Google Cloud
+OpenShift
+Kubernetes
+Cloud Foundry
+OpenStack
+Nach Funktionen
+Tenant Management
+Identity & Access Management
+Security & Compliance
+Cost Management
+Service Ecosystem
+Nach Stakeholder
+CxO
+Enterprise Architect
+Platform Engineer
+Developer
+Security Officer
+Controller / FinOps
+Mehr
+Integrationsszenarien
+Erfolgsgeschichten
+Herausforderungen
+Open Source Projekte
+Preise
+Ressourcen
+Resource Library
+FAQ
+Dokumentation
+Newsletter
+Blog
+Unternehmen
+Über Uns
+Karriere
+Presse
+Partner
+Events
+Kontakt
+Demo buchen
+Kontaktanfrage
+Search
+ 
+ Erfolgreiche Cloud Transformationfür Unternehmen
+meshcloud bietet die führende Lösung zur erfolgreichen Cloud Transformation von Unternehmen.
+Demo buchenSlack Community
+Cloud Transformation in drei SchrittenSo meistert Ihr Unternehmen eine erfolgreiche Cloud Journey1. Cloud Foundation Team aufbauenDas Cloud Foundation Team (auch Cloud Center of Excellence genannt) ist unternehmensweit für die Clouds zuständig, koordiniert verschiedene Stakeholder (z.B. Security, Finance) und stellt Developern alles bereit, was sie benötigen um cloud-native zu entwickeln.
+2. Cloud Foundation Platform einführenUm alle Anforderungen erfüllen zu können, benötigt das Cloud Foundation Team eine zentrale Plattform wie meshStack. Mithilfe dieser können alle Clouds sowie ihre User unternehmensweit verwaltet und bedient werden.
+3. Clouds ausrollen und User onboardenNach dem erfolgreichen Aufbau der Cloud Foundation erfolgt das Onboarding der Application Teams. Diese erhalten zahlreiche Self-Service-Möglichkeiten und dadurch Freiheit bei der Nutzung ihrer bevorzugten Clouds bei gleichzeitiger Absicherung durch vordefinierte Sicherheitsregeln.
+Was bedeutet Cloud Transformation für Sie?Eine erfolgreiche Cloud Journey -für alle Stakeholder und Cloudnutzer
+Was CxOs bei der Cloud-Transformation beachten müssenCyber Security, ESG, New Work: Als Top-Management-Entscheider möchten Sie Ihr Unternehmen digital erfolgreich machen. Eine erfolgreiche Cloud Transformation, hin zu einem cloud-nativen Unternehmen, ist dabei einer der zentralen Hebel für Wachstum und Erfolg. Behalten Sie die Führung über ihre Technologielandschaft und bleiben Sie digital souverän.
+meshcloud hat viele große Unternehmen dabei begleitet, Ihre Cloud Journey erfolgreich zu machen. Unsere Lösungen sind aus der Praxis entstanden und haben die gesamte Organisation im Blick.
+Mehr über Cloud aus CxO Perspektive
+Enterprise ArchitectMit meshStack stellen Enterprise Architects sichere Cloud-Umgebungen bereit, behalten die Kontrolle über die Infrastruktur und schaffen manuelle Routineaufgaben ab. Neue Plattformen lassen sich einfach integrieren und den DevOps-Teams zur Verfügung stellen.
+Mehr für Enterprise Architects
+Platform EngineerPlatform Engineers sind verantwortlich für den Betrieb einer Cloudplattform. meshStack ermöglicht Platform Engineers u.a. das skalierbare Ausrollen von Landing Zones, User Self-Service für ihre Automatisierungen und interne Kostenverrechnung für alle Cloud Tenants.
+Mehr für Platform Engineers
+DeveloperDank meshStack ist es DevOps-Teams möglich, ihre Time to Cloud erheblich zu reduzieren und dabei alle benötigten Ressourcen im Self-Service zu erhalten. Grundlegende Sicherheitsmerkmale sind vorkonfiguriert und häufig benötigte Zusatzdienste direkt buchbar.
+Mehr für Developer
+Security OfficerMit meshStack erhalten Security Officer ein zentrales System für die Gestaltung von Governance- und Security-Controls die für alle Clouds umgesetzt werden sollen. Dies vereinfacht es enorm ein einheitliches Sicherheitsniveau sicherzustellen.
+Mehr für Security Officers
+Controller (FinOps)Keine manuellen Verrechnungen, keine unbemerkt überzogenen Budgets, kein Bill Shock. Erreichen Sie eine automatisierte und vollständige Umlage aller anfallenden Cloudkosten, Echtzeit-Kontrolle von Budgets durch die Teams und jederzeitigen Einblick in den aktuellen Budgetverbrauch.
+Mehr für Controller
+Das sagen unsere Kunden
+Cloud Governance endlich automatisiert - die Integration in eine Multi-Cloud-Governance hat einwandfrei funktioniert, da das Produkt genau die Anforderungen eines Unternehmens widerspiegelt.Phil K., IT Infrastructure Architect
+Multicloud Governance vom Feinsten - absolut empfehlenswert und jederzeit anpassbar. Das Produkt ist einfach zu integrieren und anzupassen. Die Funktionen und die Übersicht sind zukunftsweisend und der Support ist wirklich toll. Feature Requests werden sofort eingerichtet.Erik S., IT Service Engineer
+ 
+Unsere Methodik: Cloud Foundation Maturity ModelDas bewährte Modell zum schnellen Aufbau Ihres Cloud Foundation TeamsDas Cloud Foundation Maturity Modell (CFMM) wurde eigens dazu entwickelt, um Unternehmen den perfekten Fahrplan für ihre Cloud Transformation aufzuzeigen. Im Gegensatz zu anderen Ansätzen, bietet es mit seinen fünf funktionalen Säulen einen strukturierten und übersichtlichen Weg.
+Wir bieten Ihnen ein Assessment und begleiten Sie beim Aufbau Ihres Cloud Foundation Teams – dadurch erhalten Sie handfeste Ergebnisse innerhalb kürzester Zeit.
+Mehr erfahren: Assessment
+Unser Produkt: Cloud Foundation Platform meshStackmeshStack: Die zentrale Plattform zur Steuerung Ihrer Cloud-LandschaftmeshStack ermöglicht es Cloud Foundation Teams alle Cloud-User von nur einer Plattform aus zu bedienen. Mit meshStack können Sie auf alle Ihre Clouds (z.B. AWS, Azure oder Google Cloud) zugreifen, Budgets festlegen, Rechnungen aufteilen, Landing Zones bereitstellen, Compliance-Standards durchsetzen, ein Cloud-Service-Ökosystem aufbauen und vieles mehr. All das während ihre Entwicklerteams weiterhin direkt mit den nativen APIs und Schnittstellen der Cloud-Plattformen arbeiten.
+Sie können meshStack in einer kostenlosen Trial ohne Risiko ausprobieren. Erleben Sie, wie meshStack den Umgang mit Ihren Clouds revolutionieren kann.
+Mehr erfahren: meshStackDemo anfordern
+Cloud Transformation mit AWS, Azure, GCP & Co.Eine Cloud Foundation für alle:meshStack unterstützt aktuell7 Public und Private Clouds
+Optimiertes Cloud-Management mit meshStack
+Zukunftsfähig: Neue Clouds ohne aufwändige Integrationsprojekte nutzen
+Bieten Sie Ihren Entwicklern Cloud-Self-Service mit eingebauter Compliance - neue Cloud-Accounts innerhalb weniger Minuten
+Betreiben Sie Clouds jederzeit sicher & compliant
+Entwickler nutzen weiterhin alle cloud-nativen Tools und Services direkt
+Automatisieren Sie Ihre Abrechnungsprozesse
+und vieles mehr
+AWS
+Azure
+Google Cloud
+Public & Private Clouds
+Cloud Foundry
+Kubernetes
+OpenShift
+OpenStack
+Best Practice: Die 5 Säulen der Cloud FoundationEin stabiles Fundament für Ihreeffektive Cloud JourneyDie größte Hürde der Cloud-Transformation ist die immense Komplexität. Technische Integration und organisatorische Veränderung müssen sinnvoll zusammengeführt werden. Um das zu meistern basiert meshStack auf den folgenden 5 Säulen der Cloud Foundation:
+Tenant ManagementIdentity & Access (IAM)Security & ComplianceCost ManagementService Ecosystem
+Tenant ManagementEin Tenant ist z.B. ein Account bei AWS, eine Subscription bei Azure oder ein Projekt bei Google Cloud. Eine Vielzahl an Cloud-Tenants erfordert ein gutes Tenant Lifecycle Management. meshStack ermöglicht dies cloud-übergreifend, um so die Tenant-Erstellung zu automatisieren und einheitliche Sicherheitsstandards durchzusetzen. Goodbye Schatten-IT.
+Mehr: Tenant Management
+Identity & Access ManagementEine saubere Verwaltung von Identitäten und Berechtigungen im Umfeld von Cloud-Providern gehört zu einer regelkonformen (Multi-)Cloud-Strategie. meshStack ermöglicht die Verwaltung von Nutzern und Rollen über alle Cloud-Plattformen einheitlich.
+Mehr: Identity & Access Management
+Security & ComplianceEine umfassende Cloud Governance muss die Cloud-Sicherheit und Cloud-Compliance-Anforderungen in ihrem Kern beinhalten und dabei zeitgleich den Application-Teams ihre Freiheit und Autonomie gewähren. Dazu gehört ein effizientes Angebot und Management geeigneter Landing Zones. Hierzu bietet meshStack die nötigen Funktionalitäten.
+Mehr: Security & Compliance
+Cost ManagementEine erfolgreiche Multi-Cloud-Strategie sorgt dafür, dass alle Kosten zuverlässig dargestellt und verrechnet werden. meshStack zeigt Teams für jedes Projekt die aktuellen Kosten, überwacht organisatorische Budgets und unterstützt die vollautomatische Verrechnung (Chargeback) im Hintergrund. Detailliertes Kosten- und CO2-Reporting (wenn verfügbar) ermöglicht es Teams ihre Kostenverantwortung wahrzunehmen.
+Mehr: Cost Management
+Service EcosystemUnternehmen, die meshStack nutzen, können das Angebot von Cloud-Providern nahtlos um organisationsspezifische Services erweitern (z.B. On-Premise Connectivity, Datendienste). Im Service Marketplace können Teams eigene Services anbieten oder konsumieren – im Self-Service und mit integrierter Kostenverrechnung. Damit kann eine servicebasierte Organisation technisch und wirtschaftlich umgesetzt werden.
+Mehr: Service Ecosystem
+Vielfach ausgezeichnet & zertifiziert
+Bereit für Cloud-Native?Starten Sie Ihre Erfolgsstory mit nur einem Klick.
+Demo buchenKontaktanfrage
+The Cloud-Natives Newsletter
+Bekannt aus
+Produkt & Services
+meshStack
+Cloud Foundation Assessment
+Landing Zones Building
+Preise
+Cloud Plattformen
+AWS
+Azure
+Cloud Foundry
+Google Cloud
+Kubernetes
+Openshift
+Openstack
+Foundations
+Identity & Access Management
+Tenant Management
+Cost Management
+Security & Compliance
+Service Ecosystem
+Stakeholder
+CXO
+Platform Engineer
+Enterprise Architect
+DevOps
+Ressourcen
+FAQ
+Dokumentation
+Whitepapers
+Newsletter
+Blog
+Unternehmen
+Über Uns
+Presse
+Partner
+Events
+Karriere
+Kontakt
+Rechtliches
+Impressum
+Datenschutz
+Cookie-Richtlinie (EU)
+© 2023 meshcloud. All rights reserved 
+Cookie-Zustimmung verwalten
+We use technologies like cookies to store and/or access device information. We do this to improve browsing experience and to show personalized ads. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+Funktional
+Funktional
+								Immer aktiv							
+Die technische Speicherung oder der Zugang ist unbedingt erforderlich für den rechtmäßigen Zweck, die Nutzung eines bestimmten Dienstes zu ermöglichen, der vom Teilnehmer oder Nutzer ausdrücklich gewünscht wird, oder für den alleinigen Zweck, die Übertragung einer Nachricht über ein elektronisches Kommunikationsnetz durchzuführen.
+Vorlieben
+Vorlieben
+Die technische Speicherung oder der Zugriff ist für den rechtmäßigen Zweck der Speicherung von Präferenzen erforderlich, die nicht vom Abonnenten oder Benutzer angefordert wurden.
+Statistiken
+Statistiken
+Die technische Speicherung oder der Zugriff, der ausschließlich zu statistischen Zwecken erfolgt.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+Marketing
+Marketing
+Die technische Speicherung oder der Zugriff ist erforderlich, um Nutzerprofile zu erstellen, um Werbung zu versenden oder um den Nutzer auf einer Website oder über mehrere Websites hinweg zu ähnlichen Marketingzwecken zu verfolgen.
+Optionen verwalten
+Dienste verwalten
+Anbieter verwalten
+Lese mehr über diese Zwecke
+Akzeptieren
+Ablehnen
+Einstellungen ansehen
+Einstellungen speichern
+Einstellungen ansehen
+{title}
+{title}
+{title}
+Zustimmung verwalten

@@ -1,0 +1,89 @@
+Startseite - NosoEx by GWA Hygiene
+Zum Inhalt springen 
+ 
+ 
+Menü 
+So funktionierts
+Unternehmen
+News
+Jobs
+Kontakt
+Login
+ 
+Hygiene. Digitalisierung. NosoEx.
+Der digitale Assistent für Krankenhaus­hygiene.
+1 Nutzungen des Desinfektionsmittelspenders erfasst das NosoEx-Sensormodul anonym.
+2 Die Sensordaten überträgt das NosoEx-Netzwerk an den Data Hub.
+3 Bei optionaler Berufsgruppenzuordnung mittels Mitarbeitertransponder, erfolgt ebenfalls eine Datenübertragung an den Data Hub. Der Data Hub überträgt erfasste Daten an einen zertifizierten deutschen Rechenzentrumserver.
+4 Ihre NosoEx-Daten erhalten Sie ausschließlich über verschlüsselte Verbindungen. Nutzen Sie detaillierte Auswertungen über das reale Desinfektionsverhalten Ihres Hauses.
+weitere Auswertungsmöglichkeiten
+Stations-Feedback (Stationsmonitor)Stationspersonal kann Berufsgruppen-Auswertung im Zeitverlauf einsehen
+Report (PDF)Auswertung über alle Stationen hinweg und für einzelne Stationen an ausgewählte Empfänger
+Jetzt unverbindlich anfragen
+Besonders in Krankenhäusern ist die Einhaltung von Hygiene-Standards auch aus ökonomischer Sicht von Bedeutung, wenn dadurch nosokomiale Infektionen reduziert werden können. Präventive Maßnahmen stehen daher bei uns an oberster Stelle. Als Pionier sind wir davon überzeugt, dass wir mit NosoEx ein Einsparpotenzial realisieren und die Patientensicherheit erhöhen.
+Frank Yuji Ohi, ehem. VorstandElblandkliniken
+NosoEx in Aktion
+Ihre NosoEx-Vorteile
+objektive und automatisierte Datenerfassung 
+detaillierte Hygiene-Kennzahlen
+datenbasiertes Feedback an das Personal
+optimales Spendermanagement
+nachhaltig nutzbare Digital-Infrastruktur
+Hardware und Software Hand in Hand
+Nahtlose Integration von NosoEx in Ihre Infrastruktur und Arbeitsprozesse
+Upgrade Ihres Spenders mit NosoEx?
+Übersichtliche Datenauswertung
+Dashboard
+Stationskarte
+Wir haben auf den Stationen einen Anstieg beim Desinfektions­mittel­verbrauch von bis zu 35% pro Jahr erzielt.
+Frank Oppenheimer, Leitender Oberarzt KrankenhaushygieneKlinikum Lüneburg
+Ich bin zuversichtlich, dass wir mit dieser Technologie unsere Standards bezüglich der Hände­hygiene dauerhaft auf ein noch höheres Niveau heben werden.
+Antje Zädow, Leitende HygienefachkraftMüritz-Klinikum
+Bei der Beweislastumkehr ist es erforderlich, dass das Krankenhaus und die Mitarbeiter Daten zum Hygiene-Verhalten anführen können. … Das Monitoring des Hände­desinfektions­verhaltens, wie es NosoEx bietet, ist ein sehr guter Ansatz für die sekundäre Beweisführung. 
+Dr. Tobias Weimer, M.A., Fachanwalt für Medizin­recht, Kanzlei Weimer I Bork
+Das System zeigt, welche Spender besonders frequentiert werden und welche nicht. Dadurch sehen wir, wo sich etwas optimieren lässt.
+Frank Markert, Fach­kranken­pfleger für Hygiene und Infektions­prävention, Marienhospital Stuttgart
+Die Messung, die wir jetzt über GWA zur Verfügung gestellt bekommen, ist sehr viel genauer und berufsgruppenspezifisch. Somit können wir die Berufsgruppen auch spezifischer ansprechen.
+Dr. Akhil Chandra, Medizinischer DirektorKlinikum Wolfsburg
+Erfahrungsbericht: Krankenhaus mit über 1.500 Betten
+7 von 9 internistischen Bereichen erreichten nicht den Referenzwert von 10 Händedesinfektionen pro Patiententag.
+> In einem der Bereiche wurde NosoEx eingeführt. Hier wurden dadurch 19 Händedesinfektionen pro Patiententag erzielt. 
++ Das entspricht einem Anstieg von 27%
+Weitere Erfahrungsberichte ansehen
+News zu NosoEx
+Interaktives Feedbacksystem zur Steigerung der Händehygiene Adhärenz in der stationären Intensivpflege20. März 2023
+HARTMANN und GWA Hygiene gehen strategische Partnerschaft bei digitalen Gesundheitslösungen ein20. Juni 2022
+3 Messen in 3 Wochen20. Mai 2022
+Aktuelles über NosoEx …
+Die Händehygiene ist DER zentrale Bestandteil der Infektions­prävention. Um das Bewusstsein dafür nachhaltig zu schärfen, brauchen wir weitere Daten. NosoEx stellt uns diese Daten automatisiert und benutzerfreundlich zur Verfügung. Diese Unterstützung leistet einen signifikanten Beitrag zur Reduzierung des Infektionsrisikos.
+Christoph Kutschker, Leiter KrankenhaushygieneElblandkliniken
+Bekannt aus …
+ 
+ 
+Ja ich stimme zu, dass meine Angaben aus dem Kontaktformular zur Beantwortung meiner Anfrage erhoben und verarbeitet werden. Hinweis: Sie können Ihre Einwilligung jederzeit für die Zukunft per E-Mail an info@gwa-hygiene.de widerrufen. Detaillierte Informationen zum Umgang mit Nutzerdaten finden Sie in unserer Datenschutzerklärung.
+Bitte lasse dieses Feld leer.
+ 
+ GWA Hygiene GmbH
+Heinrich-Mann-Str. 11
+18435 Stralsund
+Kontakt
+Telefon: 03831 / 22 98 100
+E-Mail: info[at]gwa-hygiene.de
+ 
+Impressum
+Datenschutzerklärung
+Login
+ 
+© 2023 GWA Hygiene GmbH				
+Diese Website benutzt Cookies. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu.
+Zustimmen Einstellungen AblehnenCookie-Einstellungen
+Schließen
+Cookie-Übersicht 
+Diese Website verwendet Cookies, um Ihre Erfahrung zu verbessern, während Sie durch die Website navigieren. Von diesen Cookies werden die als notwendig eingestuften Cookies auf Ihrem Browser gespeichert, da sie für die Funktion der Grundfunktionalitäten der Website unerlässlich sind. Wir verwenden auch Cookies von Drittanbietern, die uns helfen zu analysieren und zu verstehen, wie Sie diese Website nutzen. Diese Cookies werden nur mit Ihrer Zustimmung in Ihrem Browser gespeichert. Sie haben auch die Möglichkeit, diese Cookies abzulehnen. Die Ablehnung einiger dieser Cookies kann jedoch Auswirkungen auf Ihr Surfverhalten haben.
+CookieTypDauerBeschreibungcookielawinfo-checkbox-necessaryfunktional1 StundeDieses Cookie wird durch das GDPR Cookie Consent Plugin gesetzt. Das Cookie wird verwendet, um die Zustimmung des Benutzers zu den Cookies in der Kategorie „Notwendig“ zu speichern.cookielawinfo-checkbox-non-necessaryfunktional11 MonateDieses Cookie wird durch das GDPR Cookie Consent Plugin gesetzt. Die Cookies werden verwendet, um die Zustimmung des Benutzers zu den Cookies in der Kategorie „Nicht notwendig“ zu speichern.GPSAnalytics30 MinutenDieses Cookie wird von Youtube gesetzt und registriert eine eindeutige ID zur Nachverfolgung von Benutzern auf der Grundlage ihrer geografischen Lage.IDEAdvertisement1 JahrWird von Google DoubleClick verwendet und speichert Informationen darüber, wie der Nutzer die Website und jede andere Werbung vor dem Besuch der Website nutzt. Dies wird verwendet, um den Nutzern Anzeigen zu präsentieren, die für sie gemäß dem Nutzerprofil relevant sind.pll_languagefunktional11 MonateDieses Cookie wird durch das Polylang-Plugin für WordPress-Websites gesetzt. Das Cookie speichert den Sprachcode der zuletzt besuchten Seite.VISITOR_INFO1_LIVEAdvertisement5 MonateDieses Cookie wird von Youtube gesetzt. Es wird verwendet, um die Informationen der eingebetteten YouTube-Videos auf einer Website zu verfolgen.YSCPerformanceSessionRegistriert eine eindeutige ID, um Statistiken der Videos von YouTube, die der Benutzer gesehen hat, zu behalten.
+ 
+Necessary							
+Necessary
+immer aktiv
+Für das einwandfreie Funktionieren der Website sind Cookies unbedingt erforderlich. In diese Kategorie fallen nur Cookies, die grundlegende Funktionalitäten und Sicherheitsmerkmale der Website gewährleisten. Diese Cookies speichern keine persönlichen Informationen.								
+SPEICHERN & AKZEPTIEREN

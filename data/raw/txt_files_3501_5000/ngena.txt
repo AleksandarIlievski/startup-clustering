@@ -1,0 +1,667 @@
+We connect the world | ngena delivers SD-WAN on global scale
+Products
+SD-WAN
+Wireless
+Security
+Cloud
+Edge
+Access
+Service
+About Us
+Blog
+Press release
+Contact us
+ngena.connect
+ngena.connect
+ Menu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+We are here to connect the world. We are ngena.
+Agnostic of networking technology, cloud provider or telecommunication carrier we provide secure connectivity as a Service to any location in the world.
+Using the most advanced connectivity platform, ngena accelerates cloud transformation, improves cyber-security and enables enterprise digitalization at low cost and high speed
+Download Company Overview
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Secure
+ 
+As digitalization brings enterprises beyond their traditional borders, with business-critical intelligence running in the cloud while workforce and decision makers operate from the most disparate locations.
+ 
+ 
+Connectivity
+ 
+…their success is predicated upon the ability to securely connect business tools, data and people with the speed, flexibility and global reach their business demands.
+ 
+ 
+Platform
+ 
+…and as the world evolves quickly, enterprises need to evolve at the same pace, leveraging ready to use, proven, future proof and cost effective solutions that solve the complexity of this new word for them, allowing them to put their resources and talents on their own business.
+ 
+ 
+ 
+ 
+  
+ngena In Action
+ 
+ 
+ 
+ngena has recently been named the 6th hottest network startup of 2022 by CRN. We're honored to be recognized for our achievements, and thankful to everyone involved in helping meet our mission of simplifying secure connectivity and digital transformation on a global scale. 
+ 
+ 
+ 
+ 
+ 
+Fortinet is a known industry leader providing secure SDWAN to customers in all vertical markets.  For ngena this is a strong partnership that allows us to expand our Secure Connectivity solutions with a vendor that is recognized as a frontrunner in security services. 
+ 
+ 
+ 
+ 
+ 
+In our continuing effort to offer our partners the best possible solution for their client in the digitalization era ngena is proud to welcome Versa Networks as part of our multi-tech offering. Any technology - Any network - Any cloud - all in one platform
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Why ngena?
+At ngena, we believe that digitization is the driving force of the new economy, and that automation and managed services are the most efficient, cost effective and future-proof route to enable enterprises to enter the global and flexible economy enabled by digital transformation.
+ 
+ 
+ 
+ 
+ 
+ 
+Borderless business
+Digital transformation allows enterprises of any size to operate globally and, at the same time, have the best enabling technology immediately available through the cloud. Enjoying the full potential of this cloud-based economy is predicated upon ubiquitous connectivity that is both reliable and cost effective.
+ 
+ 
+ 
+Enable talent where it is
+Remote workforce is a key asset to enterprises, both to leverage the best talents wherever they are, and to be resilient to disruptions. Guaranteeing the same employee experience whether your employees are at office, at home or on the road is key to enable everyone to contribute at their best, wherever they are.
+ 
+ 
+ 
+Security everywhere, as your business needs it
+While intellectual property is increasingly dispersed over the cloud or roaming laptops, some industries need to retain a significant amount of centralized information. Security must be effective whether the data are on-prem or in the cloud, at rest or in motion, tailoring itself to the nature of each specific business.
+ 
+ 
+ 
+ 
+ 
+ 
+Your evolution from classical IT into the digitized world requires evolving your connectivity and security infrastructure
+ 
+To get the best out of the new technology and to take advantage of best-in-class technology providers. This evolution means reshaping your operations to deal with a completely new operating paradigm and needs to happen quickly to beat competition, nimbly to keep pace with your business needs, and with a cost model that supports your business and helps you achieve your financial targets.
+ 
+ 
+"Let me tell you a story"
+ 
+ 
+ 
+ngena Is All Over The World
+Global reach everywhere your enterprise needs it .
+ 
+ 
+ 
+304
+ 
+Colleagues
+ 
+ 
+ 
+70
+ 
+Partners
+ 
+ 
+ 
+19
+ 
+Data hubs
+ 
+ 
+ 
+100000
+ 
+Backbone miles
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+How ngena
+ 
+ 
+In this complex context, ngena brings clarity and efficiency, marrying apparently irreconcilable aspects like global reach and local care, reusable components and bespoke solutions, sophisticated technology and user-friendly experience, to enable our partners to focus on their enterprise customers needs
+ 
+ 
+The 7 pillars of our portfolio provide a pragmatical and intuitive view of the different capabilities digitization deals with, all offered as-a-service:
+ 
+ 
+Edge
+Industry-leading WAN edge in an “as a Service” model, deployed, financed and managed by ngena in more than 200 countries
+ 
+ 
+SD-WAN
+Flexible, high-performance, transport agnostic and price optimized, fully orchestrated NaaS with pre-designed access solutions suitable for roaming users and small branches up to datacenters
+ 
+ 
+Cloud
+Multiple cloud access options and native cloud networking optimize user experience for cloud-based applications
+ 
+ 
+ 
+ 
+Access
+A global alliance of carrier providers enable last and first mile as true Access as a Service in more than 200 countries
+ 
+ 
+Security
+Enabling SASE by deploying security at the WAN Edge, the Cloud edge or the ngena SASE POP via leading Cloud Security Providers
+ 
+ 
+Service
+Operational excellence for our Managed Services offerings and on-demand professional services for superior integration experience
+ 
+ 
+ 
+ 
+Behind the scenes, a global team of professionals and an infrastructure that spans across continents is comprised of private backbone connectivity, distributed infrastructure for orchestration and Continuous Delivery. SASE enabled Points of Presence (co-located with major Public Cloud Providers) enable our customers to leverage the full potential of the best that technology has to offer in a full service fashion.
+ 
+ 
+ 
+ 
+What ngena
+With ngena, our partners and customers can unleash the potential of this comprehensive set of capabilities and global infrastructure with unprecedented simplicity. ngena’s .connect is a single pane of glass for quoting, building, deploying and operating your next-generation secure connectivity as a service on a global scale with four simple, fully automated steps:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+01. Select
+Get a quote in a matter of minutes, on a global scale instead of a complex, lengthy process that takes weeks or even months.
+ 
+ 
+02. Enhance
+Leverage guided configuration for your services and minimize the need of having deep knowledge in multiple domains (networking, on prem security, cloud security, etc) or leverage our “expert mode” and unleash your inner geek.
+ 
+ 
+03. Deploy
+ngena will take care of fulfillment, the deployment process and logistics, giving you full visibility into every phase. Using the built-in zero touch deployment engine, your CPEs are automatically configured as soon as they are turned on and in a matter of minutes become part of your SD-WAN network: At that point your site is open for business.
+ 
+ 
+04. Operate
+ngena’s operations team leverages the advanced .connect proactive monitoring system to ensure that your secure connectivity services are always up and running. Reporting enables you to see that global SLA requirements are always met and enable you to stay ahead of potential network outages.
+ 
+ 
+05. Demo Version
+Quote, configure, manage and monitor your networks from 
+a single pane of glass. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Our Alliance Partners
+Our integrated ecosystem of partners allows us to increase speed, simplicity and security when providing connectivity to our valued customers. Innovation and reliability are key to our more than 70 partners around the globe so they can provide local implementation.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2S Inovações Tecnológicas
+A 2S understands and transforms businesses by its specialized technology making customers more efficient, productive and ready for digital transformation. 
+Partner website
+ 
+A1 Telekom
+A1 Telekom Austria Group is a provider of a range of fixed-line, broadband Internet, multimedia services, data, and IT systems, wholesale as well as mobile payment services.
+Partner website
+ 
+AFR-IX Telecom
+AFR-IX telecom is a Telecommunication Operator that delivers Data, MPLS, SDN and advanced Managed solutions to Corporates and Telecommunication Operators in Africa. By integrating operations, managed services and strategy, our pioneering methodology allows the set up of a complete IT infrastructure to all entities based in the continent. 
+Partner website
+ 
+Alef Distribution​
+ALEF is one of the largest and strongest supplier of IT in the Eastern Europe. ALEF strongly specialize in technology and its expert center with extensive number of engineers allow them to provide full range of presales and post-sales services, including certified trainings, professional, consulting, and managed services. 
+Partner website
+ 
+Altice Management Group
+Altice delivers innovative, customer-centric products and solutions that connect and unlock the limitless potential of its over 30 million customers over fiber networks and mobile broadband. Altice is also a provider of enterprise digital solutions to millions of business customers.  
+Partner website
+ 
+América Móvil Group
+América Móvil is the leading provider of integrated telecommunications services in Latin America. Through the development of a world-class integrated telecommunications platform, we offer our customers a portfolio of value added services and enhanced communications solutions in 25 countries in Latina America, the U.S. and Central and Eastern Europe. 
+Partner website
+ 
+Ampito Group
+Ampito Group is a leading provider of technology solutions, cloud services, digital media and marketing. Founded in 2006 Ampito has seen rapid growth, with presence in Africa, North America, Europe and the UK. The Group ethos is to seek out innovative solutions to help organizations run more effectively. 
+Partner website
+ 
+avodaq AG
+avodaq AG is one of the leading German providers of modern IT infrastructure for multinational companies and service providers. The company, established in 1997, employs about 250 highly qualified employees in 10 offices around the globe. 
+Partner website
+ 
+Axity
+Axity is an IT and Communications Services company with more than 35 years of experience in the Latin American market. We have a comprehensive portfolio of services to help our customers meet their Digital Transformation challenges. 3,500 professionals united with the same purpose: Transforming information technologies into value. 
+Partner website
+ 
+Bechtle
+Bechtle AG is a multinational technology company headquartered in Neckarsulm, Baden-Württemberg with a business model combining IT services with the direct sale of hardware and software IT products, as well as the operation and maintenance of IT infrastructure for industrial customers and public-sector clients.  
+Partner website
+ 
+British Telecommunications
+BT Group plc is a British multinational telecommunications holding company headquartered in London, England. It has operations in around 180 countries and is the largest provider of fixed-line, broadband and mobile services in the UK, and also provides subscription television and IT services.
+Partner website
+ 
+CBTS Technology Solutions
+CBTS is a leading technology provider to more than 3,000 organizations in all industries, including dozens of Fortune 500 and Global 2000 companies. We provide consulting resources and cloud or on-premises technologies that deliver consistent IT performance, reduce costs, and increase operational efficiency. 
+Partner website
+ 
+CenturyLink Communications
+CenturyLink is a telecommunications company that offers high-speed internet, fiber, voice, phone, and TV services for both residential and small business customers.  We are dedicated to empowering people through technology, both at home and at work. 
+Partner website
+ 
+China Unicom
+China United Network Communications Group Co., Ltd. or China Unicom is a Chinese state-owned telecommunications operator. China Unicom is the third-largest wireless carrier in China, with 310.45 million subscribers as of June 2021. 
+Partner website
+ 
+CISCO
+Cisco Systems, Inc., commonly known as Cisco, is an American multinational technology conglomerate corporation headquartered in San Jose, California.
+Partner website
+ 
+Clarium Managed Services​
+Clarium helps customers reinvent their business and reach their full potential with its innovative agile and customer centric approach.  With a track record on cibersecurity practice and all levels of information security including guidance, design, implementation, and delivery of a secure eco-system, Clarium has a unique value proposition to share with their customers. 
+Partner website
+ 
+Claro
+Claro Enterprise Solutions, an América Móvil subsidiary, is a leading source provider of Network Connectivity and Communication, Cloud, IoT, and IT Managed Services delivering scalable solutions with layers of security, global expertise, and dependable customer support. 
+Partner website
+ 
+Cloud Toll Free
+Cloud Toll Free and its community of participating communications companies are on the forefront of the next generation of telecommunications transport and call delivery.
+Partner website
+ 
+Computacenter
+Computacenter is a leading independent technology partner, trusted by large corporate and public sector organizations. We help our customers to Source, Transform and Manage their technology infrastructure, to deliver digital transformation, enabling people and their business. 
+Partner website
+ 
+Convergia Networks
+With more than 20 years of experience in the industry, Convergia has developed important strategic alliances with numerous leading technology companies worldwide
+Partner website
+ 
+Dialog Axiata
+Dialog has been at the forefront of innovation and digitization in the mobile industry in Sri Lanka since the late 90’s, propelling the nation’s mobile telephony infrastructure to a level of advancement on par with the developed world.
+Partner website
+ 
+Expereo International B.V.
+Expereo is a global provider of managed Internet and hybrid networks, SD-WAN, and Cloud connectivity solutions. Our portfolio provides Internet connectivity, Cloud acceleration, network optimization, SD-WAN, network security managed services, and managed professional and field services for network solutions. 
+Partner website
+ 
+Exponentia Global
+Exponentia Global is formed by telecom experts who have played a pivotal role in forming partners alliances in various parts of the world. The core team is known for their strategies towards innovation, cohesion, and collaboration to incept newer synergies for over a decade now. 
+Partner website
+ 
+Fortinet
+Fortinet is an American multinational corporation headquartered in Sunnyvale, California. The company develops and sells cybersecurity solutions, such as physical firewalls, antivirus software, intrusion prevention systems, and endpoint security components
+Partner website
+ 
+Hughes Network
+Hughes Network Systems, LLC (HUGHES), an innovator in satellite and multi-transport technologies and networks since 1971, provides broadband equipment and services; managed services featuring smart, software-defined networking; and end-to-end network operation for millions of consumers, businesses, governments and communities worldwide. 
+Partner website
+ 
+KDDI Corporation
+KDDI Corporation is a leading Japanese telecommunications and a Global Fortune 300 company. Serving 40 million domestic mobile subscribers, KDDI provides a diverse portfolio consisting of managed networks, data centers, cloud, security and system integration. 
+Partner website
+ 
+KPN
+KPN offers individual customers a broad range of services in the area of communication, information, entertainment and commercial services via single play and multi-play packages. The services on offer include fixed and mobile telephony, mobile data, internet and TV.  
+Partner website
+ 
+Logicalis
+Through a globally connected network of specialist hubs, sector-leading experts and strategic partnerships, Logicalis has more than 6,500 employees focused on understanding customer priorities and enhancing their experience.  
+Partner website
+ 
+Lutech
+We are an Italian leader and European player in ICT services and solutions, supporting the Digital Evolution of our Clients thanks to the competencies of more than 3000 professionals, enabling them to work easier, reaching their goals and evolving their business. 
+Partner website
+ 
+Micronet (IKUSI)
+As a telecommunications and IT network integrator, IKUSI design, implement and manage telecommunications technology with solutions for sectors such as Operators, Enterprise Market and Government, providing our knowledge in areas with specific requirements. 
+Partner website
+ 
+Mindtree
+Mindtree is a global technology consulting and services company that enables enterprises across industries to drive superior competitive advantage, customer experiences and business outcomes by harnessing digital and cloud technologies.
+Partner website
+ 
+Neeco
+Neeco is a leading provider of complex, global ICT services.  Their unique central management allows them to deliver premium, value-added services anywhere, within the shortest possible delivery times, cost-effectively, and at the highest levels of quality. 
+Partner website
+ 
+Netready
+Netready is a regional Information Technology (IT) integrator, with a presence in the Corporate Market since 2001.Netready supports its clients from the definition of the strategy to the management and monitoring of the IT platform.  
+Partner website
+ 
+neutrality.one
+neutrality.one is a global managed networking company offering enterprises and service providers connectivity to internet, cloud and datacentre infrastructure in 180+ countries. 
+Partner website
+ 
+PLDT Inc.
+PLDT Enterprise is the preferred digital services partner of the B2B market. As the corporate business unit of the PLDT Group, its vision is to make a positive impact on every single business by simplifying the complex for various industries. 
+Partner website
+ 
+Retelit Digital Services
+Retelit Digital Services is Retelit's operating company that provides digital services based on infrastructures and platforms entirely managed by the Group. A proprietary network connecting four Continents. A Multicloud platform and a marketplace to enable IoT, 5G and AI solutions. 
+Partner website
+ 
+RSM
+RSM is a leading global network of audit, tax and consulting firms focused on the middle-market. They share skills, insight and resources, as well as a client-centric approach that’s based on a deep understanding of their client’s business. 
+Partner website
+ 
+Scansource Brasil
+ScanSource is a leading hybrid distributor connecting devices to the cloud and accelerating growth for partners across hardware, software, connectivity, and cloud 
+Partner website
+ 
+sk broadband
+Formerly known as Hanaro Telecom, is a Seoul-based telecommunications company and a wholly owned subsidiary of SK Telecom. It is one of the largest broadband Internet access providers in South Korea. 
+Partner website
+ 
+Softcat
+Softcat is a leading provider of technology solutions and services to organisations in both private companies and public sector organisations in the UK and Ireland. They provide: asset management, business intelligence & analytics, collaboration, commodity sourcing, datacentre, end user computing & mobility, networking & security, software licensing and IT services. 
+Partner website
+ 
+Softchoice Corporation
+Softchoice is a software-focused IT solutions provider that equips organizations to be agile and innovative, and for their people to be engaged, connected and creative at work. 
+Partner website
+ 
+Soluciones Migura Mexico
+An organization born in 2008 in Venezuela. They are an organization dedicated to innovation driving to achieve a disruptive digital transformation and operational excellence for their clients. 
+Partner website
+ 
+StarHub Ltd
+StarHub Limited, most commonly known as just Starhub, is a Singaporean multinational telecommunications conglomerate and one of the major telcos operating in the country.  
+Partner website
+ 
+Sunrise Communications
+Sunrise is a Swiss telecommunications provider based in Zurich, owned by Liberty Global. It provides mobile, TV and landline phone and internet services.
+Partner website
+ 
+Talkd Soluções
+TalkD is a Telecommunication Engineering Company, Assistance and Consulting in projects, with 12 years of experience in large companies in the IT and TELECOM segments, participating in complex projects, from the elaboration to the implementation of the recommended solutions. 
+Partner website
+ 
+TD Synnex
+TD SYNNEX is a leading IT distributor and solutions aggregator for the IT ecosystem.
+Partner website
+ 
+Teletex IT Solutions
+Teletex is a Solution Integrator for IT Infrastructure domain, adding value to these solutions binding together services and products and delivering direct impact on business results, regardless of manufacturer used.  
+Partner website
+ 
+Telstra
+Telstra Corporation Limited is an Australian telecommunications company which builds and operates telecommunications networks and markets voice, mobile, internet access, pay television and other products and services.
+Partner website
+ 
+Telus
+Telus Communications Inc. is the wholly owned principal subsidiary of Telus Corporation, a Canadian national telecommunications company that provides a wide range of telecommunications products and services including internet access, voice, entertainment, healthcare, video, and IPTV television. 
+Partner website
+ 
+Ufinet Latam
+UFINET is a Latin American carrier of carriers providing high-quality solutions in the wholesale telecom market. 
+Partner website
+ 
+ULAP
+UCAAS is founded by pioneers of cloud and big data solutions. The Ulap team created CloudSense to capture lessons learned from deploying Kubernetes based Cloud-Native systems for multi-national corporations around the world
+Partner website
+ 
+Unite Private Networks
+Unite Private Networks (UPN) provides high-bandwidth, fiber-based communications networks and services to schools, governments, carriers, data centers, hospitals, and enterprise business customers across a 21 state service area.
+Partner website
+ 
+Versa Networks
+Versa Networks, the leader in SASE, combines extensive security, advanced networking, full-featured SD-WAN, genuine multitenancy, and sophisticated analytics via the cloud, on-premises, or as a blended combination of both to meet SASE requirements for small to extremely large enterprises and Service Providers.
+Partner website
+ 
+Westcon Group
+Westcon Group, Inc. is a value added distributor of category-leading unified communications, infrastructure, data center, and security solutions with a global network of specialty resellers. Westcon's teams create unique programs and provide exceptional support to accelerate the business of its global partners. 
+Partner website
+ 
+Yssy Telecomunicações
+Yssy is a Brazilian technology platform with extensive market expertise that works with technology and innovation solutions to boost business.  
+Partner website
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+While intellectual property is increasingly dispersed over the cloud or roaming laptops, some industries need to retain a significant amount of centralized information.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Frequently Asked Questions
+ 
+ 
+I don’t know ngena. Can I really entrust my global network to them?
+ 
+The Challenge
+Your data connectivity network is the backbone of your global business and critical to the success of your company. You need a trustworthy and reliable partner who has proven skills and a longstanding track record to guarantee the highest quality for all your network services, including world-class security and service levels agreements. Now you might be asking yourself whether a market entrant and innovator, such as ngena, is really a good choice for you.
+The Solution
+With ngena, you will be working with the world’s best telecommunication operators and technology suppliers: 50+ telecommunication service providers and system integrators – among them many incumbents and market leaders – will give you access to their global SASE & Software-Defined Wide Area Networks (SD-WAN) via ngena’s global technology platform and backbone to almost any part of the world. The platform we have built is based on proven technologies from Cisco/Viptela, Zscaler, Equinix, ServiceNow and many more, and is therefore completely reliable and industry proven. Your local operator will be your single point of contact and offer you a comprehensive set of enterprise-grade services, business-oriented Service Level Agreements, and world-class service assurance. Already more than 50 enterprises are running key parts of their networks on ngena’s platform.
+ 
+ 
+What are the main USPs which distinguish the ngena SD-WAN service from other offerings on the market?
+ 
+The Challenge
+Your data connectivity network is the backbone of your global business and critical to the success of your company. You need a trustworthy and reliable partner who has proven skills and a longstanding track record to guarantee the highest quality for all your network services, including world-class security and service levels agreements. Now you might be asking yourself whether a market entrant and innovator, such as ngena, is really a good choice for you.
+The Solution
+With ngena, you will be working with the world’s best telecommunication operators and technology suppliers: 50+ telecommunication service providers and system integrators – among them many incumbents and market leaders – will give you access to their global SASE & Software-Defined Wide Area Networks (SD-WAN) via ngena’s global technology platform and backbone to almost any part of the world. The platform we have built is based on proven technologies from Cisco/Viptela, Zscaler, Equinix, ServiceNow and many more, and is therefore completely reliable and industry proven. Your local operator will be your single point of contact and offer you a comprehensive set of enterprise-grade services, business-oriented Service Level Agreements, and world-class service assurance. Already more than 50 enterprises are running key parts of their networks on ngena’s platform.
+ 
+ 
+Can I build a global SD-WAN using just a single provider?
+ 
+The Challenge
+According to recent surveys, 41% of businesses globally say they do business in countries outside their own. This means that, at many companies, network operations must be seen as a global task. Unfortunately, however, setting up, managing and monitoring global networks 24/7 still remains highly complex. This also implies that many members of your IT department are tied up with time-consuming activities such as multi-provider management and incident resolution. In addition, the complexity of global networks traditionally leads to a very slow roll-out of new sites, and limited flexibility in implementing change requests and network optimizations.
+The Solution
+The ngena Secure Connectivity as a Service was developed to cope with these requirements. It offers you a global SASE & SD-WAN from a single source – your trusted local provider that is a member of the ngena partner ecosystem. This is possible because ngena has formed an ecosystem of 30+ leading telecommunication providers that offer their Ethernet and Internet access in around 200 territories worldwide to give your company truly global connectivity. Along with the strength of the global ecosystem comes the power of a global platform and the .connect with a central portal that enables ngena ecosystem partners to design, order, set-up, monitor and maintain global SD-WANs with a click of a mouse. The use of innovative abstraction, virtualisation and a data- & model-driven end-to-end orchestration now allows global enterprise networks to be rolled out more quickly, and with greater flexibility to change or upgrade services in response to prevailing business needs.
+ 
+ 
+Show all questions
+Can I improve my network performance and simultaneously reduce costs?
+ 
+The Challenge
+Many companies are under great pressure to cut costs and optimize their investments in CAPEX and OPEX. At the same time, bandwidth demand is continually rising especially due to new Cloud and IoT applications and an increasing level of digitalization. Companies are therefore seeking new technologies that can increase their network performance while
+simultaneously keeping down their costs.
+The Solution
+Today’s SD-WAN technologies already come with significant cost advantages if set up correctly. The ngena solution was built, in particular, to further optimize your enterprise’s network performance, and help you save money. As ngena offers cost-efficient hybrid Ethernet and Internet access, we estimate you can save 20% and more, just by replacing high cost MPLS lines with a cheaper access mix, i.e. a truly hybrid network. Moreover, the available bandwidth in ngena’s networks is typically higher because of an »active-active« vs. traditional »active-standby/backup« network designs, which means you can almost double your useable bandwidth without doubling cost. Compared with classical MPLS solutions, SD-WAN comes with additional functions at no or low additional cost: for example, you can retire expensive hardware devices for security or network visibility solutions and replace them with Virtual Network Functions instead. As ngena’s solution is a fully-managed service, our Secure Connectivity as-a-Service approach can help your company slash its operating costs by allowing your IT staff to concentrate on more urgent business needs, rather than managing the technical configuration of your network – which is then taken care of by ngena and its ecosystem partners. Overall, depending of the amount of integrated services and additional value-add, we estimate that with the ngena solution your Total Cost of Ownership (TCO) can be cut by 30% and more.
+ 
+ 
+I’d like to roll out or upgrade my global network now. Can Ngena help me reduce 
+installation time?
+ 
+The Challenge
+Today, a change to an existing enterprise network or the addition of new company sites can be very time consuming. Especially when you are using a relatively inflexible MPLS network, it can take months until new office locations or remote workforces can be added to your global WAN. The complexity is even higher when it comes to Mergers & Acquisitions and two separate company networks have to be merged into one. Especially when you are not using a fully managed service, your ICT teams can be overloaded with work. But as installation time is business-critical and influences your time-to-market, it’s crucial for your business to find a faster solution.
+The Solution
+The ngena service has been designed to reduce enterprise-network installation times by automating network configuration and maintenance tasks. Today, ngena can bring a medium-sized enterprise network into service within two weeks of receiving an order. Assuming the availability of Internet connectivity, and that the Customer Premise Equipments (CPEs) can be shipped in time. Network upgrades with private or additional Internet links can than follow in a second step. ngena uses a zero-touch provisioning process to add new sites or make changes to existing network architectures. This means that, once the CPE has arrived at your office, it auto-configures on power-up and no specialist skills are needed on-site; as long as the device can be plugged into its supply and the network cable is attached, the service is configured centrally. New branch offices will be online almost instantaneously, thereby significantly increasing the productivity of your company.
+ 
+ 
+Can ngena help me see what’s going on in my network and monitor the status of my network health?
+ 
+The Challenge
+Today, it is often quite difficult to keep track of the status of your global Virtual Private Network (VPN) and to oversee what is going on in your company’s network. Monitoring your network health status is either not possible or can only be done by adding costly, additional hardware to your network operation center. But monitoring your network health status is essential if you are to avoid or mitigate operational disruptions and downtimes. In addition, you want to better understand which applications are driving your enterprise’s bandwidth demands, and where potential bottlenecks lead to poor performance and lower user satisfaction.
+The Solution
+ngena’s Secure Connectivity as a Service comes with sophisticated, built-in monitoring capabilities and dashboards that show you the health status of your global network in real-time within .connect. By using the leading-edge network analytics, your network services can be monitored and supervised in real-time. In addition, you can check whether all technical key performance indicators are within or outside the target values. Performance graphs show you the different health statuses over time, and help you identify potential bottlenecks or weaknesses. Should any incidents or major irregularities occur, an alarm will be triggered, and you will be notified immediately. Moreover, being able to see what is going on in every part of your global network will also allow you to improve the stability and reliability of your network and improve user satisfaction.
+ 
+ 
+Can I make my network more efficient by securely offloading data to the Internet?
+ 
+The Challenge
+Today, Internet data represent a high percentage of your company’s WAN traffic and consume a huge amount of bandwidth. This type of traffic is constantly growing due to the usage of more and more Cloud based applications, such as Microsoft Office365 or Salesforce.com. In traditional VPNs, the Internet traffic is often backhauled from branch offices to a distant headquarter. But wouldn’t it make more sense to offload this Internet traffic locally instead of jamming your global WAN with it?
+The Solution
+Based on your company’s traffic profile, you can have the ideal access designs customized according to each site’s needs. This is because ngena offers a choice of single or redundant Internet Public Lines or Private Lines. These access designs come in easy-to-understand T-shirt size concepts from XS to XL+, giving your company the flexibility to select exactly the design needed for the traffic profile and level of redundancy of any office type – from a branch office to a data center or central headquarter. Along with this, ngena offers multiple ways of offloading business data to the Internet. You can use either Local Internet breakout directly from your sites, or utilize regional, secure Internet Breakout via ngena’s secure data centers. ngena edge routers provides a stateful firewall for direct outbound Internet access. Furthermore, up to advanced security with URL Filtering Malware protection we offer a direct integration to Zscaler’s or Cisco Umbrella’s Cloud gateway to enable secure local Internet access. With ngena’s suite of Cloud connectivity options and different access types to connect to the Internet, enterprises can reap the benefits of Cloud applications without having to worry about security or performance.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Contact us
+Please contact us via connect@ngena.net 
+ 
+connect@ngena.net
+Boulder, USA
+Ciudad de México, Mexico
+Debrecen, Hungary
+Frankfurt am Main, Germany
+Košice, Slovak Republic
+Miami, USA
+Milan, Italy
+ngena USA, LLC
+2755 Canyon Blvd 1st Floor, Boulder, CO 80302
+ 
+ngena Mexico S. de R.L. C.V.
+Av. Presidente Masaryk 111, Piso 1
+Col. Polanco V Sección, Miguel Hidalgo
+C.P. 11560 Ciudad de México
+Mexico
+ 
+ngena Hungary Kft.
+2nd Vágóhíd Street, LION Office Center Building 7, 4th Floor
+H-4034 Debrecen
+Hungary
+ 
+ngena GmbH
+Hahnstrasse 40
+60528 Frankfurt am Main
+Germany
+ 
+ngena Slovakia s.r.o.
+Rozvojová 2
+040 90 Košice
+Slovak Republic
+ 
+ngena USA, LLC
+78 SW 7th St,
+8th Floor.
+Miami, FL 33130
+ 
+ 
+ngena Italy S.r.l.
+Corso Vercelli 40
+20145 Milan
+Italy
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ngena
+About Us
+Blog
+Press release
+Contact us
+ngena Privacy Policy
+Privacy settings
+Imprint
+  
+Products
+SD-WAN
+Wireless
+Cloud
+Security
+Edge
+Access
+Services
+  
+ 
+Follow us
+ 
+ngena GmbH   Hahnstraße 40
+ 
+ 
+ 
+ 

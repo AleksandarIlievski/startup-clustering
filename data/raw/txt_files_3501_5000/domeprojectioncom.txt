@@ -1,0 +1,180 @@
+domeprojection.com - domeprojection.com
+
+ +49 (0) 391 6360 6646
+Contact
+   +49 (0) 391 6360 6646
+Contact
+Products
+ProjectionTools
+Demo Version
+Plugins
+Unity Plugin
+Unreal Plugin
+P3D Plugin
+SDK
+NWarp
+ColorMatch
+Stacker App
+Hardware Components
+LUNA Warpbox
+Coded LED Marker
+Calibration Panel
+NBlend
+Service
+Camera & system calibration
+ProjectionTools training
+Showcases
+Support
+Tutorials
+Licensing + Updates
+FAQ
+News
+Events
+Product News
+Press Releases
+Company
+Contact
+Career
+Partners
+Product brochures
+FAQ
+a
+M
+Products
+ProjectionTools
+Demo Version
+Plugins
+Unity Plugin
+Unreal Plugin
+P3D Plugin
+SDK
+NWarp
+ColorMatch
+Stacker App
+Hardware Components
+LUNA Warpbox
+Coded LED Marker
+Calibration Panel
+NBlend
+Service
+Camera & system calibration
+ProjectionTools training
+Showcases
+Support
+Tutorials
+Licensing + Updates
+FAQ
+News
+Events
+Product News
+Press Releases
+Company
+Contact
+Career
+Partners
+Product brochures
+FAQ
+Contact
+ 
+Projection alignment Software & Hardware Tools
+Projection alignment Software & Hardware Tools
+Projection alignment Software & Hardware Tools
+Projection alignment Software & Hardware Tools
+Projection alignment Software & Hardware Tools
+Projection alignment Software & Hardware Tools
+What solution are you looking for?
+Simulation & Training
+Are you a professional in the area of simulation – for example, driving simulation or flight simulation. Do you aim at a realistic simulation setup with narrow cockpits and night view situations? Do you need a high quality projection that is matching accurately to your projection surface and is warping to the eyepoint of the user? Then have a look at our ProjectionTools Sim Suite. We provide high quality projections aligned with accuracy up to 240Hz*. Also, have a look at Luna Warpbox, our new  low latency warp and image correction processor for 2d media and 3d simulation purposes. Warpbox LUNA is the perfect choice for multi projector systems displaying high level simulations and other interactive content. 
+VI-grade driving SimulatorsVI-simcenter Udine, 3 channels
+read more
+DFS Deutsche FlugsicherungATM Tower Simulator, 18 channels
+read more
+CSMART AcademyCenter for Simulator Maritime Training
+read more
+FKFS - Motion Vehicle Simulator12 channels
+read more
+Entertainment
+Are you a professional in the area of AV? Do you aim at impressive, large scaled media projections with a large number of projectors? Or, do you work with a set of LED Panels and require a smooth image regarding color and blending? Then, have a look at our ProjectionTools Single Cam or AV Suite. Our software solution can be used for planetarium and media based attractions, digital cinema, virtual and augmented reality displays as well as interactive multimedia experiences. We also offer dedicated software solutions for 360° and fulldome video capturing. Furthermore, we provide mobile projection alignment solutions. With the Stacker Mobile Application you can align your projection stack with a few clicks in seconds.
+Omega Museum, Biel180° & 360° cinemas
+read more
+Magdeburg in LightProjection Mapping on cathedral, 9 channels
+read more
+Telekom Gallery, BonnSpline curved screen, 12 channels with autocalibration
+read more
+Don’t miss any news – Join our newsletter!
+Subscribe now!
+ProjectionToolsfor Simulation, Training & Entertainment
+The toolkit for your perfectly matching projections
+Our software enables you to align an unlimited number of projectors projecting on any arbitrary screen or surface. ProjectionTools-generated calibration data result in a perfectly warped and blended projection combined with meticulously precise correction of color, black level and many more parameters.
+Continuous development and integration of almost all eligible 3rd party AV hard- and software guarantees that domeprojection.com ProjectionTools are the most flexible industry-leading auto-alignment solution offering maximum quality for your display system.
+Which suite is the right one for you?
+Single-Cam AV
+The Single-Cam AV package allows you a set-up of a multi channel single camera calibration with a final result of high accuracy and flexibility. A fast set-up and speedy recalibration makes it ideal for staging, rental and events.
+read more
+Pro AV
+The Pro AV suite is the software package for the precise setup of large media installations. Depending on the size and complexity of the projection screen, one or more cameras or camera positions enable a quick and easy measurement.
+read more
+Pro Sim
+Pro SIM is the toolset for simulation and training environments with the demanding requirements of realistic visualization with high precision and accuracy. By adjusting the brightness, clipping, fade-out and blending and black-level correction you will experience realistic immersive flight or driving simulations.
+read more
+ProjectionTools Plugins & SDK
+The domeprojection.com plugin technology based on the ProjectionTools SDK allows to load and apply calibration data generated by ProjectionTools into 3D engines. The export data is generated using the Mapper3D which is part of the ProjectionTools Pro Sim suite.
+read more
+Our Services
+Camera and System Calibration
+We offer you our time- and cost-efficient calibration service for highly complex multi-channel projections on arbitrary screens.
+We are planning and implementing the auto-alignment system for your project as well as provide the complete installation and initial calibration. Finally, we will provide automatization of the complete system for easy operation by maintenance personnel.
+In our professional calibration lab, cameras will be calibrated to be used for different distances.
+read more
+ProjectionTools Training (on-site or remote)
+In our ProjectionTools training, customers and integrators get prepared to work with our ProjectionTools. We offer individual training units, which are tailored to your needs and based on a modular concept.
+Alone or in small groups, we will impart theoretical background know-how and practical skills to you. Sessions can take place on-site at your premise or at our office in Magdeburg. Alternatively we also offer remote training which can be carried out independent of time and place.
+We will provide you with the necessary training materials and are also available to assist you after finishing training.
+read more
+Hardware Tools
+for Professional Calibration & Projection Alignment
+Warpbox LUNA
+Warpbox LUNA  is our new low latency warp and image correction processor for displaying high level simulations and other interactive content.
+read more
+Warpbox LUNA
+Warpbox LUNA is our new low latency warp and image correction processor for displaying high level simulations and other interactive content.
+read more
+Coded LED Marker Sets
+Our active and uniquely identifiable LED Markers system for faster and more reliable autoAlignment of a projection setup.
+read more
+Calibration Panels
+Our professional reference sources for calibrating cameras and visual systems, such as Intel – Real Sense or Open CV systems. 
+read more
+NBlend: patented optical blend solutions
+Our professional optical blending masks to provide pure and smooth black for multi-channel projections. 
+read more
+Any Questions?
+Contact us
+Events
+LEARNTEC 2023
+Meet us at LEARNTEC in Karlsruhe; 23 – 25 May 2023.
+read more
+INFOCOMM CHINA 2023
+Meet us at INFOCOMM CHINA in Beijing: China National Convention Centre (CNCC).
+New dates: July 19th – 21st, 2023.
+read more
+I/ITSEC 2023
+Meet our team at the world’s largest modeling, simulation and training experience: I/ITSEC Orlando/USA from November 28th – December 2nd, 2022.
+read more
+Product News
+ProjectionTools 5.1 available
+A new minor version with many new features, improvements and automatizations is available…  
+read more
+« Older Entries
+Press Releases
+Report on the Virtual Production in LEDcave Mannheim, published in DIGITAL PRODUCTION (6.2020)
+We are pleased that the cooperation with Studio L.O.U.P. at LEDcave Mannheim has been successful and that our ProjectionTools with the newly developed UnrealPlugin have been able to facilitate and accelerate realistic projections in the LEDcave. We scanned the...
+read more
+« Older Entries
+ 
+FollowFollowFollowFollowFollow
+Imprint
+Privacy Policy
+Legal
+Copyright © 2016-2022 domeprojection.com® GmbH. All rights reserved.
+ 

@@ -1,0 +1,389 @@
+Home - Xentara
+Skip to content
+ 
+ 
+Products
+The Xentara Platform
+Xentara App
+Xentara EdgeCompute-10
+SPEC-DP
+Pricing
+Partner
+Skill Program
+Reseller Program
+About Us
+Team Xentara
+Career
+Press Room
+Store
+Resources 
+ 
+ 
+Xentara Data Sheet
+ 
+Xentara Documentation
+ 
+Xentara Plugin Documentation
+ 
+Xentara Utility Library Doc.
+ 
+Download Xentara
+ 
+Github
+ 
+Service Status
+ 
+Skills Documentation:
+InfluxDB Client
+ModBus Driver
+MQTT Client
+OPC UA Client
+Signal Generator
+Web Service
+ 
+Get in Touch
+ 
+Products search
+ 
+Get in Touch
+ 
+0,00 €
+0
+ Cart
+0,00 €
+0
+ Cart
+ 
+Home 
+ 
+Get on the fast track to smart manufacturing 
+ For over a decade, people have been talking about the next industrial revolution, but industry leaders don’t feel like it’s happening. The Industrial Internet of Things (IoT) is still in the proof-of-concept phase, data is often trapped in isolated systems, and popular terms like predictive maintenance are more hype than reality.This is because decision-makers want to modernize, but they can’t ignore the economic realities of their businesses. Many factories have a mix of old and new machines, which can make implementing modern sensor technology difficult. Retrofit solutions often don’t work well and don’t take full advantage of data. Even in new projects, incompatible technology standards can be a barrier to data-driven improvements. 
+Does the slow adoption of technology mean that we must wait for the future to come gradually? Absolutely not! 
+ 
+Legacy 
+Existing PLC  technology providers are sticking to legacy hardware concepts.  
+ 
+Cloud 
+If modernization is approached at all, the Cloud is promising to solve it all – however, typical requirements of equipment providers and operators are left out. 
+ 
+Customer 
+Total transparency is threatening the machine builder’s business model. 
+ 
+GET XENTARA NOW!
+60 DAYS FREE OF CHARGE NO CREDIT CARD NEEDED 
+Six Easy Steps towards your Modern Edge Architecture 
+Specify System Cycle TimeStart your Xentara project and specify system cycle time in µs
+Xentara will maintain real-time 
+Step 2
+Setup Control Logic and HMICreate or import the control logic and design the GUI that will allow you to interact with it. 
+Step 4
+Add additional value and converge with IT or Cloud
+ 
+Step 6
+ 
+ 
+Step 1
+Connect your I/OConnect to various I/O options be it local, remote or via field bus. 
+Step 3
+Connect Analytics and Train your AI / ML 
+ 
+Step 5
+Ship your system on any hardware and software platform
+ 
+ 
+ 
+Pick your entry point! 
+There is no single path to smart production. Depending on their individual requirements or production environment, manufacurers seek different approaches and use cases to use their data. XENTARA lays the foundation for realizing scenarios that generate a particularly high benefit and contribute to the big picture – the transformation of your industry. 
+Smart Connectivity Layer 
+1 
+ 
+Data Recording 
+ 
+Smart Sensors & Sensor Network 
+ 
+Smart Actuators 
+ 
+Smart Tools & Operator Assistance 
+ 
+M2M Communication 
+Data to Information Layer 
+2 
+ 
+Data Processing 
+OEE (Overall Equipment Effectiveness) is the a way of measuring manufacturing productivity, often described as the gold standard for productivity improvement. It is expressed most simply as a percentage showing how much of the time spent on production actually results in good products. So a factory that works with no interruptions, at fastest speed, and does not produce faulty products, has an OEE rating of 100%:100% Quality (no bad parts produced)100% Availability (no interruptions or downtime)100% Performance (all processes running at the highest speed possible)By monitoring your production data through Xentara, you can easily set up OEE calculations and see your OEE score in realtime!Click here to read more. 
+ 
+OEE (Overall Equipment Effectiveness) is the a way of measuring manufacturing productivity, often described as the gold standard for productivity improvement. It is expressed most simply as a percentage showing how much of the time spent on production actually results in good products. So a factory that works with no interruptions, at fastest speed, and does not produce faulty products, has an OEE rating of 100%:100% Quality (no bad parts produced)100% Availability (no interruptions or downtime)100% Performance (all processes running at the highest speed possible)By monitoring your production data through Xentara, you can easily set up OEE calculations and see your OEE score in realtime!Click here to read more.OEE Monitoring 
+ 
+Resource & Consumption Monitoring 
+ 
+Remote Maintenance & Assistance Systems
+ 
+ 
+Remote Visualization & HMI
+ 
+Smart Machine Layer 
+3 
+ 
+Machine Learning 
+enhanced Soft-PLC
+ 
+ 
+Robotic Process Automation (RPA)
+ 
+ 
+Resource Optimization
+ 
+ 
+Predictive Maintenance
+ 
+picture-double 
+Digital Twin Enhancement
+ 
+Smart Automation Layer 
+4 
+ 
+Self-optimizing Machine
+ 
+ 
+Confluent AI
+ 
+ 
+Plug and Outcome Integration & Machine Configuration
+ 
+ 
+Preemptive Maintenance
+ 
+Smart Factory Layer 
+5 
+ 
+Self-configure for resilience
+ 
+ 
+self-adjust for variation
+ 
+ 
+self-optimize for disturbance
+ 
+study-simulation-learning-chemistry 
+Integrated Simulation & Synthesis
+ 
+Smart Industry Convergence Layer
+ 
+6 
+ 
+ Self-enhancing Supply Chain
+ 
+ 
+Collaborative Diagnostics, Modeling and Decision Making
+ 
+Cloud-less edge intelligence
+Bring machine learning right onto your shop floor. Without the hassle to connect to the cloud! 
+Legacy Integration
+An IIoT platform that speaks every machines' language! 
+Low Code / No Code Shop Floor Integration
+Human readable. Human understandable. No more cryptic codes! 
+Realtime machine communication
+Instant availability of your production data 
+Unifying Industrial IoT Platform
+Install skills just as you would on your smart phone! 
+Preemptive process control
+Correct issues before they actually happen! 
+ 
+Cloud-less edge intelligence
+Bring machine learning right onto your shop floor. Without the hassle to connect to the cloud!
+Legacy Integration
+An IIoT platform that speaks every machines’ language!
+Low Code / No Code Shop Floor Integration
+Human readable. Human understandable.No more cryptic codes!
+Realtime machine communication
+Instant availability of your production data
+Unifying Industrial IoT Platform
+Install skills just as you would on your smart phone!
+Preemptive process control
+Correct issues before they actually happen!
+More Features of the Plattform 
+XENTARA is an integrated software-based platform that brings together all dimensions of smart production. Use all the possibilities of smart manufacturing and “liquify” the data of the entire shopfloor.  
+ 
+ CUSTOM AI 
+Use AI and machine learning wherever your data is processed. At the edge, on your own server or in the cloud. This enables shop floor operators to achieve better value for less investment. 
+ 
+OPEN INTERFACE 
+XENTARA connects to a wide-range of fieldbuses and protocols. Any existing ERP, MES, CAQ or BI solution can be integrated. 
+ 
+REALLY REAL-TIME: 
+Your data is not available in an hour or the next day but: immediately and at the same moment. This is how you create the prerequisite for immediate and further usage scenarios from your valuable data. 
+ 
+SKILL STORE 
+XENTARA can be enhanced in every imaginable direction through skills and add-ons from our skill store – for example, by adding new protocols or machine learning scenarios. This way we meet every current and future use case
+ 
+FAST 
+XENTARA provides extremely high performance and is optimized to integrate a multitude of different data sources and consumers. 
+saving-safe 
+SAFE AND SECURE 
+XENTARA is compatible with cutting-edge industry encription standards to keep your data secure. Package integrity control and retention systems ensure safe and stable communication.
+project-blueprint-idea 
+UNIFIED ARCHITECTURE 
+XENTARA distributed semantic model provides a unified namespace for all local and remote data points. This enables engineers to achieve a unified shop floor architecture and swift configuration possibilites.
+ 
+COST-EFFICIENT ENABLEMENT 
+Enable brownfield equipment to become “smart” with barely any interruptions. The future doesn´t have to cost a fortune. 
+To learn more, go to the Xentara Information and Data Sheet 
+Connect anything 
+ 
+ 
+Easy Installation 
+Xentara is the “missing piece” of your smart factory. And to bring it´s benefits to every manufacturing facility, we have made sure that the roll-out on site is particularly easy. This means that there are only a few steps into the future of production. Run Xentara on any compatible hardware and platform such as 32 or 64 bit arm and x86 systems on debian or ubuntu and just install using apt! 
+ 
+About us 
+You think that it’s hard to combine experience with young talent? Think again and meet our team of manufacturing enthusiasts, embedded specialists, automation-ambassadors and knowledge-hungry IT experts. 
+ 
+Management 
+Our management team looks back to decade-long individual careers in consulting, supply chain management, manufacturing improvement and embedded computing. Xentara is the manifestation of our combined desire to manage industrial production the smart way. 
+ 
+ 
+Philipp Kirschenhofer (Managing Director) 
+Co-Founder & Managing Director 
+ 
+ 
+ 
+Michael Schwarz (Managing Director​) 
+Co-Founder & Managing Director 
+ 
+ 
+ 
+Robert Schachner (Chief Technology Officer) 
+Co-Founder & Chief Technology Officer 
+ 
+ 
+Get in Touch 
+ 
+I am a  
+ 
+Operations/Plant Manager
+Chief Digital Officer
+Quality Manager
+IT Manager
+Engineering Manager
+Chief Executive Officer
+Chief Operations Officer
+other
+at 
+ 
+Machine Building
+Automotive
+Fast Moving Consumer Goods
+Aeronautics
+Chemical, Oil, Gas
+Pharmaceutical
+looking to 
+ 
+Increase my yield
+Build modern machines
+Make better & faster decisions
+Implement ready-to-use Skills
+Reduce our scrap/waste/energy consumption
+Optimize our production process
+Email 
+Message 
+ 
+ 
+ 
+Send
+ 
+embedded ocean GmbH
+Kapellenstr. 22
+82008 Unterhaching (bei München)
+English
+ 
+ 
+Get in Touch with us 
+ 
++49 89 2152962-0
+ 
+ [email protected]
+ 
+Linkedin
+ 
+Instagram
+ 
+Twitter
+ 
+Youtube
+ 
+More  
+Imprint
+Data Privacy
+Cookie Settings
+   
+ 
++49 89 2152962-0
+ 
+ [email protected]
+ 
+ 
+ 
+Products
+The Xentara Platform
+Xentara App
+Xentara EdgeCompute-10
+SPEC-DP
+Pricing
+Partner
+Skill Program
+Reseller Program
+About Us
+Team Xentara
+Career
+Press Room
+Store
+Resources
+Xentara Information and Data Sheet
+Core Documentation:
+Xentara Documentation
+Xentara PlugIn Documentation
+Utility Library Documentation
+Download Xentara
+Github
+Service Status
+Skills Documentation:
+InfluxDB CLient
+Modbus Driver
+MQTT Client
+OPC UA Client
+Signal Generator
+Web Service
+ 
+Products
+The Xentara Platform
+Xentara App
+Xentara EdgeCompute-10
+SPEC-DP
+Pricing
+Partner
+Skill Program
+Reseller Program
+About Us
+Team Xentara
+Career
+Press Room
+Store
+Resources
+Xentara Information and Data Sheet
+Core Documentation:
+Xentara Documentation
+Xentara PlugIn Documentation
+Utility Library Documentation
+Download Xentara
+Github
+Service Status
+Skills Documentation:
+InfluxDB CLient
+Modbus Driver
+MQTT Client
+OPC UA Client
+Signal Generator
+Web Service
+ 
+Get in Touch
+ 
+ 

@@ -1,0 +1,167 @@
+IT network automation with racksnet® SDN solution
+ 
+Skip to main content
+Request Live Demo
+Newsletter
+FAQ
+Contact
+Hit enter to search or ESC to close
+ 
+Close Search
+    
+ 
+search
+ 
+Menu    
+Software
+–
+Components
+Software Defined Networking
+Open Networking Cloud
+Dashboard
+Unified Whiteboard GUI
+racksnet® vController
+–
+Top Functions
+Vendor Migration
+Network Cloning
+Inventory Scannning
+Port Setting Wizard
+3rd Party Integration
+–
+Customer segments
+Small Business
+Medium-sized Enterprises
+Large Enterprises
+–
+Sectors
+Public authorities and administration
+Healthcare and Medtech
+Education
+Company
+Jobs
+Investor Relations
+Partners
+Blog
+Resources
+Product Info
+Use Cases
+Tutorials & Webinars
+Studies & Trends
+FAQ
+Request Demo
+search   Menu      
+Symplifying network automation for Dell, Cisco, HPE Aruba & Huawei
+racksnet® extends its Open Networking Portfolio with Dell Enterprise SONiC
+[more…]
+MenuTopFiguresCorporate VideoAll-In-OneOptionsSuitabilityJob Opportunities
+https://www.youtube.com/watch?v=gKXoufPLRz0&feature=youtu.be 
+Start Your NEXTGen Network Automation Now
+racksnet® – One tool to manage all network tasks
+Play Video Video
+Easy management with racksnet® Network Orchestration Center
+racksnet® App, Dashboard, Whiteboard and SDN-Controller
+A solution that grows with your tasks
+Whether as a cloud or on-premise solution, our no-code software offers you a unique user experience for all vendors, series and operating systems of your network.
+Optimised for Campus Edge, Data Centre or IoT. With the racksnet® automation solution you can manage any network quickly, securely and reliably. It doesn't matter whether your company is large or small. racksnet® helps you to reduce time and costs in any case. Especially, because it reduces complexity and increases your performance.  
+Companies with a small number of IT resources
+Service & Production companies: <100 employees  
+Medium-sized companies
+IT system houses & consulting companies, service and production companies:<1,000 employees  
+Large companies and corporations
+Companies & Organisations >1,000 employees  
+  
+Single-Site or Multi-Site solution
+You decide how you want to use the racksnet® solution. Only one location central or for several locations worldwide.
+  
+Single-Site Solution
+For small and medium-sized enterprises with only one campus network
+More tasks lead to more complexity. This increases the risk of losing the overview of your network system. By integrating the racksnet® SDN controller, you ensure that your network infrastructure is reliably tracked and mapped in the software at all times.
+Continue here...
+  
+Multi-Site Solution
+For medium and large companies with distributed network infrastructure
+Distributed network infrastructures are best managed with multiple SDN controllers. This allows you to automate sites independently or, e.g., through cloning, and to replicate and roll out to new branches according to your compliance.
+Continue here...
+  
+All-in-one solution | network planning, monitoring & automation
+racksnet® offers you more efficiency than other solutions in all aspects, whether monitoring, management or automation. And the best thing is: racksnet® combines all this in an integrated, unique all-in-one solution. So instead of many vendor-specific individual programs, you will only need one tool in the future.
+With the racksnet® solution you make your company fit today for the challenges of tomorrow, e.g. Brite-Box solutions with Open Networking operating systems like Microsoft SONiC.
+Would you like to experience the advantages of automation live?Book a live online demo now
+HR | Open positionsBy the way: We are always looking for talented people who want to change the world with us!
+If you want to change the world and enjoy developing, if you are open to new people and want to integrate your talent into an innovative environment – then apply to us.
+We offer you a varied framework with flat hierarchies in which you can develop quickly – e.g. as a software developer, account manager, marketing professional or trainee.
+Here are our current job vacancies ...
+  
+ racksnet GmbHKönigsteiner Str. 20 A65812 Bad SodenGermany
+ 
+Contact
+Request a Demo
+FAQ
+Newsletter
+Company
+Jobs
+Investor Relations
+Press & News
+Imprint
+Privacy Policy
+© 2021 racksnet GmbH | Implementation: Sievers Media 
+linkedininstagramemail 
+Close Menu
+    
+ 
+Software
+–
+Components
+Software Defined Networking
+Open Networking Cloud
+Dashboard
+Unified Whiteboard GUI
+racksnet® vController
+–
+Top Functions
+Vendor Migration
+Network Cloning
+Inventory Scannning
+Port Setting Wizard
+3rd Party Integration
+–
+Customer segments
+Small Business
+Medium-sized Enterprises
+Large Enterprises
+–
+Sectors
+Public authorities and administration
+Healthcare and Medtech
+Education
+Company
+Jobs
+Investor Relations
+Partners
+Blog
+Resources
+Product Info
+Use Cases
+Tutorials & Webinars
+Studies & Trends
+FAQ
+Request Demo
+Request Live Demo
+Newsletter
+FAQ
+Contact
+Contact
+Directions
+Imprint
+Privacy Policy
+racksnet GmbHKönigsteiner Str. 20 A65812 Bad Sodeninfo@racksnet.com
+ 
+ 
+Newsletter subscription    
+In our newsletters we share latest news on Open Networking, Networking Automation, Multivendor, Cloud and On-Premise solutions.
+First Name Last Name Company Interest Network administrationNetwork AutomationOpen NetworkingMulti Vendor AutomationCloudOn-PremiseLanguageGermanEnglishMail  I agree to the privacy policy and the transfer of my information to Mailchimp.Leave this field empty if you're human: 
+Do you have questions about the software?Write to us:sales@racksnet.com
+			×			
+English
+German

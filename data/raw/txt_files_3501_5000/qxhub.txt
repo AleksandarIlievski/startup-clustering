@@ -1,0 +1,55 @@
+Start
+Los geht's
+So funktioniert's
+Kontakt
+Einloggen
+Registrieren
+de
+                        
+Deutsch
+English
+qxhub ist eine sichere und vollständig DSGVO-konforme Plattform für den Austausch von Daten.
+Datenaustausch
+Ihre zentrale Anlaufstelle. Bringen Sie den Datenaustausch mit Ihren Kunden und Lieferanten auf ein neues Level.
+Mehr...
+Standardschnittstelle
+Entdecken Sie eine Plattform, auf der alle Anbieter, Kunden und Systeme über eine einheitliche Schnittstelle kommunizieren.
+Mehr...
+Vorschriften & Sicherheit
+Gehen Sie auf Nummer sicher. Die gesamte Kommunikation und alle Daten werden mit modernster Technologie verschlüsselt.
+Mehr...
+Lösungen für den Datenaustausch
+                qxhub ist eine sichere und vollständig DSGVO-konforme Plattform für den Austausch von Daten. Sie ermöglicht es Ihnen, bestimmte Dokumente zu abonnieren, so dass Sie sicher sein können, dass Sie immer im Besitz der aktuell gültigen Version eines Dokuments (wie z.B. eines Zertifikats) sind. Wird beispielsweise ein Zertifikat aktualisiert oder geändert, werden Sie sofort darauf aufmerksam gemacht und erhalten Zugang zu dem neuen Zertifikat. Hier ein kurzer Überblick über einige Datenaustauschdienste, die bereits verfügbar sind oder in Kürze verfügbar gemacht werden:
+Dokumente
+Hochladen, Herunterladen und Freigeben von Dokumenten über das Web-Portal oder vollautomatisch über die OpenAPI-Schnittstelle. Erhalten Sie Benachrichtigungen, wenn neue Versionen verfügbar sind und eine Vorwarnung, wenn die Gültigkeit eines Dokuments bald abläuft.
+                
+Audits
+                    Laden Sie Audits, wie z.B. Lieferantenselbstauskünfte über die OpenAPI-Schnittstelle hoch und bearbeiten Sie diese über das Web-Portal oder die Schnittstelle. Fügen Sie Anhänge hinzu oder erstellen Sie Findings und Maßnahmen über das Web-Portal oder die OpenAPI-Schnittstelle.
+                
+Findings & Maßnahmenpläne
+                    Erstellen und bearbeiten Sie Befunde oder Maßnahmenpläne über das Web-Portal oder die OpenAPI-Schnittstelle. Erhalten Sie Benachrichtigungen, wenn Findings oder Maßnahmen bearbeitet oder Fristen für Maßnahmen versäumt werden.
+                
+Prüfmittel-Zertifikate
+                    Bieten Sie über das Web-Portal oder die OpenAPI-Schnittstelle dedizierten Zugriff auf Prüfmittelzertifikate und Daten zu weiteren einsatzkritischen Prüf- und Messmitteln oder laden Sie diese herunter.
+                    
+                
+Beschwerden & Reklamationen
+                    Hochladen, Herunterladen und Bearbeiten von Reklamationen über das Web-Portal oder die OpenAPI-Schnittstelle.
+                    
+                
+Warum qxhub?
+Datenaustausch
+            Ihre zentrale Anlaufstelle. Bringen Sie den Datenaustausch mit Ihren Kunden und Lieferanten auf ein neues Level. Das Quality Exchange Hub bietet Ihnen eine einfache, generische und rechtskonforme Möglichkeit, Daten wie Zertifikate, Lieferantenbewertungen, Fragebögen, Audits, Beschwerden oder Erstmusterprüfberichte aus einer Hand auszutauschen.
+        
+Standardschnittstelle
+            Entdecken Sie eine Plattform, auf der alle Anbieter, Kunden und Systeme über eine standardisierte Schnittstelle kommunizieren. Da die Schnittstelle von qxhub mit modernster OpenAPI-Technologie realisiert wurde, kann sie von jedem Softwareanbieter implementiert oder an jedes individuelle Projekt angebunden werden - kostenlos. Fragen Sie noch heute Ihren Softwareanbieter, ob auch er qxhub bereits angebunden hat.
+            
+        
+Vorschriften & Sicherheit
+            Gehen Sie auf Nummer sicher. Bei qxhub wird Datensicherheit und Datenschutz gelebt: Sämtliche Kommunikation und Daten werden mit modernster Technik verschlüsselt. Darüber hinaus werden alle Daten, die über qxhub verwaltet werden, ausschließlich in Deutschland gehostet und verarbeitet. Sie können sicher sein, dass alle Daten, die Sie über qxhub austauschen, rechtskonform nach DSGVO verarbeitet und gespeichert und niemals an Dritte weitergegeben oder zweckentfremdet werden.
+        
+Jetzt kostenfrei registrieren.
+Jetzt registrieren
+Impressum
+Datenschutz & Cookies
+Nutzungsbestimmungen

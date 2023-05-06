@@ -1,0 +1,892 @@
+    Instruments of Things
+  
+ 
+Skip to content
+Menu
+home
+products
+support
+contact
+services
+Log in
+Create account
+Search
+Legal Notice
+Privacy Policy
+Terms of Service
+Shipping Policy
+Refund Policy
+Instagram
+Search again
+View cart
+SOMI-1
+the sound of me.
+subscribe and save 15%
+Join our community and receive the latest product news, live performance stories and a 15% discount code for your order:
+            Subscribe
+            
+become an instrument
+Make your movements audible and become music yourself with the SOMI-1 motion sensor wearables for sound control. SOMI-1 is a MIDI controller that provides performers, musicians and dancers the opportunity of making music via movements. It consists of Bluetooth® motion sensors and a receiver hub. SOMI-1 comes with user-firendly ready-made soundscapes making it usable for everyone. 
+        Order Now
+      
+6 sensors simultaneously / 7 different movement parameters per sensor / size adjustable wristbands
+bluetooth® 5 / up to 50 meters range / low latency / 0.01 degrees precision
+works with any MIDI enabled software or hardware / ready-to-use soundscapes (no pre-knowledge needed)
+transmissions under 10ms
+The SOMI-1 motion sensors measure movements, tilt angles and accelerations in different directions with market-leading latency and transform them into sound parameters (MIDI parameters) in real-time.MIDI® Innovation Award: Best Commercial Hardware Product 2022
+Activity: Move the sensor in any direction. The parameter value depends on the velocity.
+Tilt the sensor around the X, Y or Z axis. The parameter value depends on the angle.
+Accelerate the sensor in the direction of the X, Y or Z axis.
+the receiver hub
+The motion data of the SOMI-1 sensors is received wirelessly via a custom Bluetooth® 5 based protocol by the SOMI-1 hub, that connects to your music software, hardware or mobile app via USB-C or TRS-MIDI.– MIDI Interface (USB-MIDI, TRS-MIDI, MIDI Host)– Connectivity to music software & hardware– Button to pause sensors and MIDI learn– Encoder to adjust sensitivity 
+Stop video
+successfully funded on kickstarter.
+Play video
+used by professional performers, dancers and musicians
+Cat Jimenez, Daniel Kohlmeigner and Martin Retschitzegger at the Ars Electronica, Linz
+View
+Performance at the Superbooth Berlin by JakoJako and Annalise “Nana” Van Eve
+View
+SOMI-1 used by the FMKF collective with Franka Marlene Foth as choreographer
+View
+Slide 1
+Slide 2
+Slide 3
+Previous slide
+Next slide
+ready-to-use soundscapes
+Instruments of Things® offers several ready-to-use preset projects for Ableton Live. These presets are ideal for anyone who wants to use SOMI-1 right away. No settings need to be made. Press play and start making music via movements.You are waiting for the SOMI-1 smartphone app? Try a free demo version of Ableton Live and use our preset projects! Find more infos in our quick start guide.
+an editor for pro settings
+The SOMI-1 Editor app provides the ability to change MIDI settings, set up slew limiters, scale individual sensor values, invert parameters, change note ranges, and more. All settings can be saved to the SOMI-1 Hub. Therefore it is not necessary to use the editor for every session.
+SOMI-1 Kit
+ Sale price 
+ Price 
+€499,00
+ Regular price 
+Unit price
+/ per 
+Shipping calculated at checkout.
+Default Title - €499,00 EUR
+      Add to Cart
+    
+View cart
+  
+Full details
+key features overview
+sensors
+7 different movement parameters per sensorUp to 6 sensors simultaneouslyWireless via custom Bluetooth® 5 based protocolUp to 30 hours battery lifetimeLow latency under 10ms (no perceivable delay)High Precision (ca. 0.01 degrees)Range up to 50 meters (164 feet)
+receiver hub
+MIDI Interface (USB-MIDI, TRS-MIDI, MIDI Host)Connectivity to music software & hardwareButton to pause sensors and for MIDI mappingEncoder to adjust sensitivity
+MIDI
+MIDI Note, Control Change and Pitch Bend signalsAdjustable MIDI channelDirect connection to music software and hardware (no extra software or drivers needed)
+editor
+Scale individual sensor valuesInverse sensor valuesUse slew limiters for smoothingChange MIDI Note range and thresholdChange MIDI Control Change controllerSave settings directly on the SOMI-1 hubIntegrated editor for Ableton Live (Max for Live)Ableton Live preset projects
+Featured collection
+SOMI-1 Kit
+€499
+Additional Motion Sensor
+€119
+IO-Lights MIDI Controller
+€89
+2.4SINK Kit
+          Sold Out
+        
+Motion Sensor Wristband
+€12
+Motion Sensor Clothing Clip
+€8
+          View all
+        
+Blog
+May 30, 2022
+SOMI-1 won the MIDI Innovation Award
+          
+            Wow, great news 🚀🚀🚀 Our latest product SOMI-1 won the MIDI innovation award 2022 by The MIDI Association in the category "commercial hardware"! That's a great honor for us and we...
+          
+        
+        Read more
+        
+May 30, 2022
+Instruments of Things x Ableton for Ars Electronica Festival
+          
+            We are happy to announce that we are starting a cooperation with Ableton for the Ars Electronica Festival in Linz, Austria (7-11 September 2022). Local artists from Austria will make use of...
+          
+        
+        Read more
+        
+April 11, 2022
+Try SOMI-1 on your own at one of the following exhibitions
+          
+            Superbooth: May 12 - 14, Berlin (Link) NAMM: June 03 - 05, Los Angeles (Link) Viva Technology: June 15 - 18, Paris (Link)   Come around, test our products and...
+          
+        
+        Read more
+        
+          View all
+        
+Search
+Legal Notice
+Privacy Policy
+Terms of Service
+Shipping Policy
+Refund Policy
+Sign up for updates
+Promotions, new products and sales. Directly to your inbox.
+                      Subscribe
+                      
+Instagram
+Copyright © 2023, Instruments of Things.
+Powered by Shopify
+Payment icons
+American Express
+Apple Pay
+Google Pay
+Klarna
+Maestro
+Mastercard
+PayPal
+Shop Pay
+SOFORT
+Union Pay
+Visa
+Close Cart
+Shopping Cart
+Your cart is currently empty.
+Enable cookies to use the shopping cart
+                        t:
+                        
+                        
+                          e
+                        
+                      
+ (-)
+                    
+Remove
+Item Quantity
+Discount:
+-
+Subtotal
+€0,00
+Taxes and shipping calculated at checkout
+          Checkout
+          
+Choosing a selection results in a full page refresh.
+Press the space key then arrow keys to make a selection.
+                    English
+                
+                            English
+                        
+                        ETranslate
+                    
+          English
+        
+                            English
+                        
+                        ETranslate
+                    
+                    EUR
+                
+AED
+AFN
+ALL
+AMD
+ANG
+AUD
+AWG
+AZN
+BAM
+BBD
+BGN
+BIF
+BND
+BOB
+BSD
+BWP
+BZD
+CAD
+CDF
+CHF
+CNY
+CRC
+CVE
+CZK
+DJF
+DKK
+DOP
+DZD
+EGP
+ETB
+EUR
+FJD
+FKP
+GBP
+GMD
+GNF
+GTQ
+GYD
+HKD
+HNL
+HRK
+HUF
+IDR
+ILS
+INR
+ISK
+JMD
+JPY
+KES
+KGS
+KHR
+KMF
+KRW
+KYD
+KZT
+LAK
+LBP
+LKR
+MAD
+MDL
+MKD
+MMK
+MNT
+MOP
+MUR
+MVR
+MWK
+MYR
+NGN
+NIO
+NPR
+NZD
+PEN
+PGK
+PHP
+PKR
+PLN
+PYG
+QAR
+RON
+RSD
+RWF
+SAR
+SBD
+SEK
+SGD
+SHP
+SLL
+THB
+TOP
+TTD
+TWD
+TZS
+UAH
+UGX
+USD
+UYU
+UZS
+VND
+VUV
+WST
+XAF
+XCD
+XOF
+XPF
+YER
+                        ETranslate
+                    
+EUR
+ / 
+                    English
+                
+                                English
+                            
+English
+EUR
+AED
+AFN
+ALL
+AMD
+ANG
+AUD
+AWG
+AZN
+BAM
+BBD
+BGN
+BIF
+BND
+BOB
+BSD
+BWP
+BZD
+CAD
+CDF
+CHF
+CNY
+CRC
+CVE
+CZK
+DJF
+DKK
+DOP
+DZD
+EGP
+ETB
+EUR
+FJD
+FKP
+GBP
+GMD
+GNF
+GTQ
+GYD
+HKD
+HNL
+HRK
+HUF
+IDR
+ILS
+INR
+ISK
+JMD
+JPY
+KES
+KGS
+KHR
+KMF
+KRW
+KYD
+KZT
+LAK
+LBP
+LKR
+MAD
+MDL
+MKD
+MMK
+MNT
+MOP
+MUR
+MVR
+MWK
+MYR
+NGN
+NIO
+NPR
+NZD
+PEN
+PGK
+PHP
+PKR
+PLN
+PYG
+QAR
+RON
+RSD
+RWF
+SAR
+SBD
+SEK
+SGD
+SHP
+SLL
+THB
+TOP
+TTD
+TWD
+TZS
+UAH
+UGX
+USD
+UYU
+UZS
+VND
+VUV
+WST
+XAF
+XCD
+XOF
+XPF
+YER
+Change
+                            ETranslate
+                        
+EUR
+ / 
+                    English
+                
+Language
+                                    English
+                                
+English
+Currency
+EUR
+AED
+AFN
+ALL
+AMD
+ANG
+AUD
+AWG
+AZN
+BAM
+BBD
+BGN
+BIF
+BND
+BOB
+BSD
+BWP
+BZD
+CAD
+CDF
+CHF
+CNY
+CRC
+CVE
+CZK
+DJF
+DKK
+DOP
+DZD
+EGP
+ETB
+EUR
+FJD
+FKP
+GBP
+GMD
+GNF
+GTQ
+GYD
+HKD
+HNL
+HRK
+HUF
+IDR
+ILS
+INR
+ISK
+JMD
+JPY
+KES
+KGS
+KHR
+KMF
+KRW
+KYD
+KZT
+LAK
+LBP
+LKR
+MAD
+MDL
+MKD
+MMK
+MNT
+MOP
+MUR
+MVR
+MWK
+MYR
+NGN
+NIO
+NPR
+NZD
+PEN
+PGK
+PHP
+PKR
+PLN
+PYG
+QAR
+RON
+RSD
+RWF
+SAR
+SBD
+SEK
+SGD
+SHP
+SLL
+THB
+TOP
+TTD
+TWD
+TZS
+UAH
+UGX
+USD
+UYU
+UZS
+VND
+VUV
+WST
+XAF
+XCD
+XOF
+XPF
+YER
+CHANGE
+Cancel
+                                ETranslate
+                            
+                    English
+                
+                            English
+                        
+                        ETranslate
+                    
+          English
+        
+              English
+            
+            ETranslate
+          
+                    EUR
+                
+AED
+AFN
+ALL
+AMD
+ANG
+AUD
+AWG
+AZN
+BAM
+BBD
+BGN
+BIF
+BND
+BOB
+BSD
+BWP
+BZD
+CAD
+CDF
+CHF
+CNY
+CRC
+CVE
+CZK
+DJF
+DKK
+DOP
+DZD
+EGP
+ETB
+EUR
+FJD
+FKP
+GBP
+GMD
+GNF
+GTQ
+GYD
+HKD
+HNL
+HRK
+HUF
+IDR
+ILS
+INR
+ISK
+JMD
+JPY
+KES
+KGS
+KHR
+KMF
+KRW
+KYD
+KZT
+LAK
+LBP
+LKR
+MAD
+MDL
+MKD
+MMK
+MNT
+MOP
+MUR
+MVR
+MWK
+MYR
+NGN
+NIO
+NPR
+NZD
+PEN
+PGK
+PHP
+PKR
+PLN
+PYG
+QAR
+RON
+RSD
+RWF
+SAR
+SBD
+SEK
+SGD
+SHP
+SLL
+THB
+TOP
+TTD
+TWD
+TZS
+UAH
+UGX
+USD
+UYU
+UZS
+VND
+VUV
+WST
+XAF
+XCD
+XOF
+XPF
+YER
+                        ETranslate
+                    
+EUR
+ / 
+                    English
+                
+                                English
+                            
+English
+EUR
+AED
+AFN
+ALL
+AMD
+ANG
+AUD
+AWG
+AZN
+BAM
+BBD
+BGN
+BIF
+BND
+BOB
+BSD
+BWP
+BZD
+CAD
+CDF
+CHF
+CNY
+CRC
+CVE
+CZK
+DJF
+DKK
+DOP
+DZD
+EGP
+ETB
+EUR
+FJD
+FKP
+GBP
+GMD
+GNF
+GTQ
+GYD
+HKD
+HNL
+HRK
+HUF
+IDR
+ILS
+INR
+ISK
+JMD
+JPY
+KES
+KGS
+KHR
+KMF
+KRW
+KYD
+KZT
+LAK
+LBP
+LKR
+MAD
+MDL
+MKD
+MMK
+MNT
+MOP
+MUR
+MVR
+MWK
+MYR
+NGN
+NIO
+NPR
+NZD
+PEN
+PGK
+PHP
+PKR
+PLN
+PYG
+QAR
+RON
+RSD
+RWF
+SAR
+SBD
+SEK
+SGD
+SHP
+SLL
+THB
+TOP
+TTD
+TWD
+TZS
+UAH
+UGX
+USD
+UYU
+UZS
+VND
+VUV
+WST
+XAF
+XCD
+XOF
+XPF
+YER
+Change
+                            ETranslate
+                        
+EUR
+ / 
+                    English
+                
+Language
+                                    English
+                                
+English
+Currency
+EUR
+AED
+AFN
+ALL
+AMD
+ANG
+AUD
+AWG
+AZN
+BAM
+BBD
+BGN
+BIF
+BND
+BOB
+BSD
+BWP
+BZD
+CAD
+CDF
+CHF
+CNY
+CRC
+CVE
+CZK
+DJF
+DKK
+DOP
+DZD
+EGP
+ETB
+EUR
+FJD
+FKP
+GBP
+GMD
+GNF
+GTQ
+GYD
+HKD
+HNL
+HRK
+HUF
+IDR
+ILS
+INR
+ISK
+JMD
+JPY
+KES
+KGS
+KHR
+KMF
+KRW
+KYD
+KZT
+LAK
+LBP
+LKR
+MAD
+MDL
+MKD
+MMK
+MNT
+MOP
+MUR
+MVR
+MWK
+MYR
+NGN
+NIO
+NPR
+NZD
+PEN
+PGK
+PHP
+PKR
+PLN
+PYG
+QAR
+RON
+RSD
+RWF
+SAR
+SBD
+SEK
+SGD
+SHP
+SLL
+THB
+TOP
+TTD
+TWD
+TZS
+UAH
+UGX
+USD
+UYU
+UZS
+VND
+VUV
+WST
+XAF
+XCD
+XOF
+XPF
+YER
+CHANGE
+Cancel
+                                ETranslate
+                            

@@ -1,0 +1,332 @@
+ 
+Data OS - A new way to harness the power of your data
+ 
+ 
+Products 
+ 
+						Products					
+						Whether you want to build a semantic data access layer or simply replicate data in a central data warehouse, we have the right solution for you.					
+ 
+ 
+Data Virtuality Platform SaaS 
+ A new way to access, model, govern, and deliver data through the cloud. 
+ 
+Data Virtuality Platform 
+The unique combination of data virtualization and replication built to enable flexible and modern data architectures. 
+ 
+Pipes 
+Self-service data pipelines to extract, transform and load data from any source to your central data warehouse. 
+Connectors
+Pricing
+Solutions 
+ 
+						Solutions					
+						Explore how you can use the Data Virtuality Platform in different scenarios.					
+ 
+						Overview					
+Solutions Overview
+ 
+						By Use Case					
+Self-Service Semantic Layer​
+Logical Data Warehouse
+Hybrid- & Multi-Cloud
+Customer Data Integration
+Data Fabric
+Data Mesh
+Data Governance
+ 
+						By Industry					
+Financial Services​
+Retail & E-Commerce​
+Healthcare
+Telecommunications​
+Learn 
+ 
+						Learn					
+						Learn more about the Data Virtuality Platform or to make your work with Data Virtuality even more successful.					
+ 
+						Customer Case Studies					
+						Read, watch and learn what our customers achieved with Data Virtuality.					
+ 
+						Resources					
+						Find insightful webinars, whitepapers and ebooks in our resource library. 					
+ 
+						Academy					
+						Learn how to use the Data Virtuality Platform with hands-on courses. 					
+ 
+						FAQ					
+						Read the answers to frequently asked questions about Data Virtuality.					
+ 
+						Blog					
+						Insights on product updates, useful guides and further informative articles.					
+ 
+On-Demand Webinar: Data Architectures for Data Science Using Data Virtualization 
+In this on-demand webinar, we look at how a modern data architecture can help data scientists to be faster and to work more efficiently. 
+Watch Webinar
+Docs & Support
+Company 
+ 
+						Company					
+						Learn more about us as a company, our strong partner ecosystem and our career opportunities.					
+ 
+						About Us					
+						Learn more about Data Virtuality's inception and mission.					
+ 
+						Careers					
+						Learn about the career opportunities at Data Virtuality.					
+ 
+						Partners					
+						Stronger together. Learn more about our partner programs. 					
+ 
+ 
+ 
+Get Started 
+ 
+Data Virtuality Platform SaaS 
+A fully managed hardware and software stack management so you can fully focus on using the data 
+Start free trial
+ 
+Data Virtuality Platform 
+The Data Virtuality Platform marries two distinct technologies to create an entirely new manner of integrating data 
+Book a Demo
+ 
+Login 
+Login 
+ 
+Data Virtuality Platform SaaS
+ 
+Pipes
+ 
+The market's first data virtualization SaaS 
+Reduce the complexity of implementing,operating, and maintaining data virtualization 
+Find out more
+ 
+ 
+ 
+ 
+Welcome to the future of data integration 
+Leading various large scale data integration projects at a global media company, our founder Dr. Nick Golovin experienced that data integration needs to be flexible in order to meet the ever-changing business needs.That’s why the Data Virtuality Platform provides data professionals with a data integration tool that allows them to always choose the best method for the specific requirement: multiple data delivery style in a single platform and different deployment options: 
+ 
+						High-performance    real-time data integration through smarter query optimization					
+ 
+						Data historization and master data management through advanced ETL
+					
+ 
+						Self-service capabilities for business users as well as easy usability with SQL					
+Data Virtuality’s flexible data integration approach is the reliable enabler and accelerator for modern data architectures, like data fabric, data mesh, unified data platform and hybrid-/ multi-cloud environments. 
+Your organization, your deployment choice. 
+ 
+The market’s first data virtualization SaaS 
+Well suited for organizations of any size that want to move quickly and don’t want to spend too many resources on building the solution.Data Virtuality Platform SaaS provides you with a fully managed hardware and software stack management so you can fully focus on using the data! 
+Start free trial
+ 
+Data virtualization for flexible data architectures 
+Like the Data Virtuality Platform SaaS, the on-premises version provides multiple data delivery styles in a single platform: data virtualization, ETL/ELT, streaming, CDC (change data capture).This enables an agile data infrastructure with high performance. 
+Book a Demo
+ 
+ 
+ Previous
+ Next
+ 
+ Previous
+ Next
+Highlights From Our Resources 
+ 
+The Comprehensive Handbook of Data Integration 
+This ebook will give you a state-of-the-art overview of all data replication approaches and helps finding the right one for your organization. 
+Learn More
+ 
+Data Governance Strategy for Data Analytics & Data Integration Initiatives 
+This whitepaper shares the benefits of a mature data governance strategy and how Data Virtuality has aligned its approach to supporting our clients’ varied data governance needs. 
+Learn more
+View All Resources
+ 
+ 
+More on Platform Architecture
+Why Data Virtuality? 
+ 
+						Agile Data Management					
+Cut down your development time by up to 80%
+Access any data in minutes and automate data workflows using SQL
+Use Rapid BI Prototyping for significantly faster time-to-market
+ 
+ 
+						Ensure Data Governance					
+Ensure data quality for accurate, complete, and consistent data
+Use metadata repositories to improve master data management
+Increase transparency through data lineage across data virtualization and ETL processes
+ 
+ 
+						200+ Available Data Connectors					
+Get immediate access to any data source or system, even in real-time
+All connectors are ready-to use and fully maintained by us
+Gain complete data access in 1 day instead of months of development
+ 
+News 
+ 
+Live Webinar: Demystifying Data Mesh​ 
+For this webinar, we have invited Michele Goetz from Forrester to decipher the actual benefits of the hype together with us. 
+Register for the free Webinar
+Customer Spotlight 
+Financial Services 
+ 
+ 
+Crédit Agricole 
+			Crédit Agricole transformed their EDW into a data platform and enabled self-service initiatives and faster time-to-market.		
+Get Customer Insights
+Financial Services 
+ 
+ 
+Renew Financial 
+			Renew Financial integrated data from disparate sources and built a one stop shop for data. The BI team finally trusts the data.		
+Get Customer Insights
+E-Commerce / Retail 
+ 
+ 
+Swanson 
+			Swanson Health Products used data virtualization and materialization to drive self-service initiatives which drastically reduced time-to-insights.		
+Get Customer Insights
+                    Looping Group                
+                    FC Basel 1893                
+                    TOPdesk                
+                    areeba                
+                            Get Customer Insights →                        
+                    Lastminute.com                
+                    The AI Corporation                
+                    Hexaware                
+                    CSS Insurance                
+                    International Telecommunication Union                
+                    Nasco                
+                    SM Nutrition                
+                    Rainforest Alliance                
+                    Cyber Solutions                
+                    Avenso (Lumas & Whitewall)                
+                            Get Customer Insights →                        
+                    GASAG                
+                    U Gie IRIS                
+                    Weleda                
+                    PartnerRe                
+                    Public Healthcare Provider                
+                            Get Customer Insights →                        
+                    BSH Hausgeräte                
+                    Swanson                
+                            Get Customer Insights →                        
+                    Crédit Agricole                
+                            Get Customer Insights →                        
+                    iProspect                
+                    Springlane                
+                    Amaysim                
+                    SRS Distribution                
+                    PGGM                
+                            Get Customer Insights →                        
+                    People.ai                
+                            Get Customer Insights →                        
+                    Renew Financial                
+                            Get Customer Insights →                        
+                    Roland Berger                
+                    Unanet                
+                    Apologistics                
+                    Albelli                
+                            Get Customer Insights →                        
+View Customer Case Studies
+Voices of Our Customers 
+						Having Data Virtuality in place for years, we feel that it is the data foundation to help the company leverage the data assets. It is the last piece of the puzzle in solving all of our data challenges. With Data Virtuality, our BI department became a flexible one stop shop for everything data and more. The other teams at Renew Financial know that they can rely on us delivering the right data in a very fast development time, five times faster to be precise.					
+Mai DoanDirector of BI at Renew Financial 
+						Data Virtuality is so easy to use that even our business analysts can use it and get the data whenever they need it. Before Data Virtuality only our developers could use the tool and the business analysts had to wait. Now that the developers as well as business analysts can use the solution, we are not only more efficient but were able to cut cost by 80%!					
+Fred DunantDMO Manager at Crédit Agricole 
+						Data Virtuality has made the data analytics team so much more efficient and effective. It allows us to do more than we could have done with any other kind of technology. I wish I would have been aware of data virtualization and specifically Data Virtuality years ago. Because of its capability it makes my life so much easier.					
+Frank NoordoverDirector of Data Management at Swanson Health 
+						With Data Virtuality, we are very flexible and scalable now! We can easily unlock new data sources, quickly implement changes, and get comprehensive insights of different parts of our business. The demand for data has risen - exponentially it seems.					
+Sjors TakesLead Data Solutions Architect at Albelli 
+						With the help of the Data Virtuality Logical Data Warehouse we brought multiple sources together and we managed to create data marts which contain data from a lot of sources, ready to be used. And once we connected the LDW to our BI tools for analysis we already reduced a lot of dependency on us. And now, instead of downloading data from different sources, and then joining and cleaning them e.g. in Excel, we simply have these tables ready-made in Data Virtuality.					
+Raghav SehgalHead of BI at Avenso AG 
+ Previous
+ Next
+Data Virtuality Partnerships 
+                        Technology Partner                    
+                        Solution Partner                    
+                        Technology Partner                    
+                        Solution Partner                    
+                        Technology Partner                    
+                        Solution Partner                    
+                        Solution Partner                    
+                        Solution Partner                    
+                        Solution Partner                    
+                        Technology Partner                    
+                        Solution Partner                    
+                        Technology Partner                    
+                        Solution Partner                    
+                        Technology Partner                    
+                        Solution Partner                    
+                        Solution Partner                    
+                        Solution Partner                    
+                        Technology Partner                    
+                        Solution Partner                    
+                        Technology Partner                    
+                        Technology Partner                    
+                        Technology Partner                    
+                        Technology Partner                    
+                        R20 Consultancy                    
+                        Technology Partner                    
+                        Solution Partner                    
+                        Technology Partner                    
+ 
+Learn More About Partnerships
+Get Started with  Data Virtuality 
+Your organization, your deployment choice. 
+Get Started 
+ 
+Data Virtuality Platform SaaS 
+A fully managed hardware and software stack management so you can fully focus on using the data 
+Start free trial
+ 
+Data Virtuality Platform 
+The Data Virtuality Platform marries two distinct technologies to create an entirely new manner of integrating data 
+Book a Demo
+ 
+ 
+Leipzig 
+Katharinenstrasse 15 | 04109 | Germany 
+Munich 
+Trimburgstraße 2 | 81249 | Germany 
+San Francisco 
+2261 Market Street #4788 | CA 94114 | USA 
+Products
+Data Virtuality Platform SaaS
+Data Virtuality Platform
+Pipes
+Connectors
+Solutions
+Learn
+Resources
+Customer Case Studies
+FAQ
+Blog
+Academy
+Docs & Support
+Company
+About us
+Careers
+Partner
+ 
+Follow Us on Social Media 
+ 
+Linkedin
+ 
+Twitter
+ 
+Youtube
+ 
+Facebook
+ 
+General Terms and Conditions
+Privacy Notice
+Imprint
+Our mission is to enable businesses to leverage the full potential of their data by providing a single source of truth platform to connect and manage all data. 
+Contact Sales
+ 
+ 
+ 
+© 2023 Data Virtuality
+Loading...
+  

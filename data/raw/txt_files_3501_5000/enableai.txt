@@ -1,0 +1,182 @@
+Home - Enable AI
+ 
+ 
+ 
+ 
+Kostenfreies Beratungsgespräch
+Alle Seminare
+Termine
+Referenzen
+Blog
+Über uns
+Kontakt
+ 
+ Menü
+Alle Seminare
+Termine
+Referenzen
+Blog
+Über uns
+Kontakt
+ 
+Enable AI etabliert Künstliche Intelligenz in Ihrem Unternehmen 
+Schulungen,Trainings in Machine Learning, Deep Learning, Data Science und Statistik							 
+Alle Schulungen
+Auswahl der Seminare
+ 
+Enable AI bietet Schulungen im Bereich Machine Learning, Deep Learning, Statistik / Data Science an. 
+ 
+Deep Learning mit Python – KI Bilderkennung Kurs	 
+Python – 3 Tage 
+				In diesem Kurs lernen Sie die Grundlagen von Deep-Learning (mit Beispielen aus der Bildverarbeitung) kennen. Sie erstellen und trainieren Neuronale Netze auf GPUs mit dem anwenderfreundlichen und beliebten Framework Keras / Tensorflow (in Python). Die praktischen Anwendungsfällen umfassen: Bildklassifizierung, Objektdetektierung mit Bounding Boxes, Semantische Segmentierung.					
+ 
+Digitale Transformation Weiterbildung 
+1 Tag 
+In diesem Digitalisierungs Seminar lernen Sie Denk- und Handlungswerkzeuge kennen, die die aktuellen Trends der Digitalisierung mit zeitlosen Grundsätzen untermauern. Das Seminar hat zum Ziel, Führungskräften ein tieferes Verständnis für strategische Entscheidungen im Kontext von Digitalisierungsprojekten zu entwickeln. 
+ 
+Data Science in Python Kurs 
+Python - 3 Tage 
+				Kompakter Einstieg in die Programmiersprache Python für Datenanalyse und Data Science. Erläuterung der Grundlagen von Python, dem pandas DataFrame, Plotten und Einführung in das Maschinelle Lernen. Erste Machine Learning Algorithmen (Regression, Entscheidungsbaum, K-Means Clustering). Verwendete Pakete: pandas, matplotlib, seaborn, scikit-learn.					
+ 
+Datenvisualisierung / Dashboards in Python 
+Python – 2 Tage 
+In dieser Schulung lernen Sie, wie Sie schnell und effektiv Ihre Daten und Ergebnisse mit Python visualisieren und mit anderen teilen können. Auch die interaktive Visualisierung wird behandelt. Verwendete Python Pakete sind: pandas, matplotlib, plotly, rise, ipywidgets, voila, streamlit. 
+ 
+Python Grundlagen und Einführung in objektorientierte Programmierung 
+Python - 3 Tage 
+Einführung in die Programmiersprache Python für Programmierer mit Grundkenntnissen in einer anderen Programmiersprache. Vorstellung einiger der am häufigsten gebrauchten Python Bibliotheken (u.a. numpy, os, shutil) und Einführung in die Objektorientierte Programmierung in Python. Erläuterung von Code Debugging in Python. Es wird der Editor (IDE) Pycharm verwendet. 
+ 
+Data Science Deployment / Entwicklung von Deep Learning Web Apps 
+Python, Flask, Html – 3 Tage 
+In dieser Schulung lernen Sie, wie Sie Webapps bauen können um die Ergebnisse Ihrer Data Science / Deep Learning Algorithmen visualisieren zu können und Ihren Kollegen über ein Web Oberfläche zur Verfügung zu stellen. Verwendete Pakete und Programmiersprachen sind Python, Flask, Html / CSS, streamlit, jinja, ajax. 
+ 
+Statistik Grundlagen und Programmieren mit R 
+R – 3 Tage     
+				Dieses Seminar vermittelt einen Einstieg in die Programmiersprache R mit RStudio und erklärt die Grundlagen von Statistik. Für Teilnehmer ohne Programmiervorerfahrung. Behandelte Themen sind: Korrelation, statistische Tests und Verteilungen, Grafiken erstellen mit ggplot2 und die effiziente Datenanalyse mit dem Paket data.table. 					
+ 
+Data Science in R Kurs 
+R – 3 Tage 
+				Das Seminar vermittelt einen kompakten Einstieg in die Programmiersprache R für Datenanalyse und Data Science. Sie lernen das beliebte Paket data.table, Plotten mit ggplot2 und eigene Funktionen schreiben. Der Einstieg in Machine Learning und die Umsetzung von bekannten Algorithmen (u.a. Lineare Regression, Entscheidungsbaum, K-Means Clustering) ist ein weiterer Schwerpunkt. 					
+ 
+Analyse und Visualisierung von Zeitreihen-Daten in Python 
+Python – 2 Tage 
+In dieser Schulung lernen Sie, wie Sie Zeitreihen Daten in Python analysieren und visualisieren können. Neben klassischen Methoden zur Zeitreihenvorhersage  (ARMA) werden auch Maschinelle Lernen Methoden behandelt (RNN, LSTM). Verwendete Python Module sind: pandas, matplotlib, plotly, datetime, statsmodels, sklearn, keras. 
+ 
+Analyse und Visualisierung von raumbezogenen (geospatial/GIS) Daten in Python 
+Python – 2 Tage 
+In dieser Schulung lernen Sie, wie Sie Geo-Spatial-Daten in Python analysieren und visualisieren können.  Das Seminar behandelt raumbezogene Vektordaten (mit dem Python Paket geopandas) und Rasterdaten (mit dem Paket Rasterio). Das Python Modul Contextily wird verwendet um fortgeschrittene Visualisierungen zu realisieren.  
+ 
+Machine Learning Kurs mit Python und scikit learn	 
+Python – 2 Tage 
+				Aufbauend auf Python Grundkenntnissen, werden supervised und unsupervised Machine Learning Algorithmen in scikit-learn und die wichtigsten Schritte beim Trainieren der Algorithmen behandelt. Folgende Algorithmen werden erläutert: Lineare & Logistische Regression, Entscheidungsbaum, Ensembles, Neuronales Netz (MLP), K-Nearest Neighbor, K-means, DBSCAN Clustering.					
+ 
+Data Science Bootcamp in Python 
+Python – 5 Tage 
+				Sie erlernen einen umfassenden Einstieg in die Programmiersprache Python mit Fokus auf Data Science und Machine Learning. Nach dem Seminar sind sie fähig einfache Datenanalysen in Ihrem Unternehmen durchzuführen und ihre erworbende Kenntnisse selbständig zu vertiefen. U.a. folgende Python Pakete werden erläutert: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels.					
+ 
+Neuronale Netze und Deep Learning mit Python	 
+Python – 3 Tage 
+				In diesem Kurs lernen Sie die Grundlagen von Deep-Learning kennen (mit Beispielen aus der Bild-, Text- und Sequenzdatenbearbeitung). Sie erstellen und trainieren Neuronale Netze auf GPUs mit dem anwenderfreundlichen und beliebten Framework Keras / Tensorflow (in Python). Vorkommende Neuronale-Netzwerk-Typen umfassen CNNs, RNNs und LSTMs.					
+ 
+KI für Manager 
+1 Tag 
+				Grundbegriffe aus den Bereichen Künstliche Intelligenz, Maschinelles Lernen und Deep Learning. Es werden Anwendungsfälle diskutiert und die Voraussetzungen, Möglichkeiten und Grenzen von KI erläutert. Zielgruppe der Schulung sind Führungskräfte, die KI Use-Cases  im Unternehmen aufdecken und das Potential und den erforderlichen Aufwand realistisch einschätzen wollen. 					
+ 
+Excel VBA Schulung 
+3 Tage - VBA 
+In dem Excel VBA Kurs lernen Sie Daten mit VBA zu analysieren und zu bearbeiten. Sie lernen Wege wie wiederkehrende Routineaufgaben leicht mit VBA programmiert werden können. Der Kurs führt auch in die Programmierung (mit VBA) ein.  
+0
++
+Zufriedene Teilnehmer
+0
++
+Geschulte Unternehmen
+0
++
+Seminartage
+0
++
+Jahre Erfahrung der Kooperationspartner
+Das sagen bisherige Teilnehmer
+ 
+						Mir hat die Schulung sehr gut gefallen, es war interessant zu sehen welche Möglichkeiten es mit Python so alles gibt und wie man es am Besten umsetzt. Ich hoffe Du kannst weiterhin viele Teilnehmer für dieses zukunftsträchtige Thema gewinnen. Alles Gute für Deine nächsten Schulungen. 					
+Stefan KönigData Science in Python 
+						Das Seminar ist gut strukturiert und ermöglicht auch Teilnehmern mit geringeren Vorkenntnissen einen guten Einstieg in die Materie.   Übungsaufgaben zu den verschiedenen Einheiten ermöglichen es, das Erlernte zu festigen. Dabei bieten unterschiedliche Schwierigkeitsgrade der Übungen für alle Teilnehmer einen Mehrwert.   (...)  Jan erklärt gut verständlich, motiviert und sorgt für eine gute Stimmung in der Gruppe.   Er hat für jeden Teilnehmer individuelle Tipps parat und macht Lust auf "mehr Python". (...)
+					
+Lea HartmannData Science in Python 
+						Mir hat die Schulung sehr gut gefallen,Herr Köhler hat es geschafft die Inhalte der Veranstaltung verständlich zu vermitteln. Die praktischen Aufgaben sind sehr gut vorbereitet und unterstützen beim Verstehen des umfangreichen theoretischen Inhalts.   es war interessant zu sehen welche Möglichkeiten es mit Python so alles gibt und wie man es am Besten umsetzt. Ich hoffe Du kannst weiterhin viele Teilnehmer für dieses zukunftsträchtige Thema gewinnen. Alles Gute für Deine nächsten Schulungen. 					
+Bennet BrunkeMaschinelles Lernen ((Un-)Supervised) 
+						Sehr gutes Seminar, Jan geht auf alle Fragestellungen ein und sucht weitergehende Antworten auch teilweise im Nachgang. Das Seminar ist sehr strukturiert, verständlich und nachvollziehbar. Der Einstieg in das Thema Python und Data Mining ist sehr gut gelungen.  					
+Simon GoettlerData Science in Python 
+						Weiterbildungen sind bis zu einem gewissen Grad ja immer Glückssache - die Agenda gibt allenfalls einen groben Überblick darüber, was einen erwartet. Das Seminar bei Jan Köhler war ausgezeichnet, eine hervorragende Mischung aus Theorie/Erklären und der praktischen Übung am Computer. Ich würde das Seminar bei der Bitkom Akademie nicht zuletzt auch wegen des Seminarleisters uneingeschränkt weiterempfehlen.  					
+Andreas StreimData Science in Python 
+						Es wurde auf alle Teilnehmer eingegangen.   Alle Inhalte wurden gut vermittelt.   Auch für Fragen, die nicht direkt zum Seminar gehörten war Zeit.   Es hat Spaß gemacht und ich habe viel gelernt.   Sobald es ein anschließendes Seminar gibt, bin ich dabei ...  					
+Gerhard HeinzerlingData Science in Python 
+						Das Seminar bot eine ausgewogene Mischung aus Theorie und Praxis. Durch die Übungsblöcke konnte man den Inhalt direkt ausprobieren und ein Gefühl für die Materie bekommen. Bei Fragen und Schwierigkeiten fand immer eine zeitnahe und ausführliche Unterstützung statt. Zudem ging der Seminarleiter kurzfristig auf die Anregungen und Wünsche der Teilnehmer ein.    Insgesamt machte der Seminarleiter einen sehr kompetenten Eindruck und ich würde dieses Seminar ohne Einschränkungen weiter empfehlen.  					
+Dr. André SteimersData Science in Python 
+						Herr Köhler nimmt sich ausreichend Zeit für Fragen und Erläuterungen und kann diese aufgrund überzeugender Fachkompetenz sehr gut verständlich erklären. Die Inhalte der Veranstaltung waren gut gegliedert. Insgesamt mit einem guten Verhältnis aus Theorie und Praxis. Die organisatorischen Rahmenbedingungen waren sehr gut. Insgesamt würde ich Herr Köhler und die Veranstaltung mit 5/5 Sternen bewerten.  					
+Bennet BrunkeData Science in Python 
+						Eindrücke sind subjektiv und hängen von u. a. Vorkenntnissen sowie Erwartungen ab. Mir fiel es leicht, den Themen zu folgen, da sie m. M. n. didaktisch gut aufgebaut waren und klar präsentiert wurden. Die Kompetenz des Kursleiters war jederzeit spürbar. Auf Fragen (auch weiterführende) kamen hilfreiche Antworten. In diesem Kurs habe ich sowohl eine neue Sprache kennengelernt, als auch neue Methoden, die von dieser unterstützt werden.  					
+Ali CavliData Science in Python 
+						Das Seminar mit Jan Köhler hat mir sehr viel Spaß gemacht. Hr. Köhler vermittelt Inhalte klar und verständlich und geht immer auf die Fragen der Teilnehmer ein. Mir hat besonders der Mix aus Theorie und Praxis (in Form von Übungsaufgaben) gefallen. In den drei Seminartagen konnte ich sehr viel von ihm lernen. Die Lage und Ausstattung der Seminarräume waren ebenfalls sehr gut. Das Seminar bei Hr. Köhler würde ich wieder besuchen und kann es zu 100% empfehlen.  					
+Tobias SchröderData Science in Python 
+						Jan Köhler takes the time to respond to all questions and remarks from the participants and explains everything well understandable. The course offers a very good individual support during exercises due to the small learning groups.					
+Julia MildnerData Science in R 
+						Das war ein super Workshop, bei dem man viel mitnehmen konnte. Sowohl von der Stoffvermittlung als auch von den Übungen war es super. Klar ist in der Kürze der Zeit recht kompakt, aber das Wissen was vermittelt wird, kann im Selbststudium weiter vertieft werden. Der Workshop bietet dazu die perfekte Grundlage. Es steht auch außer Frage, dass die Kompetenz und Know-How zur Vermittlung des Stoffes vorhanden sind.  					
+Helmut E.Data Science in Python 
+ Voriger
+ Nächster
+Künstliche Intelligenz (KI), Machine Learning, Data Science - in Python und R 
+Schulungen, Kurse & Trainings
+ 
+Die Seminare finden in Stuttgart, Köln, München, Frankfurt (Main) oder bei Ihnen im Unternehmen vor Ort statt. 
+Grundlagen (Statistik / Programmieren)In den Grundlagen Seminaren lernen Sie die Python Programmiersprache und die wichtigsten Elemente aus der Statistik kennen. 
+Data Science / Machine-Learning SchulungenIn den Data Science und Machinelles Lernen Seminaren lernen Sie die sowohl die Grundlagen als auch die bekanntesten Algorithmen kennen. 
+Deep-Learning SchulungenDie Deep Learning Seminare führen Sie in den noch jungen Bereich des Deep Learning ein. Sie werden das Potential, welches in Deep Learning steckt, kennenlernen. 
+Unsere Trainer wurden bereits von Unternehmen aus verschiedenen Branchen gebucht 
+Unsere Trainer haben Teilnehmer aus u.a. folgenden Unternehmen geschult 
+ 
+ Zurück
+ Weiter
+Seminare finden deutschlandweit statt 
+Seminarstandorte 
+In 2022 bieten wir unsere Seminare weiterhin zur Planungssicherheit ausschließlich live-online an. Schulungen können aber auch bei Ihnen Inhouse im Unternehmen stattfinden. Weitere Seminarstandorte an denen wir Sie normalerweise begrüßen finden Sie hier: 
+ 
+ Zurück
+ Weiter
+Kontakt
+ 
+Enable AIAdlerstraße 4670199 Stuttgart 
+ 0711-96 88 15 53
+ info@enable-ai.de 
+ 0711-96 88 15 53
+ info@enable-ai.de 
+Information 
+Alle Seminare
+Termine
+Über uns
+Kontakt
+Stipendium
+Karriere
+Rechtliches
+ 
+AGB
+Impressum
+Datenschutz
+Widerrufsrecht
+  Enable AI      hat 4,84 von 5 Sternen    264 Bewertungen auf ProvenExpert.com     
+Mitglied im  
+ 
+Kooperationspartner von  
+ 
+ 
+ 
+Schulungsort Live Online 
+ 
+Für unsere Live Online Schulungen verwenden wir die Software Zoom.
+Durch die Möglichkeiten die Teilnehmer in Breakout Räumen aufzuteilen und auf die Bildschirme der einzelnen Teilnehmer zu schauen, ist es für uns möglich, Sie auch in einem Live Online Seminar individuell zu betreuen.
+Etwa eine Wochen vor Beginn der Schulung erhalten Sie von uns den Zugangslink zu Zoom per Email zugesandt. 
+Schulungsraum in München 
+ 
+Die Seminarräume in München befinden sich 900m von der S-Bahn Haltestelle Donnersbergerbrücke. Von dort sind es 6 min bis zum Hauptbahnhof München.Adresse Seminarraum MünchenRegusLandsberger Straße 15580687 München 
+ 

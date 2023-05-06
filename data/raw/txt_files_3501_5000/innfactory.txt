@@ -1,0 +1,194 @@
+innFactory - Software & Appentwicklung für die Cloud ⭐️⭐️⭐️⭐️⭐️
+ Zum Inhalt springen
+LinkedInXingFacebookInstagramGithubYouTubeSpotify 
+  
+Suche nach:
+StartLeistungenCloud ComputingInternet of Things (IoT)Smartphone AppsWebAppsCloudnative SoftwareBig Data & KIDevOps & BetriebDigitale GeschäftsmodelleUnsere digitalen ProdukteSonepar-Digiplan: All-in-One Elektroplanungssoftware für Handwerker3G am Arbeitsplatz | CorsignCOVID-19 Impf- und TestsuiteRoboAdvisor Laura AIUnternehmenÜber innFactoryIoT WhitepaperKarriereBlogReferenzenKontaktSupport 
+Suche nach:
+innFactory – Digitale Produktentwicklung in der CloudTobias Jonas2023-02-20T18:14:01+01:00 
+ 
+innFactory entwickelt
+Ihr digitales Produkt in der Cloud. 
+										
+Cloud Computing & IoT 
+								
+DevOps & SaaS Betrieb 
+								
+Softwareentwicklung 
+								
+Technologieberatung 
+								
+Big Data & KI 
+								
+Digitale Geschäftsmodelle 
+								
+IoT 
+							Cloud 
+							
+ 
+linkedin 
+								instagram 
+								github 
+								
+Wir gestalten mit der Entwicklung von digitalen Produkten in der Cloud die Welt von morgen. ☁️Die Cloud im Herzen unserer Software- und Appentwicklung
+Als Experten in der Umsetzung von digitalen Produktideen wollen wir mit Ihnen die digitale Welt von morgen gestalten. Als Partner stehen wir dem Mittelstand und großen Konzernen mit unserem digitalen Know-How zur Verfügung. Unser Leistungsspektrum beginnt mit Beratung rund um digitale Geschäftsmodelle, über die Technologievorauswahl und die Definition der Anforderung, bis zur Umsetzung und dem Betrieb ihres Produktes als Software as a Service.
+Cloud & IoT
+Mit zertifizierten Cloud Architekten entwerfen wir die beste Umgebung für ihr digitales Produkt in AWS, Google Cloud oder Azure.
+Softwareentwicklung
+Cloudnative Backendsysteme, Mobile Smartphone Apps für iOS und Android, sowie WebApps sind heute Bestandteil jeder digitalen Umgebung.
+Big Data & Künstliche Intelligenz
+Wir entdecken Insights und Rückschlüsse in den Daten, die durch unsere digitale Produkte und Plattformen gewonnen werden.
+DevOps & SaaS Betrieb
+Der Entwicklungsprozess und der skalierbare Betrieb von digitalen Produkten wird soweit wie möglich automatisiert.
+Digitale Geschäftsmodelle
+Von der Unternehmens-vision, über die UI und UX Gestaltung bis zum Programmier Kick-Off begleiten wir den Lebenszyklus Ihrer digitalen Idee.
+Technologieberatung
+Wir stehen Ihnen bei Ihrer Digitalstrategie zur Seite und helfen Ihnen die perfekten Werkzeuge für Ihr digitales Produkt auszuwählen.
+innFactory GmbH – Ihr Softwareentwickler für digitale Ideen… ist ein Softwareunternahmen aus Rosenheim, das sich mit der Entwicklung von digitalen Produkten in der Cloud beschäftigt.
+Dabei begleiten wir Kunden von der ersten Produktidee, über die Planung und Umsetzung bis hin zum Betrieb in der AWS, Google oder Azure Cloud. Somit sind wir gemeinsam mit unseren Kunden in der Lage, digitale Geschäftsmodelle und -produkte zu erarbeiten und diese mit modernen Werkzeugen als cloud-native Softwareplattformen umzusetzen. Wir stehen stets für exzellente Qualität. Damit dies auch bei allen Projekten gelingt, haben wir unser Software Qualitätsmanagment nach ISO9001 vom TÜV zertifizieren lassen.
+Die innFactory GmbH wurde 2017 von drei Experten aus der Softwarebranche gegründet und ist heute für kleine und mittelständische Unternehmen wie Siteco, Familotel oder die Starbulls Rosenheim tätig. Aber auch große Unternehmen und DAX-Konzerne wie Hypoport, Sonepar, Munich Re, Linde und Microsoft vertrauen auf unsere Expertise in der Umsetzung und dem Betrieb von digitalen Produktideen.
+Der Name innFactory leitet sich dabei aus Innovation und dem Fluss Inn in Rosenheim ab. Somit sehen wir uns als Innovations-Fabrik in der DACH Region, die technologische Lösungen für Ihre digitalen Herausforderungen erarbeitet und digitale Ideen für Sie bis zur Marktreife umsetzt.
+Neben der Tätigkeit bei der innFactory haben einige Teammitglieder auch Lehraufträge an Hochschulen inne oder unterstützen Open Source Projekte auf github. So geben wir unser Wissen an Talente von Morgen weiter und bieten den besten Talenten einen Berufseinstieg bei der innFactory an.
+Unsere Werte
+Softwarequalität nach ISO9001 und IT-Security nach ISO27001
+Klare Ziele
+Technologieführer
+Starkes Teams
+Stabilität und Profitabilität
+Was Kunden über uns sagen
+Tobias und das innFactory Team haben uns bei der IT Implementierung und dem Support für das Munich Re Impfzentrum unterstützt. Die Herangehensweise war immer professionell, pragmatisch und extrem kundenorientiert. Es macht wirklich Spaß mit Euch zusammenzuarbeiten!
+Dirk Heiss, Head of Digital Platforms bei Munich RE AG
+DANKE an Tobias Jonas und innFactory für die tolle Zusammenarbeit. Im Zuge unserer betrieblichen Covid-19 Impfkampagne hat uns innFactory sehr schnell und kompetent mit einem passenden Buchungstool unterstützt und ist auf unsere doch sehr individuellen Wünsche eingegangen. Vielen Dank dafür!
+Ilya Sandra Ballier, HR Health Manager bei Microsoft Deutschland
+Tobias und sein Team der innFactory sind aus meiner Sicht und auch objektiv betrachtet uneingeschränkt zu empfehlen! Warum? Kein Problem zu erklären: innovativ, schnell, agil, 360° Blick, Sparingpartner, kompetent, bestes Preis-/Leistungsverhältnis, zuverlässig, … Bei konkreten Fragen gerne auch persönlich mit mir Kontakt aufnehmen. Zusammengefasst: meine klare #Empfehlung !
+Wolfgang Kornfeld, Chief Digital Officer bei Familotel AG
+Mit dem Corona-Test-Vereinbarungstool haben Bürger die Möglichkeit, sich zu einem Termin am Testzentrum des Landkreises Rosenheim anzumelden. Mit der digitalen Lösung ermöglicht die innFactory einen geordneten Testablauf und es werden lange Wartezeiten vermieden. Zudem beugt es einer größeren Ansammlung wartender Menschen vor und ist dadurch ein elementarer Baustein, um mögliche Ansteckungen durch vermehrten persönlichen Kontakt zu vermeiden.
+Mit dem Terminvereinbarungstool der innFactory sind wir als Landkreis Rosenheim sehr zufrieden. So geht Digitalisierung.
+Otto Lederer, Landrat von Rosenheim
+Mit der innFactory haben wir den passenden Partner für unsere Digitalisierungsstrategie gefunden, deren eigener Qualitätsanspruch in komplexen Projekten unseren hohen Bank-Anforderungen in allen Bereichen gerecht wird. Entscheidend für den bisherigen Projekterfolg bei Laura AI war die offene Art der Kommunikation und das fachliche Know-How aller innFactory-Mitarbeiter.
+Carolin Bauer, Innovationsmanagement bei Meine Volksbank Raiffeisenbank eGJonas Herian2023-04-11T14:22:54+02:00
+Wie innFactory die Siteco iQ Cloudplattform umgesetzt hat
+						Gallerie					
+						Wie innFactory die Siteco iQ Cloudplattform umgesetzt hat					
+Cloud Plattformen, IoT, Mobile Apps
+Tobias Jonas2023-01-11T13:51:43+01:00
+meine Volksbank Raiffeisenbank eG
+						Gallerie					
+						meine Volksbank Raiffeisenbank eG					
+Banking, Cloud Plattformen
+Tobias Jonas2021-08-10T09:26:16+02:00
+Schwadke Büroeinrichtungen
+						Gallerie					
+						Schwadke Büroeinrichtungen					
+Bau, Cloud Plattformen, Mobile Apps
+Fabian Artmann2021-08-09T08:48:09+02:00
+Familotel
+						Gallerie					
+						Familotel					
+Cloud Plattformen
+Fabian Artmann2021-07-27T08:37:31+02:00
+joblocal
+						Gallerie					
+						joblocal					
+Ad-Tech, Cloud Plattformen, KI & Big Data
+Tobias Jonas2021-04-16T12:28:45+02:00
+Starbulls Rosenheim
+						Gallerie					
+						Starbulls Rosenheim					
+Cloud Plattformen, Mobile Apps, Sport
+Fabian Artmann2020-12-10T18:17:17+01:00
+tegos GmbH
+						Gallerie					
+						tegos GmbH					
+Gesundheitswesen
+Tobias Jonas2020-12-07T21:04:09+01:00
+Komro
+						Gallerie					
+						Komro					
+Cloud Plattformen, IoT, Mobile Apps
+Fabian Artmann2020-12-07T21:02:50+01:00
+Landratsamt Rosenheim
+						Gallerie					
+						Landratsamt Rosenheim					
+Gesundheitswesen
+Alle Referenzen ansehen
+Neues von unseren Software- und Appentwicklern, DevOps Engineers, Cloud Architekten, KI Experten und dem restlichen innFactory Team
+innFactory präsentiert die Macht der KI mit ChatGPT bei IHK-Vortrag und ARD-Sendung
+						Gallerie					
+						innFactory präsentiert die Macht der KI mit ChatGPT bei IHK-Vortrag und ARD-Sendung					
+Artificial Intelligence, ML & Deep Learning Tools, Pressemitteilung
+innFactory präsentiert die Macht der KI mit ChatGPT bei IHK-Vortrag und ARD-SendungVon Tobias Jonas|2023-03-16T13:59:21+01:0016. März 2023|Artificial Intelligence, ML & Deep Learning Tools, Pressemitteilung| Pressemitteilung - Rosenheim, 16.03.2023 Rosenheim, 16. März 2023 - Die innFactory GmbH, ein führendes Technologieunternehmen in der digitalen Transformation, hat kürzlich bei der IHK Regionalausschusssitzung Rosenheim einen aufschlussreichen Vortrag über die Möglichkeiten und Grenzen [...]Weiterlesen
+Was ist Cloud Computing?
+						Gallerie					
+						Was ist Cloud Computing?					
+Cloud Computing
+Was ist Cloud Computing?Von Tobias Jonas|2023-02-21T18:15:46+01:0021. Februar 2023|Cloud Computing| Cloud Computing: Ein Leitfaden für Unternehmen In den letzten Jahren hat sich Cloud Computing zu einem wichtigen Teil der IT-Landschaft entwickelt. Unternehmen jeder Größe und Branche nutzen die Vorteile dieser Technologie, um Kosten zu [...]Weiterlesen
+Was kostet der Cloudbetrieb von ChatGPT?
+						Gallerie					
+						Was kostet der Cloudbetrieb von ChatGPT?					
+Artificial Intelligence, ML & Deep Learning Tools
+Was kostet der Cloudbetrieb von ChatGPT?Von Tobias Jonas|2023-02-06T20:45:44+01:0010. Januar 2023|Artificial Intelligence, ML & Deep Learning Tools|Die Faszination von ChatGPT Das ganze Internet ist fasziniert von ChatGPT, aber was kostet so etwas eigentlich im Betrieb und warum kann ein Sprachmodell mit so vielen Parametern nur bei einem Hyperscaler funktionieren? Finden wir [...]Weiterlesen
+GKE vs AKS vs EKS – Wie sie mit Terraform ihr Kubernetes terraformen.
+						Gallerie					
+						GKE vs AKS vs EKS – Wie sie mit Terraform ihr Kubernetes terraformen.					
+Cloud Computing
+GKE vs AKS vs EKS – Wie sie mit Terraform ihr Kubernetes terraformen.Von Tobias Jonas|2022-12-23T11:08:23+01:0021. Dezember 2022|Cloud Computing| Mit unserem Blogpost wollen wir einen Überblick über die drei großen Cloudanbieter geben und darauf eingehen, wie mit einfachsten Mitteln ein Kubernetes Cluster in der jeweiligen Cloud mit Terraform erstellt werden kann. Bevor der [...]Weiterlesen
+Top oder Flop: Wenn künstliche Intelligenz den Inhalt schreibt
+						Gallerie					
+						Top oder Flop: Wenn künstliche Intelligenz den Inhalt schreibt					
+Data Science & Engineering, ML & Deep Learning Tools, Softwareentwicklung
+Top oder Flop: Wenn künstliche Intelligenz den Inhalt schreibtVon Tobias Jonas|2022-12-22T13:50:31+01:0021. Dezember 2022|Data Science & Engineering, ML & Deep Learning Tools, Softwareentwicklung| Hochwertige Inhalte im Netz sind für die organische Sichtbarkeit essentiell. Deshalb beschäftigen sich viele Unternehmen mit Content Marketing. Mit Tools wie Copy.ai, Riku.ai, Jasper.ai oder jetzt ganz neu kostenlos auch ChatGPT lässt sich Content [...]Weiterlesen
+From Zero to Hero – Rechenzentrum raus Cloud Computing rein.
+						Gallerie					
+						From Zero to Hero – Rechenzentrum raus Cloud Computing rein.					
+Meetup
+From Zero to Hero – Rechenzentrum raus Cloud Computing rein.Von Tobias Jonas|2022-11-28T14:04:54+01:0028. November 2022|Meetup| Wie deutsche Mittelständler zum Cloud Champion wurden. Wo?: Im EG des Stellwerk18 Wann?: 19.01.2023 - Ankunft ab 17:30 Uhr, Vorträge ab 18:00 Uhr, Networking ab ca. 19:15 Was?: TEQWERK und innFactory zeigen Anhand von [...]Weiterlesen
+Zum Blog wechseln
+Cloud Computing | IoT | Softwareentwicklung | Big Data | KI | Digitale Strategie
+Welche Vision machen Sie zu unserer nächsten Mission?
+Kontaktieren Sie uns unverbindlich für die Umsetzung Ihrer digitalen Idee. Gerne begleiten wir Sie schon in der Ideenfindung mit agilen Workshops und setzen Ihr digitales Geschäftsmodell gemeinsam mit Ihnen um.
+Langjährige Erfahrung in der Entwicklung von Cloud Plattformen und digitalen Produkten mit Referenzen wie Siteco, Microsoft, Munich Re oder Sonepar
+Zertifiziertes Software Qualitätsmanagement nach ISO9001, sowie zertifizierte Cloud Experten
+Eine Erfolgsquote von 100%. Sprechen Sie gerne mit unseren Kunden oder lesen Sie unsere Case-Studies.
+Zertifizierte Cloud Experten für Azure, AWS und Google Cloud, sowie Partner der Google Cloud in der DACH Region
+Jetzt kontaktieren
+ 
+ 
+InformationenImpressum
+Datenschutz
+Cookie-Richtlinie (EU)
+Kontakt
+AGB 
+Leistungen
+Cloud Computing
+Internet of Things
+Smartphone Apps
+WebApps
+Cloudnative Software
+Big Data & Ki
+DevOps & IT-Betrieb
+Digitale Geschäftsmodelle
+ 
+Kontaktinformationen
+	innFactory GmbH
+	Eduard-Rüber-Str. 7
+	83022 Rosenheim
+	
+	Ihr Ansprechpartner:
+	Maximilian Grassl
+	08031 58193280
+	info@innfactory.de
+ 
+ 
+ 
+ 
+		Copyright 2017 - 2022 innFactory GmbH | Wir gestalten mit der Entwicklung von digitalen Produkten in der Cloud die Welt von morgen. ☁️	
+LinkedInXingFacebookInstagramGithubYouTubeSpotify
+ 
+ 
+ 
+ 
+ 
+ 
+Page load link
+Nach oben

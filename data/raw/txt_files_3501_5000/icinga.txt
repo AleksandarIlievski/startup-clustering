@@ -1,0 +1,232 @@
+Icinga » Monitor your entire Infrastructure with Icinga
+ 
+ 
+Products
+ 
+ 
+Icinga Stack explained
+Learn about the Icinga Monitoring Stack.
+ 
+ 
+ 
+Infrastructure Monitoring
+Observe your entire IT in one place.
+ 
+ 
+ 
+Monitoring Automation
+Monitor massive amounts of data.
+ 
+ 
+ 
+Cloud Monitoring
+Monitor the private, the public and the hybrid.
+ 
+ 
+ 
+Metrics & Logs
+Get the context and recognize trends.
+ 
+ 
+ 
+Analytics
+Analyze your data and perform proactively.
+ 
+ 
+ 
+Notifications
+Get alerted and react with confidence.
+ 
+ 
+ 
+Solutions
+ 
+ 
+Monitoring 
+ 
+Server Monitoring
+ 
+Network Monitoring
+ 
+Database Monitoring
+ 
+Application Monitoring
+ 
+Windows Monitoring
+ 
+VMware Monitoring
+ 
+Environmental Monitoring
+ 
+ 
+ 
+Operations 
+ 
+Monitoring at Scale
+ 
+ITSM Integration
+ 
+Monitoring and Security
+ 
+  
+ 
+Access 
+ 
+Business Reporting
+ 
+Teamwork Manager
+ 
+Accessibility
+ 
+ 
+ 
+Customer Stories 
+ 
+ING
+Banking
+ 
+Magazine Luiza
+Retail
+ 
+Deutsche Telekom Security
+Telecom
+ 
+Binero
+Cloud
+ 
+City of Cologne
+Governmental
+ 
+View all customer stories
+ 
+ 
+ 
+Subscription
+ 
+Community
+ 
+Learn
+ 
+Events
+ 
+Contact Sales
+ 
+Get Started
+ 
+ 
+Select Page
+  
+ 
+ 
+Monitor Your Entire Infrastructure
+Find answers, take actions and become a problem-solver. Be flexible and take your own ways. Stay curious, stay passionate, stay in the loop. Tackle your monitoring challenge.
+Take a Tour
+Get Started
+HOWTO
+Leveraging component variants in Figma for UI Design
+Being a Sketch user since it's early days, I found Figma looked really promising, when it finally appeared. While Sketch caught up on most of Figma's features, like collaboration, developer handoff and AutoLayout (at least to some degree), the small feature set...
+read more
+RELEASE
+Releasing Icinga Certificate Monitoring v1.2.0
+Today we’re announcing the general availability of the Icinga Certificate Monitoring in version 1.2.0. You can find all issues related to this release on our Roadmap. Please also refer to the corresponding upgrade section in the documentation. What’s New? To begin...
+read more
+EVENTS
+Last tickets for Icinga Camp Berlin!
+Our first Icinga Camp in 2023 is just a month away. And we can´t wait to meet again with our community! We have just a few remaining tickets. Don’t miss your chance to grab one of these and come to the fabulous Kulturbrauerei in Berlin. Whether you’re a long-time...
+read more
+Trusted by some of the world’s leading companies
+The Icinga Stack
+The Icinga stack spans six core strengths that cover all aspects of monitoring. Level up with valuable insights and on-time notifications, eye-opening visuals and analytics. Icinga easily integrates within your systems, and gives you the power to automate your tasks. Get going and stay in form!
+Learn more about the Icinga Stack
+great flexibility
+Infrastructure Monitoring
+Availability, performance and trends: Know the state of everything at all times. Be flexible when building and scaling your monitoring setup.
+Learn more
+efficient workflows
+Monitoring Automation
+Manage massive amounts of monitoring objects. Use the Director or other modules to automatically import and synchronize all kinds of data.
+Learn more
+newest technologies
+Cloud Monitoring
+Monitor private, public, or hybrid clouds all in one monitoring system, and stay independent from your cloud provider with your monitoring.
+Learn more
+Outstanding integrations
+Metrics & Logs
+Our integrations allow you to collect, store, visualize and combine performance and metrics data on the way. Get alerted on patterns.
+Learn more
+meaningful visualizations
+Analytics
+Discover relations and patterns. Create reports with your existing data for different aspects. Filter certain servers/VMs to get dedicated insights.
+Learn more
+Helpful Alerts
+Notifications
+Having knowledge is the first step when solving incidents. Icinga notifies you when it makes sense through any channel you want.
+Learn more
+Integrations
+Icinga collects and sends data from and to many of your existing DevOps tools, enabling you to create a tailored monitoring solution that perfectly fits your needs.
+Explore all Integrations.
+BUILD
+Company
+We enable you to monitor your entire infrastructure.
+Read more
+COLLABORATE
+Community
+We thrive together by sharing knowledge and values.
+Read more
+SHARE
+Open Source
+We give you the ultimate control over our software.
+Read more
+Made for Enterprises
+Connect your whole landscape with Icinga and experience outstanding stability and flexibility with your monitoring. Our enterprise-ready solution is unbeatable in customization, automation, and scaling.
+Scalability and Multitenancy
+From small start-ups to multitenant enterprise environments – Icinga is scalable to any infrastructure. Split the monitoring into different zones for multiple teams or customers. 
+Comprehensive Monitoring
+Icinga is your flexible solution for monitoring across the board. Customize it to monitor devices, databases, applications, cloud services, websites, networks, and much more. 
+Simplified Monitoring
+Reduce complexity, use Icinga as an umbrella and view everything in one dashboard. Deal with massive amounts of monitoring objects from different sources and automate recurring tasks.
+High Availability
+Ensure 24/7 uptime and avert data loss for your monitoring. Combine high availability clusters with a distributed setup, and you have a best practice scenario for large environments.
+Enterprise-Grade Support
+Backed by our global partners, Icinga delivers consulting, training and support to customers all over the globe. We provide insurance and assurance for your whole Icinga monitoring environment.
+Safe and Secure
+Icinga is a secure monitoring system that relies on SSL encrypted connections. Grant permissions to different teams and team members with role-based access control to safeguard security.
+Enterprise Partners
+We work in close cooperation with our Enterprise Partners to make Icinga available to as many users as possible. Our partner network spans around the whole globe.
+Subscribe to our Newsletter
+A monthly digest of the latest Icinga news, releases, articles and community topics.
+Subscribe
+ 
+Icinga Stack
+Infrastructure Monitoring
+Automation
+Cloud Monitoring
+Metrics & Logs
+Notifications
+Analytics
+Learn
+Get Started
+Documentation
+Trainings
+Integrations
+Support
+Contact Sales
+Company
+Partners
+Customers
+We're hiring!
+Blog
+Newsletter
+Press & Media
+Contact
+Community
+ForumGitHub
+Events
+IcingaConfIcingaCampMeetups
+Imprint   Privacy   Terms
+© 2009 - 2023 Icinga GmbH
+FollowFollowFollowFollow
+ 
+ 
+ 
+ 

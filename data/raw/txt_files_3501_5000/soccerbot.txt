@@ -1,0 +1,61 @@
+SoccerBot360 – Virtuelles Fußballtraining
+ 
+SoccerBot360BetreiberBuchungDiagnostikProgrammeLogin
+360° Umgebung 32 Panels (1m x 2,5m) sind kreisförmig angeordnet. Die Spieler*innen tauchen in eine 360°-Welt ein und müssen sich ständig im Raum orientieren.   
+Technologie 
+Ein Hochleistungsrechner und sechs Full-HD Videoprojektoren ermöglichen die Wiedergabe in Echtzeit gerenderte 3D-Inhalte.
+   
+Gamification Punkte und Bestzeiten können in einer Vielzahl an Gamemodi allein oder im Team gejagt werden. Im Battlemodus kommt es zu einem direkten Duell.   
+Kognitive Fähigkeiten Die Kombination von physischer und kognitiver Belastung schafft die optimalen Voraussetzungen, um kognitive Fähigkeiten zu verbessern – und das immer unter sportartspezifischen Bedingungen.   
+Messbarkeit 
+Die Erfassung leistungsbestimmender Parameter, wie Reaktionszeit oder Passgenauigkeit, über eine Highspeed-Kamera ermöglicht eine objektive Beurteilung der Leistungsfähigkeit.
+   
+Multifunktionalität Aufgaben können nicht nur mit dem Ball am Fuß, sondern auch anderweitig gelöst werden. So sind z.B. spezifische Handmodi auf Wurfbewegungen ausgelegt.   
+152765
+Gespielte Games
+54
+Game Modi
+15
+Diagnostik Modi
+Kognitive Fähigkeiten, Benchmarking und virtuelle Realität
+Spielanalyse
+Der SoccerBot360 ermöglicht die Simulation beliebiger Spielsituationen im Maßstab 1:1. Somit können entscheidende Momente aus der Ego-View analysiert und bewertet werden. Dafür stehen eine Vielzahl von Steuerungsfunktionen zur Verfügung, die ganz einfach über ein Tablet ausgewählt werden können.
+Interactive Scenes
+Im SoccerBot360 können Spielszenen, in denen eine Entscheidung mit dem Ball am Fuß getroffen wird, angelegt werden. So kann ein Katalog von positionsspezifischen Situationen aufgebaut und gezielt für die Spielvorbereitung oder die Integration neuer Spieler und Spielerinnen genutzt werden.
+Kognitives Training
+In einer Vielzahl von Trainingsmodi werden kognitive Fähigkeiten und technische Fertigkeiten zusammentrainiert. Highscores werden alleine oder im Team gejagt und im Battlemodus kommt es zu einem direkten Duell. Individuell einstellbare Level mit verschiedenen Schwierigkeitsstufen ermöglichen das Training für alle - egal welches Leistungsniveau.
+Benchmarking
+Über verschiedene Leistungstests können kognitive Faktoren und technische Fertigkeiten abgefragt werden. Aus einzelnen Tests können ganze Testbatterien nach individuellen Bedürfnissen zusammengestellt werden. Die
+Leistungstests werden in Kooperationen mit Sportwissenschaftlern und Sportpsychologen entwickelt und validiert.
+„Der SoccerBot 360 besticht durch seine einfache Konstruktion in Verbindung mit technischer Innovation. Gerade im Hinblick auf die ganzheitliche Ausbildung der Spieler von Morgen gibt er uns neue Impulse und wird das Training bzw. die Methodik im kognitiven Training sowie der kognitiven Diagnostik in unserer Sportart nachhaltig verändern.“
+Ernst Tanner
+Sportdirektor Philadelphia Union
+„Der SoccerBot360 ist ein innovatives Tool für das spielnahe Training von Taktiken im professionellen Fußballkontext. Aus Sicht der Wissenschaft erwarte ich spannende Studien mit dem Gerät, welche immer neue Potentiale zur Weiterentwicklung der Testverfahren und Trainingsinhalte erschließen werden.“
+Prof. Dr. Daniel Memmert
+Institutsleiter DSHS Köln
+„Ich arbeite seit einem Jahr intensiv mit dem SoccerBot360 und bin von dem Training voll überzeugt. Erstmals haben wir Trainer die Möglichkeit, die kognitiven Fähigkeiten der Spieler isoliert zu trainieren. Das Gerät bietet dabei eine Vielzahl an Möglichkeiten, verschiedene Reize zu setzen und die Spieler gehen fokussiert und mit viel Spaß ins Training.“
+Tom Stuckey
+Trainer RB Leipzig
+Fragen zum SoccerBot360?
+Schreiben Sie uns!
+Kontakt
+Auswahl Kunden 
+Anschrift
+Umbrella Software
+Development GmbH
+Büro Nord
+Trufanowstraße 19
+04105 Leipzig
+Kontakt
+Büro Mitte
+Gottschedstraße 4
+04109 Leipzig
+Mail: contact@soccerbot360.com
+Die Europäische Union und der Freistatt Sachsen unterstützen uns im Rahmen der Maßnahme “Förderung der Beschäftigung von InnoExperts” bei der Umsetzung der folgenden Vorhaben:
+(1) Nachweis der kognitiven Trainingseffekte und Validierung des Benchmarkingverfahrens des SoccerBot360 im Rahmen wissenschaftlicher Studien und Überführung in den Vertrieb flankierende Whitepapers.
+(2) Weiterentwicklung der kamerabasierten Messverfahren des SoccerBot360 zur genaueren Bestimmung der kognitiven Fähigkeiten von Fußballspielern unter Einsatz neuartiger Verfahren aus dem Bereich des maschinellen Lernens.
+© 2021 Umbrella Software Development GmbH
+Impressum
+Datenschutz
+ Menü
+ 

@@ -1,0 +1,98 @@
+Smart Nanotubes - Gas sensor development
+ 
+Skip to content
+Menu					 
+Close					 
+Technology
+ProductsOpen menu
+Hardware
+Software
+Downloads
+Electronic Nose Solutions
+About UsOpen menu
+Our Team
+News
+PressKit
+Career
+FAQ
+Shop
+Contact
+My Account
+0 items 
+We let machines
+detect smells
+Innovative products for integrating machines in the 5th human sense
+Very High Sensitivity
+Very Low Power Consumption
+For Detection of Gases, Smells & VOCs
+Solutions
+Our technology works according to the same principle as a human nose and is designed to conquer the mass market. It is applicable for many use cases and useful for companies working on smart smell related systems. Our technology can easily be integrated in various appliances.
+Read more
+Our Products
+SmartNanotubes Technologies has developed the first multi-channel gas detector chip Smell iX16 for the mass market. The sensor elements contain fine-tuned nanomaterials which make the chip highly efficient, compact and modular. It can detect multiple gases and volatile organic compounds (VOCs). Our plugin module Smell Board with a modular and exchangeable sensor board works with AI-based software for real-time smell recognition as well as standard electronic interfaces to communicate with host devices.
+Read more
+smell.inspector
+Smell Inspector is a developer kit and ready-to-use device for anyone. It has four Smell iX 16 detectors inside, can be connected to a PC, tablet or smartphone and can be operated with Smell Annotator software.
+More information
+smell.Annotator
+Smell Annotator is an AI-based software program which is used to view, annotate and analyze smell measurements taken with the Smell Inspector and to recognize annotated smells in real time. Smell Annotator is available for Windows (PC) and Android and iOS (mobile) devices.
+More information
+smell.iX16
+The first multi-channel gas detector chip for the mass market. The sensor elements contain fine-tuned nanomaterials which make the chip small, energy efficient & affordable. High sensitivity to different gases and VOCs.
+More information
+smell.Board
+Plugin module currently equipped with an exchangeable sensor board with four Smell iX16 detector chips. Has on-board AI-based software and standard electronic interfaces. Can be integrated easily in various domestic or industrial appliances.
+More information
+Contact
+Get in touch with us to discuss your own smell-related applications!
+Contact us
+Technology
+About Us
+FAQ
+Shop
+Contact
+Terms of Service
+Privacy policy
+Legal Notice
+SmartNanotubes Technologies GmbH
+Dresdner Str. 172
+01705 Freital
++49 (0) 351 85 07 36 87
+info@smart-nanotubes.com
+Cookie-Manage consent
+We use technologies like cookies to store and/or access device information. We do this to improve browsing experience and to show personalized ads. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+Functional
+Functional
+								Always active							
+The technical storage or access is strictly necessary for the legitimate purpose of allowing the use of a specific service expressly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a message over an electronic communications network.
+Vorlieben
+Vorlieben
+Die technische Speicherung oder der Zugriff ist für den rechtmäßigen Zweck der Speicherung von Präferenzen erforderlich, die nicht vom Abonnenten oder Benutzer angefordert wurden.
+Statistics
+Statistics
+The technical storage or access that is used exclusively for statistical purposes.
+Die technische Speicherung oder der Zugriff, der ausschließlich zu anonymen statistischen Zwecken verwendet wird. Ohne eine Vorladung, die freiwillige Zustimmung deines Internetdienstanbieters oder zusätzliche Aufzeichnungen von Dritten können die zu diesem Zweck gespeicherten oder abgerufenen Informationen allein in der Regel nicht dazu verwendet werden, dich zu identifizieren.
+Marketing
+Marketing
+Technical storage or access is necessary to create user profiles, to send advertisements or to track the user on one website or across websites for similar marketing purposes.
+Manage options
+Manage services
+Manage vendors
+Read more about these purposes
+Accept All
+Deny
+View preferences
+Save preferences
+View preferences
+{title}
+{title}
+{title}
+Manage consent
+ 
+ 
+TechnologyProductsOpen menu
+Hardware Software Downloads
+Electronic Nose SolutionsAbout UsOpen menu
+Our Team News PressKit
+CareerFAQShopContactMy Account0 items
+ 

@@ -1,0 +1,73 @@
+OmicsChart main page
+ 
+Home
+News
+Products
+OmicsChart IO
+OmicsChart Preon
+About
+Contact Us
+Login to OmicsChart Preon
+toggle navigation menu
+Are you looking for a real-world precision oncology datasets for your clinical research?
+Sign-up for free for our precision oncology data marketplace and biomarker discovery platform - OmicsChart
+            Preon.
+read more
+Want to increase visibility of your precision oncology dataset?
+Contact us to host your data on our OmicsChart Preon, where biotech and pharma companies come looking for data.
+contact us
+read more
+OmicsChart is a 
+    patient-centered privacy-aware cancer biomarker platform and data marketplace
+    for precision oncology. OmicsChart allows biotech and pharma companies to 
+    identify cancer patient records from public and proprietary datasets based on 
+    the company's strategic interests, and combine these records for more 
+    comprehensive clinical research. 
+    
+Our vision is 
+    to build a platform that unites a fragmented cancer data space, 
+    facilitates transparent data sharing with monetary compensation to the data 
+    owners (including patients) and accelerates clinical research by allowing 
+    scalable implementation of machine learning methods on the real-world data.
+    
+Our products
+OmicsChart Preon
+Precision Oncology Data Marketplace and Biomarker Discovery Platform
+OmicsChart Preon - a precision oncology data marketplace and biomarker discover platform. Using our convenient interface, explore mutation and expression data, estimate infiltration by immune cells in solid tumors, and correlate any of the above to each other.
+try it now
+read more
+coming soon
+OmicsChart IO
+Biomarker Discovery Platform
+Look up any biomarker from published literature, see which clinical trials it was used in, and even upload your own sample to estimate this biomarker and compare it to public and proprietary datasets.
+read more
+Integrate various sources of molecular and clinical data
+Correlate biomarkers to clinical parameters, perform survival analysis
+              and identify early evidence of treatment response.
+Compare the findings to public and proprietary datasets 
+Compare biomarker values to real-world data from public and proprietary datasets like
+              TCGA, GTEx and many others - analyze n-of-one and get a bigger picture.
+Evaluate biomarkers that are relevant to your cancer type 
+Use our Biomarker Discovery to find and evaluate
+              biomarkers that are relevant for your drug and cancer type
+news
+01 December 2022
+OmicsChart is a recipient of Merck Healthcare Speed Grant
+OmicsChart received Merck Healthcare Speed Grant to investigate molecular biomarkers of HRD in cancer patients.
+Learn more 
+05 November 2022
+OmicsChart is selected for Merck KGaA 2022 Research Grant Deep Dive Workshop
+OmicsChart was selected as one of the top runners for Merck KGaA 2022 Research Grant
+Learn more 
+15 September 2022
+OmicsChart is a recipient of Start?Zuschuss grant
+Start?Zuschuss is a grant by Bavarian State Ministry for Economic Affairs, Regional Development and Energy to support digitalization.
+Learn more 
+ 
+Patient-centered Privacy-aware biomarker platform and data marketplace for precision oncology.
+  mail info@omicschart.com   phone
+          +49-151-2571-0007 
+ c/o BioM Gmbh, Am Klopferspitz 19a, 82152 Martinsried, Germany
+ legal 
+ privacy policy 
+© OmicsChart GmbH 

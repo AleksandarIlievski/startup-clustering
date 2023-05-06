@@ -1,0 +1,51 @@
+spotixx
+Zum Inhalt springen
+ 
+ 
+Menü
+AI Platform
+Business Scope
+Payments & Cards Fraud
+AML Alert Optimization
+Operative Alert-Bearbeitung
+Consulting Services
+about
+Company Profile
+Partner
+Impressum
+Datenschutz
+News & Resources
+Research
+safeFBDC
+ 
+Improving financial crime detection with
+human-centered AI solutions spotixx is an industry pioneer, delivering new solutions for next generation AML and Fraud Analytics. 
+Our solutions can be easily implemented into existing IT infrastructures, saving time, resources and money.
+ 
+Die spotixx AI platform
+Die spotixx AI-Platform ermöglicht einen schnellen Zugang zu AML- und Fraud Analytics.
+Unsere AI-Platform liefert voll automatisiert und tagesaktuell neue Detection-Modelle für Ihr Fraud- und Geldwäsche-Monitoring. Wir machen hochmoderne, komplexe Machine-Learning-Verfahren greifbar durch Bereitstellung von interpretierbaren und in jedes Monitoring-System integrierbaren Regelwerken. Sie sind performant in der Ausführung, garantieren hohe Erkennungsquoten bei geringen False-Positive-Raten und sind jederzeit voll automatisch aktualisierbar.
+ 
+    
+Payments & Cards Fraud
+    
+AML Alert Optimization
+Key Features des spotixx Fraud Analytics Service
+ 
+Interpretable AI
+Unsere gemeinsam mit Universitäten entwickelte Lösung nutzt moderne Methoden des Machine Learning und liefert als Ergebnis für Menschen einfach interpretierbare und anwendbare Business Rules.
+Always Up To Date
+Durch die vollständige Automatisierung versetzen wir unsere User in die Lage, die Detection-Modelle stets aktuell zu halten und damit ihre Erkennungsquote zu verbessern.
+Minimum IT Footprint
+Unsere User vermeiden Investitionen in Infrastruktur, Software-Implementierung und zusätzliches Data Science Personal.
+Fast Deployment
+Die von uns bereit gestellten Business Rules lassen sich einfach in jedes Monitoring und Screening integrieren. Wir lösen damit das Problem der schwierigen praktischen Anwendung und Operationalisierung von AI Modellen.
+ 
+ Die konkreten Vorteile unseres AI Ansatzes schildern wir in unserem Praxisbericht zur Operationalisierung von AI:
+ 
+								        Copyright © 2023 spotixx GmbH        			
+ 
+Deutsch				
+ 
+English (UK)					          
+Deutsch 

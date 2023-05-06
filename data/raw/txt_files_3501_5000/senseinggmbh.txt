@@ -1,0 +1,198 @@
+SenseING GmbH - IoT Gesamtlösungen
+ 
+Menü
+ 
+ IoT-Lösungen 
+ IoT-Produkte
+ träck – LoRa Tracker
+ NLG-M – LoRa-Gateway
+ SNC-PV – Datenlogger
+ SenseCloud
+ Branchenlösungen
+ Baubranche
+ Lebensmittellogistik
+ Laborumgebung
+ Mehrweglogistik
+ Forstwirtschaft
+ Entwicklung
+ Karriere 🚀
+ Stellenangebot
+ Werkstudent*innen
+ Abschlussarbeiten
+ Unternehmen 
+ Unternehmen
+ Über uns
+ Neuigkeiten
+ Partner
+ Pressebereich
+ Impressum
+ Datenschutzerklärung
+ 
+ 
+ 
+ IoT-Lösungen 
+ Produkte 
+ 
+ 
+ 
+                LoRa Tracker - träck                Leistungsstarker LoRa®-Tracker zur Überwachung Ihrer Geräte und Waren. 
+ 
+ 
+                Mobiles LoRa Gateway - NLG-M                Leistungsstarkes LoRa Gateway für den Aufbau Ihres eigenen Netzes. 
+ 
+ 
+                Autarker Datenlogger - SNC-PV                Solarbetriebener Datenlogger zur Überwachung von Thermobehältern. 
+ Branchenlösungen 
+ 
+ 
+ 
+ Geräte nachverfolgen & überwachen 
+Baubranche
+ 
+ 
+ 
+ Automatisierte Kühlkettenüberwachung 
+Lebensmittellogistik
+ 
+ 
+ 
+ Temperaturüberwachung für Labore 
+Laborumgebung
+ 
+    
+        Alle Branchen entdecken    
+    
+ Entwicklung
+ Karriere 🚀
+Wir sind ein dynamisches und vielseitiges Team, welches mit großer Begeisterung an unseren Projekten arbeitet. Dabei steht die offene und klare Kommunikation auf Augenhöhe immer an erster Stelle.
+Mehr über uns
+                        Unsere offenen Stellen                    
+ 
+            Junior Sales Manager            Vollzeit (m/w/d) 
+            Full-Stack-Developer            Vollzeit (m/w/d) 
+            Embedded Software Entwickler            Vollzeit (m/w/d) 
+ 
+            Marketing            Werkstudent (m/w/d)  
+            Full-Stack-Dev.            Werkstudent (m/w/d) 
+    
+        Alle ansehen    
+    
+    
+        Zu den Abschlussarbeiten    
+    
+ Unternehmen 
+ Das Unternehmen 
+ 
+  
+                Über uns                Das Team hinter SenseING 
+  
+                Partner                Starke Partner ermöglichen erstklassige Produkte 
+  
+                Neuigkeiten                Entdecken Sie Fachartikel und Neuigkeiten 
+ 
+  
+                Pressebereich                Downloads und aktuelle Pressemitteilungen 
+  
+                Impressum                Gesetzliche Angaben 
+  
+                Datenschutz                Sicher ist sicher 
+        Was gibt´s neues?    
+ 
+ 
+ 
+ LPWAN Technologien und ihre Anwendungen 
+April 25, 2023
+ 
+ 
+ 
+ IoT-Architektur: Die Ebenen des Internet of Things 
+März 27, 2023
+ 
+    
+        Alle Neuigkeiten anzeigen    
+    
+ 
+ 
+ 
+ 
+        Sensordaten für alle 
+IIoT-Gesamtlösungen zur datenbasierten Prozessoptimierung
+    
+        Produkte    
+    
+    
+        Entwicklung    
+    
+        IIoT-Sensor-Systeme    
+        Wir bieten ganzheitlichen Service für Ihr Unternehmen    Wir bieten Ihnen das gesamte Leistungsspektrum der datenbasierten Prozessoptimierung. Von der Sensorik bis hin zur Cloud-Applikation.
+    
+        Zu den Produkten    
+    
+        Referenzen    
+ 
+        SenseCloud    
+        IIoT-Plattform zur Auswertung Ihrer Messdaten    Die IoT-Plattform bildet im Internet der Dinge die Schnittstelle zwischen Hardware und Software. Mit den integrierten Tools der Plattform werden ihre durch Hardware erfassten Daten in übersichtlichen Diagrammen automatisiert dargestellt und ausgewertet.
+ 
+                        Visualisierung                    
+Automatisierte Darstellung ihrer Daten in Diagrammen.
+                        Alarmierung                    
+Konfigurierbare Benachrichtigungen via E-Mail oder SMS.
+                        Integration                    
+Integration über Schnittstellen in ihr bestehendes System.
+    
+        Mehr Informationen    
+    
+Entwicklung
+                        Systeme, die Ihren Bedürfnissen entsprechen                    
+Häufig sind die Anforderungen so individuell, dass es keine fertigen Lösungen gibt. Wir entwickeln maßgeschneiderte Lösungen für Ihren Bedarf. 
+Mehr Informationen
+ 
+                        Idee & Konzeption                    
+Gemeinsame Erarbeitung sowie Prüfung Ihrer Anforderungen.
+                        Entwicklung                    
+Übersetzung der Anforderungen in Teilsysteme.
+                        Prototyping                    
+Fertigung prototypischer Kleinserien mittels Rapid Prototyping.
+                        Serienproduktion                    
+Lieferung eines serienreifen Produktes sowie Begleitung der Produktion.
+        Karriere    
+        Lass uns gemeinsam was bewegen    Komm in unser Team und arbeite gemeinsam mit uns an Industrieprojekten, während wir unsere Leistungen stetig optimieren. Unser Büro bietet dir einen zentralen Arbeitsplatz im Herzen von Karlsruhe. Daneben bieten wir dir flexible Arbeitszeiten, interessante Events und die Chance, das Unternehmen aktiv mitzugestalten.
+    
+        Zu den Stellenangeboten    
+    
+        Neuigkeiten    
+        Immer auf dem Laufenden    In unserem Neuigkeiten-Bereich finden Sie Aktuelles und Wissenswertes über die SenseING GmbH, Neuigkeiten zu Produkten und Systemen oder Berichte zu Veranstaltungen.
+ 
+April 25, 2023
+ LPWAN Technologien und ihre Anwendungen 
+Wer sich mit dem Internet der Dinge (IoT) auseinandersetzt, ist ziemlich wahrscheinlich auch scho…
+März 27, 2023
+ IoT-Architektur: Die Ebenen des Internet of Things 
+Eine Einführung in die verschiedenen Ebenen der IoT-Architektur und wie sie zusammenarbeiten um d…
+Januar 19, 2023
+ IoT im Supply Chain Management 
+Das Supply Chain Management kann durch den Einsatz von IoT-Geräten grundlegend verändert werden.
+    
+        Weitere Neuigkeiten    
+    
+        Anschrift    SenseING GmbHHirschstr. 29
+76133 Karlsruhe
+Deutschland
++49 721 821 076 11
+info@senseing.de
+        Produkte    
+träck 
+NLG-M 
+SNC-PV 
+SenseCloud 
+        Allgemeines    
+Über uns 
+Karriere 🚀 
+Unternehmen 
+Partner 
+Impressum 
+        Information    
+Datenschutz 
+Cookies verwalten 
+ 
+©  SenseING GmbH. All rights reserved.

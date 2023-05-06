@@ -1,0 +1,49 @@
+Vinnova GmbH
+Zum Inhalt springen
+ info@vinnova.de
+                
+StartseiteÜber unsKontakt
+Menü
+ 
+Artificial Intelligence COMES TRUE 
+VISPOT
+Video abspielen
+Künstliche Intelligenz (KI) ist aktuell weit davon entfernt, Menschen ersetzen zu können – dafür ist sie nicht generisch genug und versteht das “große Ganze” nicht. Wohl aber kann KI Menschen von ermüdenden, repetitiven Aufgaben entlasten und somit Ressourcen im persönlichen und unternehmerischen Bereich freisetzen.
+ 
+Jetzt Online: Wow am Bau
+Auf der neuen Webseite gibt es ab sofort regelmäßig Updates zu der BIM-Pilotbaustelle an der B29, auf der jegliche Dokumentation mit der ViGRAM App durchgeführt wird. Schau regelmäßig vorbei, um etwas neues zu entdecken.
+Schadenskartierung auf Bilddaten zählt zu den Bereichen, in denen unsere KI bereits heute menschliches Leistungsniveau erreicht, nur viel schneller arbeitet und ohne zu ermüden.Dabei betrachten wir es allerdings als ethisches Mandat, dass das letzte Wort über kritische Fälle stets der Mensch hat.
+ 
+3,3Mio
+Bestand Trainingdaten Fotos
+ 
+700Min
+Bestand Trainingdaten Videos
+ 
+28Mrd
+Punkte aus Punktwolken 
+Was verstehen wir unter künstlicher intelligenz? 
+Eine künstliche Intelligenz soll bestimmte Entscheidungsstrukturen des Menschen lernfähig nachbilden und eigenständig ausführen.Wir arbeiten im Speziellen an Lösungen zur Digitalisierung, Automatisierung und dem Einsatz von künstlicher Intelligenz im Bau und Erhalt unserer Infrastruktur.
+ 
+erfahren sie mehr
+“
+Menschliche und künstliche Intelligenz müssen eine Symbiose ergeben.” 
+Prof. Dr. German Nemirovski
+Prodekan der Fakultät Informatik,
+Hochschule Abstadt-Sigmaringen
+Aktuelle Projekte 
+AI4INFRA 
+Wie kann künstliche Intelligenz bei der Unterhaltung, Inspektion und Instandsetzung unserer Infrastruktur eine Hilfe sein?Als Konsortium aus Start-Up, Ingenieurbüros, Hochschule und dem Verkehrsministerium BW hat das Projekt AI4INFRA die Aufgabe, ein Standardverfahren und eine öffentlich zugängliche Plattform für den Einsatz von KI zu entwickeln und bereitzustellen.Die Plattform eignet sich für die Auswertung, Kartierung und das Reporting von oberflächigen Schadstellen an Bahngleisen (Bahnschwellen), auf Autobahnen oder an Brückenbauwerken.
+ 
+Zur AI4INFRA Website
+AI2PLAN 
+AI2PLAN ist ein eigenes Projekt der ViNNOVA mit einem Ingenieurbüro als Partner. Mit Hilfe von automatisierten Prozessen und künstlicher Intelligenz sollen aus Drohnen-Vermessungsbefliegungen Bestandspläne von Straßenkörpern, dem angrenzenden Gelände und Ingenieurbauwerken herzuleiten sein.
+Fly4Inspection 
+Fly4Inspection ist das Entwicklungsprojekt eines privaten Großkonzerns zur Durchführung einer automatischen oberflächigen Sichtprüfung von Brückenbauwerken aus Beton. Gemeinsam mit unserem Partner Flynex soll eine vollautomatisierte Brückeninspektion mit Hilfe modernster Drohnentechnik umgesetzt werden. Dabei kommt unter anderem unsere KI für Schadenskartierung auf Betonoberflächen zum Einsatz.Die Herausforderung dabei ist, dass die ermittelten Schadstellen einem BIM-fähigen Bestandsmodell zugeordnet und gemonitort werden sollen.
+erfahren sie mehr über uns
+Impressum
+Datenschutz
+				© Copyright vinnova.de 2019 
+Alle Rechte vorbehalten.			
+Menü schließen
+Diese Website benutzt Cookies. Wenn du die Website weiter nutzt, gehen wir von deinem Einverständnis aus.OKDatenschutzerklärung

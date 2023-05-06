@@ -1,0 +1,85 @@
+Accurids | Registry for Every Thing | FAIR data
+Product
+Company
+About Us
+Careers
+Resources
+Request a Demo
+  Register Every Thing 
+   become a hub in the data ecosystem  
+Get Started
+What is the foundation of any data-driven organization?
+An accurate and shared understanding of reference and master data objects!
+This is how you register Every Thing
+And therefore gain adherence to the FAIR data principles
+        STEP 1:
+      
+Register
+All important reference and master data objects are registered with application-agnostic, long-term stable identifiers.
+        STEP 2:
+      
+Match
+Duplicates from different sources are automatically detected and reviewed and approved by data stewards.
+        STEP 3:
+      
+Govern
+Clear roles and processes ensure that data references are of high quality and managed according to guidelines.
+        STEP 4:
+      
+...Share
+The adoption of reference and master data is increased through simple and transparent sharing mechanisms.
+Advantages of using Accurids
+ 
+Accelerate the adoption of reference and master data across your organization with reliable and long-lasting persistent identifiers that are easy to govern.
+Use IDMP and G-SRS Data built-in as a Service in 1-click
+With our partners, we have developed an ontology for the ISO IDMP standard that helps to connect information on substances and other regulatory relevant information from different departments. 
+Create Data Transparency
+With the overview of reference data, their interpretations, and mappings, you can deploy that knowledge in your data processing infrastructure - to understand the content flow live and automatically.
+The Fastest Tree View Exploration
+Reference data can be quite large trees with millions of concepts. To navigate this structure effectively, we’ve created the fastest tree view and search on the market - you can try it out!
+ 
+Automatic Data Matching
+ACCURIDS automatically detects data similarities and links and provides those to data stewards for review and then to users for an intuitive data search and exploration. 
+ 
+A Wealth of Public Data Available
+ACCURIDS has made it simple for you to create a well organised view of public reference data standards that help you in all external data communications to be more efficient. 
+Get Started in a Few Weeks
+ACCURIDS runs as a cloud service, but you can also set it up in your own cloud environment. Our experts help you to realise a convincing business case for your management within a few weeks. 
+CASE STUDY
+An ROI of 16m$ for Shared Reference and Master Data in an Organization with 10k People!
+Data Strategy implementation and data analytics success strongly depend on how effectively you manage reference and master data – because they have the biggest impact on interoperabiltiy and data quality. While the general importance is widely recognized, it is often a challenge to get senior stakeholder buy-in to make required investments. In a recent article, Malcolm Chisholm and Heiner Oberkampf describe the main business argumentation lines and calculate the ROI based on an example scenario - according to which an organization with 10 thousand people can save 16m$ annually!
+Get the Report
+Large companies use ACCURIDS on enterprise-level to share millions of reference and master data assets.
+Accurids is Enterprise-Ready
+Security
+Single Sign-on
+OAuth2
+Microsoft Azure AD
+Role-based Access
+Scalability
+Cluster Capability
+High-Availability
+High-Performance
+Cloud & Docker
+Lean Administration
+Compliance
+Data Privacy
+Data Policies
+Data Licensing
+ 
+Integrations
+SPARQL Connector
+GraphQL API
+Industry Leaders Deploy Accurids to become a Player in the Data Ecosystem
+The initial version of ACCURIDS was co-developed with leading pharmaceutical companies. Today, we have several customers from the top 20 life-science companies and we run pilots within agrochemical, retail, banking, and regulatory.
+We Build on Strong Partnerships
+Let's Get Started?
+→ Learn more about ACCURIDS
+→ Schedule a demo
+→ Discuss your solution options
+Accurids GmbHEisenbahnweg 9-1152068 Aachen 
+Mail: office(at)accurids(dot)comTel: +49 (0)241-94314-540
+ 
+© 2020 Accurids  All rights reserved I LinkedIn I YouTube I Imprint
+            Powered by Atlas - a B2B SaaS HubSpot theme
+            

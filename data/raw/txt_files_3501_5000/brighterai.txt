@@ -1,0 +1,175 @@
+brighter AI - The world's #1 image and video anonymization
+Skip to content
+						brighter AI - video anonymization software					
+Login 
+Contact Us
+Primary Menu
+ProductDemoFeaturesPricingFree TrialIndustriesAutomotiveHealthcarePublic SectorResearchCompanyValuesCareersBecome PartnersPressContact UsResourcesBlogsCase StudiesPanelsWhitepapersNews
+Login 
+Contact Us
+ende
+Your browser doesn’t support HTML5 video.
+Your browser doesn’t support HTML5 video.
+Protect every identity in mobility 
+							CONTACT US						
+Your browser doesn’t support HTML5 video.
+Your browser doesn’t support HTML5 video.
+Protect every identity on roads  
+							CONTACT US						
+Your browser doesn’t support HTML5 video.
+Your browser doesn’t support HTML5 video.
+Protect every identity in cities 
+							CONTACT US						
+Your browser doesn’t support HTML5 video.
+Your browser doesn’t support HTML5 video.
+Protect every identity in retail
+							CONTACT US						
+Your browser doesn’t support HTML5 video.
+Your browser doesn’t support HTML5 video.
+Protect every identity in research
+							CONTACT US						
+Protect every identity in public
+We provide image & video anonymization software based on state-of-the-art deep learning technology. Our solutions, Precision Blur and Deep Natural Anonymization, redact faces and license plates and help companies comply with data protection regulations such as the GDPR, CCPA, APPI and PIPL. 
+We enable companies in various industries to use publicly-recorded camera data for analytics and AI. With our solutions, companies can mitigate their liability and the risks of being fined, increase the capacity of their teams, improve their time to market, and push innovation.
+Face Anonymization
+With increasing capabilities of facial recognition technology, public video data collection comes with great risks. brighter AI’s Precision Blur is the most accurate face redaction solution in the world. Deep Natural Anonymization (DNAT) is a unique privacy solution based on generative AI. It creates non-reversible synthetic face overlays to protect individuals from recognition, while preserving data quality and accuracy for analytics and machine learning.
+SEE HOW IT WORKS
+ Original
+Deep Natural Anonymization
+Precision Blur
+Deep Natural Anonymization
+ Original
+Precision Blur
+Deep Natural Anonymization
+Precision Blur
+License Plate Anonymization
+With Precision Blur, brighter AI offers advanced video redaction for license plates worldwide. Deep Natural Anonymization is image and video anonymization software that replaces license plates with replicas. Therefore, it has no negative impact on neural networks and can be used for autonomous driving.
+SEE HOW IT WORKS
+ The only certified value preserving video redaction software enabling GDPR compliance
+ 
+Benefits
+ 
+Avoid non-compliance fines & 
+damaging your reputation
+ 
+Increase time to market 
+ 
+Decrease legal & 
+operational costs
+ 
+Monetize your data & 
+push innovation
+ 
+Enable analytics & AI
+ 
+Empower data exchange & 
+accelerate data collection
+Trusted by leading enterprises around the world
+ 
+ 
+ 
+ 
+ 
+ 
+Industries
+   
+Automotive
+Development of AD/ADAS functionalities
+   
+Healthcare
+AI-based medical devices training & R&D
+   
+Public Sector 
+Safety, security & better CX
+   
+Research
+Data collection & cross-border data sharing
+Award-winning technology
+“Europe’s Hottest 
+AI Startup” 
+by Nvidia
+“Most Innovative 
+ADAS Technology”
+by Automotive Tech.AD
+German Digital Award 
+“The Spark”
+by Handelsblatt and McKinsey
+Deep Tech Award 2020
+in the category “AI”
+by Berlin senate
+AUREA Award 2022
+in the category “Impact”
+by AUREA Award
+High Performer
+in “Data De-Identification”
+by G2
+Public Award  
+by European Cyber Security Organization
+Compatibility with machine learning
+“brighter AI’s solution was easily integrated and the natural anonymization was what we needed for improvement of lane and sign detection validation strategy.” 
+Václav Schybal, System Validation Platform Manager, Valeo
+Training with the Original Data vs. Deep Natural Anonymization Technology (DNAT); Cityscapes Validation Dataset
+Original
+0.315
+DNAT
+0.315
+0
+0.1
+0.2
+0.3
+							Precision 
+Mean Average Precision (IoU = 0.50 : 0.95)
+Instance Segmentation with Mask-RCNN
+“The technology makes data collection in public compliant according to privacy regulations worldwide, such as GDPR in Europe, CSL in China and the upcoming CCPA in the US.” 
+The Washington Post, March 21st, 2019
+“brighter AI has solved a fundamental problem of using and storing image and video data in compliance with data protection regulations.”
+Handelsblatt, November 23rd, 2019
+“brighter AI, a spin-off from the electronics specialist Hella, for example, was able to secure a multi-million investment with its anonymization software for camera images, which is in demand in the automotive industry.”
+WirtschaftsWoche, January 14th, 2020
+“The best 10 AI startups in Germany – brighter AI uses neural networks to generate artificial faces and license plates that are not recognizable as fake.”
+Business Insider, June 22nd, 2019
+Subscribe to our newsletter.
+ 
+ I accept the privacy policy.
+LinkedIn
+Twitter
+YouTube
+AngelList
+							brighter AI - video anonymization software						
+Our vision is to protect every identity in public.
+To protect every identity in public, brighter AI offers privacy services to warrant any company – working with privacy conflicted image data – to maintain focus on their core business objectives. This is achieved by next generation privacy technologies, a seamless use and fulfilling individual needs through customization options.
+      
+ProductDemoFeaturesPricingFree TrialIndustriesAutomotiveHealthcarePublic SectorResearchCompanyValuesCareersBecome PartnersPressContact UsResourcesBlogsCase StudiesPanelsWhitepapersNews
+Login
+© 2023 Brighter AI
+ImprintPrivacy policyCookie settings 
+Download for free
+Please provide the email address that we can send the document to.
+Thank you for your interest in our work. We are sending the file to your email address now. Due to heavy load on our website, this sometimes can take a few moments. Please also check your spam folder.
+1,true,6,Contact Email,2
+First Name 
+1,false,1,First Name,2
+Last Name 
+1,false,1,Last Name,2
+Lead Source Type 
+Inbound
+Outbound
+ 
+																1,false,3,Lead Source Type,2
+Lead Source (new) 
+Organic Search
+Paid Search
+Social Media
+Customer Portal
+Resources (Blog / Case Study)
+Newsletter Sign-up
+Trade Show
+Partner / Referral
+Product Page / Demo
+ 
+																1,false,3,Lead Source (new),2
+Lead Source Details 
+1,false,1,Lead Source Details,2
+After submitting, you will also get an email where you can subscribe to our newsletter. You can either confirm or simply ignore that request.
+Other than that, we use your email only for sending you the requested document. For more information, check out our privacy policy.
+GO BACK

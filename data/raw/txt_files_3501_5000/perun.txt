@@ -1,0 +1,104 @@
+Perun
+	Skip to content
+ 
+ 
+ 
+ 
+Use Cases
+Perun SDK
+Whitepaper
+Career
+Contact
+Blog
+ Blockchains in real-time 
+Perun is an off-chain framework that supports real-time payments as well as complex business logic and interoperability between blockchains. 
+Get Started Now!​
+ 
+ 
+ 
+Interoperable and Efficient Blockchain Ecosystems 
+The Perun framework seamlessly integrates into your blockchain solution and enables: 
+ 
+Cross-chainFunctionality 
+Perun connects people across multiple blockchains, allowing interoperability between different currencies and blockchain networks. 
+ 
+Unlimited Scalability 
+Transactions are instant, energy efficient and cheap to enable massively increased throughput by applying Layer-2-Technology 
+ 
+Provable Security  
+Virtual channel technology can keep your transaction data private and is continually proven secure to guarantee state-of-the-art procedures. 
+ 
+OfflinePayments 
+Perun supports payments over NFC and Bluetooth without an active internet connection. 
+ 
+ 
+Get Started Now! 
+Perun SDK 
+Go API to integrate Perun off-chain technology into your existing blockchain solutionBlockchain-independent Perun protocol engineHighly adaptable software architecture – support for any networking, logging or database requirementsSecurely designed from the ground up 
+Perun Node 
+Light-weight and IoT-readyCLI, gRPC (small g) and HTTP REST interfacesHigh performance – support for thousands of transactions per secondHigh reliability – never lose any keys or channel states 
+ 
+Visit the Perun SDK Repo!
+ 
+Visit the Perun Node Repo!
+Tutorials
+ 
+Our Research 
+Our technology is based on cutting edge research and implemented in Go. 
+Based on state channels 
+The first component of Perun’s off-chain framework are State Channels. State Channels allow users to execute massive amounts transactions off-chain, while the security is backed by the underlying blockchain. The soundness of our protocols has been analyzed with cutting edge methods of cryptographic research. 
+View PDF
+And more!
+ 
+ 
+ 
+Supercharge your blockchain today! 
+We develop secure off-chain solutions for your business. We support you from the conceptualisation phase all the way to deployment. Perun’s off-chain technology enables your blockchain to run fast and secure. 
+Contact Us
+Our Partners 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Join us and make blockchains ready for mass adoption. 
+Check out our open positions!
+Contact us to learn more. 
+ 
+info@perun.network 
+Created By 
+ 
+ 
+Github
+ 
+Linkedin
+ 
+Medium
+ 
+Twitter
+ 
+Discord
+ 
+Follow Us 
+Github
+ 
+Linkedin
+ 
+Medium
+ 
+Twitter
+ 
+Discord
+ 
+ 
+Imprint & Privacy Policy 
+© 2022 PolyCrypt GmbH. All rights reserved 
+ 
+					Perun State Channel Framework				
+All rights reserved

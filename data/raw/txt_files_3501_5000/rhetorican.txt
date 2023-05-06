@@ -1,0 +1,266 @@
+Rhetorik lernen online 🥇 Lerne Reden auf Rhetorican
+ 
+100% staatlich gefördertes Coaching
+100% staatlich  gefördertes CoachingPrivat- und  Firmen-CoachingRhetorican-CommunityRhetorican- Blog Login
+                  Cookies werden zur Personalisierung von Anzeigen verwendet und helfen uns bei der Bereitstellung unserer Dienste. Mit Klick auf „Akzeptieren“ stimmen Sie dieser Datenverarbeitung zu. Sie können Ihre Zustimmung jederzeit widerrufen. Datenschutzerklärung
+ Akzeptieren 
+ Ablehnen 
+Individuelle Einstellungen
+Cookie Info
+×
+ Kategorie: Einstellungen (1) 
+An
+Aus
+                    Auf dieser Seite können Sie Informationen zu den Zwecken und Anbietern erfahren, die personenbezogene Daten auf unserer Webseite verarbeiten. Diese Cookies dienen dazu, Einstellungen auf der Webseite zu speichern.
+                  
+Cookie-Name
+HotJar (Cookie-Name: _hjCookieTes )
+Provider
+rhetorican.de 
+Typ
+HTTP
+Ablaufzeit
+Sitzung
+Zweck des Cookies
+Dieses Cookie wird vom Audience Manager unserer Website gesetzt, um festzustellen, ob zusätzliche Cookies von Drittanbietern verwendet werden, um Informationen zu sammeln oder das Besucherverhalten auf mehreren Websites zu verfolgen. Cookies von Drittanbietern werden von Websites oder Unternehmen von Drittanbietern gesetzt.
+                          
+Kategorie: Statistiken (9)
+An
+Aus
+                      Um den Interessen der Benutzer von Rhetorican besser Rechnung tragen zu können, sammelt Rhetorican Daten über die Nutzung der Webseite sowie unserer Newsletter. Diese Datenerhebung erfolgt in jedem Fall pseudonymisiert und zu statistischen Zwecken.
+                    
+                            Cookie-Name
+                          
+HotJar (Cookie-Name: _hjAbsoluteSessionInProgress )
+Provider
+rhetorican.de 
+Typ
+HTTP
+Ablaufzeit
+1 Tag
+Zweck des Cookies
+                            Dieses Cookie wird verwendet, um zu zählen, wie oft eine Website von verschiedenen Besuchern besucht wurde – dies geschieht, indem dem Besucher eine ID zugewiesen wird, damit der Besucher nicht zweimal registriert wird.
+                          
+                            Cookie-Name
+                          
+HotJar (Cookie-Name: _hjIncludedInPageviewSample )
+Provider
+rhetorican.de 
+Typ
+HTTP
+Ablaufzeit
+1 Tag
+Zweck des Cookies
+                            Wird verwendet, um festzustellen, ob die Benutzernavigation und -interaktionen in die Datenanalyse der Website einbezogen werden.
+                          
+                            Cookie-Name
+                          
+HotJar (Cookie-Name: _hjRecordingLastActivity )
+Provider
+rhetorican.de 
+Typ
+HTML
+Ablaufzeit
+Sitzung
+Zweck des Cookies
+Legt eine eindeutige ID für die Sitzung fest. Dadurch kann die Website Daten über das Besucherverhalten zu statistischen Zwecken sammeln.
+                            Cookie-Name
+                          
+HotJar (Cookie-Name: _hjFirstSeen )
+Provider
+rhetorican.de 
+Typ
+HTTP
+Ablaufzeit
+1 Tag
+Zweck des Cookies
+                            Dieses Cookie wird verwendet, um festzustellen, ob der Besucher die Website schon einmal besucht hat oder ob es sich um einen neuen Besucher auf der Website handelt.
+                          
+                            Cookie-Name
+                          
+hjViewportId
+Provider
+rhetorican.de 
+Typ
+HTTP
+Ablaufzeit
+Sitzung
+Zweck des Cookies
+                            Legt eine eindeutige ID für die Sitzung fest. Dadurch kann die Website Daten über das Besucherverhalten zu statistischen Zwecken sammeln.
+                          
+                            Cookie-Name
+                          
+HotJar (Cookie-Name: _hjTLDTest )
+Provider
+rhetorican.de 
+Typ
+HTTP
+Ablaufzeit
+Sitzung
+Zweck des Cookies
+                            Registriert statistische Daten über das Benutzerverhalten auf der Website. Wird für interne Analysen des Website-Betreibers verwendet.
+                          
+                          Cookie-Name
+                        
+HotJar (Cookie-Name: _hjSessionUser_# )
+Provider
+rhetorican.de 
+Typ
+HTTP
+Ablaufzeit
+365 Tage
+Zweck des Cookies
+                          Sammelt Statistiken über die Besuche des Besuchers auf der Website, wie z. B. die Anzahl der Besuche, die durchschnittlich auf der Website verbrachte Zeit und welche Seiten gelesen wurden.
+                        
+                            Cookie-Name
+                          
+HotJar (Cookie-Name: _hjIncludedInSessionSample )
+Provider
+rhetorican.de 
+Typ
+HTTP
+Ablaufzeit
+1 Tag
+Zweck des Cookies
+                            Registriert Daten über das Website-Verhalten der Besucher. Dies dient der internen Analyse und Optimierung der Website.
+                          
+                            Cookie-Name
+                          
+HotJar (Cookie-Name: _hjSession_# )
+Provider
+rhetorican.de 
+Typ
+HTTP
+Ablaufzeit
+1 Tag
+Zweck des Cookies
+                            Sammelt Statistiken über die Besuche des Besuchers auf der Website, wie z. B. die Anzahl der Besuche, die durchschnittlich auf der Website verbrachte Zeit und welche Seiten gelesen wurden.
+                          
+Kategorie: Marketing (1)
+An
+Aus
+                      Wir nutzen Marketing-Cookies, um den Erfolg unserer Online-Werbemaßnahmen auf anderen Seiten zu messen und damit eine optimale Verteilung unseres Werbebudgets zu gewährleisten. Mit den eingesetzten Analysediensten werten wir aus, in welchem Umfang die Anzeigen zu Seiten­aufrufen, Käufen oder Downloads auf Rhetorican.de geführt haben. Das Tracking funk­tioniert anhand von Cookies, die beim Klick auf die Anzeigen gesetzt werden. Eine Messung findet also nur statt, wenn der Nutzer vorher selbst aktiv eine unserer Anzeigen angeklickt hat.
+                    
+                            Cookie-Name
+                          
+HotJar (Cookie-Name: _hjRecordingEnabled )
+Provider
+rhetorican.de 
+Typ
+HTML
+Ablaufzeit
+Sitzung
+Zweck des Cookies
+                            Dieses Cookie wird verwendet, um den Besucher zu identifizieren und die Anzeigenrelevanz zu optimieren, indem Besucherdaten von mehreren Websites gesammelt werden – dieser Austausch von Besucherdaten wird normalerweise von einem Drittanbieter-Rechenzentrum oder Ad-Exchange bereitgestellt.
+                          
+Kategorie: Wesentlich (1)
+                      Wesentliche Cookies sind für die Grundfunktionen und den reibungslosen Betrieb der Website erforderlich. Sie können nicht deaktiviert werden.
+                    
+                            Cookie-Name
+                          
+_rhetoric_session
+Provider
+rhetorican.de 
+Typ
+HTTP
+Ablaufzeit
+Sitzung
+Zweck des Cookies
+                            Wesentliches Cookie: Wesentliche Cookies sind für die Grundfunktionen und den reibungslosen Betrieb der Webseite erforderlich. Sie können nicht deaktiviert werden.
+                          
+ Erfolgreich und sicher auftreten!
+Wir machen Sie fit! Überzeugen Sie durch unsere individuellen Coachings mit Ihren rhetorischen Fähigkeiten! 
+Bewerbungs- und Rhetorik-Coachings zu 100% staatlich gefördert!
+Bewerbungs- und Rhetorik-Coachings zu 100% staatlich gefördert!
+Finden Sie das Coaching, das zu Ihnen passt
+Erfahren Sie mehr über Rhetorican®
+Bewerbungscoaching
+100% staatlich gefördert
+In dem individuellen Bewerbungscoaching werden genau die Themen analysiert, behandelt und besprochen, die für Sie im Bewerbungsprozess am wichtigsten sind. Ihr Coach erarbeitet die für Sie relevanten Themen gemeinsam mit Ihnen - egal ob Berufsneuorientierung, Wiedereinstieg in die Berufswelt, Erstellung professioneller Bewerbungsunterlagen oder auch die Vorbereitung auf das klassische Vorstellungsgespräch. Jetzt informieren!
+Rhetorik-Coaching
+100% staatlich gefördert
+In unserem individuellen Rhetorik-Coaching trainieren Sie mit einem ausgewählten Coach alles, was zum Thema professionelle Kommunikation und Präsentation dazugehört. Hierbei können wir auf die Unterstützung und das Know-How von zwei Rhetorik-Europameistern zurückgreifen. Bauen Sie Ihr Lampenfieber ab, verbessern Sie Ihre Art der Kommunikation und optimieren Sie Ihre Körpersprache.  Jetzt informieren!
+Firmen- und
+                  Mitarbeitercoachings
+Sie sind Geschäftsführer*in, befinden sich in einer Führungsposition oder leiten ein Team? Dann sind Sie bei uns genau richtig. Wir bieten Ihnen mit unserer Erfahrung im Bereich der Rhetorik als auch der Team- und Personalentwicklung sowie Vertriebsführung ein breites Spektrum aus den für Sie relevanten Themengebieten. Egal ob Mitarbeiter-Gespräch, Vertriebsschulung, Bewerbungsmanagement oder strategische Verhandlungsführung. Jetzt informieren!
+Privat-Coachings
+Wenn Sie sich privat oder beruflich fortbilden möchten, eine Neuorientierung anstreben oder Sie in der zwischenmenschlichen Kommunikation leichter Brücken zu anderen Menschen bauen wollen, so haben Sie bei uns die Möglichkeit Ihre Rhetorik individuell weiterzuentwickeln.  Jetzt informieren!
+Rhetorican-Community
+Du liebst Rhetorik? Du sprichst gern vor Leuten? Dann bist Du genau richtig! Denn wir bieten Dir eine einmalige Community, die genauso tickt wie Du! Bei uns kannst Du als Nutzer nicht nur deine eigenen Reden aufnehmen und mit der Community teilen und Feedback dazu erhalten, sondern kannst auch andere User und ihre Reden bewerten. Probiere es doch gleich mal aus mit unserem 14-tägigen Probezeitraum - kostenlos und unverbindlich. Jetzt informieren!
+Erfahren Sie, was wir Ihnen bieten
+Unsere Vorteile
+DSGVO konformes Live-Video-Coaching
+Community und Gruppen
+(Experten-) Feedback und Bewertung
+Praktisches Training durch Aufnahmen
+Online-Akademie inkl. Lehrvideos
+Staatlich akkreditier-ter Bildungsträger
+Kontakt
+Rückruf
+Kontakt
+ 
+Nehmen Sie Kontakt auf.
+×
+Rhetorican
++49 (0) 7356 / 66 29 525
+  |  
+info@rhetorican.de
+*Pflichtfeld
+              Ich bin damit einverstanden, dass mich Rhetorican (MOSOS UG (haftungsbeschränkt)) kontaktiert (telefonisch oder per E-Mail) und meine angegebenen Daten speichert.*
+            
+ Rückruf
+Dürfen wir Sie zurückrufen?
+×
+*Pflichtfeld
+ Ich bin damit einverstanden, dass mich Rhetorican (MOSOS UG (haftungsbeschränkt)) kontaktiert (telefonisch oder per E-Mail) und meine angegebenen Daten speichert.*
+×
+Kostenlos und unverbindlich beraten lassen!
+                  Termin vereinbaren
+                
+Feedback unserer Kunden
+Wie hat ihnen Rhetorican geholfen?
+Trotz anfänglicher Zweifel und Bedenken hat mich das persönliche Bewerbungscoaching mehr als überzeugt. Frau Prestele war eine unglaublich nette und hilfsbereite Dozentin. Der Kontakt zu ihr war sehr unkompliziert und eine Antwort erhielt ich stets zeitnah. Sie hat mich durch Ihr komptentes Coaching sehr gut auf meine Bewerbungen vorbereitet.
+Daniel Weller
+Bewerbungscoaching online(2021)
+Die Lektionen werden vom Coach nicht vorgegeben, sondern er orientieren sich an meinen Bedürfnissen und holen mich dort ab, wo ich gerade stehe. Mehr Mut bei den Formulierungen zu zeigen hat sich sehr schnell positiv bemerkbar gemacht: Einladungen zu Vorstellungsgesprächen waren die Folgen. Das Coaching fühlt sich selten wie Coaching an, sondern eher wie ein Gespräch unter Freunden.
+Andreas Müller
+Bewerbungscoaching online (2021)
+Die Übersichtlichkeit ist super und die Online-Kurse haben mir sehr geholfen, mich in das weite Feld der Rhetorik einzuarbeiten und mich zu verbessern. Vielen Dank!.
+Bettina Jäger
+Rhetorican-Community (2021)
+Ich bin sehr froh, mich für Rhetorican für mein Bewerbungscoaching entschieden zu haben.Ich hatte das Glück, von Fr. Mertens gecoached zu werden. Sie erfüllte genau das, was ich mir von dem Coaching erhofft hatte. Nicht nur, dass sie mir fachliche und inhaltliche Tipps zu meinen Bewerbungsunterlagen gegeben hat, sie hat mir neue Wege aufgezeigt und Denkmuster durchbrochen. Sie hat mich mental aufgebaut und mir wieder Selbstvertrauen gegeben.
+Desiree Sühr
+Bewerbungscoaching online (2021)
+Das Online-Coaching mit dem Coach Herrn Christian B. Rahe-Helmerichs kann ich sehr empfehlen - von der Erstellung professioneller, authentischer und ehrlicher Bewerbungsunterlagen, über die potentielle Suche, mit kreativen Tipps nach passenden Arbeitgebern, bis hin zur sehr wertschätzenden Persönlichkeitsentwicklung.Herzlichen Dank an Rhetorican, und vor allem an Herrn Christian B. Rahe-Helmerichs für das für mich sehr erfolgreiche Coaching.
+Anna Schaude
+Bewerbungscoaching online (2021)
+Newsletter Anmeldung
+Erhalte wertvolle News & Tipps per Email
+Ihre E-Mail-Adresse wurde für den Newsletter abonniert.
+Anmeldung absenden
+  Ja, ich möchte weitere Informationen über Rhetorik und webseitenbezogene Angebote bzw. Rabatte regelmäßig per Email erhalten. Wir werden Dir keinen Spam zusenden. Weitere Informationen erhälst Du in unserer Datenschutzerklärung
+CookiesRichtlinie
+ 
+Vielen Dank für Dein Interesse.
+Du bist jetzt zum Newsletter angemeldet!
+ 14 Tage unverbindlich & kostenlos testen!
+Unsere Partner
+Die MOSOS UG ist als Bildungsträger nach AZAV zugelassen von
+Vielleicht kennt ihr uns von:
+Soziale Links
+Weiteres
+Über uns
+Hilfe & Support
+Karriere und Jobs
+FAQ
+Blog
+Rechtliches
+AGB
+Datenschutz
+Impressum
+Bildnachweise
+Wichtige Information 
+×
+Herzlich Willkommen bei Rhetorican! Wenn Sie bei uns ein Coaching besuchen (z.B. Bewerbungs- oder Rhetorik-Training, die bis zu 100% über die Agentur für Arbeit förderfähig sind), können Sie Ihren DSGVO-konformen Live-Feed-Raum uneingeschränkt kostenfrei verwenden. Zusätzlich können Sie sich 14 Tage lang unverbindlich unseren Community-Bereich von Rhetorican ansehen, Übungsreden halten, diese für sich behalten oder mit anderen teilen und unsere Online-Akademie-Kurse ansehen.Nach 14 Tagen sind ein paar Funktionen unseres Community-Bereichs dann begrenzt, was jedoch Ihr Coaching nicht beeinträchtigt.Wenn Sie Ihre Rhetorik außerhalb Ihres Coachings oder Ihrer Gruppe weiterhin über Rhetorican trainieren und Zugriff auf alle Akademie-Online-Kurse erhalten möchten, so können Sie hier einen Premium-Account erwerben (ab 9,99€/monatlich).Solange Sie kein Premium-Abonnement abschließen, entstehen Ihnen auch keine Kosten!Für Fragen stehen wir Ihnen unter support@rhetorican.de jederzeit gerne zur Verfügung.Herzliche Grüße,Ihr Rhetorican-Team
+            Ok
+          

@@ -1,0 +1,383 @@
+amprove | Revolutionary component development for every industry
+ 
+Skip to content
+ 
+Home
+Services
+Your Benefits
+Example projects
+Machinery
+Automotive – large series
+Automotive – performance cars
+Component identifier
+Company
+Team
+Partners
+About us
+How we develop parts
+Contact
+ 
+ Menu
+Home
+Services
+Your Benefits
+Example projects
+Machinery
+Automotive – large series
+Automotive – performance cars
+Component identifier
+Company
+Team
+Partners
+About us
+How we develop parts
+Contact
+ 
+Linkedin
+ 
+We develop economical lightweight components by using mathematical optimization 
+Applicable to any industry and any manufacturing process 
+ 
+Our Services 
+Revolutionary component development - comprehensively implemented 
+ 
+- Component identification
+For which of your components would redevelopment be the most profitable e.g. in terms of lightweight design? Which manufacturing process (incl. 3D printing) is suitable for producing the component and which process offers the best cost-benefit ratio?  We clarify the question of economic efficiency and identify which of your company’s components we believe provide you with the most benefits. The identification is free of charge and provides you with a non-binding overview of the hidden potential within your assemblies. You can arrange a free consultation by going to our contact request page. If you already have part in mind, you can also use our free automated identification tool: amvaluation
+- Simulation driven part development
+Through our simulation driven component development process (see development process), we are able to tailor your part designs perfectly to your applications. We can prioritize several different objectives such as lightweight design, minimum manufacturing costs or the increase/reduction of thermal conductivity. Lightweight design is often accompanied by reduced manufacturing costs. In doing so, we can variably influence the relationship between the degree of lightweight design and the costs in order to generate the optimum for your application. The resulting designs provide the maximum performance with the minimum material used at the lowest possible manufacturing cost. At the same time, we guarantee the operational safety and manufacturability of the components we design. Not able to imagine the difference yet? Click here for some sample projects with before-and-after comparisons from the automotive– and machinery industry. 
+- Geometry return
+If you have already performed your own topology optimization, we also offer geometry return of the results into CAD solid models separately. In doing so, we guarantee a minimal deviation between the result of the topology optimization and the final component geometry. Uneven, discontinuous, “not watertight” and generally error-prone STL files are no problem and can be exported in STEP or IGES file format after the return process. The files are subsequently fully editable in any common CAD program.
+- Component safeguarding
+By combining simulation and physical testing, we reliably ensure the manufacturability and fatigue strength of your component. We have a database of a wide range of material models that are used to reliably calculate the fatigue life of these components. The use of process simulation of the various manufacturing methods, 3D printing or conventional, enables the avoidance of potential manufacturing issues down the line.
+- Coordination of manufacturing and quality assurance
+Through our large network of manufacturing partners, we can find and commission the ideal production partner for your component. We coordinate the manufacturing and ensure that delivery times are met. All of the required manufacturing parameters are defined by us in consultation with you, so there is no need for specific manufacturing know-how on your part. We have carefully selected our manufacturing partners in order to guarantee the highest quality. In addition, we have extensively tested manufactured components from our partners through both non-destructive and destructive testing to eliminate any uncertainties. Materials used during manufacturing are also qualified by our own in-house testing in order to verify potentially inaccurate manufacturer material specifications.
+ 
+ 
+Your Benefits 
+Tailored components 
+ 
+ 
+Cost reduction 
+By saving material or changing the previously used manufacturing process, production costs are drastically reduced. You don’t have to purchase costly software or machinery, and you don’t have to train employees to use such tools. In addition, we can offer the best prices for manufacturing through our network of manufacturing partners. Getting started is straightforward with our free part identification service. 
+ 
+Lightweight design 
+Lightweight design plays a very important role, especially for moving components. Reduced weight inherently reduces dynamic forces and provides you with benefits from secondary effects such as: increased travel speed for your production equipment, reduced energy consumption, increased tool life or simplified component handling. 
+ 
+Optimized thermal behavior 
+The aim of component optimization can also be to improve the part’s thermal properties, so that cooling and heating problems are eliminated by the optimized component structure. Depending on the application, you benefit for example through less wear, increased performance in thermally-stressed components and reducing required additional cooling and heat sources. 
+ 
+Shortest development time 
+Reduce your time-to-market. By eliminating manual design steps in our development process, we can develop parts up 80% faster while being able to respond flexibly to your desired changes. 
+ 
+ 
+Development example - machinery 
+Lightweight Pick & Place Machine 
+-
+0
+%
+Moving Mass
+-
+0
+%
+Energy demand
+oder 
++
+0
+%
+Production speed
+0
+Optimized parts
+By optimizing four components of the pick & place machine, the moving mass was reduced by 29.8 kg. The components were optimized for three different manufacturing processes in order to generate an ideal relationship between cost and performance.  Eleven components were combined into four parts. This improves the assembly effort and handling. Two linear guides and 25 screws were saved. Fatigue strength and manufacturability are fully assured. Due to the reduced moving mass, 52% less energy is required to perform the movements.  The result is either 34% faster production or 52% reduced energy costs. 1270€ of energy costs are saved per year per machine. 
+We investigate the potential of optimized components for your machines free of charge. 
+Get in touch now
+Before / after comparison & technical data of the optimized components 
+ 
+ 
+Move the slider
+ 
+ 
+Bitte führe ein Update deines Browsers durch oder verwende einen der folgenden Browser:Google Chrome Version 23 oder höherFirefox Version 65 oder höherOpera Version 19 oder höherMicrosoft Edge Version 18 oder höheriOS Safari Version 14.3 oder höher 
+Connection Y - Z axis 
+Mass before                                                    
+14,64 kg                                                
+Masse after                                                    
+2,28 kg                                                
+Mass reduction                                                    
+84,45 %                                                
+Components combined                                                    
+5 in 1                                                
+Saved                                                    
+1 linear guide, 13 screws                                                
+Manufacturing process                                                    
+Selective laser melting                                                
+Material                                                    
+AlSi10Mg                                                
+View in machine 
+ 
+ 
+ 
+Base plate Z-axis 
+Mass before                                                    
+8,91 kg                                                
+Mass after                                                    
+1,17 kg                                                
+Mass reduction                                                    
+86,87 %                                                
+Components combined                                                    
+2 in 1                                                
+Saved                                                    
+1 linear guide, 4 screws                                                
+Manufacturing process                                                    
+Water jetting                                                
+Material                                                    
+EN AW 6060 T6                                                
+View in machine 
+ 
+ 
+ 
+Console pneumatic unit 
+Mass before                                                    
+5,12 kg                                                
+Mass after                                                    
+0,46 kg                                                
+Mass reduction                                                    
+91,01 %                                                
+Components combined                                                    
+4 in 1                                                
+Saved                                                    
+8 screws                                                
+Manufacturing process                                                    
+Selective laser melting                                                
+Material                                                    
+AlSi10Mg                                                
+View in machine 
+ 
+ 
+ 
+Gripper 
+Mass before                                                    
+333,27 g                                                
+Mass after                                                    
+53,25 g                                                
+Mass reduction                                                    
+84,02 %                                                
+Manufacturing process                                                    
+Selective laser sintering                                                
+Material                                                    
+PA12                                                
+Quanitity installed                                                    
+4                                                
+View in machine 
+ 
+We would be happy to discuss possible applications of optimized components on your machines/plants/.. and look at other potential components. 
+Get in touch now
+ 
+ 
+Development example - Automotive 
+Lightweight caliper for volume models (fist caliper) 
+ 
+Initial component 
+-
+0
+%
+Masse
+ 
+-$
+0
+Stückkosten
+ 
+amprove Design 
+ 
+Initial component 
+-
+0
+%
+Masse
+ 
+-$
+0
+Stückkosten
+ 
+amprove Design 
+Development result 
+During the optimization of the brake caliper from the current model of a German car manufacturer, the development focused on reduced production costs through lower material usage. The result of our optimization was a brake caliper with 20% lower mass and per-unit costs reduced by 0.15€. In addition to lower energy consumption, the lighter construction also results in advantages for driving dynamics by reducing the unsprung mass. The optimization of cost-effective lightweight components can be applied to various vehicle parts in quantities ranging from a few thousand up to millions to achieve a large scope. 
+We would be happy to discuss possible applications for optimized components in your vehicles and to help identify other potential use cases. 
+Get in touch now
+-
+0
+%
+Masse
+& 
+-$
+0
+cost per part
+Performance Parameter 
+Mass reduction                                                    
+-20 % (663g)                                                
+Stress reduction                                                    
+-22 % (-60 MPa)                                                
+Stiffness increase                                                    
++26 % (-0,37ml @ 150 bar)                                                
+The most important goal besides mass reduction for this application (high-volume production) is to minimize the maximum stress. This makes it possible to use a lower-alloy, less expensive material. By doing so, the per-unit costs can be further reduced. The stress reduction is achieved by a bionic geometry that is suitable for the prescribed load path. At the same time, the new component structure increases the stiffness of the caliper by 26%, which improves how the brake pedal feels. 
+ 
+Manufacturing 
+Unit cost reduction                                                    
+-$0.17                                                
+Manufacturing process                                                    
+Casting with permanent molds/models                                                
+Material                                                    
+Galvanized cast iron                                                
+Tool durability                                                    
+Identical to initial component                                                
+Tool                                                    
+2 part design                                                
+The biggest challenge in the development of lightweight cast components is to ensure economic manufacturability. Mass reduction lowers material costs and thus the price of the blank. At the same time, the mold manufacturing costs must be kept low in order to enable overall cost reduction. For this brake caliper, a two-part mold design with a free-form parting line was generated. The figure illustrates the parting line between the blue and red marked areas. With our development process, we have the possibility to ensure demoldability even for the most complex components and to enable uniform solidification. During development, we also simultaneously influence the tool manufacturing costs via the component geometry, to enable a reliable and economic production. 
+ 
+We would be happy to discuss possible applications for your vehicles and to identify other potential components 
+Get in touch now
+ 
+ 
+Development example - Automotive 
+Lightweight brake caliper for performance vehicles (fixed caliper) 
+ 1 component   –     2 geometries   –     2 manufacturing processes   –     2 applications
+Medium size series 
+Mass reduction                                                    
+-22 % (600g)                                                
+Stiffness increase                                                    
++35% (-0.67ml @ 150 bar)                                                
+Max. stress                                                    
+230 MPa                                                
+Max. operating temperature                                                    
+250°C                                                
+Manufacturing process                                                    
+Casting with permanent molds                                                
+Application                                                    
+High powered vehicles                                                
+In order to meet the requirements of a series with medium quantities (10,000 – 100,000 vehicles per year), the aluminum brake caliper in this version was developed for casting with permanent molds. Compared to the standard caliper, this design offers lower manufacturing costs in addition to reduced fuel consumption due to its lower mass. At the same time, the reduction in unsprung mass results in advantages for the vehicle’s driving dynamics. 
+ 
+ 
+Low size series 
+Mass reduction                                                    
+-39 % (1060g)                                                
+Stiffness increase                                                    
++40 % (-0,77ml @ 150 bar)                                                
+Max. stress                                                    
+230 MPa                                                
+Max. operating temperature                                                    
+315°C                                                
+Manufacturing process                                                    
+Selective laser melting                                                
+Application                                                    
+Supersport car, motorsport                                                
+For the application of the brake caliper in small series, the component was optimized for tool-less 3D printing. The design freedom of 3D printing enables further material savings and the creation of high-performance components. Our developments drastically reduces the mass of the component and thus the machine time required for production. This is crucial since the cost of 3D printing depends largely on this machine time, and therefore, we are keeping the price as low as possible. 
+We would be happy to discuss possible applications for your vehicles and to identify other potential components 
+Get in touch now 
+ 
+ 
+ 
+How we develop components 
+Simulation replaces CAD-construction 
+ 
+Load & design space definition 
+Based on existing information such as CAD data, values for applied forces and pressures, information on masses and directions of motion, or photos and videos of your application, the maximum available installation space is designed and the finite element model with all load cases is built. Ideally, simulation models and design spaces already exist. In general, the more data provided, the closer the result is to the optimum. 
+Topology & shape Optimization 
+Topology and shape optimizations are performed within the developed design space. For the given load cases, the geometry is optimized under suitable restrictions with regard to the optimization objective, e.g. minimizing the mass. During this process, all constraints are defined keeping in mind the desired production process to ensure manufacturability. Both conventional manufacturing processes such as casting and milling as well as additive manufacturing processes (3D printing) can be taken into account. No further information is required on your part. 
+ 
+ 
+Geometry return 
+In order to preserve the optimized result of the topology and shape optimizations, further steps are taken directly on the output of the solver. The generated density distribution is fed into a parameterizable geometry, which can then be further used in all commercial CAD programs. The new geometry is a fully functional solid model, which can be exported as a STEP file, for example. The deviation between the result of the topology optimization and the final component’s geometry is very small due to the elimination of the manual post-design work. 
+FE-Reanalysis 
+The result of the optimizations is then finally validated. Various simulations are considered. On one side, fatigue analyses are carried out to ensure the safe operation of the component, and on the other side, process simulations are performed to enable cost-effective and trouble-free production. Depending on the application, additional properties such as NVH behavior or thermal resistance can be taken into account. At the same time, these properties can also be prescribed as part of the optimization. 
+ 
+Result 
+The result is an optimal, fatigue-proof component that can be manufactured reliably and cost-effectively in the selected manufacturing process. Every component structure has a function. Maximum performance at minimum cost. 
+ 
+Minimal weight
+ 
+Minimum production costs
+ 
+Highest stiffnes
+ 
+Ideal thermal behavior
+ 
+ 
+TEAM 
+ 
+Dennis Middelmann 
+Co-Founder 
+ 
+Yannik Eggert 
+Co-Founder 
+ 
+Rami Bedewi 
+Co-Founder 
+ 
+Björn Ringel 
+Berater 
+Our team consists of engineers with more than fifteen years of experience in simulation-driven component development. Most of our experience comes from the automotive and motorsport sector. There we dealt with many CAE and CAD topics centered around structural optimization. In addition to conventional manufacturing processes such as casting and milling, we have increasingly focused on various additive manufacturing processes (3D printing). 
+ 
+ 
+About us 
+improve by amprove. 
+ 
+Our Vision 
+With simulation driven component development, practically any component can be driven to its maximum efficiency and performance. Contrary to popular assumptions, manufacturing costs are often reduced rather than increased during this process. Our desire is to update the hardware world with our development work and to do our part to reduce unnecessary material waste. As a company, we aspire to act as a part supplier in the future by building up a portfolio of self-developed, efficient hardware. 
+ 
+ 
+Contact 
+First name							
+Last name							
+E-Mail							
+Phone number							
+Message							
+ 
+I agree to the privacy policy. 
+Send
+ 
++49 (0) 176 4200 2810
+ 
+kontakt(at)amprove.de
+Partners 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Menü Unsere Leistungen
+Ihr Nutzen
+Entwicklungsprozess
+Bauteilidentifikator
+Beispielprojekt Automobilbau Großserie
+Beispielprojekt Automobilbau Performancefahrzeuge
+Beispielprojekt Maschinenbau
+ 
+Follow Us
+Opens in a new tab 
+Rechtliches Impressum und Datenschutz
+AGB
+ 
+Copyright 2022 - amprove			
+We use CookiesWe use cookies and Google Analytics to provide you with the best possible experience and to make our communication with you relevant. We take your preferences into account and process data for analysis and marketing purposes only if you give us your voluntary consent by clicking "Accept all". You can find more information about cookies in our Privacy Policy.   Accept allOnly requiredManage consent
+Close
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+ 
+Necessary							
+Necessary
+Always Enabled 
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								
+Non-necessary							
+Non-necessary
+ 
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								
+SAVE & ACCEPT

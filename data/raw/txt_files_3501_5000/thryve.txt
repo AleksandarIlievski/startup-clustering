@@ -1,0 +1,111 @@
+Wearable API to access 500+ devices and data sources - Thryve
+Solutions
+For Insurers
+For Digital Health
+For Remote Care
+For Research
+Product
+Wearable API
+API documentation
+Real-world evidence
+About
+Careers
+Book A Demo
+Solutions
+For Insurers
+For Digital Health
+For Remote Care
+For Research
+Product
+Wearable API
+API documentation
+Real-world evidence
+About
+Careers
+Book A Demo
+Connect to your users’ personal health data
+Digital health services, insurers, and care providers all over Europe use Thryve’s wearable API to raise interaction and therapy results with a simple access to users’ continuous health data.
+For Digital Health
+For Research
+For Developers
+Trusted by
+Access patient data from 500+ wearable devices and health apps through one integration
+Thryve’s SDK brings everything you need to access fragmented wearable, medical devices, and health data silos with a single integration. We unify your users’ data from smartwatches, blood glucose meters, and many other sources to unlock a continuous stream of harmonized real-time health information for your digital healthcare app. Our health API supports a wide range of popular data sources like APPLE HEALTH, Google Fit, Huawei Health, SAMSUNG HEALTH, WITHINGS, and many more.
+How Thryve helps to lower friction and measure therapy success with patient monitoring for the leading adiposity care DiGA.
+Aidhere Case Study
+ 
+You’re just one step away…
+Drop your E-Mail to receive your personal copy of aidhere's success story, enabled by Thryve. We’ll also sign you up for updates, which you can, of course, change any time.
+Thank you for subscribing!
+Download PDF
+How Thryve’s wearable API enables 10.8M insurees to bring their own device for seamless digital prevention and bonification.
+Die Techniker Case Study
+ 
+You’re just one step away…
+Drop your E-Mail to receive your personal copy of Techniker Krankenkasse's success story, enabled by Thryve. We’ll also sign you up for updates, which you can, of course, change any time.
+Thank you for subscribing!
+Download PDF
+How Thryve’s fitness API helped Europe’s leading digital rehabilitation service to increase patient adherence by 18%.
+Caspar Case Study
+ 
+You’re just one step away…
+Drop your E-Mail to receive your personal copy of Caspar’s success story, enabled by Thryve. We’ll also sign you up for updates, which you can, of course, change any time.
+Thank you for subscribing!
+Download PDF
+Understand underlying health 
+statuses to mitigate risks and individualize therapy
+We enrich your users’ health data with scientifically-proven analytics that unlock a better understanding of your users’ individual health. Thryve’s interpretation layer uses machine learning to identify characteristic behavior changes and to calculate risks for specific diseases – enabling you to provide better, more individualized therapies, improve the health of your users and to build cutting-edge digital health technology.
+Ready to benefit from continuous health data?
+Book A Demo
+Integrate our GDPR-compliant data stream into your existing workflows and apps
+Thryve’s SDK is designed for developers and supports all native and cross-plattform stacks – all with privacy at heart and proven security. Connecting devices just takes a few clicks and clean and structured health data flows directly into your existing systems.
+Proven Security
+Our partners
+Blog
+Featured Post
+                    How Thryve built a data donation tool to fight COVID-19 for the German government
+                  
+ 5 mins
+Read More ›
+                Eugene Borukhovich on the digital transformation of pharma and why startups need to find their champion
+              
+ 8 mins
+Read More ›
+                An overview of wearable sensors and their implications on health monitoring
+              
+ 7 mins
+Read More ›
+                Fredrik Debong on de-sucking healthcare experiences with data
+              
+ 8 mins
+Read More ›
+Read More Posts
+Sign up for our Newsletter 
+to stay up to date
+Receive regular updates in your inbox about Thryve and the services we offer.
+ 
+Company
+About
+Blog
+Careers
+Privacy Policy
+Terms and Conditions
+Imprint
+Indications
+Oncology
+Diabetes
+Cardiovascular disease
+Solutions
+For Insurer
+For Remote Care
+For Digital Health
+For Clinical Trials
+Data sources
+Apple HealthKit Integration
+Samsung Health Integration
+Withings Integration
+API documentation
+Contact
+Book A Demo
+Contact
+©2021 Thryve, All Rights Reserved | Built by Battalion

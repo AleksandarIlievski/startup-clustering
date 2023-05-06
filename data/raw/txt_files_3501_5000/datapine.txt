@@ -1,0 +1,244 @@
+Modern Business Intelligence & Dashboard Platform | datapine
+For full functionality of this site it is necessary to enable JavaScript.
+        Here are the 
+            instructions how to enable JavaScript in your web browser
+Product
+                                        
+overview
+data connectors
+self-service analytics
+dashboards
+data alerts
+share & report
+embedded analytics
+demo dashboards
+datapine difference
+Solutions
+By Industry
+Construction
+Energy
+Financial Services
+Healthcare
+Insurance
+Logistics
+Manufacturing
+Market research
+Media
+Retail
+By Function
+Business
+                                                    Intelligence
+Executive
+Finance
+HR
+IT
+Marketing
+Procurement
+Sales
+Service &
+                                                    Support
+Services
+POC
+BI Consulting
+ETL as a service
+Learn
+DOCUMENTATION
+videos & tutorials
+KPI examples
+data warehouse
+data security
+Articles & Guides
+BLOG
+Company
+                                        
+ABOUT US
+Career
+News
+PARTNER PROGRAM
+Become a partner
+Customers
+CONTACT us
+en
+de
+login
+ARE YOU READY TO UNLOCK THE FULL POTENTIAL OF YOUR DATA?
+ARE YOU READY TO UNLOCK THE FULL POTENTIAL OF YOUR DATA?
+Interactive BI dashboards give you and your teams secure access to all relevant company data and enable you to make data-driven decisions at any place, and any time.
+Interactive BI dashboards give your teams secure access to all relevant company data in one central place.
+Start my free trial
+SHOW USE CASES
+              BENEFIT FROM A MODERN BUSINESS INTELLIGENCE PLATFORM
+                
+EMPOWER EVERYONE 
+Enable everyone within the company to generate actionable insights with self-service analytics.
+TRUST YOUR DATA
+Take advantage of a secure, single source of truth of all your data sources in one central place.
+ESTABLISH DATA CULTURE
+BUILD DATA CULTURE
+Develop data-driven workflows and decision making to increase organizational efficiency.
+Develop data-driven workflows and decision making to increase overall efficiency.
+GO FASTER
+Reduce manual tasks to a minimum and get faster & accurate answers to urgent business questions.
+BE FLEXIBLE
+Enjoy a scalable SaaS BI solution with reliable access from anywhere, every time, from any device.
+Moritz Klussmann
+Founder Customer Alliance
+“Thanks to datapine we are able to review all customer data in one central place and react on trends as well as opportunities much faster.”
+ 
+Create an account
+ 
+Connect your data
+ 
+Become a data wizard
+ Business Email 
+Email address required
+Password
+Password required
+START MY FREE TRIAL
+THE RIGHT BUSINESS DASHBOARDS FOR EVERY USE CASE
+Dashboards by Function
+Dashboards by Industry
+Dashboards by Platform
+Management
+View 
+Finance
+View 
+Sales
+View 
+Marketing
+View 
+Human Resources
+View 
+Service & Support
+View 
+Procurement
+View 
+IT
+View 
+Healthcare
+View 
+Logistics
+View 
+Manufacturing
+View 
+Retail
+View 
+Digital Media
+View 
+FMCG
+View 
+Energy
+View 
+Market Research
+View 
+Facebook
+View 
+LinkedIn
+View 
+Twitter
+View 
+YouTube
+View 
+Google Analytics
+View 
+Google AdWords
+View 
+Salesforce
+View 
+Zendesk
+View 
+take advantage of interactive business dashboards
+Start my free trial 
+              MASTER YOUR ANALYTICS JOURNEY IN ONE SINGLE BI PLATFORM
+            
+                        CONNECT
+                        
+Fast & easy data connectors
+                        EXPLORE
+                        
+True self-service analytics features
+Self-service analytics tools
+                        VISUALIZE
+                        
+Powerful, interactive BI dashboards
+Interactive BI dashboards
+                        SHARE
+                        
+Multiple, effective reporting options
+Effective KPI reporting
+                        PREDICT
+                        
+Modern predictive analytics tools
+Predictive analytics tools
+                        MONITOR
+                        
+Intelligent, AI-based data alerts
+Intelligent data alerts
+take a closer look at all  our powerful business intelligence features
+See Features overview
+WANT TO SEE OUR BI & DASHBOARD PLATFORM IN ACTION?
+Do you still have doubts about whether datapine is the right software for you? Check out our video tutorials in which we demonstrate the full potential of modern business intelligence & dashboarding. Discover how to connect, explore, analyze, present, monitor and share your data like never before!
+                    
+explore video tutorials
+TRUSTED BY
+Derrick Miller | Fog Creek "Importing CRM data dump allowed us to quickly visualize and segment our data for analysis."
+Marvin Hoogeboom | VMS Insights "datapine's solution did not disappoint us: we had some serious challenges with very complex data sets and their team really helped us out."
+Eeva Vuiorinen | PBI Research"datapine allows access to visualized real­time data to us and our customers – hence we can spend our time implementing the results."
+Sebastian Diemer | Kreditech"We were amazed how easy it was to use datapine and get the first KPIs within a couple of minutes."
+Morten Laerkholm | Transporteca "datapine makes it easy and fun to do reporting, presenting complex data into beautiful dashboards."
+Martin Älenmark | Optiqo"We use a white labeled version of datapine to better visualize the data that our hygiene management system captures.  This data enables our clients to ensure their facilities are always clean and hygienic."
+Kai Hansen | Lieferando"With its unique combination of scalability, ease-of-use and functionality, datapine changed the way we analyze our data."
+Moritz Klussmann | Customer Alliance"Thanks to datapine we are able to review all relevant customer data and react on trends and opportunities much faster."
+Mathie Vanden Bulcke | JSR Micro"The combination of a supportive team and a powerful tool make Datapine an amazing solution to monitor the KPIs in our company."
+Unlock the full potential of your data with a few clicks
+Try our easy-to-use yet powerful business intelligence platform 14 days for free!
+Business Email
+Email address required
+Password
+Password required
+START MY FREE TRIAL
+International news & blog
+6 April 2023
+19 Data Analysis Questions Examples For Efficient Analytics
+Asking the right data analysis questions is crucial to get accurate, actionable insights from your business analytics efforts. See examples here!
+⇒ See Full Article
+5 April 2023
+25 Dashboard Design Best Practices To Enhance Your Data Analysis
+Learn how to design a dashboard with these top 25 dashboard design principles, best practices & guidelines for good dashboard development!
+⇒ See Full Article
+4 April 2023
+30 Key Data Analysts Interview Questions & Answers
+Need some data analyst interview questions for preparing your interview? Get a list of 30 questions & answers that are part in most interviews.
+⇒ See Full Article
+BUSINESS INTELLIGENCE
+SaaS Business Intelligence
+MySQL Business Intelligence
+Self-Service BI
+BI Tools
+Online BI
+DATA VISUALIZATION
+Online Data Visualization Tools
+Dashboard Designer
+Online Data Analysis Tools
+Visual Analytics Software
+Sales Analysis Software
+DASHBOARDS AND REPORTING
+Dashboard Creator
+Dashboard Software
+Dashboard Builder
+KPI Dashboard Software
+Dashboard Reporting
+SQL QUERIES
+Online SQL Report Builder
+Online SQL Query Builder
+MySQL Query Builder
+MySQL Reporting Tools
+MySQL Report Builder
+Privacy Policy
+Terms & Conditions
+Impressum
++49 30 6920 9427
+contact@datapine.com
+Friedelstraße 2712047 Berlin, Germany
+Managing Partners: Martin Blumenau, Ruth Pauline Wachter | Trade Register: Berlin-Charlottenburg HRB
+                        144962 B | VAT ID: DE 28 552 2148

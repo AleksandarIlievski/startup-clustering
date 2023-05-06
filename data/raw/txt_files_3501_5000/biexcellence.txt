@@ -1,0 +1,91 @@
+Home - bi excellence software GmbH
+Products
+majaAI
+biExport
+biAnalytics
+open bi CMS
+open bi Technology
+Company
+About us
+Chronics
+Career
+Contact
+Blog
+Login
+"Excellence is the gradual result of always striving to do better."
+Pat Riley
+Scroll down
+We are excellence
+For us, excellence is not a promise of performance - it is the basis of our work. For more than 10 years we have been developing software solutions in the field of Business Intelligence. At our company headquarters in Dossenheim, Germany, our team of about 15 employees focuses on user-friendly programs.
+The foundation is our own open bi repository framework, which we developed ourselves. The areas SAP export, Business Intelligence, Business Integration, portal solutions, as well as artificial intelligence find new, excellent products and solutions through our hands.
+The result: standard software that is easy to use and can be applied regardless of the size of the company. Ask any of our numerous customers in the retail, aviation, construction, pharmaceutical and banking industries - together we are constantly redefining what it means to balance business intelligence and excellence.
+What we offer you
+Gain more time for the essential with our self-service analytics solution biAnalytics! Available as web dashboarding tool, as well as Add-On for Microsoft Office.
+More Info
+Create export documents from your SAP BusinessObjects Design Studio dashboards. We export to PDF, PowerPoint, Word and Excel - flexible and customizable!
+More Info
+With our self-service AI platform, you can build up your own artificial intelligence independently and without any programming knowledge. majaAI serves various channels and is always there for you and your customers, anytime and anywhere!
+More Info
+Whether it's about an extranet, portal solution, campaign pages, exporting or analytics. The open bi repository framework is the right solution for your business intelligence scenario!
+More Info
+“With the export functionality we can bring fantastic solutions to our Design Studio users. Great tool, fantastic performance and powerful design options.„
+Mario Rüger, Senior Architect Business Intelligence, TÜV Süd
+		Are you interested in one of our products?
+	
+Get in contact
+Latest Blog Entries
+In our bi blog we are talking about our newest functions and products and also providing helpful trainings and tutorials for you. Make sure to visit our website every once in a while to read the newest content.
+12.01.2023
+Interview mit TÜV Süd
+Daniel Rufenach In-House-Consultant TÜV Süd
+Daniel Rufenach ist Teil des Corporate Business Intelligence (CBI) Teams im Konzern Controlling der TÜV SÜD AG am Standort München. Das Team besteht aus sechs Mitarbeitenden, drei von Ihnen konzentrieren s [...]
+Read More
+23.11.2022
+Thank you ASMPT!
+A company is only as good as the quality of its customers. In this sense we are glad to introduce ASMPT SMT Solutions as a customer for our biExport for Lumira Designer.
+ASMPT is the world's largest supplier of best-in-class equipment. They support e [...]
+Read More
+16.09.2022
+Haushaltspläne
+Haushaltspläne – ein Überblick
+Die bi excellence GmbH ist schon seit langem erfolgreicher Anbieter von Export Lösungen. Jetzt erweitern wir unser Anwendungsgebiet und bieten Lösungen zur Haushaltsplan Erstellung an.
+Jeder Privathaushalt, der eine grö [...]
+Read More
+Our products
+majaAI
+biAnalytics
+biExport für SAP Analytics Cloud
+biExport for SAP Lumira
+Contact
+bi excellence software GmbH
+Beethovenstraße 24
+D-69221 Dossenheim
+Phone: +49 6221 868 06 - 0
+Mail: office@biexcellence.com
+Links
+Legal Disclosure
+Data Privacy Statement
+Sitemap
+Copyright © 2020. All Rights Reserved
+Cookie settings
+We use cookies to provide the best possible service to you. You are welcome to accept or change the current settings.
+Analytical Cookies
+These Cookies are providing anonymous usage statistics to us to improve our performance.
+Absolutely necessary cookies
+These cookies are absolutely necessary for using the website.
+More information
+Analytical Cookies
+Google Analytics (_ga, _gid, _gat)
+These cookies register usage data. You can get further information at https://www.google.com/intl/de_de/analytics/
+Duration of storage2 years
+Origingoogle.com
+Necessary cookies
+Session-handle
+Cookie for session and load balancer.
+Duration of storage30 minutes
+Originlocation.hostname
+cc, cc-analytics
+Storage of the cookie settings.
+Duration of storage1 year
+Originlocation.hostname
+Accept selection

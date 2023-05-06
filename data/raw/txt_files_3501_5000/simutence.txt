@@ -1,0 +1,172 @@
+SIMUTENCE – Digital Composite Solutions
+ 
+ 
+Virtual Process Chain
+Composite forming simulation
+Compression molding simulation
+Composite warpage simulation
+Structural simulation
+Services
+Products
+SimuDrape
+SimuChain
+SimuWarp
+SimuFill
+Company
+The Team
+Open Positions
+News
+Contact
+Virtual Process Chain
+Composite forming simulation
+Compression molding simulation
+Composite warpage simulation
+Structural simulation
+Services
+Products
+SimuDrape
+SimuChain
+SimuWarp
+SimuFill
+Company
+The Team
+Open Positions
+News
+Contact
+Search site...
+						  To view this video please enable JavaScript, and consider upgrading to a web browser that
+						  supports HTML5 video
+Digital Product Development
+Virtual Process Chains
+Everything Starts Virtually
+Case Studies
+Tailor-made Opportunities for Collaboration
+Services
+Stay Up To Date
+News
+Get in touch with our team!
+Contact
+Enable smart engineering with composites
+Simutence is your highly specialized and independent partner for the virtual design of manufacturing processes and components with plastics, fiber-reinforced composites, and hybrids. Whether OEM, component manufacturer, process equipment provider, material supplier or engineering service provider – we are here to make your product and manufacturing process development cycles most efficient using advanced engineering and simulation methods.
+Generate a digital twin of
+manufacturing processes and products
+Leverage from advanced engineering and simulation methods
+Enable material and manufacturing efficiency
+Benefit from our international
+network and partners
+Our approach to the efficient development of manufacturing processes and components is the seamless and close connection of product design, manufacturing validation, and engineering through our virtual process chain. Based on this, virtual manufacturing validation is enabled, which can significantly reduce real-world efforts on demonstrator manufacturing and manufacturing piloting.
+Ihr Browser unterstützt keine Videos, aber Sie können die Datei downloaden und mit einem Videoplayer Ihrer Wahl anschauen.
+Page Content
+ 
+Virtual Process Chain
+Ways of Collaboration
+Processing Technologies
+Selected Customers and Partners
+Our Approach
+Selected customers
+Virtual Process Chain
+»Seamlessly connect product design, manufacturing validation, and engineering using Simutence approaches to generate a virtual process chain.«
+Composite forming
+Key features
+Material card creation
+Validation of manufacturability
+Optimization of gripper, clamping, and sequential forming setups
+Support of mold design
+Prediction of local fiber orientation and fiber volume content
+Thermomechanical-thermokinetical analysis for thermoforming
+Supported technologies: Thermoforming, textile draping, membrane forming, and hot forming
+Learn more
+Compression molding
+Key features
+Material card creation
+Validation of manufacturability
+Prediction of filling behavior, required press forces, and suitable processing temperatures
+Prediction of the pre-forming of complex initial charge configurations
+Supported material classes: SMC, LFT, and GMT
+Learn more
+Composite warpage
+Key features
+Validation of dimensional stability
+Prediction of process-induced deformations (warpage, spring-in)
+Prediction of solidification and residual stresses
+Prediction of crystallization (thermoplastics), and curing (thermosets)
+Initialization of local state variables predicted by forming and compression molding simulation (fiber orientation, temperature, degree of crystallinity or cure)
+Learn more
+Structural analysis (FEA)
+Key features
+Validation of load requirements
+Consideration of manufacturing effects (e.g. local fiber orientation)
+Prediction of component stiffness and failure
+Prediction of local stresses after assembly of the actual geometry predicted by warpage simulation
+Learn more
+Ways of collaboration
+»We offer tailored collaboration approaches through training and consulting, independent engineering services, as well as advanced simulation approaches based on add-ons for established simulation software.«
+Engineering services
+Part- and process design with fiber-reinforced composites and hybrids
+Material card creation under consideration of processing conditions
+Validation of manufacturability and structural performance early on
+Training & consulting
+Seminars and trainings on virtual design with composites and hybrids
+Support for product development and manufacturing
+General support on advanced engineering and simulation approaches
+Software Add-ons
+Self-developed simulation approaches where state-of-the-art approaches are not sufficient
+Add-ons for established commercial software such as Abaqus and Moldflow
+Customized solutions and tools for your innovative processes
+Learn more
+Processing technologies
+»We combine state-of-the-art and self-developed approaches for simulation and engineering to support you with product and process design for process technologies relevant to large- and medium-scale production.«
+Seamless data stream
+Our functional and modular virtual process chain is based on data transfer between the different simulation steps through mapping and homogenization approaches using our software add-on SimuChain.
+Based on this, state variables such as fiber orientation or fiber volume content predicted by process simulation are retained and transferred to e.g. warpage or structural simulations.
+   Selected customers
+Audi
+Dieffenbacher
+NLR
+Teijin
+Volkswagen
+SEW
+											Toyota									
+Faurecia
+Autoneum
+Frimo
+   Partners
+KIT-FAST
+Lightweight Design Division
+Fraunhofer ICT
+Polymere Engineering
+HRC
+Blackwave
+HK-Präzisionstechnik
+Helmholz
+											Aerlyte									
+Our approach
+The idea of Simutence is to use existing simulation approaches where the state-of-the-art is sufficient and to use and develop simulation approaches, where the state-of-the-art is not sufficient.
+We provide our customers with access to all of our simulation approaches through engineering services. Beyond that, we successively make these approaches available to our customers, as soon as a high-quality user experience is guaranteed.
+What we strive for
+As a spin-off company of the Karlsruhe Institute of Technology (KIT) in Germany, we support and supply know-how and methods based on the latest state-of-the-art.
+Our utmost interest is to enable you to gain maximum use from our know-how and collaboration with Simutence. Therefore, our services will be tailor-made to your specific challenge!
+Any questions?
+Do not hesitate to get in contact with us. We are pleased if you leave us a message!
+SIMUTENCE
+Rintheimer Querallee 2
+76131 Karlsruhe, Germany
+info@simutence.de
+LinkedIn
+Privacy policy / Legal notice
+Virtual Process Chain
+Composite forming simulation
+Compression molding simulation
+Composite warpage simulation
+Structural simulation
+Services
+Products
+SimuDrape
+SimuChain
+SimuWarp
+SimuFill
+Company
+The Team
+Open Positions
+News
+Contact

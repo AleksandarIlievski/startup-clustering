@@ -1,0 +1,153 @@
+A single application for all your vision AI needs
+ 
+NEW
+                CloudFactory launches Accelerated Annotation after acquiring Hasty.ai                
+                    Learn more                    
+ 
+                Product              
+                      Features                                            
+                        learn more 
+                            Data Annotation                                                        
+                              Get 12x faster annotation with the help of AI                            
+                            Quality Control                                                        
+                              Become 90% more efficient with AI-assisted quality control                            
+                            Model Playground                                                        
+                              Create, compare, and deploy AI models faster than ever before                            
+                            Data Security                                                        
+                              HIPAA and ISO 27001-certified. Available on-premise                            
+                      Support                                          
+                            Book Demo                                                        
+                              Schedule a demo with one of our sales team                            
+                            Contact Sales                                                        
+                              Get in touch with us right now                            
+                            Product Overview                                                        
+                              Learn how our platform can service your end-to-end vision AI needs                            
+                Solutions              
+                      Case Studies                                            
+                        view all 
+                            Bayer Crop Sciences                                                      
+                            Diamond Manufacturer                                                      
+                            Metallurgy                                                      
+                            Healthcare                                                      
+                            Audere                                                      
+                            Solutions Overview                                                        
+                              Combining workforce and tooling into one solution. Get cost-effective AI without compromises.                            
+                Company              
+                            About Us                                                        
+                            Learn about the company                            
+                            Careers                                                        
+                            Check out current openings and join us                            
+                            Contact Sales                                                        
+                            Get in touch with us right now                            
+                Resources              
+                      Practical AI                                            
+                        view all 
+                            Articles                                                        
+                              Articles about practical computer vision                            
+                            Events                                                        
+                              Check out our applied AI #Mlirl events                            
+                      Documentation                                            
+                        view all 
+                            User Docs                                                        
+                              Everything you need to use Hasty                            
+                            MP Wiki                                                        
+                              A wiki of computer vision terms and concepts                            
+                            Resources Library                                                        
+                              All our practical AI and app documentation content                            
+Sign in
+Sign up
+Product
+Data Annotation
+Quality Control
+Model Playground
+Data Security
+Solutions
+Resources
+Documentation
+Company
+Careers
+Sign up
+Existing user? Sign in
+Vision AI done the right way
+Hasty’s data-centric ML platform allows companies with unique data to build and deploy vision AI applications faster and more reliably across any infrastructure – helping you bring value-added services to your product.
+Explore managed solutions
+Sign up for free
+Recognized as one of the most promising German ML startups
+Read all about it 
+Bayer CS is scaling their vision AI team from 5 to 60 people
+Read the case study 
+Get up and running within minutes with Hasty
+Book a free onboarding 
+Unified vision AI platform
+Hasty is an end-to-end AI platform that lets ML engineers and domain experts deliver computer vision models faster – reducing the time to market for transformative products and services. Our end-to-end solution has built-in feedback loops across the ML pipeline.
+Explore Hasty 
+You’re in good company 
+The Hasty difference We do the hard stuff, so you don’t have to. 
+Automate
+Automate 90% of the work needed to build and optimize your dataset for the most​ advanced use cases ​with our self learning assistants using AI to train AI        
+Accelerate
+Reduce your time to deployment by 40% with model insights from the beginning to enable agile workflows.        
+End-to-end
+Our wholly integrated solution allows you to focus on building the application rather then maintaining a “Frankensuite” of tools.        
+Secure
+Our secure platform has strong data protection right - providing a safe, complete technical solution for your competitive advantage.        
+"Hasty.ai helped us improve our ML workflow by 40%, which is fantastic. It reduced our overall investment by 90% to get high-quality annotations and an initial model."
+Dr. Alexander Roth
+Head of Engineering at Bayer Crop Sciences
+"Modern tools like Hasty are very accessible for everyone at Element Six to harness the power of AI with a relatively low investment"
+Tanmay Rajpathak
+Applications engineer at Element Six
+"Because of Hasty, PathSpot has been able to accelerate development of key features. Open communication and clear dialog with the team has allowed our engineers to focus. The rapid iteration and strong feedback loop mirrors our culture of a fast-moving technology company."
+Alex Barteau
+Senior Computer Engineer at PathSpot Technologies
+"Hasty has taken our data labeling to the edge. Both semantic and bounding box labeling has gone from weeks or months on our large data sets to days. For QA, I just reviewed 19,000 labels in 5 hours. WTF!"
+Shane Prukop
+CEO at TruPart Manufacturing
+"Before discovering Hasty, labeling images was labor intensive, time-consuming, and less accurate. Hasty’s approach of training the model while labeling with faster annotate-test cycles has saved Audere countless hours."
+Jenny Abrahamson
+Software Engineer at Audere
+Case studies 
+Bayer Crop Sciences builds a suite of precision farming applications to bring them closer to their customers
+Read case study 
+A world-leading diamond manufacturer uses Vision AI to capture in-house domain expertise in a scalable solution
+Read case study 
+Metallurgy company adds vision AI to their newest machine to ensure accurate results for their customers
+Read case study 
+Healthcare startup is reducing infections by ensuring cleanliness in surgeries
+Read case study 
+Audere is bringing medical testing to underserved communities in the field
+Read case study 
+We come from German manufacturing
+Before founding Hasty in 2019, we worked with many manufacturing companies on a range of vision AI applications. Our CTO came up with the idea of using AI to train AI while we were facing the challenges of applying ML in the real world. We have been in your position, and we catered to the most discerning customers: German manufacturers.
+Our origin 
+Are you ready for production-ready AI?
+% of vision AI teams are not because data is their bottleneck. We fix this.
+        Explore managed solutions      
+        Sign up for free      
+Humans helping machines see the world
+Product
+Data Annotation
+Quality Control
+Model Playground
+Data Security
+Accelerated Annotation
+Instance Segmentation
+Object Detection
+Semantic Segmentation
+Image Classification
+Resources
+Solutions
+Case Studies
+Resources
+Documentation
+Support
+Book Demo
+Contact Sales
+Company
+Careers
+Legal
+Terms
+Imprint
+Privacy Policy
+Cookie Policy
+© 2023 Hasty GmbH. All rights reserved.

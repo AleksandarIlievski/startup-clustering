@@ -1,0 +1,176 @@
+LabTwin | The Leading Voice Powered Digital Lab Assistant
+En
+/De
+      
+      
+      Log In
+    
+Search
+Product
+Solution
+Solution
+Solutions
+LabTwin for SME
+AI Lab
+Use-Cases
+Resources
+Resources
+Blog
+Content Library
+Company
+Company
+About
+Careers
+      
+      Schedule a Demo
+    
+En
+/De
+      
+      
+      Log In
+    
+Enhance lab digitization with AI and Voice
+LabTwin, the Leading Smart Lab Assistant
+Capture data in real time
+Save time and prevent mistakes
+Achieve a paperless lab
+                Watch a Live Demo
+              
+Time is money. Save both.
+            Learn More
+          
+0min
+Saved per FTE/week 
++0%
+Data captured
+0x
+ROI per FTE yearly
+What LabTwin does
+Good data, means reliable data. Capture, structure & sync data in real time.
+          Learn More
+        
+Capture data
+By voice, barcode scanning or Optical Character Recognition (OCR), LabTwin enables real-time hands-free data capture at the bench.
+Structure your data
+LabTwin automatically structures your data according to your templates, enrichs it with metadata, and provides a complete audit trail.
+Sync your data
+LabTwin sends your data to your lab informatics systems in the correct location and format.
+Access your data
+By verbal exchanges, navigate through your protocols, access safety data sheets or device manuals, or query your inventory.
+            Learn More
+          
+Security
+Rock solid data security
+Built to keep your information private, safe, and secure. We are certified with ISO 27001 and ISO 27017.
+  
+                
+                ISO Certified
+              
+  
+                
+                Encrypted
+              
+Designed for demanding lab SETTINGS
+LabTwin captures data when your hands are full.
+Voice is the only solution to enable real-time documentation for many use-cases (e.g. cell culture, in vivo experiments). For others, it is simply way more efficient (e.g. lab automation, training).
+              View use-cases→
+                Cell Culture
+              
+                Method Development
+              
+                Lab Automation
+              
+                Imaging
+              
+                Training and Upskilling
+              
+                Animal Testing
+              
+                Lab Automation
+              
+                Sample preparation
+              
+                QC/GMP Testing
+              
+               
+            50% less errors
+          
+               
+            14% faster experiments
+          
+Success stories
+“LabTwin is one of our human-machine interfaces giving hands-free access to our digitalized environment.”
+Covestro, world leading company in polymers development, rolled out LabTwin to improve the quality of data collected at the bench and increase R&D efficiency. 
+            View case study →
+Faq
+Frequently asked questions
+          View all FAQS→
+Is LabTwin an ELN?
+While LabTwin could be used as an ELN solution for real-time documentation, LabTwin has been built primarily to offer scientists an intuitive and easy way to interact with all their lab systems through our Open API. We have already proven integration with top ELNs used in the Pharma industry.
+Can LabTwin support accents or other languages?
+The base of our language algorithm is a Natural Language Processing (NLP) layer which gives LabTwin the flexibility necessary to understand different accents. In the LabTwin team, we have at least 22 different nationalities and everyone is testing our voice-user interface with their accent to ensure the highest accuracy. LabTwin is currently been used in both English and German but we can develop new language models on demand.
+How does LabTwin understand scientific jargon?
+Compared to traditional voice-controlled digital assistants (Alexa, Siri, ...), LabTwin’s NLP model is trained to understand scientific and lab technology terms and formats (such as units). It can be further trained on specific terminologies used by each client. Moreover, LabTwin’s AI voice assistant is built to support scientific workflows and provides the dedicated framework to capture and structure lab data as well as connect to lab hardware and software.
+How are you using client's data?
+Clients’ data are only used to train our language model for their own use of LabTwin.LabTwin achieved ISO/IEC 27001:2017 and ISO/IEC 27017:2015 certifications. These certifications recognize LabTwin’s compliance with international gold standards for information security.LabTwin’s model is trained every day from scratch using a combination of public scientific data and client’s proprietary data. Once a contract with a client is terminated, all proprietary data can be deleted from the system. For some clients, we are setting up a separate model to ensure extra data privacy.
+How do we get started with LabTwin?
+Schedule a 1:1 consultation with one of our lab digitalization experts who will help identify and tailor the right approach for your company. Book a meeting
+a Germany-based start-up on a mission
+To accelerate innovation by empowering the scientific minds.
+LabTwin is a Germany-based company led by an experienced, highly skilled management team and backed by Sartorius and BCG DV.
+              About us→
+2018
+Founded in 2018 and backed by Sartorius and BCG DV
+Berlin
+Headquartered inBerlin, Germany
+50+
+Agile team of 50 employees of 25 nationalities
+Learn more about the lab of the future
+Lab of the Future is happening. Expand your knowledge.
+Subscribe to our Newsletter
+                
+Case Study
+How a Swiss Chemical Company Streamlined Data Collection and Processing
+Discover how LabTwin supported the Swiss chemical company with their digitalization goals.
+                  View case study→
+Webinar
+Next-Gen Data Capture: Getting Fair Data Without Impairing Scientists’ Efficiency?
+Watch this recorded webinar to learn how LabTwin digital lab assistant supports FAIR data.
+                  Watch webinar→
+NEWS
+LabTwin & PerkinElmer Informatics Partner for Real-Time Data Capture.
+Learn more about our partnership and watch the video of the integration.
+                  Learn more→
+Save time and improve data
+See LabTwin in Action.
+Bring your lab digitalization to the next level with paperless real-time data collection, and make the time spent in the lab more efficient.
+Schedule a demo
+                
+About Us 
+About
+FAQs
+Careers
+Contact
+Product 
+Product
+Solutions
+Use-Cases
+Resources
+Partners
+Privacy & legal 
+ISO Certification
+Data Privacy
+End User Agreement
+Sub-Processor
+Cookie Preference
+Imprint
+      
+      Subscribe to our Newsletter
+    
+Follow us on Facebook
+Follow us on LinkedIn
+Follow us on Twitter
+Follow us on Instagram
+© 2023 LabTwin GmbH
+© 2023 LabTwin GmbH

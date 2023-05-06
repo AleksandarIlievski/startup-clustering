@@ -1,0 +1,317 @@
+Enginsight: Die Cybersecurity-Plattform für Ihre IT
+Zum Inhalt wechseln
+ 
+MENU						
+Schließen						
+ 
+Plattform
+Feature Übersicht
+Automatisierter Pentest
+IT-Inventarisierung
+Intrusion Detection and Prevention
+IT-Monitoring
+Schwachstellenmanagement
+Mikrosegmentierung
+Endpoint Detection / Antivirus
+Websecurity
+ 
+Risikoanalysen 
+ Automatisierter Pentest 
+							Hot						
+ Schwachstellenmanagement 
+ Websecurity 
+Cyberabwehr 
+ Intrusion Detection and Prevention 
+							Host based						
+ Endpoint Detection / Antivirus 
+ IT-Monitoring 
+ IT-Inventarisierung 
+ Mikrosegmentierung 
+ 
+ALLE FEATURES 
+ 
+TEST ACCOUNT 
+ 
+SECURITY AUDIT 
+Lösungen
+Security-Audit
+KRITIS
+Automotive
+Öffentliche Verwaltung
+ISMS / ISO 27001
+Wohnbau
+Unternehmen
+Über uns
+Beirat
+Karriere
+Kontakt
+Partner
+Partner werden
+Partnerübersicht
+Preise
+Enginsight Cloud
+Enginsight OnPremises
+Enginsight Small Business
+Support-Pakete
+Ressourcen
+Blog
+Presse
+Release Notes
+Glossar
+Webcasts
+ 
+Plattform
+Feature Übersicht
+Automatisierter Pentest
+IT-Inventarisierung
+Intrusion Detection and Prevention
+IT-Monitoring
+Schwachstellenmanagement
+Mikrosegmentierung
+Endpoint Detection / Antivirus
+Websecurity
+ 
+Risikoanalysen 
+ Automatisierter Pentest 
+							Hot						
+ Schwachstellenmanagement 
+ Websecurity 
+Cyberabwehr 
+ Intrusion Detection and Prevention 
+							Host based						
+ Endpoint Detection / Antivirus 
+ IT-Monitoring 
+ IT-Inventarisierung 
+ Mikrosegmentierung 
+ 
+ALLE FEATURES 
+ 
+TEST ACCOUNT 
+ 
+SECURITY AUDIT 
+Lösungen
+Security-Audit
+KRITIS
+Automotive
+Öffentliche Verwaltung
+ISMS / ISO 27001
+Wohnbau
+Unternehmen
+Über uns
+Beirat
+Karriere
+Kontakt
+Partner
+Partner werden
+Partnerübersicht
+Preise
+Enginsight Cloud
+Enginsight OnPremises
+Enginsight Small Business
+Support-Pakete
+Ressourcen
+Blog
+Presse
+Release Notes
+Glossar
+Webcasts
+ 
+ Suche
+ 
+ Close this search box.
+Jetzt testen ♥
+ 
+Jetzt testen ♥
+ 
+				Kontrolle & Sicherheit			
+All-in-One Cybersecurity Angriff & Verteidigung in einer Plattform
+ 
+Erkennen von Cyber-Gefahren
+ 
+Automatische Sicherheits-Checks
+ 
+Pentesting
+Enginsight bietet eine Vielzahl von Funktionen, darunter Schwachstellen-Scans, Netzwerk- und Anwendungssicherheitsanalysen, Risikobewertungen, Compliance-Checks, Datenanalyse und mehr. Die Plattform ist einfach zu bedienen und bietet Unternehmen eine benutzerfreundliche Oberfläche, die es ihnen ermöglicht, ihre Sicherheitsstrategien zu planen, zu implementieren und zu überwachen.Enginsight eignet sich für Unternehmen jeder Größe und Branche. 
+ 
+ Play Video about NGS-Fantasy
+Genutzt von Unternehmen, denen Ihre IT-Sicherheit am Herzen liegt 
+ 
+ 
+ 
+ 
+ 
+ 
+						Sofort einsatzbereit					
+						Ohne Konfiguration scannen Sie ganz automatisch Ihre Systeme und erkennen sofort den Sicherheits-Zustand Ihrer IT.					
+ 
+						Made in Germany					
+						Enginsight wurde zu 100% selbst entwickelt (Security by Design) und weist keine Abhängigkeiten zu Dritt-Tools auf.					
+ 
+						Zertifiziert					
+						Informations-Managementsystem nach DIN ISO/IEC 27001 und ISO 9001 zertifiziert vom TÜV Thüringen.					
+ 
+Der Enginsight-prozess 
+5 Schritte zu mehr IT-Sicherheit 
+Überwachung, Analyse und Optimierung der IT-Infrastruktur 
+Schritt 1 
+IT-Inventarisierung 
+Scannen Sie dauerhaft Ihre IT-Umgebung nach vorhandenen Geräten und schaffen Sie ein Live-Abbild Ihrer IT-Infrastruktur.Automatische Erkennung und unbegrenzte IP-Inventarisierung aller Netzwerkgeräte, sowie deren Klassifizierung. 
+ 
+Live Inventar
+ 
+Monitoring aller erkannten Geräte
+ 
+Erfüllung der IP-Inventarisierung nach ISO-27001
+ 
+Zeit für Ihre Inventarisierung: max. 10 Minuten
+ 
+Mehr zur IT-Inventarisierung
+ 
+ 
+Schritt 2 
+IT-Security Analyse von innen 
+Enginsight liefert eine umfassende Lösung zur Überwachung und Absicherung Ihrer Windows-Server, Linux-Server und Endgeräte, wie Windows-PC oder Linux-PC.In wenigen Minuten erhalten Sie ohne Konfiguration, vollständig automatisiert einen kompletten Security-Scan Ihrer gesamten IT. 
+ 
+100% validierte Erkennung von Sicherheitslücken (CVE-Scan)
+ 
+Best Practise Security-Konfigurationen erkennen und einspielen
+ 
+Live-Erkennung und Verhaltensanalyse von Netzwerk-Angriffen (Intrusion Detection System)
+ 
+Alarmierung bei unberechtigten Zugriffen
+ 
+Zeit bis zur ersten Security-Analyse: ca. 5 Minuten
+ 
+Mehr zu IT-Sicherheitsanalysen
+Schritt 3 
+IT-Security Analyse von außen 
+Webanwendungen, wie bspw. Webseiten, überwacht Enginsight hinsichtlich Verfügbarkeit und Sicherheit. Lassen Sie keine Schlupflöcher in Ihren Webanwendungen unbemerkt und schützen Sie sich, ihre Daten sowie die Besucher Ihrer Webseite vor Cyber-Kriminellen. 
+ 
+Erkennung von Sicherheitslücken in Ihrer Webanwendung und auf Ihrem Webserver
+ 
+Web-Monitoring / Port-Monitoring
+ 
+Handlungsempfehlungen zu sicherheitsrelevanten Konfigurationen
+ 
+Zertifikate-Management
+ 
+Zeit zur Analyse Ihrer Webseite: ca. 30 Sekunden
+ 
+WEBSEITE KOSTENLOS SCANNEN
+ 
+ 
+ 
+Schritt 4 
+Security-Prozesse automatisieren 
+Mit Enginsight können Sie auf Systemereignisse automatisch reagieren und Routineaufgaben autonom ausführen lassen.Nutzen Sie unsere vielfältigen Automatisierungsmöglichkeiten und geben so Ihrer IT-Abteilung wieder Luft zum Atmen. 
+ 
+Automatisierte Handlungen im Alarmfall
+ 
+Autofix von Sicherheits-Konfigurationen
+ 
+Workflows automatisieren
+ 
+Automatisches Patch-Management
+ 
+Zeitersparnis: 30 bis 50 % 
+ 
+Mehr zu Security-Automation
+Schritt 5 
+Automatischer Penetrationstest 
+Betrachten Sie Ihre Systeme durch die Brille eines Hackers. Mithilfe des automatisierten Penetrationstests auditieren Sie Ihre Systeme regelmäßig und erkennen mögliche Einfallstore für Hacker frühzeitig. 
+ 
+Durchführung spezifischer Angriffs-Szenarien z.B. Bruteforce-Attacken
+ 
+Automatischer Security-Audit für Server, Clients, Webseiten und ganze Netzwerksegmente
+ 
+Zusätzlicher Schwachstellen-Scan 
+ 
+Ausführliches Reporting 
+ 
+Zeit vom Aufsetzen bis Ergebnis: ca. 10 Minuten (abhängig von der Größe der zu scannenden IT-Umgebung)
+ 
+Mehr zu automatischen Pentests
+ 
+ 
+14 Tage kostenfrei testen
+ 
+Neugierig geworden? 
+Vereinbaren Sie noch heute einen Demo-Termin und wir zeigen Ihnen, wie schnell Sie die IT-Sicherheit Ihres Unternehmens in den Griff bekommen. 
+Demo vereinbaren
+Innerhalb von 30 Minuten erfahren Sie, wie Ihnen die Enginsight All-in-One Cybersecurity-Software dabei hilft, Ihre gesamte IT zu überwachen, Schwachstellen zu erkennen und Hackerangriffe zu simulieren. Dabei zeigen wir Ihnen, wie auch Sie innerhalb kürzester Zeit den Sicherheitszustand Ihrer IT verbessern können und was im Alltag wirklich wichtig ist, um Ihre IT-Mitarbeitenden zu entlasten und dennoch up to date zu sein.  
+Neuigkeiten 
+Hier finden Sie Aktuelles zu Enginsight und der Cybersecurity-Welt. Zum Enginsight-Blog . 
+				1. Mai 2023: Stichtag KRITIS			
+			01.05.2023		
+Jena, 1. Mai 2023 – Ab heute ist der Einsatz von Systemen zur Angriffserkennung für KRITIS-Betreibende verpflichtend. Anlässlich dessen setzt die Initiative „Privacy Provided“ das
+				Recap: Ganz viel Enginsight-DNA beim ersten Partnertag			
+			27.04.2023		
+Sind wir hier richtig? Holpriges Kopfsteinpflaster führt zu einer alten Industriehalle aus Backstein, in die sich Geschäftsleute selten verirren. Am 20. April waren sie jedoch
+				Hacks des Monats: 3CX, Outlook, Keepass, Exchange und Elementor			
+			26.04.2023		
+In unserer monatlichen Reihe Hacks des Monats stellen wir aktuelle Schwachstellen vor und geben Hinweise zum Beheben der Sicherheitslücken.
+ 
+ 
+Enginsight Produktvarianten 
+In der Cloud oder im eigenen Rechenzentrum, Enginsight ist in jedem Fall die richtige Lösung für Ihr Unternehmen. 
+Enginsight SaaSVerwalten Sie Ihre Daten bequem über unsere Enginsight SaaS Plattform in einem dedizierten Bereich. 
+Enginsight On-PremisesVolle Daten-Kontrolle! Betreiben Sie Ihre eigene Enginsight Instanz als On-Premise Lösung in Ihrem Rechenzentrum. 
+Enginsight OEM/WhitelabelIntegrieren Sie die Enginsight Funktionen in bestehende Lösungen oder schaffen Sie eigene Produkte. 
+Enginsight FAQ - Kurze FRAGEN, KURZE ANTWORTEN 
+Wie sicher ist enginsight?
+Enginsight wurde nach dem Prinzip „Security by Design“ entwickelt. Die IT-Architektur hinter der Enginsight Cybersecurity Software wurde mehrfach geprüft und bietet Ihnen als SaaS und On-Premises höchste Sicherheit. Genaue Details zur IT-Architektur der Plattform können Sie gerne bei uns erfragen.
+ Wie teste ich enginsight?
+Sie können die Plattform 14 Tage kostenlos nutzen oder einen direkten Demo-Termin mit uns vereinbaren. Hier erhalten Sie weitere Informationen.
+Wie schnell ist enginsight einsatzbereit?
+Die gesamte Plattform ist sowohl als SaaS und On-Premises Version innerhalb weniger Minuten einsatzbereit. Alle Analysen laufen automatisiert, wodurch Sie ohne Konfigurationsaufwand einen fundierten Security-Audit erhalten sowie eine stetige Live-Überwachung Ihrer gesamten IT.
+Was kostet Enginsight?
+Nach der kostenfreien Testphase kann Enginsight als Cloud-Lösung genutzt werden. Alle SaaS-Preise finden Sie hier. Für eine On-Premises Kalkulation kontaktieren Sie bitte unseren Vertrieb. Hier berechnen sich die Preise individuell anhand Ihrer IT-Größe.
+NEWSLETTER
+ 
+ 
+ 
+hello@enginsight.com 
+03641 / 271 87 39 
+Plattform 
+IT-Security
+IT-Monitoring
+IT-Management
+Automatischer Pentest
+direkt loslegen 
+Jetzt testen
+Dokumentation
+API
+Preise
+Unternehmen 
+Über uns
+Partner
+Karriere
+Kontakt
+Wissen 
+Blog
+Webcasts
+Presse
+Glossar
+gefördert durch 
+ 
+ 
+Geschäftsbedingungen
+Datenschutzerklärung
+Cookie Richtlinie
+Impressum
+ 
+ Menü
+Geschäftsbedingungen
+Datenschutzerklärung
+Cookie Richtlinie
+Impressum
+ 
+				© Enginsight GmbH 2023 All rights reserved					
+ 
+ 
+ 
+ 
+100% Eigenentwicklung, Made in Germany. 
+ 
+Deutsch
+English (Englisch)

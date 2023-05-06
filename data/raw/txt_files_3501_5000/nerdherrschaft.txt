@@ -1,0 +1,45 @@
+Nerdherrschaft: Custom Software and Hardware R&D
+NO BRAIN, NO GAIN.
+                        Home
+                    
+About us
+R&D ServicesITC Consulting5G ConsultingHardware    IoT Devices    PCB Design    RPi CM4 / Radxa CM3Software    Embedded    Delphi
+ReferencesJobs
+                    Contact Us
+                
+True nerds
+Nerdherrschaft is a German R&D company creating innovative Hardware and Software as turn-key solutions for our customers. We are also providing consulting services for the ITC sector.The German word "Nerdherrschaft" means "Reign of the Nerds", which gives an idea of the concept behind our company.
+About us Services
+Who we are
+We are a team of Nerds who enjoy creating new technology. Some of us locate themselves on the autistic spectrum. Some of us do like interacting with Humans, while others prefer to make love to computers only. We are different, but what unites us is our deep passion for research and development.
+About us
+What we do
+Nerdherrschaft offers you the entire development chain from the idea to the product ready for shipment.We will not just provide you with a single piece of the puzzle, but an overall picture that will shake up your competitors.
+Hardware Development
+We design custom PCBs, electronics and housings. In addition to the R&D, we do prototyping in-house, which reduces time to market.
+Learn more
+                        Internet of Things
+We develop complete IoT devices for you in the industrial and consumer sector, including M2M communication and cloud connectivity.
+Learn more
+PCB Design
+We develop custom multilayer printed circuit boards for you. We speak USB and PCI Express as fluently as LTE 4G/5G and WLAN.
+Learn more
+Software Development
+We offer software development for desktop applications under Windows, MacOS and Linux. Mobile apps and web applications are also available.
+Learn more
+                        Delphi / Object Pascal
+We love Object Pascal. We develop new applications in this language, and are happy to maintain your existing Delphi applications.
+Learn more
+Embedded Firmware
+For embedded systems we not only develop hardware, but also take care of firmware and drivers. We love hacking Linux kernels.
+Learn more
+Where we are
+We are located in Bingen am Rhein in Germany, a small city in the UNESCO world heritage side of the middle rhine valley. The city is close to Mainz, Wiesbaden and Frankfurt and the international Frankfurt am Main airport. It's just a lovely place, but well connected internationally.
+About us
+Office Address
+                
+                    Nerdherrschaft GmbHGaustr. 2455411 Bingen am RheinGermany
+Legal Stuff
+Amtsgericht Mainz HRB 43337
+CEO: Simon Kissel
+EU VAT ID: DE277182818Imprint / Privacy Policy

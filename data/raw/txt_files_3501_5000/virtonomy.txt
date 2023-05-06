@@ -1,0 +1,79 @@
+Virtonomy.io - Data driven clinical trials on virtual patients
+		Skip to content
+ 
+Home
+Product
+Company
+Articles 
+Contact usContact us 
+Home
+Company
+Product
+Articles
+Contact Virtonomy 
+ 
+ 
+Main Menu
+ 
+Home
+Company
+Product
+Articles
+Contact Virtonomy 
+Accelerating medical device development and clinical trials with digital patient twins
+Virtonomy introduces v-Patients, enabling medical device developers to perform development and testing in a virtual environment, thereby accelerating development, reducing risks, expenses, and regulatory burden. Our end-to-end digital twin and simulation solution is based on an ever-expanding database of real clinical data to reflect anatomical variability, demographic diversity and pathological conditions.
+SEE OUR PRODUCT
+The medical device development industry is confronted by rapidly increasing complexity impacting risk, cost, and time-to-market. Digital solutions are the only way to face these challenges.
+ Reduce risks, time and cost
+by performing data-driven device development & virtual clinical trials using statistical analysis, simulations & optimization
+ Master new regulatory & ethical demands
+by performing data-driven device development & virtual clinical trials using statistical analysis, simulations & optimization
+ Safe animal & clinical trials
+by accessing Digital Twins based on clinical data of thousands of humans and animals
+Use virtual patients as digital evidence for submission to regulatory bodies
+Regulatory viewpoint 
+The FDA and European Commission show strong support for virtual patients and simulation.
+Useful links:
+FDA’s view on virtual patients
+EU Commission’s proposal
+FDA’s Office of Science and Engineering Laboratories (OSEL) has committed significant resources for transforming computational modeling from a valuable scientific tool to a valuable regulatory tool because of its potential for significant cost-savings in evaluating medical devices, simulating performance under scenarios that may not be possible with human use or that could more effectively be evaluated with simulation.
+Our end-to-end digital twin solution
+Virtonomy’s virtual trial platform supports the full product life cycle of medical device development, from concept phase to regulatory reporting and clinical practice
+Virtual Patients
+Create and analyze virtual patient cohorts based on the clinical data input representing anatomical variation, demographic diversity, and various pathological conditions.
+Statistical  Analysis
+Fully automatic statistical population analysis based on the virtual cohort to evaluate the proper target sub -population group, outliers, worst-cases, eligibility criteria for a clinical trial and more.
+Simulation
+Simulation with minimal input from the user based on the input of the implant design and material data; perform virtual implantations, device-tissue-blood evaluation, and design optimization.
+Regulatory Reporting
+Based on the anatomy, statistical, and simulation results, regulatory compliant digital evidence can be created to replace in vitro and in vivo evidence where possible.
+LEARN MORE
+The new revolutionary way of developing your medical device
+Validate your device design at every step of the product life cycle with the help of virtual patients. Significantly reduce the risk for design changes in  a late stage where costs are tremendously higher.
+Benefits of using v-Patients
+reduce costs and time by up to 50%
+reduce animal trials by up to 60%
+increase evaluation confidence
+ensure product safety prior to clinical trials
+close the inequality gap of underrepresented populations
+Understanding patient anatomies and optimizing anatomical fit directly impacts the fate of development projects. Virtonomy’s combined expertise in specific pathologies, device/patient interactions and state of the art therapy options is tremendously valuable for anyone looking to create or optimize cardiovascular technologies.
+Dr. Maximilian Kütting, Director R&D New Valve Technology
+How can you shorten your time-to market?
+Talk to our experts to find out how you can utilize digital twins for your specific medical device.
+CONTACT US FOR FREE CONSULTATION
+Our supporters and partners
+ 
+Our address:
+Virtonomy GmbHPaul-Heyse-Straße 680336 Munich, Germany
+LinkedIn
+ 
+Home
+Product
+Company
+Articles
+CONTACT US
+ 
+Legal Disclosure
+Privacy Policy
+ 
+ Scroll to Top

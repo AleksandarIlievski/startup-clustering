@@ -1,0 +1,256 @@
+Time tracking for Microsoft 365 - timeghost
+ 
+ 
+ 
+ 
+ 
+Solutions
+Agencies
+Consultants
+IT companies
+Architects
+Pricing
+Features
+Timer
+Feed
+Dashboard
+Profitability
+Live Demo
+Resources
+Roadmap Q2 2023
+Blog
+Video Tutorials
+Support
+Partner Program
+English
+Deutsch
+Español
+Français
+Português
+Dansk
+ 
+English
+German
+Spanish
+French
+Portuguese (Brazil)
+Danish
+ 
+Login
+timeghost - Time tracking 
+Time tracking for Microsoft 365 
+ Use the benefits of Microsoft 365 and Teams to automate your time tracking 
+Login with Microsoft 365
+ 
+ 
+No extra registration - Use your Microsoft 365 login
+ 
+Free 14-day trial period
+ 
+Reduce time tracking hassle by 75%
+ 
+Designed for Microsoft 365
+ 
++ 1.000.000 tracked times in timeghost
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Track your times 
+Hassle-free overview of your work day 
+ 
+Track your projects 
+Monitor budgets, hours and activities in real time. 
+ 
+Track your teams 
+Real-time team updates keep you in the know 
+Time tracking benefits with timeghost 
+How can tracking your times with timeghost lead to your business success? 
+Your company will immediately see an increase in: 
+ 
+Operational efficiency
+ 
+Transparency in billing and work processes
+ 
+Team productivity
+ 
+Resource demand data
+ 
+Budget allocation information
+ 
+Start your 14-days trial phase or book a Live Demo... 
+Start Trial now
+Book your live demo
+ 
+timeghost and Microsoft 365 
+It's about time! 
+Forget the hassle of setting timers, taking notes and filling in Excel spreadsheet – let timeghost make automatic time entries for your Microsoft 365 work activities. You choose how detailed the entries are; from working in Documents, writing emails, or time spent in Microsoft teams meetings. 
+ 
+Overview of the working hours of each team member
+ 
+Intuitively tracking your times 
+ 
+Perfect integration to Microsoft 365
+ 
+Customizable Reports
+ 
+Timeghost dashboard puts you in the driver’s seat
+Start Trial now
+timeghost and Microsoft 
+A perfect symbiosis 
+It is with pride that we work hard to make timeghost, in partnership with Microsoft, one of the most relevant and practical apps offered to Microsoft and Office 365 users. 
+ 
+ 
+Microsoft Graph API 
+Integrate all your favorite Microsoft 365 apps directly to timeghost. 
+ 
+Microsoft Teams App 
+Use timeghost directly within Microsoft teams and synchronize your teams for easy hands-free time entries. 
+ 
+Microsoft Power Automate Connector 
+We developed a dedicated Microsoft Power Automate Connector for timeghost in order to allow our users to individualize and automate their workflows. 
+ 
+Microsoft Transactions (Fulfillment API) 
+Exclusive and direct payment method for Microsoft 365 users. 
+What our users have to say about timeghost... 
+ 
+Anja Felden, SEO Expert at MV Onliners Read More 
+What excites me about timeghost is the ease of use, the team in the background, especially the support and it's just fun to measure times with the tool! 
+Oliver Vorwick, CEO at Neam Read More 
+timeghost saves my time by integrating several automated processes, which makes it very easy to use. Especially that Teams calls can be automatically transferred to timeghost is a great feature for us. 
+ Previous
+ Next
+ 
++
+0
+times tracked with timeghost 
+You can find more information about how to use timeghost and Teams in the videos below 
+ 
+ 
+ Play Video
+ 
+ Play Video
+List of Features in timeghost 
+Bring time tracking to the next level 
+Time Tracking 
+ 
+Calendar View in the Timer
+ 
+AI-assistant for comfortable time tracking
+ 
+Stop watch mode for automatic time tracking
+ 
+Web, Desktop and Microsoft Teams app
+Team Management 
+ 
+Single Sign-On (SSO) with Microsoft 365
+ 
+Overview of team activity
+ 
+User groups (synchronized with Microsoft Teams)
+ 
+Permissions and Roles 
+ 
+Hourly rates and labor costs
+Project Management 
+ 
+Unlimited projects and clients
+ 
+Tasks for each project
+ 
+Project time budgets
+ 
+Alerts for project time budgets
+Reporting 
+ 
+Detailed reports
+ 
+CSV exports
+ 
+XLS export
+ 
+Billable rates
+ 
+Time rounding for reports
+ 
+Time entry audits
+Integrations 
+ 
+REST API
+ 
+Zapier Connector
+ 
+Microsoft Power Automate Connector
+Microsoft 365 Apps 
+ 
+Microsoft Teams
+ 
+Microsoft Planner
+ 
+Outlook Mails
+ 
+Outlook Calendar
+ 
+Outlook Tasks
+ 
+Azure DevOps
+ 
+OneDrive 
+ 
+SharePoint Files
+ 
+PowerPoint
+ 
+Excel
+ 
+Word
+ 
+OneNote
+Are you ready to make the most of your time with timeghost? 
+Sign up with your Microsoft 365 account! 
+ 
+Start trial
+You can just start with a free, 14-day trial of timeghost — there is no credit card required. 
+Not ready yet? Book a Live Demo!  
+Teams of 5 can take a custom tour to see how timeghost fits into their company’s workflow. Demos usually last 30 to 45 minutes. 
+Book your live demo
+ 
+ 
+ 
+ 
+ 
+ 
+Terms and Conditions
+Imprint
+Privacy Policy
+API Documentation
+XWe use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent. Read MoreReject AllAcceptCookie SettingsManage consent
+Close
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+ 
+Necessary 
+ Necessary 
+Always Enabled 
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+Functional 
+functional
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Performance 
+performance
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Analytics 
+analytics
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Advertisement 
+advertisement
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+Others 
+others
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+Save & Accept

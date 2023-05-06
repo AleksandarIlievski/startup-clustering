@@ -1,0 +1,20 @@
+SEMPRIA: Suchmaschinen, Sprachtechnologie, kognitive Site-Search
+⌕ SuchenFür EiligeInfocenterStartseiteHome page (English)Vergleich (Produktmerkmale)Bedeutungsorientierte SucheMeaning search (English)EinsatzgebieteApplication for CMS (English)Themen-SeitenBlogDienstleistungenSemantische AnnotatorenUnternehmenPresse / NewsletterReferenzenKontaktSEMPRIA-Search: eine kognitive Suchmaschine, mit der Sie vollständiger, genauer und komfortabler finden - durch automatisches Verstehen von Sprache und FachsprachenBei den stetig wachsenden Textmengen im Intranet und Internet tritt ein
+grundliegendes Problem der herkömmlichen Suchmaschinen immer deutlicher hervor.
+Die traditionelle Suchmaschine versteht weder die Sucheingabe
+noch die Daten, die von ihr durchsucht werden, auf einer inhaltlichen
+Ebene. Lediglich gleichlautende oder sehr ähnliche Formulierungen
+können in den Daten wiedergefunden werden. Dadurch werden Dokumente, die
+inhaltlich perfekt auf die Suchanfrage passen, jedoch auf der Ebene der
+Formulierung von der Suchanfrage abweichen, übersehen.
+Es gibt dafür wirklich Millionen von Beispielen, hier eines mit Erläuterungen.Die Antwort auf dieses Problem ist die kognitive Suchmaschine SEMPRIA-Search aus Deutschland.
+Sie ist eine prinzipielle Weiterentwicklung der semantischen Suche.
+Durch den Einsatz von moderner Sprachtechnologie und KI können Suchanfrage
+und Dokumente auf der inhaltlichen Ebene abgeglichen werden.
+Die genaue Formulierung ist dabei nahezu irrelevant.
+SEMPRIA-Search kann abweichendem Wortlaut mit Synonym-Wissen,
+unterschiedlichen Formulierungen mit Paraphrasierungen
+und variierender Terminologie mit Fachsprachen-Wissen sowie Hierarchie-Wissen begegnen.
+Im Gegensatz zu den meisten Systemen kann SEMPRIA-Search jeden
+Treffer erklären und verwendete Folgerungsschritte belegen.
+So findet SEMPRIA-Search die wirklich gesuchten Dokumente vollständiger, präziser und für den Menschen perfekt aufbereitet.© 2009-2023 SEMPRIA GmbH, Datenschutz, Impressum ®: SEMPRIA ist eine eingetragene Wortmarke.

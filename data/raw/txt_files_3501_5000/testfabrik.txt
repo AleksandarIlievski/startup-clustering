@@ -1,0 +1,136 @@
+Testfabrik AG
+×
+ webmate 
+Übersicht
+Mobile Testing Infrastruktur
+Desktop Testing Infrastruktur
+ Solutions 
+Branchen
+Automotive
+E-Commerce
+Finance & Insurance
+Preise
+ Dienstleistungen 
+Testfabrik Akademie
+Testfabrik Consulting
+Testfabrik Manufaktur
+ Ressourcen 
+Unternehmen
+Karriere
+Blog
+Events
+Slides
+webmate Docs
+Demotermin
+  
+Home
+webmate 
+Übersicht
+Mobile Testing Infrastruktur
+Desktop Testing Infrastruktur
+Solutions 
+Automotive 
+Finance & Insurance 
+ E-Commerce 
+Preise
+                        Dienstleistungen 
+Testfabrik Akademie 
+Testfabrik Consulting 
+Testfabrik Manufaktur 
+Ressourcen 
+Unternehmen
+Karriere
+Blog
+Events
+Slides
+webmate Docs
+Demotermin
+Enterprise
+Testinfrastruktur und -automatisierung
+Referenzkunden
+Zuverlässige Testinfrastruktur aus der Cloud
+                    Ihre Kunden nutzen eine große Vielfalt an Laptops und Mobilgeräten, um Verträge abzuschließen, Überweisungen zu tätigen oder sich über Ihre Produkte zu informieren. Wie testen Sie das? Eine eigene Test-Infrastruktur zu pflegen ist aufwändig und teuer.
+                    In webmate stehen Ihnen auf Knopfdruck echte Mobilgeräte und virtuelle Maschinen zum manuellen und automatisierten Testen zur Verfügung.
+                
+Mehr erfahren 
+Siegfried Wieser
+Referatsleiter
+Allianz Deutschland Testcenter
+Um unsere Produkte effizienter testen zu können, haben wir nach einer erweiterten Lösung oder Tool zur Testabdeckung gesucht. Da Tools oft schwer kalkulierbare Zusatzkosten generieren, haben wir uns nach SaaS-Lösungen umgeschaut. Wichtig war uns hierbei, dass wir einen Service (SaaS) finden, der einen hohen Datenschutzstandard und modernste Technologie bietet. Daher haben wir uns für den in Deutschland ansässigen Service webmate entschieden. Die Plattform bietet eine flexible Test-Infrastruktur und hervorragenden Support.
+Cassandra Radam
+Testmanagerin
+Publishing Services
+Wir bieten unseren Kunden eine riesige Menge an interaktiven Lerninhalten. Diese Unterliegen ständiger Weiterentwicklung und müssen stetig geprüft werden. Mit webmate und der Testfabrik ist es uns gelungen, den gesamten Abnahmeprozess um 85% schneller und effizienter machen.
+Mehr erfahren
+Dennis Röhrs
+Head of Digital Factory
+CosmosDirekt
+Der Einsatz von webmate hat einen wesentlichen Anteil an der erfolgreichen Einführung unserer neuen Webseite und App. Neben den manuellen Testmöglichkeiten der Plattform generieren insbesondere die automatisierten Crossbrowser und Crossdevice Tests hohe laufende Effizienz- und Qualitätsgewinne.
+Mehr erfahren
+Robin Fey
+Quality Assurance Manager
+Parfümerie Douglas GmbH
+In unseren Projekten verwenden wir schon lange Selenium-basierte automatisierte Tests. Mit webmate lassen sich diese hervorragend implementieren und durch die reiche Bibliothek an Skripten und Erweiterungen veredeln.
+Mehr erfahren
+Thomas Weißmann
+Portfoliotestmanagement (PTP)
+Postbank Systems AG
+Für uns war es wichtig, die bestehende Testinfrastruktur schnell und flexibel zu erweitern. Webmate kann echte Geräte an verschiedenen Standorten steuern. So konnten wir in Kooperation mit Expleo zusätzlich zu den in webmate verfügbaren echten und virtuellen Geräten unser eigenes Lab in die Plattform integrieren.
+Volker Schneider
+Leiter Test- und Releasemanagement
+R+V Versicherung AG
+Mit der Testfabrik entwickeln wir seit Jahren gemeinsam unsere Infrastruktur weiter. Die gute Beratung und die enge Zusammenarbeit ermöglichen auch einen sicheren Übergang von manuellem Testen zu automatisiertem Testen.
+Frameworks
+Testautomatisierung - einfach und effektiv
+                    Die Zeiten sind vorbei, in denen man sich auf wenige Releases im Jahr konzentrieren und diese ausgiebig testen konnte. Eine immer kürzere Time-to-Market, der Drang zu mehr Effizienz und höchste Qualitätsansprüche Ihrer Kunden machen manuelles Testen zu einem Fass ohne Boden.
+                    webmate bietet offene Schnittstellen, z.B. Selenium oder Appium, mit denen Sie Ihre webmate-Testinfrastruktur fernsteuern und bequem in CI/CD-Pipelines integrieren können.
+                
+Mehr erfahren 
+Integrationen
+Vollautomatische Tests durch Künstliche Intelligenz
+                    Fragen Sie sich auch manchmal, was an Testautomatisierung eigentlich so schwierig ist? Ihre Kunden finden Ihre Fehler doch schließlich auch. Leider schaut der moderne funktionale Softwaretest bei seiner Arbeit nicht links oder rechts und "gesunden Menschenverstand" wird man in einem Testskript nicht finden.
+                    Wir bei der Testfabrik wollen das ändern und kombinieren in webmate die Ergebnisse aktueller KI-Forschung mit praktischen Erfahrungen aus Kundenprojekten.
+                
+Mehr erfahren 
+Demotermin vereinbaren
+Wählen Sie Ihren Wunschtermin!
+ Zum Kalender
+ Die Testfabrik begleitet Sie auf Ihrem Weg 
+Testfallerstellung
+Gemeinsam mit Ihnen im Team entwickeln wir stabile Testfälle für eine effiziente Testautomatisierung.
+Details
+Agile Prozesse
+Wir haben Ideen und Erfahrung beim Aufbau der Testautomatisierung in der agilen Welt.
+Details
+Akademie
+Wir zeigen Ihnen, wie Sie das Beste aus webmate herausholen und dabei eigenes Know-How aufbauen.
+Details
+Kontakt
+Kontaktieren Sie uns und erfahren Sie, wie Ihr Unternehmen von unseren Leistungen profitieren kann.
+Informationen zum Datenschutz erhalten Sie in unserer Datenschutzerklärung.
+Absenden
+                            +49 681 410 978-0 info@testfabrik.com
+  
+  
+  
+  
+  
+ © 2023 Testfabrik AG 
+Switch to English version
+ Impressum 
+ Datenschutz 
+ Cookie Einstellungen 
+Kontakt
+Unternehmen
+webmate
+Übersicht
+Mobile Testing Infrastruktur
+Desktop Testing Infrastruktur
+Dienstleistungen
+Testfabrik Akademie 
+Testfabrik Consulting 
+Testfabrik Manufaktur 
+Solutions
+Automotive
+E-Commerce
+Finance & Insurance

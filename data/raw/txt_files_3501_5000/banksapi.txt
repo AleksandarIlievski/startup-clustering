@@ -1,0 +1,133 @@
+ Banking API, Banking-Daten Aggregation und Datenanalyse | BANKSapi
+BANKS api
+Open BankingOverviewREG/HostingREG/ProtectAnalyticsBlogIndustriesPricingAPISign up   
+Open BankingOverviewREG/HostingREG/ProtectAnalyticsBlogIndustriesPricingAPISign up  Deutsch 
+                    Smart Open-Banking
+                
+                    Build your own banking products without a BaFin license. With our API and our analytics platform
+                    you will turn account information into insights & leads - based on your customers’ financial DNA.
+                
+                            Embedded financeout-of-the-box
+                        
+                            Our technology enables extraordinary user experience including PSD2 license. You can easily
+                            integrate our API directly into your products. And we master the regulatory challenges.
+                        
+                    Build your own banking use cases with our powerful API
+                
+Open Banking-Platform
+                            Get access to more than 3,000 banks, building societies, custodian banks and credit cards.
+                            We offer PSD2-compliant embedded finance solutions with just a few lines of code.
+                        
+Analytics-Platform
+                            Create added value for your customers based on account information using our data science
+                            solutions. Benefit from a flexible business rule engine that can be combined and extended as needed.
+                        
+Payment-Platform
+                            Use our white-label online transfer solution in your corporate design and offer payments
+                            via SEPA transfer.
+                        
+Frontend-Solutions
+                            Benefit from our white-label-capable frontend components that can be integrated flexibly.
+                            Beyond this, our SDKs enable a fast time-to-market.
+                        
+                                Why choosing the PSD2 specialist for embedded finance solutions?
+                            
+Experience
+                                    Data-as-a-Service requires trust. 1.3 million accounts and over 22 years of experience
+                                    in handling accounts and security accounts within the company group
+                                
+Scalable Platform and White-Label Approach
+                                    B2B2X-approach. You use our technology, but remain the owner of the customer
+                                    relationship. Our platform is based on a modern RESTful API.
+                                
+Account Analytics
+                                    We translate account information into qualified real-time leads for financial
+                                    service providers. Our AI-suite can be extended as needed.
+                                
+PSD2 License
+                                    Fully integrated, or with a simple jump. We fulfil all regulatory requirements for you.
+                                
+Exceptionally calculated
+                    We offer packages that fit your company needs right from the start – from start-ups to financial
+                    groups. Fairly staggered, individually scaled.
+                
+Starter
+The starter package for Fintechs
+• Hosting in the noris network cloud
+• up to 2,500 active users/month
+from 38 Cent
+                    per user/month
+                
+Test
+Business
+The cost-effective solution for fast-growing businesses
+• Hosting in the noris network cloud
+• up to 10,000 active users/month
+from 25 Cent
+                    per user/month
+                
+Test
+Professional
+The scalable solution for established financial service providers
+• Hosting in the noris network cloud
+• up to 100,000 active users/month
+from 17 Cent
+                    per user/month
+                
+Test
+Enterprise
+The individual solution for large companies
+• Hosting in your own data center according to your wishes
+• from 100,000 active users/month
+                    To be agreed
+individually
+Test
+Awards
+                                InsurTech Award 2018
+                            
+                                Handelsblatt Diamond Star Award 2019
+                            
+                                Strategiemeeting Lebensversicherungswirtschaft 2019, Startup mit dem größten wirtschaftlichen Potential
+                            
+                                Accelerator Programm 2019
+                            
+What would you like to build with BANKSapi?
+                    Contact us!
+                
+Use our contact form
+                    We look forward to your call.
+                    You can reach us by telephone on 
++49 89 - 121 408 82
+Contact us
+Imprint (German)
+Data protection
+Safety & Security
+ 
+About us
+Careers
+Press
+Twitter
+BANKSapi Technology GmbH
+BANKSapi Technology GmbH
+									+49 89 - 121 408 82
+sales@banksapi.de
+														Lyonel-Feininger-Strasse 28
+							80807 Munich, Germany
+													
+					BANKSapi is a  company.
+				
+We use cookiesOur website uses cookies to improve your user experience. By clicking "Accept all cookies", you consent to the use of all the cookies. Click on "More information" to learn more about our privacy policy.More information...Accept all cookiesOnly necessaqry cookiesIndividual settingsManage consent
+Close
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+ 
+								Necessary							
+Necessary
+Always Enabled
+									Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncookielawinfo-checbox-analytics1 yearThis cookie is set by the WordPress GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics". It does not store any personal data.cookielawinfo-checkbox-necessary1 yearThis cookie is set by the WordPress GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Necessary". It does not store any personal data.CookieLawInfoConsent1 yearThe cookie is set by the WordPress GDPR Cookie Consent plugin and is used to store the user's consent to the use of cookies. It does not store any personal data.pll_language1 yearThis cookie is set by the WordPress Polylang plugin. The cookie is used to store the user's langauage selection. It does not store any personal data.viewed_cookie_policy1 yearThe cookie is set by the WordPress GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. 
+								Analytics							
+Analytics
+									Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+CookieDurationDescription_ga2 yearsThe cookie is set by Google Analytics and is used to store an unique User-ID. Based on this ID Google Analytics can detect returning visitors and merge data from previous visits._ga_FMXYH3NGL32 yearsThe cookie is set by Google Analytics and is used to store an unique User-ID. Based on this ID Google Analytics can detect returning visitors and merge data from previous visits._gat1 minuteThe cookie is set by Google Analytics and is used to throttle request rate. The cookie expires after one minute. When set it prevents certain data to be sent._gat_UA-86449975-11 minuteThe cookie is set by Google Analytics and is used to throttle request rate. The cookie expires after one minute. When set it prevents certain data to be sent._gcl_au90 daysThis cookie is set by Google Ads Conversion Tracking and contains a randomly generated user id._gcl_aw90 daysThis cookie is set by Google Ads Conversion Tracking when a user enters the website by clicking on a Google ad outside the landing page. It contains information about what ad has been clicked so that successful actions like contact requests can be assigned to that ad._gid1 dayThe cookie is set by Google Analytics and is used to store an unique User-ID. Based on this ID Google Analytics can detect returning visitors and merge data from previous visits.ba_om_info30 daysThis cookie helps us to perform analyses in order to further improve the efficiency of our promotional activities. 
+SAVE & ACCEPT

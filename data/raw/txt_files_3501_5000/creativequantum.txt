@@ -1,0 +1,196 @@
+Quantum Chemical Simulations | Simulation Service | Research
+Language - 文A
+English 
+Deutsch
+日本語
+Русский
+Français
+Polski
+Español
+Türkçe
+Contact
+F.A.Q
+Toggle navigation
+Company
+About the Company
+Cooperations
+News
+Awards
+Advisory Board
+Reactions
+Materials
+(R)evolution
+Blog
+Language - 文A
+English 
+Deutsch
+日本語
+Русский
+Français
+Polski
+Español
+Türkçe
+Contact
+Blog
+F.A.Q
+Quantum Mechanical Simulations
+research at molecular level
+Quantum Mechanical Simulations
+research at molecular level
+CreativeQuantum specializes in the realization of quantum mechanics-based research and development for the chemical and pharmaceutical industries. We are able to identify any chemical and physical properties at molecular level of systems or processes. Using unique creative methods, we offer our customers to support them by the development of resource and energy efficient production processes. To accomplish this, we apply the most recent and innovative optimization algorithms.
+        
+Services
+CreativeQuantum offers a wide range of services, which allows our customers to benefit from the insight and results of quantum mechanical investigations, without the need of in-depth knowledge about this technology, nor need to own the needed infrastructure.
+We offer our customers an allround service.
+we identify together with our customers the precise issues
+we develop a package offer, from which our customer can choose investigations with the best balance of information, time and price
+we perform the requested investigations and simulations with our interdisciplinary team
+the simulations and data of our clients are stored and managed at our own offline computer clusters at all times, encrypted and sercure
+we analyze the simulations and deliver our customers detailed but comprehensible documentation of the results of high scientific quality
+we present our customers the most important results on site and suggest possible consquences.
+Our project periods are usually 2 to 6 months
+Our prices per project month are often lower than at research institutes
+Data security
+Company owned computers (offline), encrypted data, encrypted exchange
+Chemical Reactions
+Analysis and evaluation of chemical reactions
+Materials
+Analysis and evaluation of functional materials
+Virtual Screenings
+High-throughput testing of new syntheses or materials
+Genetic Algorithms
+Optimization of syntheses or materials based on evolutionary algorithms
+Artificial Intelligence
+Analysis and optimization of syntheses or materials using machine learning
+Data security
+The trustworthy handling of the data of our customers is of fundamental importance for us. Therefore, it is essential to have exclusive access to the computer infrastructure and not lose it through cloud computing. That's why we have been relying on our own high-performance data center at our company site since the beginning. Data exchange and data storage is also very important, which is why we apply several levels of encryption for this as well. Our safety standards surpass those of universities and most small and medium-sized businesses.
+Chemical reaction
+The reaction mechanism of chemical reactions is often unknown. A synthesis can be efficiently improved by trial and error or by the combination of simulations and experiments.
+With reaction mechanism analysis, the understanding of the synthesis is significantly increased, thus enabling a knowledge-based optimization of the conversion and the selectivity.
+For this, we determine the thermodynamic data for possible individual reaction steps of the chemical reactions. From these data, we identify the reaction steps that can be optimized and how to avoid side reactions.
+More ..
+Materials
+We have the ability to determine a vast variety of physical and chemical material properties. In addition to the investigation of single molecules (e.g. redox potentials, HOMO-LUMO levels, NMR shifts, acidity, stability, etc.), we also offer the identification of macroscopic properties based on intermolecular interactions (e.g. density, melting points, glass transition temperatures, miscibility, swelling behavior).
+The morphology and dynamics of material mixtures can also be measured.
+More ..
+Virtual screening
+By investigating systematic changes in reaction conditions, catalysts, functional materials or mixtures of materials we can identify promising changes even before the cost- and time-intensive synthesis, characterization, testing and instrumental analysis have to be carried out in a laboratory.
+Through high-throughput virtual screenings, we are capable of analyzing hundreds of reactions or thousands of materials in multiple dimensions and of determining the interaction between different variations in the same system. Often only the combination of several changes causes the desired effect.
+More ..
+Genetic algorithms
+If the variation space is too large to search for an improvement of a reaction or material using a  virtual high-throughput screening, we offer an optimization method based on genetic algorithms (or evolutionary algorithms). In this case, a system, as in evolution, is randomly changed and depending on the success of the change, this new property is inherited to further generations of the system.
+With the aid of genetic algorithms, systems which allow a great range of variations, can be optimized by natural selection. Within few generations, a global optimum can then be obtained for the selected variational parameters.
+More ..
+Artificial intelligence
+Due to the increase in  processable data, the identification of a correlation with the reaction or material property can become too complex for humans to achieve reproducible and objective assessments within a reasonable period of time.
+With the help of our own developed "chemical intelligence", we can analyze large amounts of data and make predictions about promising changes of the system.
+More ..
+Example: Mechanism Analysis
+An essential part of process optimization is the understanding of key reaction steps.
+Decades of experience in catalysis research and extensive simulation capabilities enables us to study mechanisms in detail in just a few weeks and to develop new approaches to avoid trial-and-error experiments.
+For example, we were able to revise a common textbook opinion on asymmetric organocatalysis and prove it with a valid mechanism even for complex reactions.
+More ..
+Example: New Process
+Thanks to our extensive technological capabilities and, in particular, many years of experience in the field of catalysis, we are able to rethink the production of target molecules in a very short time.
+In order to be able to present this to the outside world by means of a concrete example, we have chosen one of the difficult tasks that a customer would not trust us to do successfully. A brand new sustainable production of methanol.
+We succeeded in doing this in a very short time. In only a few weeks and selected experiments of our partners in the laboratory, we succeeded in developing a new approach for a new methanol production starting on basic physical properties without experiments.
+More ..
+Locations
+Headquarters
+Germany, Berlin
+CreativeQuantum GmbH12489 Berlin, Am Studio 2
+Central Office Asia
+Japan, Tokyo
+CREATIVEQUANTUM JAPAN INC.
+4-16-2 SHIBA MINATO-KU108-0014 TOKYO JAPAN
+Our clients
+Tags
+Simulation
+Quantum mechanics
+Quantum chemistry
+Chemistry
+Service
+R&D
+Research
+Development
+DFT
+Reaction
+Material
+chemistry
+quantum chemistry
+service provider
+service
+research
+development
+research and development
+rnd
+r&d
+contract research
+contract development
+process optimization
+chemical simulation
+dft simulation
+dft
+molecular modelling
+reaction mechanism
+synthesis
+catalysis
+materials
+molecular dynamics
+md
+aimd
+morphology
+oxides
+functional materials
+polymers
+OLED
+OPV
+batteries
+particles
+screening
+high-throughput-screening
+uv-vis
+ir
+raman
+xrd
+nmr
+conductivity
+stability
+optimization
+genetic algorithm
+evolutionary algorithm
+artificial intelligence
+ai
+on demand service
+simulation on demand
+quantum chemistry on demand
+quantum on demand
+Important Sites
+Company
+Services
+Chemical Reactions
+Functional Materials
+High-Throughput-Screenings
+Genetic Algorithm
+Artificial Intelligence
+News
+CreativeQuantum is involved in the Bio-Z joint project
+E4MeWi - Research project for an energy-efficient renewable energy based methanol economy
+Don’t quit before you startup!
+Vortrag auf dem Jahrestreffen Deutscher Katalytiker
+EIIL Conference - Barcelona
+Opening a subsidiary in Japan
+Presenting a new MeOH Process at EuropaCat 2019
+Blog
+A special issue on “Computational Design of Catalysts” appeared in the renowned journal Chemical Reviews
+Catalysis is an important source of technology-based efficiency improvement potential
+Creativity rules
+Interview with Nobel Prize Winner Prof. Ertl
+Chemistry 2030 in Germany and Europe
+Catalysis
+Chemical Energy Storage
+Contact
+CreativeQuantum GmbH © 2008- - all rights reserved
+Imprint | 
+                Data privacy | 
+                Sitemap

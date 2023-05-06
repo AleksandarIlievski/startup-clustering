@@ -1,0 +1,4 @@
+Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /homepages/21/d4294971364/htdocs/Home/wp-content/plugins/revslider/includes/operations.class.php on line 2854
+Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /homepages/21/d4294971364/htdocs/Home/wp-content/plugins/revslider/includes/operations.class.php on line 2858
+Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /homepages/21/d4294971364/htdocs/Home/wp-content/plugins/revslider/includes/output.class.php on line 3708
+Warning:  Cannot modify header information - headers already sent by (output started at /homepages/21/d4294971364/htdocs/Home/wp-content/plugins/revslider/includes/operations.class.php:2854) in /homepages/21/d4294971364/htdocs/Home/wp-includes/pluggable.php on line 1223

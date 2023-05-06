@@ -1,0 +1,142 @@
+Startseite - PickWerk
+ 
+Home
+Anwendungen
+PW-3D System
+Über uns
+Kontakt
+ 
+Innovative Technologien für Montage- und Kommissionier-Prozesse
+  Die PW-3D Technologie
+  Flexible 3D-Lokalisierung zur Entnahmeerkennung
+ 
+Fortschrittlich
+Das PW-3D System basiert auf der innovativen Lokalisierung mittels Magnetfeldern: Robust gegen Verdeckung und Verschmutzung, wartungsarm und unschädlich.
+ 
+Flexibel
+Die Technologie lässt sich einfach in bestehende Systeme integrieren und benötigt keine Hardwareanpassung bei Sortiments- oder Fachgrößenänderungen.
+ 
+Vielfältig
+Entnahmeerkennung an Montagearbeitsplätzen und Kommissionierregalen als erster Schritt in die Digitalisierung Ihrer Prozesse.
+Kontaktieren Sie uns und wir arbeiten gemeinsam an der Verbesserung Ihrer Prozesse!
+ 
+  Anwendungen
+Montagearbeitsplätze
+Mit der an manuelle Montagearbeitsplätze nachrüstbaren PickWerk Technologie können sich Arbeiter sicher sein, die richtigen Teile in der richtigen Reihenfolge zu montieren. Montageassistenzsysteme werden durch Handbewegungen automatisch gesteuert.
+Kommissionierung
+In Verbindung mit Führungssystemen wie Pick-by-Light oder Pick-by-Vision und mit der Anbindung an Lagerverwaltungssysteme deckt die PickWerk Technologie den gesamten Kommissionierprozess ab. Dem Kommissionierer wird signalisiert, wohin er greifen soll, die Entnahme wird automatisch validiert und im Warenwirtschaftssystem verbucht. All dies mit einer drastisch geringeren Fehlerrate und einer höheren Effizienz.
+Medizinische und biotechnologische Labore
+Die PickWerk Technologie digitalisiert Prozesse in medizinischen und biotechnologischen Laboren. Das Nachverfolgen der Hände des Labortechnikers ermöglicht eine automatische Qualitätskontrolle und Dokumentation.
+  Unsere Lösung
+ 
+Automatisiertes Weiterschalten von Montageanweisungen mittels Gestensteuerung
+ 
+Robuster Betrieb unabhängig von Verdeckung und Lichtverhältnissen
+ 
+Unterscheidung zwischen unbeabsichtigten Eingriffen und echten Entnahmen
+ 
+Klare Führung durch adaptives Pick-by-Light
+ 
+Einfache Integration des Systems durch standardisierte MQTT Schnittstelle
+ 
+  Systemaufbau
+Rahmen
+So unscheinbar der Rahmen unseres PW-3D Systems mit nur vier Zentimetern Kantenlänge auch scheinen mag, enthält er alle notwendigen Komponenten um das Magnetfeld zu erzeugen und die Sensoren, die das reflektierte Signal des Wearables aufnehmen.
+Der Rahmen umschließt den Bereich, in dem z.B. die Hand des Arbeiters lokalisiert werden soll oder in dem eine Entnahmeerkennung durchgeführt wird. Dafür ist er im Bereich von 50 x 50 cm bis zu 160 x 160 cm genau an die Anwendung anpassbar.
+Weitere Elemente an einzelnen Behältern, Fächern oder ähnlichem sind nicht notwendig.
+Wearable
+Das Wearable wird vom Arbeiter an einem oder beiden Handgelenken getragen und wird mithilfe der Sensoren des Rahmens im Raum lokalisiert.
+Da es komplett ohne Akkus oder Batterien auskommt und dank des Gewichts von weniger als 50 Gramm , ist unser Wearable nicht nur ergonomisch zu tragen, sondern auch wartungsarm und umweltfreundlich.
+Reader
+Der Reader ist die Signalverarbeitungseinheit, in der die Sensordaten aus dem Rahmen ausgewertet und daraus in Echtzeit die kontinuierliche 3D Position des Wearables errechnet wird. Basierend auf den Trajektorien der Hände , unterscheidet ein ausgefeilter Algorithmus zwischen Eingriff in einen bestimmten Behälter und unabsichtlichem Hineinragen der Hände.
+Diese Informationen stellt der Reader über eine MQTT- und REST-Schnittstelle zur Anbindung an weitere Systeme bereit.
+Darüber hinaus können über dieselben Schnittstellen auch die optionalen Erweiterungen, wie zum Beispiel unsere Pick-By-Light Leiste angesteuert werden.
+Passt sich Ihrem Sortiment an
+Durch die Lokalisierung im gesamten Bereich des Rahmens ist jederzeit eine Anpassung an neue Gegebenheiten und auch an sich häufig ändernde Sortimente oder Varianten möglich.
+Das PW-3D System kann direkt per Softwareschnittstelle konfiguriert werden und bietet so maximale Flexibilität bei Änderung von Größe, Anzahl oder Position der Fächer.
+ 
+Team mit 10 Jahren Technologie-Erfahrung
+ 
+Demosystem verfügbar!
+  Ihre Vorteile
+
+Höhere Prozessqualität
+Durch die sofortige Erkennung und Behebung von Entnahmefehlern werden Folgekosten reduziert.
+
+Bis zu 50% höhere Effizienz
+Durch die automatische Quittierung entfällt der fehlerbehaftete manuelle Quittierschritt.
+
+Ergonomie
+Durch die Ersetzung des manuellen Quittierschrittes hat der Werker zu jeder Zeit beide Hände frei für seine Kernaufgaben.
+
+Hygiene
+Durch den Wegfall von Druckknöpfen und der Option der Gestensteuerung werden Keimquellen minimiert.
+
+Bestands- überwachung
+Durch die kontinuierliche Nachverfolgung des Materialverbrauchs können automatisierte Nachbestellungen angestoßen werden.
+
+Hohe Akzeptanz
+Durch den Wegfall aufgezwungener manueller Schritte werden erfahrene Mitarbeiter nicht künstlich verlangsamt.
+
+Psychische Entlastung
+Da Arbeiter keine Angst mehr vor Fehlern haben, steigt zusätzlich Ihre Effizienz um bis zu 20%.
+
+Einfache Rekonfiguration
+Auf Änderungen im Materialsortiment reagiert der Nutzer ohne jegliche Hardwareänderung oder -justierung.
+  Haben Sie Interesse?
+Wir freuen uns auf Ihren Anruf oder Ihre E-Mail. Gerne sprechen wir mit Ihnen über eine Integration in Ihre Anwendung oder demonstrieren Ihnen unsere PW-3D Technologie.
+ 
+  Über uns
+ 
+Wer wir sind
+Die PickWerk GmbH ist ein innovativer Technologieanbieter aus Nürnberg für Industrie 4.0 Lösungen.
+Seit 2020 tätig als Ausgründung über das Fraunhofer AHEAD Programm können wir auf langjährige Erfahrung mit erprobten Technologien zurückgreifen.
+ 
+Team
+Unser Entwicklungsteam von Ingenieuren und Wissenschaftlern besteht aus anerkannten Experten für Magnetfeldtheorie und hat mehrjährige Erfahrung in Algorithmik, Software- und Firmwareentwicklung sowie Hardwaredesign.
+ 
+Unser Versprechen
+Wir ermöglichen unseren Kunden einen Eintritt in die Digitalisierung ihrer Prozesse und begleiten sie dabei, das Optimum aus den neu gewonnenen Daten zu ihrem individuellen Kundennutzen herauszuholen.
+ 
+  Netzwerk
+  Referenzen
+ 
+ 
+  Das Gründerteam
+Maximilian Singh
+Operatives Geschäft
+"Was wir versprechen,halten wir auch."
+Rafael Psiuk
+Geschäftsentwicklung
+"Wer aufhört besser zu werden,hört auf gut zu sein."
+Alfred Müller
+Technische Entwicklung
+"Erst wenn es herausfordernd wird,macht es Spaß."
+ 
+  Adresse
+Am Anger 1090411 Nürnberg
+  Telefon
++49 159 0642 9648
+  E-Mail
+info@pickwerk.de
+  LinkedIn
+PickWerk GmbH
+Copyright © 2022 PickWerk GmbH
+AGB - Impressum - Datenschutzerklärung
+   
+ 
+Diese Website verwendet Cookies um gewisse Funktionen zu ermöglichen und um unser Angebot zu verbessern. 
+Essenziell
+Details einblenden
+Details ausblenden
+Essenzielle Cookies sind für die grundlegende Funktion der Website notwendig. 
+Contao HTTPS CSRF Token
+Schützt vor Cross-Site-Request-Forgery Angriffen. 
+Speicherdauer: Dieses Cookie bleibt nur für die aktuelle Browsersitzung bestehen.
+PHP SESSION ID
+Speichert die aktuelle PHP-Session. 
+Speicherdauer: Dieses Cookie bleibt nur für die aktuelle Browsersitzung bestehen.
+Auswahl speichern
+Alle akzeptieren
+Impressum
+Datenschutzerklärung

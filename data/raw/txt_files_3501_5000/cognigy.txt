@@ -1,0 +1,314 @@
+Low-Code Conversational AI & Automation Platform | Cognigy
+Cognigy named a Leader in the Gartner® Magic Quadrant™ for Enterprise Conversational AI Platforms for the Second Year in a Row! Access a complimentary copy.
+Platform
+Solutions
+References
+Resources
+Company
+         
+          EN 
+        
+        
+								 
+									DE 
+								
+							
+Platform components
+Cognigy.AI
+The leading enterprise conversational automation platform
+Voice Gateway​
+Deploy virtual voice agents for automated phone conversations
+Cognigy Insights
+Conversational AI Analytics Suite for 360° Insights
+Live Agent
+Elevating customer service with AI-powered Agent Assist
+Marketplace & Integrations
+Turnkey ecosystem integration with pre-built connectors
+What we offer
+Conversational IVR
+Fast and efficient call handling with automated ID&V and smart routing, all in natural language
+Smart Self-Service
+Enabling frictionless, transactional customer service on any voice or text channel
+Agent + Assist
+Giving service agents superpowers through AI-infused agent augmentation
+See Cognigy.AI in Action
+Enable frictionless 24/7 customer service on voice & chat
+Watch Now
+Boost productivity through transactional voice bots
+Watch Now
+Next-generation self-service with AI-powered chat services
+Watch Now
+Contact Center Automation
+Conversational IVR
+Fast and efficient call handling with automated ID&V and smart routing, all in natural language
+Smart Self-Service
+Frictionless, transactional self-service on any voice or text channel
+Agent + Assist
+Real-time agent support for every inquiry on every channel
+Cognigy.AI Platform
+Overview
+Enterprise-grade Contact Center AI Platform
+Platform Capabilities
+Virtual Agents
+Low-code customer service automation engine
+Insights
+Omnichannel conversation analytics suite
+Voice Gateway
+Turnkey voice connectivity for any contact center
+Live Agent
+Real-time AI-powered agent workspace
+NLU
+Market-leading AI for 100+ languages
+Generative AI
+Enterprise-ready LLM for contact centers
+Quick Links
+Help Center
+Documentation
+Academy
+Product Blog
+Trust Center
+Marketplace
+End-to-End
+360° Customer Service Automation​
+Deliver outstanding customer experience on autopilot
+Let's Get Started
+What is Customer Service Automation?
+Find out how you can empower your customers to achieve their goals fast and easy without human intervention.
+By Demand
+Contact Center AI
+Enhance customer interactions with AI on the frontline
+Smart Routing
+Connect customers to the right agent on the first try
+Agent + Assist
+Give your agents the confidence to solve complex requests​
+Live Chat
+Boost your customers’ experience and agents’ efficiency​
+Conversational Analytics & Insights
+Improve customer satisfaction with detailed insights​
+Omnichannel Engagement
+Engage with your customers on the platform of their choice
+Conversational Process Automation
+Drive appropriate actions with intelligent processes​
+Enterprise Conversational AI Platform
+Integrate easily with existing enterprise infrastructure​
+Workforce Management
+Increase operational efficiency and reduce agent attrition ​
+Cognigy.AI for Amazon Connect
+Power up your Amazon Contact Center with Conversational AI
+By Industry
+Insurance
+Simplify claims processes and provide instant support
+E-Commerce
+Enable AI-powered shopping experiences for your customers
+Airlines
+Handle the majority of your daily service requests with AI-powered support
+By Contact Center Platform
+Amazon Connect
+Genesys
+Learn how Cognigy.AI integrates with and elevates any contact center
+By Industry
+Airlines
+Improve passenger satisfaction with effective, instant support
+Insurance
+Offer compliant and robust self-service transactions
+Retail & E-Commerce
+Personalize shopping experiences across channels
+Deliver Exceptional Customer Experiences with Cognigy.AI
+Empower both customers and agents to achieve their goals quickly and easily with Conversational AI
+More integrations
+Microsoft
+Salesforce
+ServiceNow
+Zendesk
+Partners
+Find a partner
+Become a partner
+Cognigy Trust Center 
+See yourself how external institutions confirm our high safety standards
+Customer Success Stories
+Overview Customer Stories
+ 
+Explore our customers' stories and see how they are succeeding by using Cognigy.AI to drive their business
+Get more - view all stories...
+Videos
+Watch the Frontrunner Story of the Toyota Innovation Team
+Watch Now
+Deloitte and Cognigy are Paving the Way for AI-Powered Customer Service Transformation 
+Watch Now
+Cognigy Helped Lufthansa Connect with Customers During Challenging Times
+Watch Now
+Learn
+Downloads
+Guides, white papers, analyst reports and more
+Blog
+Stay in the loop on everything CX and CAI
+Cognigy Academy
+Become a certified expert with on-demand courses
+Showcase Shorts
+Explore the art of the possible in short videos demonstrating CAI
+Succeed
+Product  Blog
+The latest information on new releases and features
+Help Center
+Tutorials, help community, videos and how-to articles
+Training
+Access training resources or schedule personalized sessions
+Technical Documentation
+How to use and get the most from Cognigy.AI
+Get the Latest
+Webinar: Generative AI and Cognigy in the Contact Center
+Watch Now
+Building Next Generation Self-Service at Scale 
+Read More
+Gartner® Hype Cycle™ for Customer Service and Support Technologies, 2022
+Download Now
+Who We Are
+About Us
+Join our mission to make Conversational AI more accessible
+Events
+Find us at live conferences or virtual meetups​
+Careers
+Help us achieve our vision with your talents and skills​
+News & Announcements
+Be the first to know about all the latest news​
+Contact Us
+Reach out to our experts and get your questions answered
+Trustworthy AI
+Cognigy Trust Center
+See how we help your organization secure sensitive data and comply with applicable laws and regulations.
+Read More
+The Future of Enterprise-Grade AI Adoption
+An in-depth guide into the trusted use of AI in customer service automation
+Read More
+Cognigy.AI is officially AIC4-approved
+Find out everything you need to know about establishing "Explainable AI" based on the AIC4 criteria catalogue.
+Read More
+Latest Announcements
+Cognigy.AI is Now Available in AWS Marketplace
+Learn more
+Cognigy and Avaya Join Forces to Deliver Next-Gen Conversational AI Solutions for Enterprise Contact Centers
+Learn more
+Cognigy and Foundever™ Create Partnership to Offer Best-in-Class Conversational AI Solutions for Contact Centers
+Learn more
+                  Cognigy Ranked #1in 5 out of 5 Use Cases
+                
+2023 Gartner® Critical Capabilities for Enterprise Conversational AI Platforms!
+                Access the report
+              
+Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.
+            ConversationalIVR
+          
+            SmartSelf-Service
+          
+            Agent + Assist
+          
+          Our customers make a difference everyday with a new generation of service experiences that just work.
+        
+                Lufthansa Group Uses CAI to Power 6M+ Conversations per Annum
+              
+              Very high customer expectations, daily changing regulations, and high-cost pressure during COVID-19 were managed successfully with Cognigy.AI.
+            
+            LEARN MORE
+          
+                E.ON Provides Best-in-Class Service with Cognigy.AI
+              
+              Cognigy.AI enables E.ON to scale its customer service, ensuring customers receive support anytime, anywhere. Offering AI-powered services via phone and chat.
+            
+            LEARN MORE
+          
+                99.5% Faster Response Times at Mobily’s Contact Centers
+              
+              Mobily is seeing response times of just 6 seconds compared to 20 min at their contact centers and has witnessed a notable increase in customer satisfaction since implementing Cognigy’s conversational AI platform.
+            
+            LEARN MORE
+          
+95%
+Automation Achievable
+32%
+CSAT Improvement
+500M+
+Conversations Annually
+Make Customer Self-Service a Reality
+Enhanced CX
+Provide fast and frictionless personalized services across all voice and chat channels.
+Always on Services
+Captivate customers with 24x7, anytime and anywhere services - in any language.
+Accurate, Instant and Gratifying
+Deliver rich and precise responses at speed. Never leave a customer waiting again. 
+The Personal Touch
+Keep the human touch with intelligent voice and chat digital agents that do not feel robotic - ever!
+Support Agents forIncreased Satisfaction
+Increase Motivation and Reduce Turnover
+Automate repetitive tasks to allow agents to focus on high-value and rewarding work. 
+Smooth Transitions
+Digital agents hand off to live agents. Customers arrive verified and authenticated together with context and history. 
+Empower with Context
+Digital agents work in the background during live calls retrieving data precisely when it's needed to inform the customer. 
+Streamline for Greater Productivity
+Standard support and back office tasks are automated so agents can move on quickly to the next customer. 
+Increase Enterprise Agility
+Outpace Competitors
+Respond, and adapt to changing business and customer needs at the speed vital for today’s unpredictable climate. 
+Flexibility and Scale
+Easily create and deploy AI voice and chat assistants at scale to support all and new customer experience use cases. 
+Fast Time to Value
+Increase value and lower costs by automating repetitive tasks, delivering faster response times, and significantly cutting call handling times. 
+Better Together
+Integrate with existing infrastructure and systems and power up your contact center without needing to rip and replace. 
+Cognigy is a Leader for the 2nd Year in a row!
+2023 Gartner® Magic Quadrant™ for Enterprise Conversational AI Platforms!
+                                        Access the report
+                                      
+GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally, Magic Quadrant is a registered trademarks of Gartner, Inc. and/or its affiliates and are used herein with permission. All rights reserved. This graphic was published by Gartner, Inc. as part of a larger research document and should be evaluated in the context of the entire document. The Gartner document is available upon request from Cognigy.
+Deliver Service Experiences Your Customers Will Boast About
+  
+              See Conversational AI in Action
+            
+            Book a demo
+          
+            If you want to dive deeper, visit our Cognigy resources hub. A wealth of knowledge to inform, educate and inspire you on your journey with Conversational AI.
+          
+ 
+Cognigy.AI is Now Available in AWS Marketplace
+ AWS customers can now acquire Cognigy’s industry-leading enterprise Conversational AI platform direc...
+Learn More
+24 April 2023
+Cognigy and Avaya Join Forces to Deliver Next-Gen ...
+ Iconic contact center solution provider partners with the market leader in Conversational AI to prov...
+Learn More
+30 March 2023
+Cognigy and Foundever™ Create Partnership to Offer...
+ Cognigy.AI Becomes Part of the Foundever Conversational AI Suite for Automated, AI-based Customer Se...
+Learn More
+27 March 2023
+Platform
+Cognigy.AI Platform Overview
+Conversational IVR
+Smart Self-Service
+Agent + Assist
+Solutions
+For Your Contact Center
+For Amazon Connect
+For Genesys
+For Insurance
+For Airlines
+For E-Commerce
+resources
+Showcases
+Blog
+Help Center
+Documentation
+Training
+company
+About Cognigy
+Events
+Trust Center
+News & Announcements
+Media & Press
+Careers
+Privacy Policy
+Legal Notice
+Support
+© 2023 Cognigy
+All rights reserved.
+Request a demo!

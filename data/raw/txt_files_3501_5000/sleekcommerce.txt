@@ -1,0 +1,111 @@
+sleekshop - the modern e-commerce platform
+sleekshop
+Why 
+Features
+Pricing
+Developers
+API documentation
+Doc’s & Help
+Our support
+Blog
+Status
+Contact
+EN
+EN
+Start now
+the modern e-commerce platform
+A platform for rapid development of scalable high-performance and remarkably flexible 
+e-commerce solutions in an unpredictable environment of emerging devices.
+Try some e-commerce API calls
+Here are some examples demonstrating how easily you can interact with the sleekshop e-commerce api delivering data. Data your can use to build your very own user - experience driven e-commerce projects.See the complete api-documentation.
+get_contents_in_category
+get_products_in_category
+get_product_details
+  
+  curl https://demo.sleekshop.net/srv/service/ \
+  -d licence_username='demo_NBSqhrcrhMci15Ir9UWI' \
+  -d licence_password='s9vmrbwT23B7bmjR4Vmz' \
+  -d request='get_shopobjects_in_category' \
+  -d id_category=1 \
+  -d needed_attributes='[["name","price"],["variations"]]' \
+  -d language="de_DE"
+   
+   
+  curl https://demo.sleekshop.net/srv/service/ \
+  -d licence_username='demo_NBSqhrcrhMci15Ir9UWI' \
+  -d licence_password='s9vmrbwT23B7bmjR4Vmz' \
+  -d request='get_products_in_category' \
+  -d id_category=1 \
+  -d language="de_DE" \
+  -d country="DE" \
+  -d order_column="price" \
+  -d order="DESC" \
+  -d left_limit=0 \
+  -d right_limit=1 \
+  -d needed_attributes='["name","price"]'
+ 
+    
+  
+  curl https://demo.sleekshop.net/srv/service/ \
+  -d licence_username='demo_NBSqhrcrhMci15Ir9UWI' \
+  -d licence_password='s9vmrbwT23B7bmjR4Vmz' \
+  -d request='get_product_details' \
+  -d id_product=42 \
+  -d language="de_DE" \
+  -d country="DE" \
+  -d needed_attributes='["name","price"]'
+   
+Do you want to know more ...
+Schedule your sleekshop introduction
+Benefits
+Rapid development
+Cloud-based infrastructure allows you to deploy e-commerce functionality into any project via API. Quick, reliable and tested. All updates included.
+               
+Remarkably flexible
+Simple creation and maintenance of products and categories with any complexity, enabling the creation of any business model on any device with freedom of creation individual designs for best user experience.
+                  
+Quick and scalable
+The speed of your e-commerce application will increase significantly. Reliable and high performance technology allows cost effective and solid growth.
+               
+Rapid development
+Cloud-based infrastructure allows you to deploy e-commerce functionality into any project via API. Quick, reliable and tested. All updates included.
+                        
+Remarkably flexible
+Simple creation and maintenance of products and categories with any complexity, enabling the creation of any business model on any device with freedom of creation individual designs for best user experience.
+                        
+Quick and scalable
+The speed of your e-commerce application will increase significantly. Reliable and high performance technology allows cost effective and solid growth.
+                        
+Developers love us
+01
+Flexible data model
+Create data structures without limitations. All desired data structures can be created easily with our flexible data model.
+                        
+02
+Headless from scratch
+Deploy e-commerce functionality easily and tested, into all desired projects, with any programming language, on any device. Our powerful e-commerce API is in use for many years and works fine for many happy customers. Over the years we evolved it to one of the most sophisticated e-commerce api's on the market.
+                        
+03
+Modern approach
+Solving complex structure - problems has never been easier. A object - oriented , logical and structured approach enables you to easily create new user-experience driven e-commerce projects.
+                        
+01
+Flexible data model
+Create data structures without limitations. All desired data structures can be created easily with our flexible data model.
+02
+Headless from scratch
+Deploy e-commerce functionality easily and tested, into all desired projects, with any programming language, on any device. Our powerful e-commerce API is in use for many years and works fine for many happy customers. Over the years we evolved it to one of the most sophisticated e-commerce api's on the market.
+03
+Modern approach
+Solving complex structure - problems has never been easier. A object - oriented , logical and structured approach enables you to easily create new user-experience driven e-commerce projects.
+Try sleekshop 30 days for free.
+Start now
+Follow us
+Imprint
+Blog
+Terms & conditions
+Privacy
+  EN    
+EN
+© Copyright 2022 sleekcommerce. All rights reserved. 
+powered by sleekshop

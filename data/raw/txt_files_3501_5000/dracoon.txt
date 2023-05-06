@@ -1,0 +1,257 @@
+DRACOON – Hochsichere Dateiaustausch-Plattform für Unternehmen
+Zum Hauptinhalt springen
+                      Produkt
+                    
+                      Branchen
+                    
+                      Steuerberater & Anwälte
+                    
+                      Gesundheitswesen
+                    
+                      Behörden & Öffentliche Verwaltung
+                    
+                      Finanzwesen
+                    
+                      Partner
+                    
+                      Partner werden
+                    
+                      Partner finden
+                    
+                      Technologie-Partner
+                    
+                      Partner Login
+                    
+                      Preise
+                    
+                      Blog
+                    
+                      Ressourcen
+                    
+                      Downloads
+                    
+                      Videos
+                    
+                      Web Sessions
+                    
+                      Events
+                    
+                      Support-Portal
+                    
+                      Unternehmen
+                    
+                      Über uns
+                    
+                      Karriere
+                    
+                      Management
+                    
+                      Unsere Story
+                    
+Deutsch
+English
+Search
+Search
+ 
+Toggle Menu
+Deutsch
+English
+Search
+Search
+Toggle Menu
+ 
+        Produkt
+        
+      
+        Branchen
+        
+        
+Toggle Menu
+        Steuerberater & Anwälte
+        
+      
+        Gesundheitswesen
+        
+      
+        Behörden & Öffentliche Verwaltung
+        
+      
+        Finanzwesen
+        
+      
+        Partner
+        
+        
+Toggle Menu
+        Partner werden
+        
+      
+        Partner finden
+        
+      
+        Technologie-Partner
+        
+      
+        Partner Login
+        
+      
+        Preise
+        
+      
+        Blog
+        
+      
+        Ressourcen
+        
+        
+Toggle Menu
+        Downloads
+        
+      
+        Videos
+        
+      
+        Web Sessions
+        
+      
+        Events
+        
+      
+        Support-Portal
+        
+      
+        Unternehmen
+        
+        
+Toggle Menu
+        Über uns
+        
+      
+        Karriere
+        
+      
+        Management
+        
+      
+        Unsere Story
+        
+      
+Facebook
+Instagram
+LinkedIn
+Twitter
+Youtube
+ Sicherer, Konformer, Einfacher, Zertifizierter Dateiaustausch mit Mehrwert
+ 
+Speichern, teilen und verwalten Sie Ihre Dateien sicher, DSGVO-konform und zu jeder Zeit auf allen Endgeräten in der Cloud.
+ 
+ 
+DRACOON is used by the best
+ 
+ 
+Dateiaustausch wie Sie ihn sich wünschen
+Dateien teilen, egal ob mit anderen DRACOON-Benutzern und -Benutzerinnen oder mit Externen, ist nur einen Klick entfernt. Dabei behalten Sie die volle Kontrolle, wie lange und wie oft Dateien verfügbar sein sollen.
+Effektiver Dateitransfer ist aber nur dann möglich,wenn Ihre Dateien auf allen Endgeräten jederzeit verfügbar sind. Das sind Ihre Vorteile mit DRACOON:
+Mit DRACOON for Outlook sind verschlüsselte E-Mails (sogar vollverschlüsselt) einfach, intuitiv und vollintegriert in Microsoft Outlook möglich – und das ohne Mehrkosten
+Dateien auf dem Smartphone teilen, verschieben, löschen, kommentieren und organisieren ist ein Leichtes mit DRACOON for iOS und Android
+Microsoft Teams-Fan? Wir auch! Deswegen integriert sich DRACOON nahtlos in Teams, um Dateien DSGVO-konform austauschen zu können
+ 
+E-Mail-Voll­verschlüsselung für alle! Und für alle inklusive.
+Lösen Sie Ihre Anforderungen an die E-Mail-Verschlüsselung und DSGVO / Datenschutz über ein einfaches Outlook Add-In: Mit DRACOON for Outlook können Sie E-Mails weiterhin in der gewohnten Arbeitsumgebung schreiben und beliebig große Anhänge hinzufügen. 
+Diese, und bei Bedarf auch die komplette E-Mail, werden automatisiert in DRACOON gespeichert und sicher sowie DSGVO-konform versendet.
+ 
+Mit DRACOON sind Ihre Dateien sicher
+DRACOON wurde entwickelt und gestaltet, um kompromisslose Sicherheit zu gewähren. Sie profitieren dabei vor allem von diesen Punkten:
+Nur Sie haben den Schlüssel zu Ihren Dateien dank Ende-zu-Ende-Verschlüssselung inkl. clientseitiger Verschlüsselung
+Durch ein feingranulares Benutzer- und Rechtemanagement lässt sich Ihre Unternehmensstruktur problemlos auch beim Dateizugriff abbilden
+Mit integrierter Multifaktor-Authentifizierung erfüllen Sie mit DRACOON sofort Compliance-Richtlinien
+Für den Einsatz von DRACOON haben wir uns entschieden, um große Daten­mengen an eine Person/Firma oder größere Anhänge an einen größeren Empfänger­kreis per E-Mail zu versenden. Dieses vor dem Hinter­grund einer massiven Entlastung des Mail­servers und der nach­gelagerten Backup-bzw. Archi­vierungs­systeme. Des Weiteren nutzen wir DRACOON als Austausch­platt­form mit diversen Dienst­leistern.
+Frank Eming
+Birkenstock GmbH
+Wir haben uns für die Enterprise File Sync and Share-Lösung von DRACOON entschieden, da wir DRACOON über die JSON/REST-Schnittstellen komfortabel in unser bestehendes Controlware Service Center integrieren konnten. Unseren Kunden und Partnern ermöglichen wir mit dieser ISO-27001-zertifizierten Lösung einen hochsicheren Datenaustausch ohne Limit.
+Christian Hilbert, IT-Management Consultant
+Controlware GmbH
+Mit DRACOON gelingt es uns als Schule unseren Schüler:innen relevante Inhalte sicher und konform zur Verfügung zu stellen. Im Kollegium nutzen wir beispielsweise auch die sicheren Datenräume von DRACOON für die gemeinsame Bearbeitung von Lerntagebüchern. Diese Lerntagebücher dokumentieren die Entwicklung unserer Schüler:innen und werden von allen Lehrern verwendet, die mit dem jeweiligen Kind arbeiten. Auf diese Art und Weise stellen wir eine lückenlose und aktuelle Dokumentation sicher, auf die jeder Zugriff hat, der ihn benötigt.
+Carsten Gehring, Schulleiter
+Herzog-Christoph-Schule Murrhardt
+ 
+So hilft Ihnen DRACOON
+Features für effektive Zusammenarbeit
+Kommentieren Sie Dateien, um ihre Fortschritte zu dokumentieren. Mit der digitalen Signatur holen Sie sich schnell rechtskräftige Unterschriften. Und diese tollen Features sind auch für externe Nutzer verwendbar mit den DRACOON Gastbenutzern. 
+Jetzt testen
+Konformität mit einem Klick
+Bei DRACOON gilt: Privacy by default und Privacy by Design. Dieser Grundsatz ist die Basis  für viele Zertifizierungen und Auszeichnungen von DRACOON, die Ihnen einfach eine Konformität erreichen lassen, wie es kein zweites Produkt auf dem Markt ermöglicht.
+Jetzt testen
+Ihr professioneller Auftritt
+Passen Sie DRACOON an Ihr Corporate Design an. Somit heben Sie Ihre Dateiaustausch-Cloud auf eine neue Ebene von Professionalität. Und damit alles wie aus einem Guß aussieht, bestimmen auch Sie die URL, unter der Ihr DRACOON erreichbar sein soll.
+Jetzt testen
+Voll integriert in Ihre Systeme
+Die beste Dateiaustausch-Lösung ist die, die auch wirklich genutzt wird. Das erreichen Sie am besten, in dem Sie DRACOON als zentralen Speicherort in allen von Ihnen genutzten Systeme hinterlegen. Das ermöglicht die offene JSON/REST-API, die DRACOON seine ultimative Konnektivität verleiht.
+Jetzt testen
+ 
+News und Insights aus der Tech-Branche
+Technisch organisatorische Maßnahmen: Datenschutz nach DSGVO
+Jan 20, 2022 
+Cloud Speicher Vergleich: Die 8 besten Online Speicher
+Dez 21, 2021 
+Sicherer Datentransfer - so versenden Sie große Dateien DSGVO-konform (und einfach)
+Jul 19, 2021 
+Digitale Personalakte: einfacher, sicherer, effizienter
+Mär 22, 2020 
+ 
+"Ausgezeichnet", sagen auch andere
+Starten Sie jetzt Ihren hochsicheren, DSGVO-konformen Dateiaustausch
+Holen Sie sich Ihren DRACOON kostenlos für 5 Benutzer:innen und 10 GB hochsicheren Cloudspeicher.
+ 
+Wir nehmen uns gerne Zeit für Sie!
+Vereinbaren Sie jetzt einen unverbindlichen, kurzen Termin mit unseren Spezialistinnen und Spezialisten und lernen Sie DRACOON kennen.
+DRACOON Lösungen
+DRACOON Lösungen
+DRACOON for Outlook
+DRACOON for Teams
+DRACOON for Windows/Mac
+DRACOON for DATEV
+Datentransfer
+Datenschutz
+File Service
+E-Mail-Verschlüsselung
+Benutzer- und Rechtemanagement
+Universelle API & Integration
+Digitale Signatur
+Branchen
+Branchen
+Steuerberater & Anwälte
+Gesundheitswesen
+Behörden & Öffentliche Verwaltung
+Finanzwesen
+Versicherungen
+Industrie, Verkehr & Energie
+Service
+Service
+Support-Portal
+Ticket einreichen
+DRACOON News
+Community
+Produkt-Neuigkeiten
+Web Session
+Preisliste anfordern
+FAQ
+Umgang mit Sicherheitsvorfällen
+Sicherheitsvorfall melden
+Unternehmen
+Unternehmen
+Unsere Story
+Management
+Karriere
+Newsletter
+Presse
+Zertifizierungen
+Verbände & Vereine
+Impressum
+AGB
+Haftungsausschluss
+Datenschutz
+Kontakt
+© 2023 DRACOON GmbH
+FacebookTwitterInstagramLinkedInYouTube
+Return to Top

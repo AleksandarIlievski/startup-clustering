@@ -1,0 +1,121 @@
+n8n.io - a powerful workflow automation tool
+   Features   Features overview Integrations Workflows Use cases   Lead automation Supercharge your CRM Limitless integrations Backend prototyping Save engineering resources Docs   Self-host n8n Documentation Our license Community   Forum Blog Contribute Experts Support Embed  Cloud  Pricing   
+            Sign in
+           Get started  
+        Workflow automation for technical people
+       
+        Build complex automations 10x faster, without fighting APIs
+       Your days spent slogging through a spaghetti of scripts are over. Use JavaScript when you need flexibility and UI for everything else.  
+                GitHub
+               
+                ★
+                29,973
+                
+                Get started for free
+               
+                ★
+                29,973
+                 Full source code available Self host-able 55,385 community members         What is n8n? Power to the technical people n8n allows you to build flexible workflows focused on deep data integration. And with sharable templates and a user-friendly UI, the less technical people on your team can collaborate on them too. Unlike other tools, complexity is not a limitation. So you can build whatever you want — without stressing over budget.         
+          Build custom scenarios at speed
+         You can implement multiple triggers. Branch and merge your workflows. And even pause flows to wait for external events.
+          Code when you need, no code when you don’t 
+         Connect APIs with no code to automate basic tasks. Or write vanilla Javascript when you need to manipulate complex data.
+          Independent instances for each environment
+         Avoid breaking live workflows by separating dev and prod environments with unique sets of auth data.
+          Integrate with any app
+         Interface easily with any API or service with custom HTTP requests.
+          Painless debugging
+         See the execution data of every workflow. Integrate error nodes into workflows to catch errors. And rerun individual nodes to test fixes fast.
+          Bulk operations 
+         n8n nodes let you process data at scale with a built-in iteration functionality in every node.
+          Host on your own infrastructure
+         Fully on-prem for those that need the security
+Common use cases This isn’t just a helpful tool – it’s the heart of your business Pump data around your entire tech stack with 350+ native integrations. (Or use custom code to create your own.) From Support, to DevOps, all the way to Sales. 
+          Lead automation
+        
+          CRM customization
+        
+          SaaS backend prototyping
+        
+          Customer integrations
+         Save time managing leads
+Take the stress out of managing your leads by connecting all your marketing tools to run on autopilot.
+  
+            See workflow
+            CRM customization
+Push past the limitations of your CRM by building custom integrations to move any data you want between your apps and systems.
+  
+            See workflow
+            Build and test new features faster
+Avoid throwing away features that took forever to build. With n8n, you can quickly set up end points to test what works. And easily debug to fix what doesn’t.
+  
+            See workflow
+            Optimize engineering resources
+Save time building customer integrations. Engineer faster POCs. And keep your customer-specific functionality separate from product. All without writing a single line of code.
+  
+            See workflow
+            Boost efficiency Focus on your KPIs, not your APIs Forget error-prone tasks like setting up servers and monitoring APIs for your less tech savvy teams. n8n automates the frustrating work for you. So you can focus your energy on tasks that move the needle. And even your entry-level engineers and interns can become more productive.        
+      Get started for free
+     
+          Use 600+ templates to move faster
+         Get a head start on your workflows with templates developed by our core team and community.
+          350+ native integrations
+         Connect to all your favorite apps. Or write your own integration with a general connector to the rest.
+          Share workflows with a click
+         Reuse, export to JSON, or import workflows with a single copy/paste.
+          Scalable performance
+         220 workflow executions per sec on a single instance, and add more instances if required. More info
+          Automated API auth
+         All you have to do is enter the API key. n8n handles the rest of the auth. No reading through docs required.
+          Customizable error handling
+         Get notified whenever a workflow fails — be it via email, Slack or a log aggregator
+How it works Connect. Customize. Conquer. You can choose how to use n8n. Either sign up for the hosted n8n Cloud or self-host with a one-line npm command or Docker installation.  Pull in data Set up triggers for app events or specific times to fetch data across your app stack   Set up steps Use 220+ app nodes to create, read, and update the valuable data across your apps   Save time - every day From monthly syncs to millions of executions, sit back as your workflow does the heavy lifting  Why n8n? Because the best tech bends to your will Your apps should adapt to how you work. Not the other way around.  Your workflows
+Your way
+  Full source code available:
+Audit, tweak, and fork our codebase to suit your needs.
+ Self-hostable: Easily keep your data secure. And ensure compliance with data privacy laws.
+ Embeddable: White label our UI to give your customers access to 220+ native integrations.
+ Build without blowing your budget
+  Other platforms’ per-execution pricing can eat up your budget insanely fast.
+ With n8n, you can self-host for free. Or pay for a package of workflows in the cloud.
+ So you can make your flows as complex as you like — at no extra cost.
+ Resolve 99% of issues in hours, not months
+  You don’t have to wait weeks for someone on your vendor’s team to fix your issue. (If they can fix it at all.)
+ Get access to a 6K-strong forum of n8n engineers and community experts available 24/7 to answer your questions.
+ You can expect same-day responses (almost) every time.
+ over 387 integrations  See all integrations  29,504 Github users ❤️ n8n – here’s why    
+        JodieM
+       @jodiem Anything is possible with n8n
+I think @n8n_io Cloud version is great, they are doing amazing stuff and I love that everything is available to look at on Github.
+  
+        Igor Fediczko
+       @igordisco Build complex workflows that other tools can’t do
+I was a regular integromat user. I got to know the N8N and I say it properly: how it is better to do everything on the N8N! Congratulations on your work, you are a star!
+  
+        Maxim P
+       @maximpoulsen I’ve said it many times. But I’ll say it again. n8n is the GOAT.
+Anything is possible with n8n.
+You just need some technical knowledge + imagination.
+I’m actually looking to start a side project.
+Just to have an excuse to use n8n more 😅
+  
+        Robin Tindall
+       @robm Thank you to the n8n community
+I did the beginners course and promptly took an automation WAY beyond my skill level.
+ Case studies  Your apps should adapt to how you work. Not the other way around.  Building a $100K online business Discover how Bordr uses workflow automation to help people relocate to Portugal.
+ 
+        Read more
+         Enhancing digital experiences Dropsolid needed to integrate data from different sources and manage integrations for the various apps and services they use.
+ 
+        Read more
+         Scraping a multi-page website Learn how uProc replaced time-consuming Python scripts with a n8n workflow.
+ 
+        Read more
+         
+      See more case studies
+    Stop struggling with your scripts
+Start creating workflows 10X faster — with n8n
+ 
+        Start building for free
+        Automate without limits   FeaturesPricingPressIntegrationsAffiliate programCareersWorkflow libraryBecome an expertContactCase StudiesBecome a resellerMerchMake vs n8nZapier vs n8nBlog  Impressum & Legal
+ © 2022 n8n | All rights reserved.

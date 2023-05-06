@@ -1,0 +1,21 @@
+Autonomous Driving Solutions | Kopernikus Automotive
+top of pageKopernikus AutomotiveHomeTechnologyUse CasesDeep Dive TechnologyAbout usJobsVideoNewsMoreUse tab to navigate through the menu items.Contact usLeading Developer of
+AVP Type 2 TechnologyConnecting the Dots for the Future of Autonomous DrivingWATCH IN ACTIONOur TechnologyKopernikus Automotive is the leading developer in AVP type 2 (automated valet parking) technology. AVP2 technology is a smart infrastructure-based approach to autonomous driving.USE CASESA red question mark
+Why is AVP2 technology important?We fast-track the arrival of autonomous driving. Today’s serial production cars are not yet capable of fully driving autonomously. So we set out to reverse the paradigm: We build a smart infrastructure that can remotely drive any serial production car today. Our technology that way sets the stage for automated infrastructure-based driving (AVP2 technology) in production, logistics, repair, and parking use cases.
+Camera image
+How do we do it?We equip any facility’s infrastructure with the necessary sensors and processing power to make AVP2 technology possible. The cars become autonomous by merely embedding the Kopernikus software into existing onboard ECUs. The AI-based perception and path planning are performed externally. All automated driving commands are sent to the car wirelessly in real-time.TechnologyA graph with an arrow pointing to an upward trend
+What is the result?Our technology immediately increases efficiency, lowers the operating costs and improves the usability for the facility operator. In factories and car logistics we free up labor resources, in a repair facility we increase the efficiency of the workers. In a parking facility we increase the convenience for the end customer, while massively improving the efficiency for the parking operator. About usWe Have a Passion for Autonomous Cars!About UsKopernikus Automotive was founded in 2016 by car enthusiasts Stefan Jenzowsky and Tim von Törne and is headquartered in Leipzig, Germany with an R&D Center in Berlin. We are a car software development company with a multinational team of AI and robotics experts disrupting the status quo in the car industry. We are here to connect the dots for the future of autonomous driving. JOB OPENINGSKopernikus Automotive at a Glance2016year founded30%avg. efficiency increase  for any facility20+facility installations on two continents15nationalities in our team2locations in Germany: Berlin and LeipzigOur PartnersAre You Ready to Collaborate and Connect the Dots?
+Our VisionWe are collaborating with renowned partners all over the globe. 
+ 
+Our goal: To realize our vision that autonomous cars will greatly define the seamless mobility of the future. More efficient, cleaner, and interconnected – simply using the given resources even smarter.
+​
+There is a vast number of business applications that need to be taken head on by strong collaborations, leveraging the power of artificial intelligence and robotics: let's connect the dots for autonomous driving – the future of mobility is in our hands.CONNECT THE DOTSContactlocation marker
+Kopernikus Automotive GmbH Headquarter LeipzigSpinnereistr. 7, Halle 20E
+04179 Leipzig
+Germany
+talkto@kopernikusauto.com
++49 (0) 341-989752-80location marker
+Kopernikus Automotive GmbH R&D Center Berlinc/o The Drivery
+Mariendorfer Damm 1
+12099 Berlin
+GermanyFollow Us OnImpressum / Site NoticeDatenschutz / Data Privacy© 2023 by Kopernikus Automotive bottom of page

@@ -1,0 +1,821 @@
+Compare Shipping Costs - Container shipping - Freightfinders
+Tools & Services
+Transport Costs Calculator (Spot Quotes)
+Major Customers 
+(Recurring Transports)
+Transport Insurance Calculator
+Cubic Meter Calculator
+Loading Meter Calculator
+Guide
+Blog
+FAQ
+Guide: Find Forwarders with Freightfinders
+Tools & Services
+Our Transport Tools
+bolt
+Transport Costs Calculator (Spot Quotes)
+Compare transport offers with just a few clicks.
+business
+Major Customers 
+(Recurring Transports)
+Get quotes for regular freight transports, here.
+calculate
+Transport Insurance Calculator
+Calculate & book an insurance for your freight transport.
+square_foot
+Cubic Meter Calculator
+Calculate the cubic meters of your freight and find cheap transport for these measurements.
+square_foot
+Loading Meter Calculator
+Calculate the LDMs of your freight and find cheap transports for your measurements.
+Our Transport Calculator at a Glance
+Sea Freight
+Air Freight
+Truck Freight
+Rail Freight
+Container Transport
+Pallet Transport
+Bulk Transport
+Oversize/-weight Transport
+Guide
+Guide Categories
+edit_note
+Blog
+Find articles on important topics in the logistics industry, here.
+quiz
+FAQ
+Find step-by-step instructions for our tools, here.
+search
+Guide: Find Forwarders with Freightfinders
+How to get a suitable partner for cheap transports!
+Learn how to submit a price request, here!
+About us
+Contact
+personSign in
+personSign in
+I am Freightfinders customer
+My e-mail address:
+My password:
+Forgot password?
+Remember me
+New at Freightfinders
+Your advantages after the registration::
+Personal customer accountBetter offerNotifications
+Register
+Compare freight forwarders & find competitive transport prices
+place
+place
+Find Results
+Please complete the location details
+The missing information is optional, however, it will help to automatically calculate your offers as precisely as possible.
+×
+Pick-up address
+Origin country
+Afghanistan
+Åland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire, Sint Eustatius and Saba
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo (the Democratic Republic of the)
+Cook Islands
+Costa Rica
+Côte d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czechia
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia (Federated States of)
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Korea
+North Macedonia
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Réunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States Minor Outlying Islands
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Origin city
+Origin zip-code - (Optional)
+Destination address
+Destination country
+Afghanistan
+Åland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bonaire, Sint Eustatius and Saba
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Congo (the Democratic Republic of the)
+Cook Islands
+Costa Rica
+Côte d'Ivoire
+Croatia
+Cuba
+Curaçao
+Cyprus
+Czechia
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island and McDonald Islands
+Holy See
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia (Federated States of)
+Moldova
+Monaco
+Mongolia
+Montenegro
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+North Korea
+North Macedonia
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestine, State of
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Réunion
+Romania
+Russia
+Rwanda
+Saint Barthélemy
+Saint Helena, Ascension and Tristan da Cunha
+Saint Kitts and Nevis
+Saint Lucia
+Saint Martin (French part)
+Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and the South Sandwich Islands
+South Korea
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States Minor Outlying Islands
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands (British)
+Virgin Islands (U.S.)
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Destination city
+Destination zip-code - (Optional)
+Find results
+Sea freight ✓ Air freight ✓ Rail freight ✓ Truck transport ✓ Online price search engine for logistics & insurance
+add_to_queue
+Enter freight data: place, date & mode of transport.
+We will find the best route for your transport.
+saved_search
+Compare fares & find the best freight forwarder
+Only serious offers due to carrier check
+price_check
+Book cheap fares online! Transparent cost overview.
+Get the same fares as booking directly at the carrier
+Why Freightfinders?
+lock
+Safety
+No dubious offers
+Thorough examination of our logistics partners
+Only reliable forwarders
+search
+No additional costs
+Calculating transport routes fast & for free
+Compare transport modes and forwarders
+Same prices as with the shipping companies
+chat
+Easy communication
+Standardised e-mails
+Management-tool for your transports
+Support by experienced logistics specialists
+repeat
+All-round carefree package
+Sea freight, air freight, rail and truck transport
+Customs brokers for every destination
+Services: Packaging, loading, insurance, etc.
+Our Customers Say:
+„We were able to compare and book prices for our container transport in only a few minutes. All our goods were safely transported, and we had a reliable contact person at the partner shipping companies of Freightfinders. “
+- Markus Paulke – Inhaber
+Sternzeit Design
+"Thanks to the transport cost calculator and the auction process, I was already able to save time and money. Obtaining prices from different freight forwarders was always a tiresome issue for our company. Freightfinders resolves a fundamental problem in the forwarding landscape through its networking."
+- Kaio Meyer -
+Ritterstern GmbH
+"With Freightfinders, I got a price for my exports quickly and easily. The booking and the handling took me only 5 Minutes. I felt well informed during the whole process. "
+- Xue Jianquiao -
+CDBridge Import & Export GmbH
+chevron_left
+chevron_right
+Our Freight Cost Calculator at a Glance
+directions_boat
+Sea freight
+Save up to 60%
+flight
+Air freight
+Price auction: Forwarders bid on your transport
+train
+Rail freight
+Price auction: Forwarders bid on your transport request
+local_shipping
+Truck freight
+Price auction: Forwarders bid on your transport
+subtitles
+Container transport
+Save up to 60%
+grid_on
+Pallet shipping
+Save up to 50%
+directions_car
+Car transport
+Price comparison for oversea transports
+view_comfy
+Bulk transport
+Organised by experienced forwarders
+add_to_photos
+Special transports (oversize)
+Heavy haulage, low loader & machine transport
+branding_watermark
+General cargo & consolidated cargo
+Forwarder & transport mode comparison
+local_mall
+International moving & relocation
+Professional partners helping you in the execution
+warehouse
+Fulfillment Service
+Europe Wide Delivery, Warehousing in Germany
+Compare forwarder
+Sea freight
+Air freight
+Rail freight
+Truck freight
+Customs clearance
+Car transport
+view_carousel
+Comparing freight forwarders & finding cheap transport prices
+ 
+Transport & freight costs calculator
+Our freight calculator at the top of the page combines sea freight, air freight, rail and truck transport and thus finds the ideal logistics company for your route. The prices of all forwarding agents within our network are compared and the best offer is selected.
+  
+Freight forwarders auction-tool
+Should we not be able to display an immediate price, we will open an exclusive bidding process for you. This way, all eligible freight forwarders can make bids on your transport. You can reach all partner carriers with one click and receive an email after each offer to keep you informed. 
+  
+Freight forwarders’ and logistics services
+Find everything you are looking for in the logistics area at Freightfinders. We offer countless services from reliable forwarding agents for cheap and easy transports of your goods. Find the right transport company online in a minimum of time and book additional services such as customs clearance, transport insurance, packing & loading. 
+  
+directions_boat
+Sea freight - transports with Freightfinders
+Today more than ever, businesses are global, and the trend continues. Shipping sea freight to Hong Kong today and next month a sea transport from New York. 
+Freightfinders offers the possibility to bring your goods safely and quickly to your destination with the help of trained logistics specialists. Let experts help you benefit from fair prices and reliable sea freight forwarders. Blind trust was yesterday – with Freightfinders, you take control of your goods flows, reduce transport and freight costs and receive targeted information about your sales markets.
+  
+Shipping FCL & LCL sea freight from /to Germany
+Whether you have a pallet of spare parts from Hamburg to Shanghai, or a 40ft. high cube container from Taiwan to Berlin, we offer to help you with any sea freight. Freightfinders has transport prices from over 300 ports worldwide from Germany (export) and to Germany (import). You want to ship containers? Compare sea freight prices and use the Freightfinders dashboard for free with GPS monitoring of all your container transports.
+  
+Sea freight
+flight_takeoff
+Air freight - transports with Freightfinders
+Freightfinders is your online transport company for air freight. Find qualified air freight forwarding and additional services. Obtaining offers from countless transport companies is a matter of the past, with Freightfinders you can reach all our partner carriers with just a few clicks.
+  
+Cheap air freight prices with our bidding tool
+Freightfinders offers you the possibility to have air freight forwarders bid on your transport. Start an auction and we will inform you about the best offer. Since we always look for the cheapest quotes, you are usually offered a sea freight price. Simply click on "request air freight price" and let the forwarding agents make bids on your transport request.
+Just use the transport comparison at the top of the page.
+  
+Air freight insurance
+In spite of all precautions, there may, unfortunately, be damage to air freight transports, as there can be with any type of transport. It is not necessarily only your goods that need to be affected, so that you have to assume liability. In order not to experience a nasty surprise and to save more costs, we strongly recommend covering air freight insurance, which can simply be done on our platform.
+  
+Air freight
+train
+Rail transport with Freightfinders
+Rail transport is not only an environmentally friendly alternative, but also a fast and reliable one. With Freightfinders, you can book this type of transport cheaply and quickly and also benefit from many years of experience.
+  
+Cheap rail freight prices thanks to our auction-tool
+At Freightfinders you are no longer dependent on spending your time getting and evaluating offers. Let our partner carriers provide you with your transport request and reach reliable shipping companies with just a few clicks. You can quickly and easily compare the prices of the various transport routes and book a cheap route for your rail transport. Benefit from our experience and the experience of our partners and transport your goods quickly and safely.
+  
+Container transport via train
+FCL via rail transport
+We offer you the possibility to transport your rail freight in a FCL container. No matter which goods you want to transport, in this container type anything can be shipped and is additionally well protected. 
+ 
+LCL via freight train transport
+LCL containers are the cheaper alternative for your rail transport. However, because of the handling. it is also a more time-consuming option.
+  
+Rail transport
+local_shipping
+Truck transport with Freightfinders
+Whether short or long distances, national or international – truck transports are often booked not only separately, but also in combination with other transport modes to transport goods to their destination. Therefore, ensure the best price for your next transport at Freightfinders.com. 
+With us, you will find shipping companies that execute your transport at the best prices.
+ 
+Cheap truck transport prices thanks to our auction-tool
+With Freightfinders, you have the possibility to start an auction. Let freight forwarders bid on your transport request and find cheap prices. Simply use the freight calculator at the top of the page. If you want to transport goods by sea, you can also arrange a pre-carriage and on-carriage by truck via our website.
+ 
+Container transport via truck
+FCL for truck transports
+We offer you the option to transport your goods in a FCL truck container. Thus, you have enough space for your goods and can shield them from external influences, as well.
+ 
+LCL for truck transports
+With LCL containers, you can save on your truck transport costs. Here, your goods are loaded together with goods of others in one container. This, however, takes more time as the cargo has to be handled.
+ 
+Truck transport
+work
+Customs clearance by experienced customs brokers
+Because of the increasing international trade, customs clearance is also becoming more and more important. However, due to various agreements, details and exceptions, this task is becoming more and more difficult to manage. In order to facilitate transport and customs clearance, we offer you the services of experienced customs agencies.
+ 
+Why choosing customs clearance with Freightfinders
+Errors in customs clearance usually cost not only time but also money. That is why it is particularly important to declare goods very thoroughly. Freightfinders, therefore, works with experienced customs agents who take full care of all aspects of the customs clearance of your transport. Leave the document creation for your transport to our experienced professionals and, thus, make sure that your goods are properly cleared. 
+ 
+Booking customs clearance as an additional service
+Find cheap forwarding agents, be it sea freight, air freight, rail or truck transport, and add customs clearance as an additional service. Our customs agents can help you with any customs procedure, no matter which country you want to import from or export to. 
+Just use the transport comparison at the beginning of the page.
+ 
+Customs clearance
+directions_car
+Car transport
+With the Freightfinders freight calculator, you can quickly find and book cheap freight forwarders for your car transport. You want to ship the vehicle to another continent? No problem! We transport your car safely and quickly to your requested destination.
+ 
+Container und RoRo ship transport
+So that you can individualise your vehicle transport, you will find the possibility to ship your car, motorbike, etc. by container or RoRo ship at Freightfinders.com. Vehicle transports via container not only offer protection against external influences, but also the choice between a LCL and FCL container. The RoRo ship simplifies the transport of your car and ensures a particularly cheap shipping.
+Choose the right offer for you and your vehicle and benefit from experienced shipping companies as well as fast and safe vehicle transport.
+ 
+Price comparison for vehicle transports
+Receive direct offers for your vehicle shipping with our forwarding comparison-tool. Should we not be able to offer an immediate price, we will open a free transport auction for you. Then, all partners can bid on your car transport and you will get an ideal partner at a reasonable price.
+ 
+Car transport
+More Logistic Services & Information Articles
+Transport packaging
+Container loading
+Transport insurance
+LCL (Less than container load)
+FCL (Full container load)
+Container fumigation
+Customs clearance
+Calculating transport costs
+Find German shipping companies
+Car shipping Germany
+Car shipping Africa
+International forwarders
+Fewer - Container terminal software
+Transport costs calculation
+Wood / timber transport
+Port to port transport
+Door to door transport
+Door to port transport
+Port to door Transport
+Transport Index - Commodity Groups
+Full Truck Load (FTL) Logistics
+Less Truck Load (LTL) Transports
+FREIGHTFINDERS GmbH
+Pappelallee 78/79
+10437 Berlin
+DE
+E-Mail: info@freightfinders.com
+Phone: +49 30 577 005 47 0
+Company
+Press
+Jobs
+Privacy Policy
+Terms & Conditions
+Impressum
+Customs clearance
+International transport & country index
+Sea freight
+Air freight
+Rail freight
+Truck transport
+Container transport
+Become a logistics partner
+Freight Cost Calculator
+Major Customer Portal
+Transport Insurance Calculator
+Cubic Metre Calculator
+Load Metre Calculator
+Transport Index - Goods Groups
+Pallet-Shipping
+Fulfillment Service
+Timber transport & forest logistics
+language
+English
+Deutsch
+EUR
+USD
+CNY
+Existing Account:
+×
+Forgot password?
+Remember me
+Registration:If you have not created an account yet, please
+Sign up here
+×
+Close
+We use cookies to improve user experience, and analyze website traffic. For these reasons, we may share your site usage data with our analytics partners. By clicking “Accept” you consent to store on your device all the technologies described in our Cookie Policy
+Accept

@@ -1,0 +1,155 @@
+Startseite | MIP Technology - Robust ID designed for Industry
+Zum Inhalt springen
+MIP Technology – Robust ID designed for Industry
+Startseite
+Über MIP
+Produkte
+Datenblätter
+EN
+Cookie-Richtlinie (EU)
+Zurück
+								
+ 
+Track & Trace in rauer Umgebung 
+ 
+ 
+magnetische Informations Plattform MIP 
+Die Magnetische Informations Plattform ist die Lösung für die automatische Identifikation und Datenerfassung (AIDC) von Produktionsmitteln, insbesondere in den Umgebungen wo RFID und optische Identifikationstechniken an ihre Grenzen stoßen. Die magnetisch gespeicherte ID übersteht Temperaturen bis 400 °C. Durch den Multilagenaufbau in einer Sandwichstruktur aus Edelstahl, Messing, Aluminium oder Polymerwerkstoffen ist das ID Tag an den Einsatzort angepasst.Die Verformbarkeit des Tags erlaubt eine Anpassung an die Oberflächentopographie. Die Aufbauhöhe  von lediglich 0,3 mm, inklusive Deckschicht, ermöglicht die Integration in dünnwandige Bauteile.Die magnetisch gespeicherte Information kann zusätzlich auf der Deckschicht eingraviert sein, allerdings kann die magnetische Information auch unsichtbare Daten für den Plagiatschutz enthalten, beispielsweise in Typenschildern. 
+ 
+Magnetisches ID Tag mit gravierten optischen IDs
+ 
+Laserdichtgeschweißtes Edelstahl ID Tag
+Unsere Lösung 
+ID Tags 
+Diese können auf Ihre Produkte und Produktions-mittel aufgebracht werden, um diese für die automatische Erfassung nachzurüsten. 
+Die Robustheit der Datenträger ist einmalig. Insbesondere deren thermische Beständigkeit bis 400 °C sowie die chemische Beständigkeit machen sie zur ersten Wahl in der industriellen Anwendung. 
+Scanner 
+Unser Anspruch an die Scanner ist ebenfalls eine hohe Robustheit. Die Ausführung kann bis hin zu Scannern in Edelstahlgehäusen mit IP 67 Zertifizierung reichen.Scanner können hand-geführt oder fest installiert eingestetzt werden. Der Leseprozess wird entweder durch einen Knopf am Scanner oder ein Trigger-signal ausgelöst. 
+MIP Plattform 
+Version 1:Stand alone Version:Das GUI ist die Schnittstelle zwischen Datenbank und Anwender. Gelesene IDs werden für den Anwender visualisert.Version 2:Einbindung der MIP in eine bestehende IIOT - Plattform.
+ 
+ 
+ 
+Ihr Nutzen 
+ 
+						Erfassung					
+						Erschließen von I4.0 Potenzialen durch die MIP ID. Steigerung der Datenqualität bei der Nachvervolgung Ihrer Produktionsmittel.					
+ 
+						Fälschungsschutz					
+						Mit einer kundenspezifischen, einzigartigen ID gewährleisten Sie die Nachverfolgbarkeit und den Plagiatschutz.					
+ 
+						Robustheit					
+						ID Tags sind für verschiedene Anwendungen optimiert, bspw. Temperatuen bis 400 °C oder Chemikalienkontakt.					
+ 
+						Individuelle Lösungen					
+						Jede Fertigung ist besonders, wir entwicklen kundenspezifische Lösungen bezüglich ID Tags und MES Integration.					
+ 
+						Rapid Protoyping					
+						Hochauflösender 3D-Druck wird für Prototypen eingesetzt,  bspw. von Spulenwickelkörpern.					
+ 
+						Entwicklung					
+						Auslegungn und Herstellung kundenspezifischer induktiver Schreibköpfe für hochauflösende Maßverkörperungen.					
+Mehr Informationen
+Über MIP 
+Die magnetische Informationsplattform MIP basiert auf der Datenspeichertechnik von Festplattenspeichern. Die Grundlagen  wurden im Rahmen des Sonderforschungsbereichs 653 der Leibniz Univeristät Hannover erforscht. Durch die Gründung der MIP Technology GmbH wurde die Technik zur Industriereife gebracht. Die Gesamtentwicklungszeit beträgt über 14 Jahren, von denen die Gründer acht Jahre an dem Thema gearbeitet haben.Die magnetische ID kann durch metallische Schichten hindurch ausgelesen werden. Dies ist ein Grund für die Robustheit der ID Tags.Zusätzlich zur industriellen Applikation arbeiten wir an einer fälschungssicheren mangetischen Kennung für den Plagiatschutz. Hierbei wird die magetische ID als zusätzliche Informationsschicht unter optisch lesbaren Kennungen eingesetzt. 
+ 
+ID Tag Scanner 
+ 
+Induktiver Schreibkopf 
+ 
+Graphisches User-Interface 
+Produkte 
+ 
+MIP ID Tags 
+Setzen Sie auf die MIP ID Tags für die automatische Identifikation in rauen Umgebungen. Für weitere Informationen stehen Ihnen unsere Datenblätter zur Verfügung. 
+Datenblätter
+ 
+Induktive Schreibköpfe 
+MIP Schreibköpfe sind an die Kundenspezifikationen angepasst und werden zur Erzeugung kleiner Magnetisierungen in Maßverkörerungen eingestzt. Das Schreibfeld ist ausreichend um bestehende Magnetisierungen zu überschreiben und erzeugt scharfe magnetische Übergänge zwischen Nord- und Südpolen. 
+Datenblätter
+ 
+MIP Secure 
+Diese Muster bestehen aus kreisförmigen magnetischen Punkten mit einem Durchmesser <100 Mikrometer, wodurch eine hohe Datendichte erreicht wird.  Der Einsatz dieser Muster ist im Plagiatschutz unterhalb optisch lesbaren Kennzeichnungen. 
+Anwendungen 
+ 
+Smart Factory 
+In einer modernen Fertigungslinie gehört die Visualisierung und Steuerung der Produktion mit MES-Software zum Stand der Technik. Die Betriebsdatenerfassung ist ein wesentlicher Aspekt. Leider sind Produktionsmittel bei der Erfassung, aufgrund einer fehlenden automatisierten Identifiaktionstechnik nur selten berücksichtigt.Schließen Sie diese Lücke mit der MIP ID! 
+ 
+ 
+Predictive Maintenance 
+ 
+Setzen Sie die magnetische Informationsplattform zur Vorhersage von Verschleiß und Wartungsintervallen, in Abhängigkeit der erlebten Prozessparamter ihrer Produktionsmitel ein. Dadurch sparen Sie Kosten und steigern ihre Produktionskapatzitäten. 
+Authentification 
+ 
+Integrieren Sie die MIP Secure ID in Ihre Produkte. In Kombination mit MIP Leseeinrichtungen werden Plagiate zuverlässig und schnell erkannt.Ihre Innovation gehört Ihnen! 
+Kontakt 
+ 
+						Email					
+info@mip-technology.de 
+ 
+						Telefon					
+						+49 511 260 59564					
+ 
+						Anschrift					
+						Technologie Zentrum im WissenschaftsparkHollerithallee 1730419 HannoverDeutschland					
+Förderungen und Referenzen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anschrift 
+ 
+Technologie Zentrum im WissenschaftsparkHollerithallee 1730419 HannoverDeutschland
+Netzwerke 
+ 
+MIP Technology
+ 
+INNOMAG e.V.
+Rechtliche Hinweise 
+ 
+Impressum
+ 
+Datenschutz
+MIP Technology – Robust ID designed for Industry,
+						
+Privacy 
+Startseite
+Über MIP
+Produkte
+Datenblätter
+EN
+Cookie-Richtlinie (EU)
+ 
+Cookie-Zustimmung verwalten
+Um dir ein optimales Erlebnis zu bieten, verwenden wir Technologien wie Cookies, um Geräteinformationen zu speichern und/oder darauf zuzugreifen. Wenn du diesen Technologien zustimmst, können wir Daten wie das Surfverhalten oder eindeutige IDs auf dieser Website verarbeiten. Wenn du deine Zustimmung nicht erteilst oder zurückziehst, können bestimmte Merkmale und Funktionen beeinträchtigt werden.
+Funktional
+Funktional
+								Immer aktiv							
+Die technische Speicherung oder der Zugang ist unbedingt erforderlich für den rechtmäßigen Zweck, die Nutzung eines bestimmten Dienstes zu ermöglichen, der vom Teilnehmer oder Nutzer ausdrücklich gewünscht wird, oder für den alleinigen Zweck, die Übertragung einer Nachricht über ein elektronisches Kommunikationsnetz durchzuführen.
+Vorlieben
+Vorlieben
+Die technische Speicherung oder der Zugriff ist für den rechtmäßigen Zweck der Speicherung von Präferenzen erforderlich, die nicht vom Abonnenten oder Benutzer angefordert wurden.
+Statistiken
+Statistiken
+Die technische Speicherung oder der Zugriff, der ausschließlich zu statistischen Zwecken erfolgt.
+Die technische Speicherung oder der Zugriff, der ausschließlich zu anonymen statistischen Zwecken verwendet wird. Ohne eine Vorladung, die freiwillige Zustimmung deines Internetdienstanbieters oder zusätzliche Aufzeichnungen von Dritten können die zu diesem Zweck gespeicherten oder abgerufenen Informationen allein in der Regel nicht dazu verwendet werden, dich zu identifizieren.
+Marketing
+Marketing
+Die technische Speicherung oder der Zugriff ist erforderlich, um Nutzerprofile zu erstellen, um Werbung zu versenden oder um den Nutzer auf einer Website oder über mehrere Websites hinweg zu ähnlichen Marketingzwecken zu verfolgen.
+Optionen verwalten
+Dienste verwalten
+Anbieter verwalten
+Lese mehr über diese Zwecke
+Akzeptieren
+Ablehnen
+Einstellungen ansehen
+Einstellungen speichern
+Einstellungen ansehen
+{title}
+{title}
+{title}
+Zustimmung verwalten
+ 

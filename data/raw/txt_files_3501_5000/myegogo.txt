@@ -1,0 +1,116 @@
+SSI Plattform zum Schutz der digitalen Identität - myEGO
+skip_to_content
+nav.home
+Produkte
+Für User
+Für Businesspartner
+Use Cases
+Nachhaltigkeit
+Blog
+Über uns
+ENG
+Kontakt
+nav.toggle_menu
+nav.close_menu
+Produkte
+Für User
+Für Businesspartner
+Use Cases
+Nachhaltigkeit
+Blog
+Über uns
+ENG
+Kontakt
+ 
+Home 
+myEGO – Deine SSI Plattform
+Das Leben ist kompliziert.RELAX. Wir sind da, um es einfacher zu machen.
+Das Ziel einer SSI Plattform? Nie mehr den Führerschein suchen, Kontoinformationen kopieren oder deine  Kreditkarte abtippen – das stand zu Beginn unserer IDEE. Der TRAUM:  einen maximal sicheren Ort schaffen für alle wichtigen Informationen,  die das Leben braucht.  HIER IST ES: das Zuhause für das digitale Ich, für digitale Identitäten und eine bessere digitale Kundenbeziehung.    
+Kontaktiere uns
+myEGO Event-Reihe
+IDX – Identity Tomorrow
+Bei IDX geht es vor allem darum, „Freunde“ von SSI zusammenzubringen und die Möglichkeit zu bieten, sich zu den aktuellen Themen rund um dezentrale Identitäten auszutauschen. Freuen Sie sich auf spannende Impuls-Vorträge und Möglichkeiten zum Networken!
+Mehr erfahren und Ticket sichern
+Die myEGO Founder Challenge
+Sei dabei!
+myEGO stellt die nächste Generation der digitalen Identität bereit und verbindet alle Akteure innerhalb von Ökosystemen und darüber hinaus – interoperabel, offen und selbstverwaltet. myEGO baut die technische Infrastruktur auf, indem es in Bezug auf Protokolle, Ledger und Wallets agnostisch ist. Mit der Founder Challenge werden Sie an der Spitze der Innovation stehen.
+Mehr erfahren
+Warum myEGO die ideale SSI Plattform ist?
+Daten sind die Ressource unserer Zeit – was können wir tun, um das zu ändern?
+„Bei jeder digitalen Anwendung, sei es das Mobiltelefon, das Surfen im Internet oder die Nutzung einer Kundenkarte, entstehen Daten. Manche dieser Daten werden von den Unternehmen gesammelt, aufbereitet und verkauft. Dadurch kann das Recht auf informationelle Selbstbestimmung oder auch der Datenschutz beeinträchtigt werden.“ Čas, Peissl. Datenhandel – ein Geschäft wie jedes andere? 12.3.2010, https://bit.ly/3r4cCI2
+Als SSI Plattform erschaffen wir Lösungen, weil uns die digitale Identität wichtig ist.
+Digitale Identität des Menschen mithilfe einer SSI Plattform schützen.
+Die Identität eines Menschen umfasst weit mehr als nur die rechtsbegründete Identität, den Ausweis. Es sind die Merkmale und Charakteristiken, die einen Menschen ausmachen, von „Papier- oder Plastik“-Dokumenten, wie der Ausweis, der Pass, der Führerschein, die Bankkarten, etc. bis hin zu Krankheitsakten, Verträge, Online-Accounts und viele mehr – Identität ist dynamisch. Das Aufkommen des Internets und die zunehmende Digitalisierung veränderte all unsere gesellschaftlichen und persönlichen Bereiche und zerrütte bisherige Identitätsverständnisse. Diese Identität gilt es zu schützen und myEGO bietet als SSI Plattform eine Lösung.
+Peter Steiner, „On the Internet, nobody knows you’re a dog.“ The New Yorker, 5. Juli 1993. Bild: PeterSteiner/The New Yorker/The Cartoon Bank
+myEGOs SSI Plattform ist deine Schnittstelle
+Für mehr Selbstbestimmtheit des Menschen und eine bessere Kundenbeziehung 
+Getrieben von der Vision, dass jeder Mensch Eigentümer seiner persönlichen Daten im digitalen Raum sein sollte, haben wir unsere Produkte und Dienstleistungen auf dem Modell der selbstbestimmten Identität (Self-Sovereign Identity / SSI) entwickelt. SSI bedeutet, dass jeder den Besitz seiner personenbezogenen Daten kontrollieren und bestimmen kann, an wen und welche Informationen mit Dritten geteilt werden sollen. Bei myEGO gestalten wir daher vollständig userzentrierte, einfach zu bedienende, und nachhaltige Produkte und begleiten und beraten Unternehmen zum Thema digitale Transformation. myEGOs SSI Plattform ermöglicht Unternehmen und Menschen einen problemlosen, sicheren Austausch von einzigartigen Daten-Kombinationen. Wir bringen dadurch Flexibilität in alle Arten von digitalen Transaktionen und gewährleisten gleichzeitig eine positive Nutzererfahrung.
+SSI Plattform und unser SSI-Modell als Lösung
+ ①FÜR USER
+Nutzer können mit nur einem verifizierten Account alle angebundenen Services von Businesspartnern nutzen – ohne sich immer wieder neu registrieren zu müssen.
+Für User
+ ②FÜR UNTERNEHMEN
+Mit unserem intelligenten Onboarding-Ansatz können die Benutzerdatenbestände über Ökosysteme und Dienste hinweg verknüpft und so Datensilos eliminiert werden.
+Für Businesspartner
+ ③ IN KOOPERATION
+Zusammen mit Drittpartnern sorgen wir für eine sichere Kundenbeziehung. Wir arbeiten gemeinsam mit Verifizierungs-Anbietern, Anbieter für die Validierung und Attestierung von Dokumenten, etc.
+ ④ AUF BLOCKCHAIN
+Die Verwendung von Blockchain-Technologie, einem dezentralen Informationssystem, wird gewährleistet, dass die Daten nicht manipulierbar sind und somit zur digitalen Identifikation genutzt werden können.
+Deine SSI Plattfrom myEGO
+Das digitale Zuhause ist hier: unsere Werte
+SSI Solution: Es geht um Menschen.
+Jeder Mensch ist einzigartig. Unsere Überzeugung: Jeder hat das Recht, seine persönlichen Daten selbst verwalten und schützen zu können. Deshalb bieten wir eine App, in der jeder sein digitales Ich aufbewahren kann. So sicher und so leicht verständlich wie es nur geht.  Denn wir wollen das Puzzle unserer digitalen Identitäten für eine bessere Welt zusammenfügen. 
+Das SSI Prinzip: Transparenz
+Daten monetarisieren? No way! Wir schützen alles Wichtige so, wie wir es für unsere eigenen Dinge tun würden. Deshalb speichern wir auch niemals die eindeutigen Benutzerdaten oder lesen Nutzerdaten mit. Durch die Verwendung der Blockchain-Technologie ist jeder einzelne Lese- und Schreibvorgang absolut nachvollziehbar, eindeutig zuordenbar und transparent.
+Unser SSI Credo: keep it simple
+Jeder sollte so einfach und sicher wie möglich Zugang zu seinen persönlichen Daten haben. Unser wichtigstes Ziel bei der Entwicklung der myEGO-App war deshalb, die Funktionen intuitiv zu machen. Unser Team hat mit einzigartigem Engagement ein Produkt geschaffen, das die perfekte Balance zwischen innovativer Technik und purer Usability herstellt. Eine intelligente Suchfunktion und das klare UX-Design sind weitere Zutaten zu unserem Prinzip.
+SSI Protection – statt Papier und Plastik
+Wir verwenden die beste Technologie am Markt. Damit ermöglichen wir ein Höchstmaß an Sicherheit durch ein System, das dezentral und verschlüsselt auf mehreren Ebenen arbeitet. Damit ist ein Quantensprung in puncto Verwaltung persönlicher Daten möglich: Wir beenden die Ära der Identitäten aus Papier und Plastik. myEGO ermöglicht eine Welt, in der Organisationen und Individuen ihre Identitäten nicht immer wieder neu dokumentieren müssen. Sich verbinden, kaufen, sprechen oder ausweisen: Alles geht – in Deinem neuen digitalen Zuhause.
+Deine SSI Plattform
+We have a dream.
+Wir sind gestartet mit der Vision, dem digitalen Ich ein sicheres Zuhause zu erschaffen. Unser Traum: Das digitale Leben für jeden von uns sinnvoll und sicher zu gestalten. Mit unserem Team aus internationalen Spezialisten haben wir diese Idee in die Realität umgesetzt. Wir sind Ihre SSI Plattform für eine sichere digitale Identität. 
+Lerne unser Team kennen.
+FAQs zu unserer SSI Plattform
+a
+				Was ist die Abkürzung SSI?			
+SSI seht für Self-Sovereign Identity. Hiermit ist eine selbst souveräne und dezentrale Identitätsverwaltung gemeint. Die myEGO SSI Plattform definiert unter der Identität unterschiedliche verifizierte Identitätsmerkmale wie z.B. den Personalausweis, den Führerschein usw. 
+a
+				Was macht eine SSI Plattform?			
+Eine SSI Plattform stellt das technische Netzwerk auf um zum einen die digitale Identität des User zu verifizieren und zu verwahren und zum anderen diese Identität an ein Unternehmen zu übertragen. Hierbei werden vornehmlich Zertifikate ausgestellt, welche ebenfalls von der SSI Plattform als Dienst zur Verfügung gestellt werden. 
+a
+				Wie funktioniert SSI?			
+Bei SSI steht der Nutzer der digitalen Identität im Mittelpunkt, denn er selbst ist im Besitz seiner persönlichen Daten und entscheidet über den Fremdzugriff. „Bring Your Own Identity“ (BYOI) bezeichnet hierbei die Idee und das Ziel, diese eigene Identität bei Bedarf in beliebigem Umfeld, sei es privat oder geschäftlich, zum Online-Shopping oder in behördlichem Kontext, nutzen zu können.
+a
+				Wie kann ich die SSI Plattform myego nutzen?			
+User können kostenfrei die myEGO APP (Managementtoll/Wallet) aus dem jeweiligen Store (Apple/iOS oder Google Playstore) herunterladen und nutzen. Hierbei steht dem User sämtliche Datenkategorien und Verifizierungslevel zur Verfügung. 
+ Download on the App Store  Download on Google Play 
+Kontakt
+PlattformSSI
+Für User
+Für Businesspartner
+Use CasesSmart City
+Automotive & Mobility
+Versicherungen
+Covid
+AboutÜber uns
+Jobs
+Vision
+ResourcesBlog
+White Paper Smart City
+White Paper Mobility
+White Paper Versicherung
+Medium
+KontaktImpressum
+AGB
+Datenschutzerklärung
+LinkedIn
+ Pappelallee 78/79
+10437 Berlin
+hi@myego.io
+Newsletter 
+Subscribe
+  Download on the App Store  Download on Google Play 
+ 
+myEGO,
+						
+				Stolz präsentiert von WordPress.			

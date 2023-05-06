@@ -1,0 +1,5 @@
+Achtung
+      Zahlung wird abgeschlossen
+    
+      Bitte nutzen Sie während des Bezahlvorgangs den Zurück-Button im Browser nicht und führen Sie keine Aktualisierung durch. Bitte warten Sie auf die Verarbeitung des Ergebnisses. Sie werden nun zum Webshop weitergeleitet ...
+    
