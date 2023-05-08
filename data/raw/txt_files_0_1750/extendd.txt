@@ -1,0 +1,166 @@
+Industrial laser and video projectors from EXTEND3D
+ 
+IndustriesAutomotive EngineeringShipbuildingMachinery & Plant EngineeringAircraft ConstructionCommercial and Special Vehicle ConstructionRail Vehicle ConstructionProductsWERKLICHT PRO LWERKLICHT PRO SWERKLICHT VIDEOAccessoriesCompanyCompetencesReferencesJobsInfocenterWiki: Laser ProjectionWiki: Video ProjectionDatasheetsCase StudiesNewsBlogPressEventsNewsletterContact 
+DeutschEnglish한국어 
+de|en|ko 
+Laser projection supports quality assuranceParticularly in quality assurance and the production of high-quality goods, reworking is often done manually. The earlier producers rework, the more efficient the process. Clear indications on the moving component show where the points to be reworked are located and thus facilitate this work step. An automated inspection system systematically records the spots beforehand. The laser system makes them clearly visible to the worker in the finishing area. Dynamic tool tracking also detects whether and how carefully the spots have been reworked. Highest quality results.
+Laser Projection With video projection step by step to the perfect resultWERKLICHT Video visualizes individual work steps or detailed cable runs directly on the workpiece. The fitter does not have to search for the right position for a long time but can concentrate fully on the execution. This ensures the highest quality standards despite a high number of variants, thus minimizing time-consuming reworking and reducing costs.
+Video Projection Precisely dimension with laser projectionError excluded: The dynamic laser projection accurately locates the correct position for studs or holders or the course of weld seams or trim on the workpiece to within a few tenths of a millimeter. WERKLICHT Pro references itself automatically. Time saving, precise work with high product quality and without long setup times is thus easily possible even for complex components with curved surfaces and different viewing areas.
+Laser Projection X-ray vision thanks to dynamic video projection With the help of video projection, the invisible is made visible – directly on the component. The 3D visualization helps to make faster decisions, for example in the design process or during error analysis. Everyone sees immediately what is at stake, and the direct visualization facilitates discussion in the team.
+Video Projection The dynamic laser projection is a digital templateDynamic laser projection makes assembly and quality assurance easier, faster, more flexible and more cost-efficient. No more stocking large sets of templates. Variant attachments can be quickly and accurately recorded and working positions marked. Whether the workpiece or the projector is moved – the laser projection maintains the position.
+Laser Projection Video and Laser Projection: Augmented Reality for Industry 4.0Industry 4.0 means one thing above all: digitization that makes industrial processes more flexible in order to keep pace with the diversity of variants and optimize manufacturing processes. Dynamically controlled video and laser projectors connect analog steps with the digital world – from the CAD drawing and projection onto the workpiece to the comparison of plan and actual status.
+ProductsConnecting digital 3D plan data with reality using WERKLICHT 3D softwareThe functional principle of WERKLICHT allows work points or areas to be precisely marked by laser or video projection, and notes on work steps to be indicated directly on the workpiece. The software uses crosshairs to indicate reference points and employees can place components correctly. The crosshairs thus ensure a consistent level of quality.
+Video Projection  
+Fields of application and application scenarios of laser and video projection in industryDynamic video and laser projection show their strengths in various industrial areas – especially where manual processes are necessary. Particularly in complex situations, such as short cycle times, a high number of assembly steps or a large number of variants, it can greatly simplify manual work. The areas of application for our video and laser projection range from prototype construction and one-off production to quality assurance during series production, flow production and short-cycle inline processes. Wherever, for example, steel or sheet metal must be processed manually with precision and error-free assembly steps are necessary, dynamic laser and video projection saves time. At the same time, it reduces the effort required because physical positioning and inspection templates can be dispensed with. The time benefits include reduced setup and inspection times and less rework because high-precision work is performed right from the start. In addition, time-consuming searching is eliminated because the position is projected unambiguously onto the component. A particularly important application scenario: the production of many model variants with tight cycle times. In this case, the projection shows the assembler the correct positions for the respective variant – for example, for the assembly of add-on parts. Misinterpretation is hardly possible: This reduces scrap and promotes quality.
+ 
+In pre-assembly and final assemblyWhether individual assemblies or nearly finished products, WERKLICHT identifies assembly positions and specifies the logical assembly sequence.
+Automotive EngineeringCommercial and special vehicle constructionRail vehicle constructionMachinery and plant engineeringAircraft constructionIn the samplingFor quality assurance and process control by projecting target positions or contours directly onto the component with maximum precision.
+Automotive EngineeringCommercial and special vehicle constructionRail vehicle constructionMachinery and plant engineeringFor reworkIn final inspection, thanks to model-based tracking, for the highest quality in manual rework, because no critical areas are overlooked.
+Automotive EngineeringIn the bracket assemblyDigital stencils to increase production efficiency as well as quality and greatly reduce the error rate.
+Rail vehicle constructionAircraft constructionCommercial and special vehicle constructionShipbuildingMachinery and plant engineeringIn pre-series constructionDigital templates projected with the help of the laser make the tacking of welded parts more precise, among other things when welding in the course of automotive prototype construction.
+Automotive EngineeringAircraft constructionAs a welding templateFlexibility and the reduction of complexity in the interior finishing of ships, in the tacking of welded parts in mechanical and plant engineering, and add-on parts in steel and rail vehicle construction.
+ShipbuildingMachinery and plant engineeringRail vehicle constructionAs a painting templateDigital stencils or image projections directly on the outer skin facilitate the increasingly complex and demanding outer skin coatings or foiling, for example on aircraft and ships.
+Aircraft constructionShipbuildingVideo projection in measurement and simulation data visualizationProjected measurement results on components, for example as false colors, deviation maps or point measurements. The main advantage: Coordination and intuitive visual control are quick and clear.
+Automotive EngineeringAircraft construction 
+Laser and video projection for numerous industriesIndustriesJust as CAD systems and digital component information are used in almost every branch of industry, WERKLICHT is also used in a large number of industrial sectors. Because wherever digital 3D data from CAD, measurement/simulation results or surface and texture data are used, WERKLICHT helps to turn them into reality. From unit-dependent automotive manufacturing to shipbuilding with batch size 1, the advantages of WERKLICHT can be used everywhere.
+Industries 
+Automotive EngineeringSpeed up processes, reduce error rates, optimize quality: These are the three most important advantages of video and laser projection in the automotive industry.
+ShipbuildingIn shipbuilding, laser projection helps to realize digital plans. For example, the positions of add-on parts are projected to the exact positions on the ship’s hull using laser projection, or digital templates are projected onto assemblies when welding the hull.
+Machinery & Plant EngineeringIn mechanical and plant engineering, laser projection accelerates and simplifies processes from vision to production. The elimination of physical templates makes the production process more cost-effective. Laser projection can also be used in quality assurance to minimize the error rate.
+Aircraft ConstructionThe time required for the precise assembly of holders in aircraft construction can be reduced by up to 50 percent thanks to laser projection. This is possible thanks to the clear projection of the exact holder positions and orientation directly onto the fuselage of the aircraft, which is easy for the fitters to understand.
+Commercial and Special Vehicle ConstructionA wide variety of model variants produced in small series – this is what characterizes special vehicle construction. Whether agricultural machinery, caravans, sports cars or even prototype construction, laser projection can enable time savings of up to 75% where components have to be fitted or trimmed, add-on parts positioned and assemblies mounted.
+Rail Vehicle ConstructionRail vehicles consist of particularly large and complex components. Laser projection replaces positioning templates, supports the positioning and welding of these components, outputs work instructions from CAD data and displays them directly during work processes.
+ 
+Why video and laser projection from EXTEND3D?Solutions from EXTEND3D aim to provide optimal support for production, assembly, quality assurance and rework. The solutions lead to higher productivity thanks to intuitive worker guidance. The system is easy to set up, and quickly ready for use. The integrated OPC-UA interface is part of all products and enables integration into plants and synchronization with conveyor technology. Projection contents are then displayed fully automatically as soon as a component is conveyed into the relevant area. In addition, EXTEND3D offers particular flexibility in laser projection: The components can be moved or repositioned in the work process and the projection system adapts seamlessly to the new conditions thanks to dynamic referencing.
+ 
+Dynamic ReferencingDynamic referencing enables particularly high precision with the greatest possible flexibility at the same time. This means that our video and laser projectors can project the digital template onto the component at any time – regardless of whether the object or the projector is moving. The dynamics of the movement are captured by calibrated cameras and software with smart image processing algorithms and continuously calculated for the projection. This makes it possible for the laser or video image to “lock” onto the workpiece, as it were – even when it is moving. In dynamic referencing, a distinction is made between two methods: marker-based and markerless tracking. Marker-based tracking works flexibly on a wide variety of components and materials and enables high-precision digital templates while complying with specified dimensioning regulations from the construction drawing. Markerless tracking is ideal for short cycle processes.
+Calibration for precise projectionFor dynamic referencing to work, the video or laser projection system needs calibration. With our simple and precise solutions, we ensure high and lasting process reliability of the system. There are three calibration methods to choose from: Either the projectors are calibrated and certified in-house in our in-house calibration laboratory or the customer performs recalibration steps himself using a test board. In addition, for integrated systems, there are also automated self-calibration mechanisms in the target environment, which are performed regularly in the process. In general, our Werklicht projection systems are robust and designed for daily use on the factory floor. This is especially true for the systems in mobile use.
+Highest precision even for difficult surfacesLaser projection offers maximum precision even on uncooperative surfaces that are particularly dark or highly shiny, for example. Everything you need to know about laser projection can be found on our Wiki page.
+Optimal visualization thanks to video projectionOur WERKLICHT VIDEO ensures direct transfer of the data “into practice” – onto the component in question: the engine hood, the ship’s hull or the prototype. Compared to lasers, this projection is absolutely flicker-free and as much content as required can be displayed. In addition, different colors are available for the image. For example, it can display measurement results on the workpiece in the form of false color and deviation maps or individual point measurement values. Everything you need to know about video projection can be found on our Wiki page.
+Highest precision thanks to laser projectionOur WERKLICHT Pro L and WERKLICHT Pro S enable maximum precision in the manufacturing process. Our dynamic laser projection enables industry to project templates, milling lines, cutting specifications or the assembly positions of add-on parts with high precision even onto moving workpieces. Companies benefit from lower error rates, lower costs and faster processes. Learn more on our new info page: All about laser projection in industry.
+ 
+WERKLICHT PRO LThe laser based digital templateWERKLICHT Pro L is a dynamic 3D laser projector for high-precision tasks in the areas of prototyping, in flow production and in series quality assurance. WERKLICHT Pro L is suitable for customized production and variant production up to series production. It is used by customers from the automotive engineering, rail vehicle construction, aerospace, marine, mechanical engineering or special vehicle construction industries, among others.
+About the productWERKLICHT PRO SScalable dynamic 3D laser projectionWERKLICHT Pro S brings dynamic laser projection directly to the production line. Place your working instructions in the correct position on the moving component. WERKLICHT Pro S was consistently designed for multi-projector installations that are permanently integrated into the production line or manufacturing cell. The synchronous operation of a freely configurable number of modular projection units allows all relevant areas to be illuminated and, in combination, even very large work volumes to be efficiently covered.
+About the productWERKLICHT VIDEOScalable dynamic 3D video projectionWERKLICHT Video 3D projection systems are recommended wherever complex 3D information is to be visualized in the context of the component in order to make manual tasks or activities more efficient. Thanks to augmented reality projection, manual annotations on the workpiece, complex blueprints and expensive templates and measuring equipment are a thing of the past. Thanks to this projection solution, workflows can be stringently guided and positioning tasks can be safely completed, but complex content can also be interpreted intuitively and as part of a team.
+About the productAccessoriesComprehensive range of useful accessories for your optimal WERKLICHT useWith our extensive range of hardware accessories, you can adapt your WERKLICHT system to your individual requirements. We offer you Computing power for data processing, adapter solutions for dynamic referencing, options for mounting your WERKLICHT in 3D and moving it ergonomically, and intuitive solutions for remote control. And if our standard accessories are not sufficient, we will be happy to develop individual solutions together with you.
+About the product
+WERKLICHT PRO LWERKLICHT PRO SWERKLICHT VIDEOAccessories 
+References 
+ 
+ALL REFERENCES 
+News 
+26. Oct. 2022How augmented reality supports the industryWhether assembly, quality assurance or manual rework – augmented reality simplifies these and many other processes in industry. Find out what these are, where the advantages and challenges lie, and whether the technology has future potential in our blog article.
+More information All Blog posts23. Mar. 2023ON THE WAY TO BATCH SIZE 1 WITH LASER AND VIDEO PROJECTIONHow dynamic laser and video projection provides valuable support for your workers and how even industrial production at batch size 1 will soon no longer be a problem, you can read in a 6-page exciting technical article from Factory ...More information All Press release24. Mar. 2023Control 2023 - International trade fair for quality assuranceVisit us in Stuttgart from May 9 to 12, 2023 and experience our WERKLICHT laser and video projectors live!
+Drop by Spatial Group in Hall 5/Stand 5416 or Visometry GmbH in Hall 3/Stand 3419 and see for yourself ...More information All Events21. Dec. 2022Newsletter Issue No. 3 | December 2022We would like to thank you very much for the good cooperation, the pleasant discussions, and the trust you have placed in us.  
+We wish you and your loved ones a Merry Christmas and a good start into 2023. Health, ...More information All Newsletter 
+Contact usTelephone consultation+49 (0)89 215 50 16 03Technical Support+49 (0)89 215 50 16 05Contact form* Please note our privacy policy
+ 
+Newsletter Signup You would like to be informed regularly? Then register now and stay up to date.Subscribe now 
+Contact us 
+If you would like a demonstration or direct advice, our sales team will be happy to assist you. Our sales staff have many years of experience in industrial practice as well as in technical sales and consulting. So nothing stands in the way of a seamless implementation of WERKLICHT into your existing production environment.
+EXTEND3D Headquarter
+81671 Munich
+Trausnitzstraße 8
+info@extend3d.com
++49 (0)89 215 50 16 0
+www.extend3d.com
+ 
+About the company  
+EXTEND3D GmbH - Sales
+Germany | Austria | Switzerland
+Dirk Heinsohn
+dirk.heinsohn@extend3d.com
++49 (0) 89 215 50 16 03
++49 (0) 152 2267 04 07
+www.extend3d.com
+Pro-Technic Machinery Ltd.
+China
+atdmkt@protechnic.com.hk
++852 24 28 27 27
+www.extend3d.cn
+Breuck3D Manufacturing Co, Ltd.
+China | India
+Xiaobin Zhou
+xzhou@extend3d.com
++86 1856 270 34 36
+www.breuck3d.com
+Acuity Inc.
+Japan
+contact@acuity-inc.co.jp
++81 03 - 5774-6338
+www.acuity-inc.co.jp
+Datadesign Co., Ltd.
+Japan
+sales@datadesign.co.jp
++81 52 - 953-1588
+www.datadesign.co.jp
+ATTOTECH Co., Ltd
+Korea
+hyc225@attotech.co.kr
++82 51 331 0512
+www.attotech.co.kr
+ 
+Social Media 
+LinkedInXingFacebookYouTube 
+EXTEND3D GmbHTrausnitzstraße 8
+81671 Munich
+Germany
++49 (0)89 215 50 16 0
+info@extend3d.com
+Managing Directors:
+Dr. Peter Keitler | Nicolas Heuser
+ 
+INDUSTRIESAutomotive EngineeringShipbuildingMachinery & Plant EngineeringAircraft ConstructionSpecial Vehicle ConstructionRail Vehicle ConstructionCompanyContactCompetencesJobsReferencesDownloadsDatasheetsCase StudiesProductsWERKLICHT PRO LWERKLICHT PRO SWERKLICHT VIDEOAccessoriesNewsBlogPressEventsNewsletter 
+IndustriesProductsCompanyInfocenterNews 
+ 
+Privacy PolicyImprintAGB’s 
+© 2023 EXTEND3D GmbH. All rights reserved.        
+Contact form
+Salutation
+Mr
+Ms
+divers
+How did you hear about us?            
+Press
+Social Media
+Recommendations
+Website
+Other
+Yes, I agree that EXTEND3D may contact me personally by            
+Mail
+Newsletter
+Phone
+I hereby accept the privacy policy of EXTEND3D GmbH.
+You can change your mind at any time by clicking on the unsubscribe link provided in the footer of any email you receive from us or by contacting us at info@extend3d.com. We will treat your information with care and respect. For more information about our privacy practices, please visit our website. By clicking below, you agree that we may process your information in accordance with these terms.                
+ I hereby subscribe to the newsletter.
+We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. Learn more about Mailchimp's privacy practices here.                
+Mandatory fields
+Send
+Subscribe to the newsletter
+Keep up to date with the free newsletter from EXTEND3D. Read regularly current information about our products, trade fairs, the company and other services.
+After you have filled out and submitted the fields below, you will immediately receive a confirmation email. Please click on the link in this email to complete your newsletter registration. Only after this confirmation you will receive the EXTEND3D newsletter in the future. By this so-called double-opt-in procedure we make sure that you have personally ordered our newsletter and that your e-mail address has not been used by others without permission. Your personal data will be treated confidentially and in accordance with the applicable data protection regulations.
+Of course, you can revoke your consent at any time, e.g. within the footer of the newsletter.
+ 
+Salutation
+Mr
+Ms
+divers
+I hereby accept the privacy policy of EXTEND3D GmbH.
+You can change your mind at any time by clicking on the unsubscribe link provided in the footer of any email you receive from us or by contacting us at info@extend3d.com. We will treat your information with care and respect. For more information about our privacy practices, please visit our website. By clicking below, you agree that we may process your information in accordance with these terms.                
+ I hereby subscribe to the newsletter.
+We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. Learn more about Mailchimp's privacy practices here.                
+Mandatory fields
+Send
+Request press distribution list
+Would you like to be added to our press distribution list? Simply leave a message via the contact form.        
+Salutation
+Mr
+Ms
+divers
+I hereby accept the privacy policy of EXTEND3D GmbH.
+You can change your mind at any time by clicking on the unsubscribe link provided in the footer of any email you receive from us or by contacting us at info@extend3d.com. We will treat your information with care and respect. For more information about our privacy practices, please visit our website. By clicking below, you agree that we may process your information in accordance with these terms.                
+ I hereby subscribe to the newsletter.
+We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. Learn more about Mailchimp's privacy practices here.                
+Mandatory fields
+Send
+Telephone consultation+49 (0)89 215 50 16 03Contact formNewsletter subscriptionTechnical Support+49 (0)89 215 50 16 05 

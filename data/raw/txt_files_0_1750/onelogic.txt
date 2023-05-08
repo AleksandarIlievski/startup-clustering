@@ -1,0 +1,94 @@
+One Data
+ 
+    EN   DE    Demo anfordernProdukt
+One Data Cartography
+Pricing
+Support
+Lösungen
+Supply Chain Optimization
+Data Integration Solutions
+Thought Leadership
+Publikationen
+Gartner®-Reports
+BARC-Studien
+Data Doppio Podcast
+Newsletter
+Events
+Unternehmen
+Über uns
+Join the Team
+Unsere Stellenangebote
+Partner & Allianzen
+Newsroom
+Kontakt
+ Event Highlight: Live Webinar: How One Data Accelerates your Tableau Investment 16. Mai 2022 | 10:00 – 11:00 [CEST]  Jetzt kostenlos anmelden 
+ 
+Wir vernetzen Daten, um neue Werte
+für Ihr Unternehmen zu erschließen 
+  Produkt kennenlernen 
+Das Data-Mesh-Konzept
+Wirklichkeit werden lassen 
+  Mehr erfahren 
+Lösungen für mehr
+Produktivität und Wertschöpfung 
+  Mehr erfahren 
+Kostenlose Online-Demo 
+zur Mapping-Technologie 
+  Mehr erfahren 
+Expertenwissen rund um
+Data Mesh, Data Science, AI & Co. 
+  Mehr erfahren 
+We are proud to work with:
+       
+Recognized by:
+                  
+  In einer Welt dynamischer Veränderungen entscheidet die umfassende Nutzung von Daten darüber, wie produktiv ein Unternehmen im Markt agiert. Allerdings erschweren Silos den Datenzugang und in zentralisierten Technologien wie Data Lakes geht das entscheidende Datenwissen aus den Fachbereichen verloren. Dies verhindert, dass die erforderlichen Datenprodukte erstellt werden können. Das dezentralisierte Data-Mesh-Konzept – und One Data Cartography als technologisches Fundament – setzen hier an: Sie eröffnen neue Perspektiven auf Daten als Abbild der (Unternehmens-)Welt und schaffen einen umfassenden Zugang – für mehr Produktivität und Nachhaltigkeit. Zusammengefasst: Wir ermöglichen es Datenexperten, passende Datenprodukte für die verschiedenen Fachbereiche bereitzustellen.
+ 
+  Verknüpfte Datenlandschaften umfassend nutzen  
+ Mit der Enabling-Technologie One Data Cartography setzen Unternehmen zentrale Data-Mesh-Prinzipien wie „Domain Ownership“ und „Data as a Product“ um. Anschließend steigern sie ihre Wertschöpfung fachbereichsübergreifend.  Mehr erfahren  
+   
+ Unsere Enabling-Technologie im Überblick Einzigartige (Team-) Funktionen verwandeln Daten in unternehmerische Werte:  Replikationsfreie „Landkarte“ sämtlicher Daten Automatisierte Qualitätschecks und AI-basierte Anomaliedetektion Unternehmensweiter „Marktplatz“ für Datenprodukte der Fachbereiche   Demo anfordern  
+  Per Data Mesh zum grenzenlosen Datenfluss 
+  Daten(owner) vernetzen One Data Cartography befreit Daten aus den Silos und ermöglicht eine transparente Sicht auf die Quelldaten und ihre Verknüpfungen – replikationsfrei über alle Fachbereiche hinweg.
+  Datenprodukte bereitstellen Das Datenwissen aus Fachbereichen macht den Unterschied. Erzeugen Sie hochwertige Datenprodukte im Sinne des Data Mesh und machen Sie sie für Business-Lösungen zugänglich. 
+  Zusammenarbeit sicherstellen Dateneigentümer und -nutzer verwenden dieselbe Technologie und müssen nicht auf zusätzliche IT-Teams zugreifen. Der Zugang zu Datenprodukten erfolgt per Self-Service.
+  Technical Data Governance One Data Cartography stellt eine dezentrale Technical Data Governance sicher: Fachbereiche erhalten die erforderliche Unabhängigkeit und ein zentrales Team sorgt für eine föderale Steuerungslogik.
+ 
+  Lösungen entlang der Wertschöpfungskette 
+ Mit One Data Cartography erstellen Sie sehr schnell Lösungen für Unternehmensherausforderungen – beispielsweise für die Bereiche „Supply Chain“ und „Data Integration“.
+ Supply Chain Optimization Unsere Lösungsbeispiele zeigen, wie durch Datenverknüpfungen widerstandsfähige Lieferketten entstehen.  Mehr erfahren     
+   
+ Data Integration Solutions Erfahren Sie, wie Unternehmen mit unseren Lösungen die Produktivität steigern, indem sie Daten aus Silos befreien.  Mehr erfahren  
+   „One Data hat uns als Technologiepartner nicht nur aufgrund der technischen Kompetenz bei der Umsetzung des Data-Mesh-Konzepts und der Bereitstellung von Datenprodukten beeindruckt, sondern auch aufgrund der Offenheit des Teams, und dessen Fähigkeit, uns bei der effizienten Erreichung unserer Ziele zu unterstützen. So konnten wir schnell neue Werte erzielen.“   Martin KemmerHead of Development & Innovation SCHOTT AG   
+   „Ohne die Bereitschaft der Projektverantwortlichen und des gesamten Teams, immer wieder neu nachzudenken und nachzuvollziehen, was thyssenkrupp Steel Europe damit erreichen will, wären wir nicht so weit gekommen und stünden heute nicht da, wo wir sind.“  Dieter GrossmannHead of Enterprise Platforms & Data Intelligence thyssenkrupp Steel Europe   
+   „Dank der Zusammenarbeit können unsere Partner auf der Markant Prognoseplattform nun viel genauer als zuvor den Absatz von mehreren tausend Nearfood-Artikeln über alle Handelspartner hinweg prognostizieren. Insbesondere für unsere Vertragslieferanten eröffnet das ganz neue Möglichkeiten.“  Reiner SailerLead Service Owner B2B-Integration Markant Services International   
+EVENTS
+  Praktische Einblicke & Networking auf unseren Events  Bei den One Data Events zeigen wir Ihnen, wie Sie Daten in konkrete Mehrwerte für Ihr Unternehmen verwandeln. Sie erhalten Einblicke in den praktischen Einsatz von Data Mesh, Data Science und AI – aus erster Hand von unseren Data-Science-Experten. Außerdem bieten unsere Events einzigartige Möglichkeiten für einen gemeinsamen Austausch und Networking.   
+THOUGHT LEADERSHIP
+  Umfassendes Wissen für smarte Entscheidungen  Wir bieten Ihnen Publikationen zu den zentralen Herausforderungen rund um Data Mesh, Data Science, AI und Co., themenspezifische Branchenanalysen sowie die neuesten Markt- und Trendbeobachtungen von Unternehmen wie Gartner® Inc.    
+PODCAST
+  Data Doppio – Ihr Data Science Wake-up Shot  Bei Data Doppio geben Ihnen unser Gründer und Geschäftsführer Andreas Böhm sowie unser Chief Data Scientist Sebastian Wernicke Einblicke in die Möglichkeiten des Data-Mesh-Konzeptes sowie in AI-Praxis und -Innovationen.   
+NEWS
+Zum Newsroom	
+  Wir sind ISO 27001-zertifiziert!  One Data freut sich über den Erhalt der ISO 27001-Zertifizierung, einer international führenden Norm für Informationssicherheits-Managementsysteme, Kunden vertrauen damit auf besondere Sicherheit & Vertraulichkeit bei personenbezogenen Daten.
+ 
+  „Die Sendung mit der Maus“ zu Gast bei ONE LOGIC  Am 3. Oktober 2022 hat One Data* beim „Türen auf mit der Maus!“ Event des WDR teilgenommen. In unserem Frankfurter Büro konnten Kinder die AI-Welt gemeinsam mit Maus, Elefant und Ente entdecken. *ehemals ONE LOGIC
+ 
+  Gender Data Gap  Daten haben großen Einfluss auf die gesamte Welt – dass Männer bei der Erhebung und Interpretation von Daten oftmals das Maß aller Dinge sind, wirkt sich negativ auf den Alltag von Frauen aus. Wie kann dieser Gender Data Gap geschlossen werden?
+ 
+   Lösungen Mehr erfahren      Über uns Mehr erfahren   
+   
+Sie haben Fragen zu One Data Cartography als Fundament für das Data-Mesh-Konzept? Gerne beantworten wir Ihre Fragen.
+Ihre Ansprechpartnerin:
+Tanya Nitzsche | Senior Vice President Software Sales
+Kontaktieren Sie uns	
+Jetzt One Data kontaktieren!
+   Ihre Ansprechpartnerin  Tanya Nitzsche | Senior Vice President Software Sales  
+ „*“ zeigt erforderliche Felder an
+Name*   First    Last Unternehmen*Email* MessageNewsletter Sie möchten über die neuesten Entwicklungen im Bereich schlüsselfertige Datenprodukte und über unsere Events auf dem Laufenden bleiben? Dann melden Sie sich für den One Data Newsletter an. Sie können sich jederzeit von den Benachrichtigungen abmelden.Consent* Ich habe die Datenschutzerklärung und die Nutzungsbedingungen gelesen und akzeptiere diese. Die von Ihnen zur Verfügung gestellten Kontaktinformationen können von One Data verwendet werden, um Sie persönlich über unsere Produkte und Dienstleistungen zu informieren.*PhoneDieses Feld dient zur Validierung und sollte nicht verändert werden.         
+  Der One Data Newsletter! 
+ Sie möchten über unsere Technologien, Innovationen und Events auf dem Laufenden bleiben? Dann melden Sie sich für den One Data Newsletter an.  „*“ zeigt erforderliche Felder an
+Business Email* Consent*  Ich habe die Datenschutzerklärung und die Nutzungsbedingungen gelesen und akzeptiere diese. Die von Ihnen zur Verfügung gestellten Kontaktinformationen können von One Data verwendet werden, um Sie persönlich über unsere Produkte und Dienstleistungen zu informieren.NameDieses Feld dient zur Validierung und sollte nicht verändert werden.         
+Produkt One Data Cartography Pricing Demo anfordern Events & Webinare Support Service Desk Manuals Software-Lizenzbedingungen Software-Wartungsbedingungen Lösungen Übersicht Supply Chain Optimization Data Integration Solutions Thought Leadership Übersicht Publikationen Gartner®-Reports BARC-Studien Data Doppio Podcast Newsletter Unternehmen Über uns Join the Team Offene Stellen Partner & Allianzen Newsroom Kontakt  NEWS   Tauschplattform für die Autoindustrie      Newsroom
+©2023 One Data GmbH | Impressum | Datenschutz | AGB | ISO Certification | Cookie Settings
+   English   Deutsch 

@@ -1,0 +1,125 @@
+enercast: Power forecasts and digital transformation for renewable energy
+ 
+Magazine
+Webinars
+Company
+Careers
+Contact
+Login
+Suche
+ en|de 
+ 
+Magazine
+Webinars
+Company
+Careers
+Contact
+Login
+Suche
+ en|de 
+weather insights that put you in control
+Start your free trial now 
+Get a live demo 
+Power forecasts for renewable energy
+Managing weather-induced volatility is key to the successful integration of renewable energy into the power grid and energy markets. Since 2011, enercast provides accurate power generation forecasts that enable our customers around the world to efficiently operate their assets, ensure grid stability and increase their trading margins. With the ability to train forecasts for the specifics of each individual site, enercast helps build the decentralized energy system of the future.
+          Your browser does not support the video tag.
+        
+Weather-based Artificial&nbspIntelligence
+enercast has pioneered the application of artificial intelligence in renewable energy forecasting. A key element in this is the ability to efficiently process large amounts of weather data. Our systems combine numerical weather prediction models from international meteorological services with site-specific measurement data to learn the behavior of the individual plants. Based on these models, we deliver robust, plant-specific forecasts around the clock and around the world from our redundant data centers in Germany.
+          Your browser does not support the video tag.
+        
+Insightful Products
+Our products are designed to provide you with the insights you need to take the right business decisions. With the enercast Portal, you are in full control: Flexibly configure your intraday, day-ahead or long-term forecasts and comfortably manage your asset data. Advanced charting helps you analyze the results and take the necessary action. Our software-as-a-service approach gives you easy access and uninterrupted availability.
+Try it today! 
+Professional Services
+Our Professional Services are available to assist with the integration of our products into your business process. Whether you need specific connectors, a full-service process analysis, or tailor-made forecasting solutions, don’t hesitate to talk to us about what’s possible.
+Dedicated Support
+Our Customer Support ensures that you get the most from your enercast products. You can choose from a range of options that include application and setup support, expert advice or access to a 24/7 emergency hotline. And in the background, they continuously monitor all operations and ensure the quality of your forecast.
+Efficient asset management
+Using our integration platform, forecasts can now be integrated quickly and interactively into our customers’ business processes. The result: Weather-specific process deviations and effects become more transparent, enabling an optimal management of your valuable assets.
+For example, energy suppliers and grid operators can increase the investment security of their sites and systems by improving continuous feed-in into the energy grid.
+Case Study: ovag Netz AG
+Case Study: EnergieNetz Mitte GmbH
+Enabling energy trading
+Our open integration platform enables the fusion of a wide variety of information.
+For example, if historical weather data, energy consumption and production data are combined with other qualitative information, artificial neural networks can find correlations and patterns that allow a stable price forecast for the intraday, spot and control energy markets.
+For instance, this allows direct marketers and energy traders to make better trading decisions.
+Case Study: Engie SA
+Case Study: BayWa r. e. Clean Energy Sourcing GmbH
+Digital transformation of renewable energy
+Digital transformation means changing processes, objects and events for the use of digital devices. A key element of this are standardized data and structures.
+This is exactly where our API for interactive file mapping comes in. A uniform and consistent data quality is achieved by using an AI-based data cleansing tool.
+This enables energy and industrial companies to increase productivity and reduce maintenance costs by combining and processing a wide variety of data sources to create new insights.
+Case Study: Städtische Werke AG
+Case Study: Fraunhofer IEE
+Optimization ofSmart Grids
+Using our open forecasting platform, historical weather data and data of the current total energy consumption of a city or district as well as the local, but volatile feed-in volumes of renewable energies can be integrated, standardized and correlated.
+Structurally fluctuating energy consumption loads can thus be better predicted, which, for example, can save costs for municipal utilities and local distributors and increase grid stability.
+Case Study: Fraunhofer IEE
+Customers in over 20 countries worldwide
+Customers in over 20 countries worldwide
+Weather insights that put you in control
+Weather insights that put you in control
+Magazine
+2023-05-02
+Events
+Meet enercast at the E-world 2023!
+2022-11-23
+News
+Improved ICON-EU model may affect forecast quality
+2022-09-29
+Events
+enercast at iS Software User Conference 2022
+2022-09-27
+Events
+enercast at Renewable Energy India Expo 2022
+2022-09-14
+Events
+enercast at Robotron Annual Energy Conference 2022
+							Show all posts
+Highlight
+2022-02-23 News
+enercast 2022.02: Interactive backcasting enables faster portfolio decisions
+enercast announces enercast 2022.02 Release: Improved Yield Assesment for power generation sites, Instant Backcasting for enhanced risk management, Advanced power forecast quality evaluation
+continue reading
+Company
+enercast is a leading technology provider for weather-based artificial intelligence and the digital transformation of renewable energy. Its self-learning SaaS products deliver accurate power generation forecasts for wind and solar plants, thus enabling the integration of renewable energy into power grids and energy markets worldwide. The enercast platform supplies the digital actors of the emerging decentralized energy system with the intelligence they need to manage limited resources with foresight. Founded 2011 in Kassel, Germany, enercast delivers 100 million forecast data points per day to over 20 countries around the globe, covering 240 GW of installed capacity.
+More about enercast
+Careers
+enercast has been ranked as one of the top employers in Kassel. There are few topics more advanced than artificial intelligence, and few industries more meaningful for the future of the planet than renewable energy. Together with a highly talented team, an open-minded and team-oriented work environment, and an opportunity to be part of a unique growth story, this makes for a highly enjoyable workplace.
+Current job postings
+enercast GmbH
+Universitätsplatz 12
+34127 Kassel
+Germany
+GET IN TOUCH
+T  +49 (5 61) 4 73 96 64-0
+F  +49 (5 61) 4 73 96 64-99
+E  info@enercast.de
+SOCIAL MEDIA
+NEWSLETTER
+Subscribe to our newsletter
+Subscribe to receive updates about wind and solar power forecasting, as well as enercast news and events.
+NEWSLETTER
+Subscribe to our newsletter
+Subscribe to receive updates about wind and solar power forecasting, as well as enercast news and events.
+Imprint
+Privacy Policy
+ 
+© 2022 enercast GmbH
+SUBSCRIPTION DETAILS
+enercast Newsletter
+You can sign up to receive our newsletter here. It provides information on the latest developments in the area of wind and solar power forecasting as well as enercast events and products.
+* indicates required
+Email Address *  
+Salutation 
+Ms.
+Mr.
+Dr.
+First Name *  
+Last Name *  
+Contact Permission
+I want to receive e-mails from enercast about webinars and news and agree to the Privacy Policy. 
+You can unsubscribe at any time by clicking the link in the footer of our emails, or by contacting us at info@enercast.de.
+ 
+ 

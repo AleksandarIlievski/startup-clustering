@@ -1,0 +1,449 @@
+TotalTex | Kundenorientierte Wäscherei Software
+TotalTex
+  TotalTex
+MenuDigiTex die Software
+DigiTex - Die Lösung für die gesamte Wäscherei
+DigiTex ist eine umfassende Softwarelösung die alle Bereiche einer Wäscherei abdeckt. Von der Warenwirtschaft über die Produktion bis hin zur Logistik. So werden nicht nur Lieferscheine und Rechnungen nahezu vollautomatisch erstellt sondern auch Touren geplant und die Produktion optimiert. Durch die Einbindung sämtlicher Maschinen werden Leistungen, Qualitäten und Ausfallzeiten detailliert erfasst und mit den Daten Ihres Personals verknüpft. So ist es möglich auf den Ebenen Wäscheart, Artikel, Maschine, Kunde oder Mitarbeiter genaue Leistungswerte abzurufen oder auch live zu visualisieren. Sogar die Verbräuche der einzelnen Maschinen können auf Kunden, Wäschearten, Posten oder sogar auf das einzelne Textil herunter gebrochen werden. Hierdurch ist eine detaillierte Gewinn- und Verlustrechnung unter Berücksichtigung aller 
+ausschlaggebenden Kostenstellen möglich.  DigiTex hilft Ihnen außerdem Ihre Produktion auf Grund dieser Daten optimal zu planen und gibt jeder Arbeitsstation eine Bearbeitungsliste vor. Auf Wunsch übernimmt DigiTex sogar Ihre Personalplanung und besetzt unter Berücksichtigung der erfassten Leistungsdaten, Urlauben und Krankheiten alle Arbeitsplätze optimal.
+Mit Hilfe unseres Partners AlphaPlan werden sämtliche Routen und Touren unter Berücksichtigung der Lenk- und Ruhezeiten als auch den Zeitfenstern beim Kunden ständig komplett optimiert und fließen in die Produktionsplanung ein. Sämtliche Touren werden den Fahren direkt auf Ihrer App angezeigt und ermöglichen gleichzeitig die Navigation. Die Erfassung sämtlicher Kundenposten mit Hilfe des Barcodescanners ermöglicht die Anpassung der Produktionsplanung schon bevor der Fahrer zurückkehrt.  Mit Hilfe von Barcodes und RFID-Tags verfolgen wir Ihre Container und Wäschestücke, so dass Sie immer wissen wo sich diese grade befinden. 
+Egal ob Flachwäsche, Bewohnerwäschen oder Berufsbekleidung: DigiTex ist die Lösung.
+1. Vollständige Warenwirtschaft
+Lieferscheinerstellung
+- Halbautomatische Lieferscheinerstellung aus Produktionsdaten (Gewichte und Mengen aus Maschinendaten und manuellen Eingaben aus der Produktion)
+-	Übersichtliches Blocksystem 
+-	Rückstellungen/Nachlieferungen 
+-	Vergleiche von Wareneingang/Gewicht und Zählmengen),RFID erfassungen,Maschinenzählern und der Ausgangswaage- „nichts geht ohne Berechnung raus“
+-	Automatische Lieferscheine für Pauschalartikel(täglich,wöchentlich,jährlich)
+-	Abosystem mit freimengen(Handtuchrollen etc)
+-	Automatische berechnung von bereitstellungskosten für Leihwäschen bis zur Rückgabe
+-	Fahrkostenberechnung
+-	Rohstoffzuschlag
+-	Unterkundensystem(mehrere Lieferstellen mit einer Rechnungsadresse)
+-	Archivierung im pdf-Format-anzeige aus dem Program heraus
+-	Automatischer Lieferschein/Rechnungsversand per E-Mail
+-	Automatischer Duplikats druck individuell nach Kunden
+-	Mindestsumme/Lieferschein für jeden Kunden pro LS
+-	Mindestmengen für Kundenartikel pro LS
+-	Ausweisung als Brutto oder Netto
+-	Hinzufügen von Artikeln zu den Kundendaten nach dem Kunden zugeordneter Sonderpreisliste
+-	Auflistung aller Artikel nach Warengruppe und alphabetisch
+-	Automatische Gutschrift für Reklamationen
+-	Druck auf Geschäftspapier oder mit automatischer Hintergrundvorlage auf weisses Papier
+Rechnungslegung
+-	Rechnungslegung nach Lieferscheinen für jeden Zeitraum
+-	Sofort/Tagesrechnungen
+-	Mehrere „Unterkunden“ als Lieferstellen auf einer Rechnung mit anderer Anschrift
+Übergabe an alle gängigen Finanzbuchhaltungen incl. Stornos
+1.	Buchung auf Debitorennummern
+2.	Buchung auf unterschiedliche Erlöskonten nach Warenart/Gruppe aus einer Rechnung (Splittingbuchung)
+3.	Rechnungsversand per Email
+4.	Rechnungsarchiv im PDF-Format
+5.	Rechnungsstorno mit Freigabe der enthaltenen Lieferscheine(LS kann geändert werden und die gesmte Rechnung erneut geschrieben werden)
+6.	Gutschriftensystem
+7.	Übersichtsmatrix für Bereitstellungskosten von Leihwäschen
+Kundenverwaltung
+Vollständige Kundendaten
+1.	Liefer-/Rechnungsadressen 
+2.	Ansprechpartnern
+3.	Wäscherei internen Namen
+4.	Touren/Anfahrtsdaten
+5.	Kommentaren(fest,je Anfahrt,Sonderanfahrten)
+6.	Rabatt
+7.	Rohstoffzuschlag
+8.	Fahrtkosten
+9.	Kundengruppe
+10.	Buchhaltungsdaten
+11.	Rechnungsrythmus
+12.	Zahlungsbedingungen
+13.	Sonderdaten
+14.	Kennzecihnungsdaten
+15.	Überwachung ob alle Standartartikel fakturiert wurden
+16.	Überprüfung ob Stückzahlen(Durchschnittsgewichte) zum Liefergewicht passen
+17.	Überprüfung ob Lieferung vollständig: Ausgangsgewicht minus Nachwäsche minus Toleranz=Eingangsgewicht?
+18. Sonderpreisliste mit Kunden/Artikelspezifischen Sonderdaten
+a.	Preis
+b.	Bereitstellungspreis/Woche
+c.	Durchschnittsgewicht
+d.	Zuschlag zum KG
+e.	Kennzeichnungsart
+f.	Erlaubtes Freikontingent
+g.	Pauschalsystem
+h.	Standartartikel(Warnung wenn nicht vorhanden)
+i.	Mindestmengen
+j.	uvm
+19. Preiserhöhungsprogram
+a.	Händisch
+b.	Automatisch
+c.	Anschreiben drucken
+d.	Nach Kundengruppen,Nummer
+e.	Prozentual 
+f.	Nach Artikelgruppen
+-	Kundensuche nach Nummer, Namensteilen, Wäschereiinternennamen,Waschzeichen
+-	Urlaubsplaner
+-	Anfahrten auch mehrmals am Tag
+-	Anfahrten nach täglich, wöchentlich,2wöchig,3wöchig,monatlich etc
+-	Erlaube Sondertermine/Anfahrten
+-	Kundennummer und Programme für alle Stationen(Waschprogramme nach Wäschearten, Mangelprogamme etc-wenn gewünscht mit automatischer Übergabe an die Maschinen
+Artikelverwaltung incl Leihwäschen und Lager
+Artikelstamm
+1.	Durchschnittsgewichten
+2.	 10 Preislisten
+3.	Kennzeichnungsart
+4.	Leihwäschebereitstellungspreis
+5.	Warengruppe
+6.	Preiserhöhungsprogramm für Hauptpreislisten
+7.	Übersicht/Verwaltung der Bestände im Lager und bei Kunden
+8.	Statistikdaten(Wenn RFID oder Barcode): Alter der Wäsche,Waschzyklen etc
+Scannen der Wäschen:
+a.	Eingang
+b.	Ausgang
+c.	Stationen
+d.	Ins Lager
+e.	Zum Kunden
+f.	Zur Näherei
+g.	Reklamationen
+h.	Interne Nachwäsche
+i.	Defekt 
+j.	Etc…
+Ersatzteil und Waschmittelverwaltung
+Lagerverwaltung Ersatzteile
+1.	Aufkleber/Barcodedruck für Ersatzteile
+2.	Verwaltung von Lieferanten,Bestellnummer,Preisen
+3.	Alter der Ersatzteile
+4.	Überprüfung ob Garantie
+5.	Mindestmengen, Bestellvorschläge
+6.	Suche nach Namen,Artikelnummer,Lieferanten,Maschinen
+Waschmittelverwaltung
+1.	Lagerbestand
+2.	Verbrauchsdaten
+3.	Mindestlagermengen
+4.	Lieferzeiten
+5.	Automatische Bestellvorschläge
+6.	Lagerorten
+2.    Personalerfassung und Steuerung
+Erfassung aller Mitarbeiterstammdaten
+1.	Personalnummer
+2.	Namen
+3.	Stundenlohn
+4.	Festgehalt
+5.	Urlaubsanspruch
+6. RFID Karte zur An/Abmeldung und Zugangskontrolle
+ 
+-	Urlaubsplanung nach Stationen in grafischer Matrixansicht incl. Krankmeldungen
+- Schichtplaner
+- Zeiterfassung per rfid chip/Karte
+- Erfassung an Stationen,Sonderaufgaben,Pausen
+- Automatische Pausenregelung falls Pause nicht erfolgt
+- Automatische Abmeldung+Info wenn nicht abgemeldet
+- Zeiten korrigierbar vom Büro mit Passwort
+- Übergabe an Lohnbuchhaltung
+- Urlaubstage und Krankheitsverwaltung
+- Erfassung aller Arbeitszeiten nach Station,Kunden,Artikeln und Sonderaufgaben
+Möglichkeit der Bezahlung nur wenn gearbeitet wird
+- Nebenzeiten werden nach einem Puffer nicht mehr bezahlt
+- Maschine erkennt Abwesenheit der Person
+- Wenn nach Zeitraum x nicht Produktiv oder an einer anderen Station=automatische Pause
+ 
+- Bezahlung nach Leistung nach sollvorgaben(Leistungslohn)
+- Erfassung der Produktivität an allen Stationen nach sollvorgaben
+- Bewertung der Personen an allen Stationen 
+- Detailauswertung auch bei mehrfachen Stationswechsel /Tag
+Nicht produktives Personal bucht seine Zeiten auf Kostenstellen
+- Wartungen
+- Reparaturen
+- Verwaltung
+    
+-	Auswertung aller nicht produktiven Arbeiten incl Kosten
+Buchen von kundenabhänigen Sonderaufgaben
+- Patchen neure Wäsche
+- Längere Auswertungen vom Büro
+- Aussendienst
+- Reklamationsbearbeitung
+- Qualitätsbewertung der Mitarbeiter durch den Betriebsleiter
+- Errechnung der effiziens eines Mitarbeiters an einem Arbeitsplatz aus der produktivität und der Qualität
+Stellenbesetzungsvorschlag der Arbeitsplätze durch erfasste Werte
+- Digitex erstellt einen Schichtplan aufgrund der effizenz der Mitarbeiter an den Stationen
+- Sofortige optimale Besetzung bei Ausfall eines Mitarbeiters
+- Automatische Information der Mitarbeiter zum Stationwechsel(Durchsagen+Anzeige)
+Aufgabenverwaltung für Mitarbeiter
+- Aufgaben werden am Zeiterfassungsterminal angezeigt
+- Aufgabenliste druckbar
+- Anzeige von Zeitkritischen aufgaben am PC des Mitarbeiters
+- Meldung auf Handyapp des Mitarbeiters(Schichtleitung/Techniker)
+- Erinnerungs/Snoozefunktion
+- Zeitkritische überfällige Aufgaben werden an den Schichtleiter gemeldet
+- Einmalige Aufgaben
+- Wiederholende Aufgaben(Wartungen,Reinigungen,Kontrollen)
+- Kommentare und Hilfestellungen zu den Aufgaben
+- Aufgabenstatus
+- Erinnerungszeit/Datum
+- Entweder Datum/Zeit „erledigen am/um“
+- Oder späteste Zeit „erledigen bis“
+- Erledigtmeldung regelmässiger aufgaben über handy/nfc: Handy an nfc chip halten=Aufgabe erledigt
+- Eintragen neuer Aufgaben an jedem Terminal und mit Handyapp möglich(Betriebsleiter,Techniker etc)
+- Automatische Aufgabenerzeugung auf Grund von ereignissen- z.B. CRM: Kundenanruf bestellung neue Wäsche-Erzeugt Aufgaben für die Bestellung,dass Kennzeichnen,Einwaschen,Kontrolle etc…)
+- Mitarbeiterinformationen hinterlegbar/druckbar: werden beim nächsten anmelden des Mitarbeiters ausgedruckt.
+ 
+- Anzeige von Leistungsdaten an den Stationen oder auf übersichtsmonitor zur Motivation und Kontrolle
+3. Produktionsoptimierung durch Tourenplan und Hilfestellungen
+-	Aufgrund des Tourenplans, Sonderaufträgen,Kundenurlauben und Feiertagen wird automatisch ein Tourenplan für jeden fahrer erzeugt
+-	Der Fahrer hat(Wenn erlaubt) die möglichkeit sondertermine beim anliefern einzugeben(z.B. Wäsche schon Mittwoch statt Donnerstag zurückliefern)
+-	Jede Wäsche in der Firma „weiß“ wenn sie fertig sein muss(zum Tourstart der entsprechnden Tour)
+-	Automatische Bearbeitungslisten an den Terminals der Stationen mit allen hier verfügbaren Wäschen nach Auslieferungszeitpunkt sortiert + eventuellen Sonderoptionen „Kunden mit langer Bearbeitungsdauer“
+Aus diesen Daten: Automatische Produktionsplanung
+-	Jede Station der die Wäsche nicht automatisch zugeführt wird, bekommt eine Liste eingeblendet mit den Posten, die als nächstes Bearbeitet werden müssen.
+-	Keine starren Produktionspläne mehr
+-	Keine Probleme in Feiertagswochen
+-	Keine falschen Wasch-/Bearbeitungsreihenfolgen mehr
+-	Immer „live“ Status an jeder Staion ob die Produktion im Zeitplan ist
+-	Übersicht für alle Mitarbeiter, was an diesem Tag zwingen fertig werden muss
+-	Warnung an Schichtleiter wenn Termin nicht haltbar sind
+-	Kunden werden nicht versehentlich „zum Teil gewaschen“ und ein Teil vergessen: Die Liste zeigt immer den Kunden und alle zugehörigen Posten an der Station an)
+ 
+- Aufträgen können temporäre Informationen mitgegeben werden die bis zur Auslieferung erhalten und an jeder Station angezeigt werden
+Hilfestellung an den Stationen
+- Anzeige von Bearbeitungshinweisen nach dem Schema Station/Kunde/Wäscheart
+-	Meldungen können Bilder wie packpläne oder Fotos von Faltungen enthalten
+-	Meldungen können zeitlich begrenzt werden – z.B. Achtung Kunde baut um bitte Station 1 und 2 zusammen packen – bis 31.4.2018
+-	Meldungen können als popup mit lesebestätigung angezeigt werden oder als aufrufbare Zusatzinformation
+-	Mitarbeiter haben eine freieditirbare Informationsseite zum Kunden und können sich so selbst Notizen zu den Kunden machen
+-	Programme werden vom Büro oder wenn erlaubt den Stationen selbst für jede Station/Maschine gepflegt
+-	Programme werden beim aufruf des Wäscheposten in abhänigkeit der Atation(z.B.Mangel1) und der Wäscheart(z.B. Bettwäsche) aufgelistet- Ergebnis des Beispiels: 12Bettlaken,15Bettbezüge,19Kopfkissen
+-	Programme können automatisch an die Maschine übergeben werden- fehlerfreier und schnellerer Postenwechsel
+Maschinendaten werden zum Auftrag erfasst:
+-	KG der Waschstrasse werden automaitsch zum Programm in einen Artikel (z.B. kg Bettwäsche) umgewandelt und stehen der Lieferscheinertellung zur Verfügung)-keine fehleranfälligen Handzettel!
+-	Stückzahlen der Maschinen werden von einen Microcontroller erfasst(Erkennung aller Artikel an Mangeln/Frottemaschinen etc nach Artikel art wie Laken/Bettbezug) und stehen der Lieferscheinerstellung zur Verfügung-Kein Zeitaufwändiges und fehleranfälliges Zählen mehr
+-	RFID-Daten werden automatisch erfasst, fremdteile aussortiert-siehe Punkt RFID Flachwäsche system
+-	Nachwäschemengen werden erfasst und stehen der Lieferscheinerstellung zur Verfügung-siehe Punkt Nachwäschesystem
+Nachwäschesystem zur Produktivitätssteigerung und fehlervermeidung
+-	Erkannte Nachwäschen(Flecken und „schlechts Finish/vermangelt“) gehen nicht um die Mangel oder werden mit anderen Kunden zusammen erneut bearbeitet sonder in einem Netz/Wäschewagen kundenbezogen gesammelt
+-	Erst bei der nächsten Bearbeitung werden dem Wäscher diese Wäschen angezeigt und dem Hauptposten zugeworfen
+-	Dadurch keine Mischposten und keine „kleinen Posten“ mehr
+-	Vollständige Berücksichtigung von Nachwäschen in der Lieferscheinerstellung
+-	Berücksichtigung beim Vergleich Ein-/Ausgangsmengen zum Kunden um die vollständigkeit zu kontorllieren
+-	Warnung wenn nachwäsche eines Kundens auf die Warengruppe bezogen x Prozent übersteigt-sofortige nachbehandlung erforderlich um den Kunden zu versorgen!
+-	Detaillierte Statistik über Nachwäschen zu Warengruppen siehe Punkt Statistik
+Anzeige der zu Liefernden Container in der Expedition nach unterschiedlichen Modi
+- Menge Container im Eingang
+-	Alternativ sollbestand beim Kunden: Menge wird errechnet
+4. Statistik, Gewinn-Verlustrechnung
+Folgende Kostenerfassungen sind je Kundenwunsch möglich
+-	Kosten Fahrer (Zeit,km): Handyapp mit Navigationssystem erfasst alle benötigten Daten
+-	Produktive Zeit an Aufträgen des gesamten Personals an allen Stationen
+-	Erfassung und Umlegung aller nicht Produktiven oder nicht kundenspezifischen Kosten wie z.B. Büro und Techniker
+-	Kosten für Leasingwäschen aus den Artikelstammdaten werden umgelegt
+Medienverbräuche werden umgelegt oder an Maschinen Auftragsspezifisch erfasst:
+1.	Gasverbrauch an Trocknern oder Kessel über Gaszähler
+2.	Waschmittelverbräuche über Dosieranlage(Micronontroller,Sonderlösung oder HELMS)
+3. Wasserverbräuche über Impulswasseruhren
+ 
+-	Alle weiteren, nicht zuzuordnenden Kosten wie z.B. Lohnfortzahlung im Krankheitsfall, Gas/Öl verbrauch Kessel, Wartungskosten Techniker,Pacht und ähnliches) werden entweder über kg des Auftrags oder über den Umsatz anteilig umgelegt.
+-	Erfassung fiktiver Personalkosten für Artikel in „Mischposten“ und umlage dieser auf die Aufträge aufgrund der im Lieferschein erfassten Artikel.
+	Detaillierte Auswertungen aller Zeiträume(auch LIVE!)
+-	Wäschemengen/Station nach Artikelgruppen
+-	Leistungen an den Stationen
+-	Leistungen der Mitarbeiter
+Umsatz/KG und Kosten/KG nach:
+- Kunden
+- Warengruppen
+- Artikeln
+- Stationen
+- Verbräuchen
+-	Gewinn und Verlustrechnung für Artikelgruppen,Artikel,Kunden,Aufträge
+Detailauswertungen 
+-	Einzelner Auftrag: detailierte Auflistung aller Kosten und berechneten Artikel- Ergebniss: Gewinn/Verlust in €/%
+-	Artikel: Kosten eines Handtuchs bei Hotelkunden in detailansicht mit allen Verbräuchen und Personalkosten
+-	Ansicht des Gewinns/Verlustes für Artikelgruppe Tischwäsch in Zeitraum x oder auch heute
+-	Sofortige Bewertung von Änderungen in der Produktion(Personel,logistisch oder maschinel)- vergleich zum Vortag/Vorwoche auf Produktivität oder Kosten/Artikel oder kg
+-	Monatsauswertung aller Kunden mit Gesamtkosten,Gesamtumsatz,Kosten/KG,Umsatz/KG gewinn/Verlust
+-	Nachwäscheqouten nach Kunden,Artikelgruppen oder Artikeln
+-	Kundenreklamationsqouten nach Kunden,Artikelgruppen/Artikeln
+-	Auswertungen von Mitarbeitern,Team,BMaschinen oder Betriebsproduktivität und Effizenz
+-	Dies sind nur einige Beispiele möglicher Auswertung die wir Ihnen gerne nach Ihren Wünschen erstellen. Die Möglichkeiten sind aufgrund der umfassend erfassten Daten unzählig. 
+-	Sämtliche Daten stehen Ihnen für immer zur Verfügung und erlauben detaillierte Vergleiche von Zeiträumen über Jahre hinweg.
+Automatisierte Auswertungen: Auswertungen können automatisiert werden und bei hinterlegbaren Schwellwerten Warnungen/Mitteilungen erzeugen
+-	Maximaler Gasverbrauch pro KG Frotteewäsche/Trockner: X kwh. Wird dieser Wert überschritten wird z.B. eine Aufgabe für einen Techniker erzeugt: Bitte trockner kontrollieren, Gasverbrauch zu hoch
+-	Maximale nachwäsche oder Reklamationsqouten benachrichtigen den Betriebsleiter
+-	Abendliche Auswertungen sammeln alle Kennzahlen zu dem Arbeitstag und erzeugen eine E-Mail mit Tagesdaten an ausgewähle Personen: Betriebsleiter=Verbräuche,Wäschemengen,Produktivität
+-	Geschäftsführer=Zahlen zu Umsatz,Gewinn,Kosten und Gesamtproduktivität
+-	Druckfunktion und Export nach Excel
+5.	Berufskleidungs und Pflegeheimsystem
+-	EInganserfassung per Barcode oder RFID (HF/UHF)
+-	Verwaltung von Bewohnerdaten 
+-	Verwaltung von Mitarbeiterdaten im BK bereich
+-	Onlinetool für den Kunden zur Datenpflege und Statistik
+-	Erfassung neuteile per foto
+-	Sortierhilfe nach Waschverfahren und Lots
+-	Sortierung im LOT System um einen effektiven Ausgangsscan zu ermöglichen
+-	Automatische Kennzeichnung von Berufskleidung wenn der Kunde die Daten eingepflegt hat
+-	Anzeige von Bearbeitungshinweisen die vom Kunden eingegeben wurden (z.B. bitte Knopf annähen)
+-	Scan der Artikel an den weiteren Bearbeitungsstationen zur verfolgung möglich
+-	Ausgangsscan mit anbindung von Regalsystemen oder Paternostern
+-	Einbindung aller gängigen Etikettendrucken
+-	Einbindung aller gängigen Barcodescanner/RFID Reader
+-	Verpackung des Kundens nach Stationen/Abtelilungen und sortier nach Zimmern oder Spinden
+-	Banerolierungssystem für Altenheim und Berufskleidung
+-	Überpfüfung der Vollständigkeit zum Eingangsscan
+-	Sonderinformationen zu Artikeln und Bewohnern/Mitarbeitern
+-	Pauschalsystem für Altenheime und Berufskleidung
+-	Bondruck für Mitarbeiter/Bewohner,Abteilungen
+-	Detalierte Lieferscheine/Rechnungen nach Stationen/Mitarbeitern/Bewohnern etc.
+-	Abrechnung von Reinigungsarikel mit den Bewohnern
+-	Mehrere Preise pro Artikel nach Bearbeitungsart(Pressen,finishen,bügeln,reinigung)
+-	Detailiere Statistiken zu Umlaufmengen,Wäschealter etc – auch für den Kunden direkt über das Onlinetool
+-	Erfassungen von Näharbeiten per Barcode/RFID incl Zeit und Material und automatischer Berechnung an die entsprechende Abteilung im nächsten Lieferschein
+-	Artikelverfolgung über rfid und steurknöpfe(z.B. in Nachwäsche oder zur Näherei)
+6. App für Android Handys und Tablets
+-	Produktionsleiter: Aufgabenplanung, werte überwachung, Durchsagen etc
+-	Fahrer: Zeit und km erfassung, Fahrzeugortung,Erfassung von Containern  beim Kunden, Auslieferung von leercontainer beim Kunden
+-	Geschäftsführer/Aussendienst: scannen von barcodes/rfid für Inventur, anzeige des Alters/Waschzyklen der Wäsche etc.
+-	Techniker: Aufgabenverwaltung/Planung, Störungsmeldung
+7. Frei konfigurierbares Dashboard
+-	Sie erstellen frei konfigurierbare Ansichten mit den gewünschten Daten
+-	unbegrenzt viele ansichten möglich
+Eine Ansicht besteht aus elementen mit folgenden funktionen
+-	Textelement: Anzeige eines Wertes als text – z.B. KG im Wäscheingang oder Füllstand Wassertanks oder auf Tagesleistung xy
+-	„Tacho“ Anzeige eines Tachos mit min,soll und max wert(rot gelb grün) für Leistungen,Füllstände und ähnliches
+-	Graph: Anzeige von werten über einen Zeitraum(Leistung,Füllstände etc)
+- Datentabelle
+- uvm. 
+-	Ansichten können mit Passwörten belegt werden
+-	Ansichten können schnell konfiguriert werden- alle Elemente werden per „Drag and Drop“ paltziert und per dialog konfiguriert
+-	Auch als Handyapp verfügbar!
+-	Kann alle erfassten Daten nach wunsch in unterschiedlichsten darstellungen anzeigen-vom Verbrauch über Leistungen und füllstände bis zur Produktivität.
+-	Schnelle Übersicht nach den unterschiedlichsten Bedürfnissen für Techniker,Personal und Betriebsleiter
+8. Datenerfassung + Microcontroller
+-	Niedrige Kosten pro Maschinen anbindung
+-	Universell für alle Maschinen(Waschstrasse,Waschschleudermaschine,Mangel,Frottemaschinen,Kittelpressen und sogar Handfaltplätze über induktivtaster)
+-	Einmalige Logik zur teileerkennung: Der Microcontroller unterscheide auf wunsch alle Teile selbst in ihrer Mangel- egal ob Kopfkissen, Küchentuch,Laken oder runde Tischdecken
+-	Exakte erfassung aller Artikel
+-	Leistungserfassung an allen Stationen
+-	Hutschienen montage möglich- meist kein gesonderter Schaltkasten/Netzteil möglich(12 und 24V versorgung möglich)
+-	Kompakte Bauweise
+-	Direkte Netzwerkverbindung(leitung nur bis zum nächsten Terminal nötig)
+-	Erkennt Maschinenauslastung,Mitarbeiterleistung,stillstände
+-	Kann Mitarbeiter automatisch abmelden wenn nicht gearbeitet/eingegeben wird
+-	Einfach Mantage durch uns, einen Elektriker oder Ihren Techniker
+-	Hersteller unabhängig
+-	Daten sofort und live verfügbar
+-	Kann Kundennummern und Programme an Maschinen übergeben
+-	Ein Controller kann bis zu 16 Maschinen erfassen
+-	Verbrauchsmengenerfassung von Gas,Waschmitteln,Strom etc
+-	Füllstandsüberwachung von Tanks
+-	Meldung von Störungen(Abfangen von Maschinenfehlern und informierung des Technikers über Bildschirm,durchsage oder Handy)
+-	Steuerung von Türschlössern,Fenstern und freigaben von Maschinen
+-	Ansteuerung von aktustischen und optischen meldesystemen( z.B. Meldung wenn Trockner fertig oder ähnliches)
+-	Eingriff oder Übernahme in Logistikfunktionen: Übernahme von Ansteuerung von Transportbänder und ähnlichem
+9.	CRM und Logsystem
+-	Erfassung von Kundenkontakten über schnelle Hotkey(z.B. telefonaten)
+-	Digitalisierung aller Dokumente mit Kundenzuordnung, suchwörten etc
+-	Dokumentenverwaltung- hochgeladene Dokumente können editiert werden
+-	Anbindung an alle scanner
+-	Erfassung von allen Geschäftvorfällen
+	Kombiniert mit dem Log-System
+-	Digitex speichert ALLE vorgänge in einem Logsystem: egal ob ein Fahrer einen Container anliefert, ein Posten gemangelt wird, eine Reklamation bearbeitet wird oder ein Preis geändert wird
+-	Die Daten vom CRM und Logsystem werden zusammen gespeichert und sind über filter anzeigbar
+-	Anzeige aller Vorfälle zu einem Kunden mit Filtern: „Alles anzeigen“ oder nur buchhaltungsrelevante daten oder reklamationen- hier ist jeder sofort über alles informiert. Sie haben beim Kundenanruf sort eine alle relevanten Daten ob es nun um Liefermengen, Reklamationen oder Beschwerden geht.
+-	Jeder ist über die Schritte der anderen in Bedarfsfall informiert-keine Absprachen oder Rückfragen zu Vorgängen der kollengen mehr erforderlich
+-	Genaue Analyse wenn doch mal was schief geht
+-	Crm aktionen können halbautomatisch Aufgaben erzeugen- aus einer Kundenreklamation wird vielleicht ein Auftrag für einen Mitarbeiter zur sofortigen gesonderten Bearbeitung oder ein Lieferauftrag für einen Fahrer
+10. RFID-Flaschwäschesystem:
+		Kundeneigene wäschen
+i.	Verfolgung
+ii.	Statistiken
+iii.	Lieferscheinerfassung
+iv.	Erkennung von Fremdteilen
+		Individualleasing
+i.	Verfolgung
+ii.	Statistiken
+iii.	Lieferscheinerfassung
+iv.	Erkennung von Fremdteilen
+v.	Inventuren
+		Poolsystem im Bestellverfahren
+i.	Erfassung eingangsmengen
+ii.	Packhilfe nach Bestellsystem
+iii.	Onlinebestellsystem für die Kunden
+iv.	Statistiken
+		Poolsystem direkt
+i.	Eingansmengen werden direkt wieder ausgeliefert
+ii.	Wäschen werden durch edv nach der verarbeitung direkt für die Kunden an den Stationen gepackt
+iii.	Kein Zwischenlager
+iv.	Kein arbeitsschritt kommisionieren aus dem Lager mehr
+v.	Weniger Lagerkapazitäten notwendig
+		Leihwäschen
+i.	Leihwäschen auf bestellung wie z.B. Tischdecken zu Events
+ii.	Bestandführung beim Kunden
+iii.	Getrennte Berechnung von bereitstellungskosten/Woche aufgrund der Bestände und dem Waschpreis
+11. Sonstige Funktionen
+		Durchsagesystem
+i.	Erfasste Maschinenfehler werden angesagt
+ii.	Alarmmeldungen
+iii.	Personal hat individuelle Durchsagemöglichkeiten: z.B. Techniker oder Schichtleitung rufen – Wartezeiten und Stillstandszeiten minimieren.
+iv.	Text 2 Speech system- durchsagen können vom pc oder Handy geschrieben werden z.B. Herr Mustermann bitte ins Büro oder ähnliches
+			Internes Kommunikationssystem 
+i.	Frei konfigurierbar
+ii.	Von Station zur Station
+iii.	Vom Büro aus an einzelne Mitarbeiter
+iv.	Halbautomatische standartknöpf wie z.B. „Wäsche noch feucht- bitte langsamer Mangeln“ 
+			Feiertagsplaner
+i.	Erstellung von Feiertagen
+ii.	Sperrung des Feiertags für die Fahrer beim anlegen von Sonderterminen
+iii.	Anzeige alle Anfahren am feiertag und kompfortabeler verschiebung dieser
+			Betriebsübersicht
+i.	Sehen sie Ihren ganzen Betrieb als Grundriss mit allen Maschinen und Mitarbeitern
+ii.	Sehen sie Maschinen und Mitarbeiterleistungen auf einen Blick
+iii.	Sehen sie den aktuellen Zustand aller Maschinen und Störungen
+iv.	Kommunizieren Sie im Beadrfsfall direkt mit den Mitarbeitern per durchsage,Bildschirmeinblendung oder Handyapp
+v.	Sehen Sie Wäschemengen im Eingang,an Sammelpunkten
+vi.	Verfolgen Sie Posten durch den gesamten Betrieb
+vii.	Werten sie Maschinen,Aufträge oder Mitarbeiter direkt aus dieser übersicht im detail aus- einfach anklicken
+-	Automatische Backups aller Daten
+-	Zentrale schnelle Datenbank-keine teuren Server notwendig
+				Anbindung an
+i.	Waagen
+ii.	Patchmaschinen
+iii.	Drucker(Barcode,Bons etc)
+iv.	Dosieranlagen
+v.	Barcodescanner
+vi.	RFID scanner
+vii.	Sämtlichen Maschinen
+viii.	Handarbeitsplätzen über Taster
+			Nachwäschesystem
+i.	Nachwäsche wird direkt an den Arbeitsstationen gepackt wo der Fleck oder das schlechte Finish erkannt wurde
+ii.	Nachwäsche wird nach Kunden gepackt: ein Netz oder Wäschewagen pro Kunde
+iii.	Auf Wunsch wird nach dem Nachwäschegrund unterschieden
+iv.	Nachwäschen lagern beim Wäscher und werden bei der nächsten Bearbeitung des Kundens wieder zugegeben
+v.	Keine „kleinen oder gemischten“ Posten mehr
+vi.	Weniger sortieraufwand
+vii.	Weniger fehler durch falsche Sortierungen
+viii.	Viel höere Produktivität als „Teile um die Mangel zu geben“ oder kleine Posten zu Waschen oder Teile zu kennzeichnen und zusammen mit anderen Kunden zu waschen und später wieder auszusortieren
+ix.	Warnung wenn nachwäscheanteil x Prozent übersteigt-sofortige Nachbearbeitung nötig um den Kunden zu versorgen
+-	Anzeige aller Wäschen in der Firma mit Ankunfts und auslieferungszeitpunkt
+-	„Wäschesuche“: Woi sind die Wäschen von Kunde xy
+-	Containerbestandführung: Anzeige von Containermengen bei Kunden incl auflistung für jeden Container „seit wann“ *auch Körbe
+-	Autobeladehilfe: Fahrer packen nach Ihrem toruenplan und können nur Container mitnehmen, die auch fakturiert wurden Info wenn Leercontainer benötigt werden
+-	Fernwartung an jeder station und Mitarbeiterschulung/Unterstützung per Teamviewer
+-	Übersichtlieche & einfache Touchscreens an den Stationen – kurze Einarbeitungszeit
+-	Modulares System- skalierbar nach Ihren Bedürfnissen
+-	Alles aus einer Hand: Warenwirtschaft,Tourenplan,Produktions- alles Harmoniert 😉
+Datenschutz
+Impressum
+POWERED BY THE X THEME 
+ 
+Toggle the Widgetbar
+ 
+				Dashboard			
+Mit einem Blick haben Sie durch die Dashboardansicht Ihre gesamte Produktion im Blick. Maschinendaten sowie Verbräuche können in dieser frei definierbaren Ansicht dargestellt werden.
+			×            
+				LS3			
+Lieferscheinerstellung
+Rechnungslegung
+Fibu
+			SCHLIEßEN            
+				Lieferscheinerstellung			
+			×            
+				Lieferscheinerstellung			
+Lieferscheinerstellung
+Rechnungslegung
+Fibu
+			SCHLIEßEN            

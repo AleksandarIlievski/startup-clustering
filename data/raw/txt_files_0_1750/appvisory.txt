@@ -1,0 +1,181 @@
+APPVISORY – Mobile Security & App Risk Management
+    
+KOSTENLOS TESTEN
+LÖSUNGEN
+APPVISORY
+Funktionsübersicht
+Demo
+CRCLE
+Mobile Threat Defense Lösung
+PEGASUS CHECK
+Geräte überprüfen
+TRUSTED APP
+Zertifizierung
+Zertifizierte Apps
+Leitfaden sichere App-Entwicklung
+IN HOUSE APP SECURITY
+In-House-App testen
+SERVICES
+APP TRACKER
+Glossar IT-Security
+Webinare & Workshops
+Professional Service
+Events
+MEDIA
+News
+Ressourcen
+Presse
+UNTERNEHMEN
+Über uns
+Kunden
+Partner
+Karriere
+Kontakt
+LOGIN
+EN
+ 
+ Seite wählen 
+Intelligentes App Risk Managementfür die Entlastung Ihrer IT-Ressourcen
+Mit APPVISORY identifizieren Sie Schwachstellen und riskantes App-Verhalten automatisiert und in Echtzeit – bevor sie auf Ihre Geräte gelangen. Erhalten Sie einen DSGVO-konformen App-Katalog, der sich selbstständig Ihren Compliance-Vorgaben anpasst. Kostenlos Testen
+ 
+        
+Wie kann APPVISORY Ihnen helfen?
+Arbeiten mit Apps – sicher und DSGVO-konform
+360° App-Analysen
+Entscheiden Sie auf Basis detaillierter Testergebnisse über den sicheren Einsatz von iOS & Android Apps in Ihrem Unternehmen.
+FEATURES
+ Prüfung vor und nach der Installation und im Enterprise App Store KI-gesteuertes Static & Dynamic Security Testing   
+Automatisierte Positiv-Negativlisten
+Sparen Sie Zeit und Ressourcen bei der automatischen Einordnung von konformen und nicht-konformen Apps.
+FEATURES
+ Individuelle Compliance-Anforderungen Auch bei App-Updates Automatisches Scrapen der App Stores 
+Sicheres App-Management
+Setzen Sie Ihre IT-Richtlinien auch auf App-Ebene um und schützen Sie sich vor DSGVO-Verstößen und Bußgeldern.
+FEATURES
+ Standard-Sicherheitskonfigurationen nach DSGVO, OWASP u.w.  Berücksichtigung branchenspezifischer Bestimmungen (HIPPA, etc.) Individuell skalierbar 
+ Keine Tool- oder App-Installation notwendig
+ Automatische Synchronisation in Ihr MDM/EMM
+ Direkter Service-Ansprechpartner
+ Entwicklung, Hosting & Support made in Germany
+FUNKTIONEN
+Wie APPVISORY Ihre Mobilgeräte absichert
+APPVISORY ist Europas führende Mobile Application & Risk Management Lösung. Im Zusammenspiel mit Ihrem MDM aber auch als Stand-Alone überprüft die SaaS-Lösung die Sicherheit & Unternehmenskonformität Ihrer mobilen Apps.
+ vollautomatisiert und DSGVO-konform
+ angereichert durch intelligente Muster, Viren- und Malware-Erkennung
+ für alle öffentlichen und betriebsinternen Apps aus DACH & USA Jetzt kostenlos testen
+ 
+Supported Partners
+            
+ 
+RISIKOFAKTOREN
+Wovor APPVISORY Sie schützt
+Sicherheitseinbrüche vermeiden mit intelligentem App Risk Management
+Mit Hilfe statischer und dynamischer Analysen durchleuchtet APPVISORY mobile Apps, um Schwachstellen sowie riskantes Verhalten zu identifizieren. Die Technologie wird über Jahre hinweg von IT-Sicherheitsexperten entwickelt und optimiert. Jetzt kostenlos testen
+
+Verstöße gegen Datenschutz-Bestimmungen (u.a. DSGVO)
+Unberechtigte Datenabfragen, Zugriff auf personenbezogene Daten, ungültige Datenverwendung
+
+Unsichere Datenspeicherung in der Cloud / auf dem Gerät
+Unkontrollierter Datenabfluss zu unternehmensfremden Servern; unsichere Speicherung auf dem Gerät
+
+Datensicherheitsverstöße
+Unsichere Datenübertragung, unzulässige Serverstandorte, mangelhafte Verschlüsselungsstärken usw.
+
+Mangelhafte Codequalität
+Fehlende State-of-the-Art Entwicklungsstandards, veralteter oder fehleranfälliger Code
+s
+Mobile Threats
+Malware, schadhaften Code und weitere Bedrohungen
+
+Drittanbieter
+Unzulässige Verbindungen und Datenübertragungen zu Dritten und unsichere Drittanbieter-Bibliotheken
+5 GRÜNDE FÜR APPVISORY
+Warum Sie App Risk Management betreiben sollten
+6 Millionen Apps
+stehen in den App Stores zur Auswahl – die meisten davon ohne Risikobewertung 
+72 % aller Apps
+verarbeiten sensible, personenbezogene Daten 
+75 % aller Apps
+nutzen keine Verschlüsselung für mindestens eine Verbindung
+39 % aller Unternehmen
+litten bereits unter mobilen Sicherheitseinbrüchen – Tendenz steigend
+900.000 € Schaden
+verursacht ein Datenverlust im Durchschnitt in Unternehmen
+QUELLE: basierend auf über 1.000.000 App-Tests mit APPVISORY | Dell Technologies „Global Data Protection Index 2020 Snapshot™ 2020“
+Das sagen unsere Kunden
+über die Arbeit mit APPVISORY
+"Der Schutz sensibler Daten hat für uns als kommunales Unternehmen höchste Priorität."
+„Wir haben schnell erkannt, dass ungeprüfte Apps dazu führen können, dass schutzwürdige Informationen abfließen. APPVISORY war unsere Antwort darauf, wie wir solche riskanten Apps identifizieren und ihre Nutzung vermeiden können!“ 
+Lennart Smith, Geschäftsbereich IT und Digitalisierung
+"APPVISORY hilft uns, die Sicherheit all unserer Geräte zu gewährleisten."
+„Überall auf der Welt. Wir können unseren mobilen Mitarbeitern jetzt mehr öffentlich zugängliche Anwendungen zur Verfügung stellen, ohne uns Sorgen um die Sicherheit unserer Daten machen zu müssen.“  
+Yanik Antpöhler, IT-Systemadministrator
+"15.000 Mobilgeräte in über 300 Banken und die darauf befindlichen Apps abzusichern ist kein einfaches Unterfangen."
+„Dank APPVISORY schließen unsere Kunden den Risikofaktor App nun unkompliziert und präventiv aus ihremUnternehmensnetz aus.“  
+Anthony Kajzer, Projektmanager
+ Jetzt kostenlos testen
+
+1.500.000+ 
+gesicherte Geräte
+
+seit 2012
+Europas Marktführer
+
+450+
+Klein- und Großkunden
+
+30 Min.
+Einrichtung
+
+80 %
+Zeitersparnis
+
+142
+Schulungen durchgeführt
+
+1.5 Millionen
+Apptests im APPVISORY Katalog
+
+13 
+Partner
+LÖSUNG: APPVISORY
+Empfehlung des Bundesamt für Sicherheit in der Informationstechnik (BSI):
+
+Ein Auszug aus dem IT-Grundschutz-Kompendium
+APP.3  Mobile Anwendungen (Apps) – Anforderungen  Um zu verhindern, dass Apps ungewollt vertrauliche Daten versenden oder aus den gesendeten Daten Profile über die Benutzer erstellt werden, MUSS die App-Kommunikation geeignet eingeschränkt werden. Dazu SOLLTE die Kommunikation im Rahmen des Test- und Freigabeverfahrens analysiert werden.
+Überprüfen Sie jetzt Ihre Apps im Unternehmen!
+ Kontaktieren Sie unsere Experten
+ Jetzt kostenlos testen 
+ 
+            
+Bitte lasse dieses Feld leer.
+Haftungsausschluss: Ich stimme der Verarbeitung meiner personenbezogenen Daten durch die mediaTest digital GmbH zu und habe die Datenschutzerklärung gelesen. Die Daten werden in der Datenbank von mediaTest digital gespeichert und können im Rahmen von Marketing-Aktivitäten genutzt werden. Datenschutzerklärung 
+*Pflichtfeld
+
+mediaTest digital GmbH   Karmarschstraße 1630159 Hannover Fon +49 (0)511 353 994 22 Fax +49 (0)511 353 994 12 contact (at) appvisory.com
+COMPANY
+Über mediaTest digitalUnsere KundenUnsere PartnerLogin PartnerportalKarriere & JobsKontakt
+SOLUTIONS
+APPVISORY FunktionenDemoTRUSTED APPInhouse App SecurityPegasus Check
+RESSOURCES
+BlogNewsletterWebinare & EventsUse CasesDownloadsPressebereich
+PARTNER
+ TelekomvmWare – Airwatch Bechtle BFI Group CSM – MeinSystemhaus Freudenberg IT Jakobsoftware MobileIron SCHIFFL IT Sector27 SOPHOS SYSTAG  Unique Projects
+MEMBERSHIP  
+FolgenFolgenFolgenFolgen
+© 2023 APPVISORY | by mediaTest digitalImprint AGB Privacy Policy Vulnerability Disclosure Policy KONTAKTIERE UNS
+Cookie-Zustimmung verwalten 
+Wir verwenden Cookies, um unsere Website und unseren Service zu optimieren. Datenschutzerklärung 
+Funktional
+Funktional
+Immer aktiv							
+ Die technische Speicherung oder der Zugang ist unbedingt erforderlich für den rechtmäßigen Zweck, die Nutzung eines bestimmten Dienstes zu ermöglichen, der vom Teilnehmer oder Nutzer ausdrücklich gewünscht wird, oder für den alleinigen Zweck, die Übertragung einer Nachricht über ein elektronisches Kommunikationsnetz durchzuführen.
+Vorlieben
+Vorlieben
+ Die technische Speicherung oder der Zugriff ist für den rechtmäßigen Zweck der Speicherung von Präferenzen erforderlich, die nicht vom Abonnenten oder Benutzer angefordert wurden.
+Statistiken
+Statistiken
+ Die technische Speicherung oder der Zugriff, der ausschließlich zu statistischen Zwecken erfolgt. Die technische Speicherung oder der Zugriff, der ausschließlich zu anonymen statistischen Zwecken verwendet wird. Ohne eine Vorladung, die freiwillige Zustimmung deines Internetdienstanbieters oder zusätzliche Aufzeichnungen von Dritten können die zu diesem Zweck gespeicherten oder abgerufenen Informationen allein in der Regel nicht dazu verwendet werden, dich zu identifizieren.
+Marketing
+Marketing
+ Die technische Speicherung oder der Zugriff ist erforderlich, um Nutzerprofile zu erstellen, um Werbung zu versenden oder um den Nutzer auf einer Website oder über mehrere Websites hinweg zu ähnlichen Marketingzwecken zu verfolgen. Optionen verwalten Dienste verwalten Anbieter verwalten Lese mehr über diese Zwecke Cookies akzeptieren Ablehnen Einstellungen anzeigen Einstellungen speichern Einstellungen anzeigen {title} {title} {title}Zustimmung verwalten

@@ -1,0 +1,711 @@
+AOE: Shaping your company's digital future together | AOE
+                                    
+                                    
+                                    Services
+                                
+                    
+                            Main menu
+                        
+                Services
+                
+                        Services & Competences
+                    
+            
+                                
+                                Consulting & Enablement
+                            
+                                
+                                Co-Creation & Acceleration
+                            
+                                
+                                Development & Technology
+                            
+                                    
+                                    Academy
+                                
+                    
+                            Services
+                        
+                Academy
+                
+                        Academy at the glance
+                    
+            
+                                    
+                                    Agile expertise
+                                
+                    
+                            Academy
+                        
+                Agile expertise
+                
+                        Agile expertise at the glance
+                    
+            
+                                
+                                
+                                Business agility or the pitfalls of agile transformation
+                            
+                                
+                                
+                                Quality as a team approach
+                            
+                                
+                                
+                                Exploring Requirements
+                            
+                                    
+                                    Software testing & test automation
+                                
+                    
+                            Academy
+                        
+                Software testing & test automation
+                
+                        Software testing & test automation at the glance
+                    
+            
+                                
+                                
+                                Exploratory Testing – Deep Dive
+                            
+                                
+                                
+                                Frontend & Backend for Testers
+                            
+                                
+                                
+                                Test automation - Selenide
+                            
+                                
+                                
+                                Test automation - Selenium
+                            
+                                
+                                
+                                Test automation - Cypress
+                            
+                                
+                                
+                                Test automation - Appium
+                            
+                                    
+                                    Cloud & DevOps
+                                
+                    
+                            Academy
+                        
+                Cloud & DevOps
+                
+                        Cloud & DevOps at the glance
+                    
+            
+                                
+                                
+                                Kubernetes 101
+                            
+                                
+                                
+                                Terraform in action
+                            
+                                
+                                
+                                DevOps Training “From Zero to Cloud”
+                            
+                                    
+                                    Cybersecurity & access management
+                                
+                    
+                            Academy
+                        
+                Cybersecurity & access management
+                
+                        Cybersecurity & access management at the glance
+                    
+            
+                                
+                                
+                                OWASP Top 10 & Training Lab
+                            
+                                    
+                                    Software development & architecture
+                                
+                    
+                            Academy
+                        
+                Software development & architecture
+                
+                        Software development & architecture at the glance
+                    
+            
+                                
+                                
+                                Strategic Software Architecture
+                            
+                                
+                                
+                                JavaScript
+                            
+                                
+                                
+                                React
+                            
+                                
+                                
+                                Tactical Software Architecture
+                            
+                                
+                                
+                                Introduction to advanced Go patterns
+                            
+                                
+                                
+                                First steps with Flamingo
+                            
+                                    
+                                    
+                                    Industries
+                                
+                    
+                            Main menu
+                        
+                Industries
+                
+                        Industries Overview
+                    
+            
+                                    
+                                    Telco
+                                
+                    
+                            Industries
+                        
+                Telco
+                
+                        Telco at the glance
+                    
+            
+                                
+                                
+                                Telco Trendbook
+                            
+                                
+                                
+                                Fiber expansion
+                            
+                                
+                                Aviation
+                            
+                                    
+                                    Healthcare
+                                
+                    
+                            Industries
+                        
+                Healthcare
+                
+                        Healthcare at the glance
+                    
+            
+                                    
+                                    
+                                    Digital Experience Management for Healthcare
+                                
+                    
+                            Healthcare
+                        
+                Digital Experience Management for Healthcare
+                
+                        Digital Experience Management for Healthcare at the glance
+                    
+            
+                                
+                                
+                                DXM Case Study
+                            
+                                
+                                Bare.ID for Healthcare
+                            
+                                
+                                
+                                Digital catering management
+                            
+                                
+                                Marketplace
+                            
+                                
+                                Manufacturing
+                            
+                                
+                                Public
+                            
+                                
+                                Railway
+                            
+                                
+                                Fintech
+                            
+                                    
+                                    
+                                    Products
+                                
+                    
+                            Main menu
+                        
+                Products
+                
+                        All AOE Products
+                    
+            
+                                
+                                Omnevo
+                            
+                                
+                                Bare.ID
+                            
+                                
+                                Searchperience
+                            
+                                
+                                Flamingo
+                            
+                                
+                                
+                                Clients
+                            
+                                    
+                                    
+                                    Company
+                                
+                    
+                            Main menu
+                        
+                Company
+                
+                        Company Overview
+                    
+            
+                                
+                                
+                                Our philosophy
+                            
+                                
+                                
+                                Our values & culture
+                            
+                                
+                                
+                                CSR & Sustainability
+                            
+                                    
+                                    
+                                    Insights
+                                
+                    
+                            Main menu
+                        
+                Insights
+                
+                        Insights Overview
+                    
+            
+                                    
+                                    
+                                    Blog
+                                
+                    
+                            Insights
+                        
+                Blog
+                
+                        Blog at the glance
+                    
+            
+                                    
+                                    
+                                    2023
+                                
+                    
+                            Blog
+                        
+                2023
+                                
+                                
+                                Future-proof IT security concept: What companies should know
+                            
+                                
+                                
+                                AOE Technology Radar #6: What's new?
+                            
+                                
+                                
+                                AOE Behind the Screens: Frontend Developer
+                            
+                                
+                                
+                                Cybersecurity trends: What's important in 2023?
+                            
+                                
+                                
+                                Entscheiderfabrik: AOE, PLANFOX & PlanOrg with „Rethinking the digital patient journey“
+                            
+                                
+                                
+                                DKMS registration: Why we participate
+                            
+                                
+                                
+                                Articles
+                            
+                                    
+                                    
+                                    Events
+                                
+                    
+                            Insights
+                        
+                Events
+                
+                        Events at the glance
+                    
+            
+                                
+                                
+                                TechTalk Wiesbaden
+                            
+                                
+                                
+                                Cloudland
+                            
+                                
+                                
+                                Marketing Club Mainz Wiesbaden at AOE
+                            
+                                
+                                
+                                SEIBERT MEDIA OpenSpace with Friends
+                            
+                                
+                                
+                                Fuck-up Night
+                            
+                                
+                                
+                                DevOpsCon
+                            
+                                
+                                
+                                Sustainable Future .digital
+                            
+                                
+                                
+                                Girls'Day
+                            
+                                
+                                
+                                Bare.ID: CSK Summit 2023
+                            
+                                
+                                
+                                Usability Testessen
+                            
+                                
+                                
+                                CSR Regio.Net Networking Workshop
+                            
+                                
+                                
+                                TechTalk Wiesbaden
+                            
+                                
+                                
+                                Press
+                            
+                                
+                                
+                                Newsletter
+                            
+                                
+                                
+                                Open Source
+                            
+                                
+                                
+                                Tech Radar
+                            
+                                    
+                                    
+                                    Careers
+                                
+                    
+                            Main menu
+                        
+                Careers
+                
+                        Careers Overview
+                    
+            
+                                
+                                
+                                How we work
+                            
+                                
+                                
+                                What we offer
+                            
+                                
+                                
+                                Students
+                            
+                                
+                                
+                                FAQs
+                            
+                                
+                                
+                                Vacancies
+                            
+                                
+                                
+                                Contact
+                            
+        Get in touch
+    
+            We use HubSpot CRM to process and manage contact and information requests. Please accept the "Functional Cookies" and reload the page to load the contact form.
+            
+                Cookie Settings
+            ServicesIndustriesProductsClientsCompanyInsightsCareersContact
+                                                            
+                                                                    What we do
+                                                                
+                                                        We solve complex problems with tailor-made, high-quality technologies that make our customers fit for the future.
+                                                            Services & Competences
+                                                        Consulting & EnablementHolistic support in the planning and implementation of technological solutions.Co-Creation & AccelerationSet-up, support and accelerate client development teams through our experts.Development & TechnologyAgile development of digital platforms in mission-critical business processes.AcademyInteractive trainings and hands-on workshops, provided by experienced experts.
+            
+                    Industries Overview
+                
+        
+            
+            Telco
+        
+            
+            Aviation
+        
+            
+            Healthcare
+        
+            
+            Marketplace
+        
+            
+            Manufacturing
+        
+            
+            Public
+        
+            
+            Railway
+        
+            
+            Fintech
+        
+                                                            
+                                                                    AOE Products
+                                                                
+                                                        We use our project experience to create new and outstanding products and incubate startups.
+                                                            All AOE Products
+                                                        OmnevoThe leading platform for driving digital ancillary revenues in the mobility industry.Bare.IDFirst GDPR & KRITIS compliant Single-Sign-On & IAM solution, based on Open Source.SearchperienceFederated Search & Recommendation Engine für complex search requirements.FlamingoLeading Open Source framework for modular applications, based on Golang.
+            
+                    Company Overview
+                
+        
+            
+            Our philosophy
+        
+            
+            Our values & culture
+        
+            
+            CSR & Sustainability
+        
+            
+                    Insights Overview
+                
+        
+            
+            Blog
+        
+            
+            Articles
+        
+            
+            Events
+        
+            
+            Press
+        
+            
+            Newsletter
+        
+            
+            Open Source
+        
+            
+            Tech Radar
+        
+            
+                    Careers Overview
+                
+        
+            
+            How we work
+        
+            
+            What we offer
+        
+            
+            Students
+        
+            
+            FAQs
+        
+            
+            Vacancies
+        Get in touch
+            We use HubSpot CRM to process and manage contact and information requests. Please accept the "Functional Cookies" and reload the page to load the contact form.
+            
+                Cookie Settings
+            Hello, we are AOE.  We develop high-quality  software solutions that create competitive edge.We help companies realize their digital potential with a unique blend of talents, technology, and vision – preparing them for anything the future brings. Our Centers of Excellence
+                                
+                                Telco
+                            
+                                
+                                Aviation
+                            
+                                
+                                Healthcare
+                            
+                                
+                                Marketplace
+                            
+                                
+                                Manufacturing
+                            
+                                
+                                Public
+                            
+                                
+                                Fintech
+                            
+                
+                    What we do:  Our services & competences
+                
+            We solve complex problems with customized technologies,  that make companies fit for the future. Our value creation:Consulting & EnablementHolistic support in the planning and implementation of technological solutions. Co-Creation & AccelerationSet-up, support and accelerate client development teams.  Agile Development & TechnologyAgile development of platforms for mission-critical business processes.  AOE Academy & LearningIndividual training, interactive workshops and consulting from the field.   Our services & competencesThe AOE philosophy:  Talents. Enabling. Tech.
+                Talents
+            Well-established and experienced teams with the required technological and methodological competencies. 
+                Enabling
+            Creating optimal processes and structures that make companies fit for the digital future.
+                Tech
+            Translating customer needs into digital solutions that open up new business models.We create optimal conditions for collaborative teams  and a breeding ground for excellence and innovation.  Crucial to our success: our values, our culture, our philosophy.About usHow Deutsche Telekom revolutionizes fiber-optic marketingA new ecosystem for FTTH expansion:  implementing a faster, more efficient  and future-proof customer portal.
+                                                 Read Case Study
+                                            Building an agile mobile virtual network operatorHow do you build a unique value proposition to a saturated telco market and Europe's first agile mobile virtual network operator? AOE and Deutsche Telekom's congstar have been a team since 2008.
+                                                 Read Case Study
+                                            Expansion of product range for finance service providerThink big, start small, grow fast.  See the success of the agile incubator approach.
+                                                 Read Case Study
+                                            
+                
+                    Our clients
+                
+            
+                Global brands that put their trust in AOE's expertise
+            More clients
+                
+                    Insights
+                
+            AOE press releases
+                            IoT software company 1NCE selects agile software development provider AOE as strategic partner
+                            
+                        
+                            
+                                    More than 13,000 customers trust more than 15 million fast, reliable and secure IoT endpoints to 1NCE across 150+ countries. As the company expands into a complete IoT platform, it has chosen AOE, a leading agile software service provider based in Germany, as its strategic implementation partner.
+                                
+                        Cybersecurity
+                            Future-proof IT security concept: What companies should know
+                            
+                        
+                            
+                                    Long-term and reliable protection: an overview of the components and goals of an IT security concept.
+                                
+                        Technology
+                            Planting more than trees: What more sustainable software development might look like
+                            
+                        
+                            
+                                    Digitalization brings enormous advantages and a great deal of potential with regard to sustainability, but it also has its price. Read more on sustainable software development.
+                                
+                        Technology
+                            AOE Technology Radar #6: What's new?
+                            
+                        
+                            
+                                    Our insights and recommendations regarding current technologies for the development of software solutions, based on our daily work.
+                                
+                        Inside AOE
+                            AOE Behind the Screens: Frontend Developer
+                            
+                        
+                            
+                                    
+                                        The idea to become a developer came to Klara only after her studies (spoiler: not computer science!). Today she does frontend development at AOE and, after more than a year, is still more than happy in her role and in her team. Here in "AOE Behind the Screens" she tells you about how she managed to realize her dream and what developing software has to do with translating.
+In this new blog series, various AOE employees will regularly talk about their work, their careers and everything else that keeps them busy. In this way, we want to give you an insight into different roles and tasks and into everyday life at AOE.
+Frontend developer Klara kicks things off this week. Read more about the person "behind the screens"!
+                                    
+                                
+                        Business
+                            After-sales & customer loyalty: This is how retailers can profit from evaluating customer data
+                            
+                        
+                            
+                                    Brands increasingly establish direkct relationships with end customers is a development that offers lots of potential for retailers. Here's how to prepare.
+                                
+                        All insights
+                
+                    Get in touch
+                
+            We're keen to hear from you on how  we can help you solve your digital  challenges and prepare for change.
+                We use HubSpot CRM to process and manage contact and information requests. Please accept the "Functional Cookies" and reload the page to load the contact form.
+                
+                    Cookie Settings
+                
+                Services
+            
+                Industries
+            
+                Products
+            
+                Clients
+            
+                Company
+            
+                Insights
+            
+                Careers
+            
+                Contact
+            
+                    Deutsche Version
+                
+                Privacy Policy
+            
+                Imprint
+            
+                Sitemap
+            
+                Privacy Policy B2B
+            
+                Terms & Conditions
+            
+                    
+                        © 1999-2023 AOE. All rights reserved.
+                    
+                

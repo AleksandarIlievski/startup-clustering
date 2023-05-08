@@ -1,0 +1,118 @@
+CashOnLedger
+ 
+Home
+Blog
+Insights
+Fintech Award
+Case Study
+Ask for a demo
+EN
+DE
+Enabling Asset-as-a-Service business models
+Transforming financial assets
+Reducing backoffice complexity through automation
+Integration of ERP and accounting software to enable scalability
+Comprehensive Asset Lifecycle Management
+Enabling transparency about asset usage through data integrity
+6f060109002f0c0e1c0742000142030a0b080a1d410c0002 
+EN
+DE
+CashOnLedger provides the technical infrastructure to enable data-driven business models for Industry 4.0. We transform IoT data into financial value streams and track the asset lifecycle.
+We are known from:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Our value proposition
+We transform the world's assets and make them accessible and tradeable.
+Process automation for manual backoffice operations
+CashOnLedger transforms IoT data into financial streams and enables data-driven business models. 
+Asset lifecycle management
+Mapping financial data to each asset allows a comprehensive usage-based asset lifecycle management. 
+Digital asset class based on tokenization
+The asset lifecycle management allows a profit centre analysis for each asset and transforms real assets into financial assets 
+Financial infrastructure for data-driven business
+The financial data is automatically invoiced & billed as well as integrated into common ERP & accounting systems. 
+Onboarding steps
+New clients can be onboarded to the CashOnLedger Platform within 72 hours.
+We are moving fast. Depending on the maturity of a clients’ specific business case, data availability and stage of technical setup, we are able to onboard new customers within hours. 
+Ask for a demo 
+01
+Understanding the business
+In a first step we understand our clients’ business model and the specific use case we want to portray. Some clients already have very specific ideas, with others we go into workshops to develop the detailed business case together.
+02
+Exploring the data
+Once we understand every detail of the business logic, we will explore the available data. What do we need, what is available, what can we compute or obtain in the future?
+03
+Enabling data-driven business models
+In a last step we put everything together to implement the client’s business case and create a microservice fit to the client and their business case.
+Our technology & solution is trusted by:
+Enabling a new 120 billion US$ market
+Our mission is to continually lower the bar to access assets by using the internet and technology to help asset owners, users, investors and other stakeholders find, discover and engage into new ways to maximise the ecological and economical asset benefits.
+ 
+Faq
+CashOnLedger is the 360-degree solution for Asset-as-a-Service models
+Our world is becoming increasingly connected - by 2025, 41.6 billion IoT devices will generate 79.4 zettabytes of data. Data that is currently disconnected from financial services and therefore unused. We are developing a solution to connect the world of machines with the world of finance. In this way, we enable our customers to monetize their data streams and help to rethink and implement business models. 
+                                                CashOnLedger is the technical infrastructure for new digital asset classes.                                            
+We transform the world's assets and make them accessible and tradeable.  Our mission is to continually lower the bar to access assets by using the internet and technology to help asset owners, users, investors, and other stakeholders find, discover, and engage in new ways to maximize the ecological and economical asset benefits. CashOnLedger connects Industry 4.0 with financial services by enabling the usage-based billing of machines and fully automating payments - connecting machine usage directly to the financial cycle. Payments are automatically triggered and executed in the classic financial system using SEPA transfers. Based on the cash flow performance of real assets, we create new asset classes for investors, enabling refinancing of PPU and AaaS models on the one hand and answering investors' demand for new asset classes on the other. 
+                                                Why does it make sense to use blockchain technology?                                            
+Our solutions do not rely on blockchain technology; however, it has unique features that make it valuable to use. We use BC to document, secure and transmit transactions to provide reliable services to our customers. This way, all parties involved have real-time access to the same immutable database (single point of truth). The resulting data integrity protects against fraud and misuse. 
+                                                How quickly can I deploy COL?                                            
+We are API-driven, which means that as soon as we are provided with data, we can get started.   Our product consists of different modules that can be easily and individually tailored to the specific business model. In doing so, we do not need access to all available data, but only to data that is relevant for the underlying billing logic.  Read more about our onboarding steps here (Hyperlink to Onboarding Steps page).
+                                                What payment methods are possible with COL?                                            
+From a technical perspective, we can integrate any payment method into our technology. However, from a business perspective, the integrated methods must be regulatory compliant. We offer the possibility to integrate established payment methods and work together with renowned financial institutions. To process payments as automated as possible, we rely on our own EBICS interface and the innovative Request-to-pay payment method. 
+Faq
+CashOnLedger is the 360-degree solution for Asset-as-a-Service models
+Our world is becoming increasingly connected - by 2025, 41.6 billion IoT devices will generate 79.4 zettabytes of data. Data that is currently disconnected from financial services and therefore unused. We are developing a solution to connect the world of machines with the world of finance. In this way, we enable our customers to monetize their data streams and help to rethink and implement business models. 
+Ask for a demo
+Winner Fintech Germany Award 2021
+The leading award for fintech companies in Germany
+With the Fintech Germany Award, the Frankfurt financial center - today represented by FTGA organizers Frankfurt Main Finance, TechFluence and WM Gruppe/Börsen-Zeitung - honors outstanding FinTech companies in various categories. The jury evaluates and compares the startups in their individual company phases independently of the respective FinTech or InsurTech subsector according to a variety of different criteria. Based on a scoring process, the panel determines a list of the leading startups in each category, including special awards, and determines the winners at a jury meeting. 
+In addition to the award, the winners receive a "challenge cup" matching the Golden Garage in the form of gold-plated water pump pliers, donated by Günter Rothenberger, founder of Günter Rothenberger Industries GmbH and inventor of the "R-System". 
+Blog/Insights
+CashOnLedger‘s Thought Leadership
+CashOnLedger leads the discussion around topics such as Digital Assets, IoT Payments, Digital Euro, Asset-as-a-Service & other Fintech topics. Read more in articles below.
+06. Apr 2022
+Digital Euro on the blockchain
+ 
+1. Discussion about the Digital Euro: We need a more fundamental understanding
+Central Bank Digital Currencies (CBDCs) on the blockchain have been an intensely discussed
+topi...
+Read more 
+05. Apr 2022
+The future of payments: programmable payments in the IoT sector
+ 
+The German industry is increasingly being digitalised. The Internet of Things (IoT) sector in particular promises revolutionary, novel business models that can have a positive impact on the competitiveness of the German indus...
+Read more 
+31. Mar 2022
+Fully automatic
+ 
+Processing payments faster with blockchain technology: tractor manufacturer Lindner is already testing this.
+In the future, payment transactions using bloc...
+Read more 
+Read More Articles 
+Case study
+Pay-per-Use: The real usage based Rental
+Together with Lindner Traktorenwerke we automated the entire rental process and implemented a usage-based rental model. Receiving the telemetric data from Lindner, we orchestrate the data and derive the invoices. Being integrated in the ERP & accounting system from Lindner, the billing process runs fully automated. Find out more in the whitepaper link:
+Read the whitepaper 
+David Lindner
+Marketing und Export, Lindner Traktorenwerke
+CashOnLedger enables us to extend our business model and reach additional target groups by providing a fully-automated data-driven pay-per-use model.
+Ask for a demo
+Why should you reach out?
+In an initial online meeting, we present the CashOnLedger solution in depth and explain how Asset-as-a-Service models can enable your business. Showing you already implemented use-cases will help to shape your idea. With your input, we will implement a customized demo with your requirements for the next touchpoint and can take it from there.
+    Notice: JavaScript is required for this content.
+We transform the world's assets and make them accessible and tradeable.
+Address
+CashOnLedger Technologies GmbHUbierring 3550678 CologneGermany
+The Company
+CashOnLedger is a Cologne based Deep-Tech Startup, which focuses on Asset-as-a-Service. With our payment engine solution, we enable data-driven business models. Therefore, we combine Industry 4.0 and the world of finance. We work hard, think different and drive industrial change
+EN
+DE
+Ⓒ 2022 CashOnLedger Technologies GmbH
+ImprintPrivacy Policy 

@@ -1,0 +1,76 @@
+Home | Formtastic
+Formular-Designer
+Anwendungen
+Preise
+Hilfe
+Hilfebereich
+Formtastic-Forum
+Anmelden
+Formular-Designer
+Anwendungen
+Preise
+Hilfe
+Hilfebereich
+Formtastic-Forum
+ 
+Digitalisieren SieIhre Formulare
+Berichte, Protokolle, Auftragserfassungen –Papierlose Datenerfassung für alle Branchen
+Kostenlos Registrieren
+Einfache Anwendung
+Per Drag&Drop können Sie intuitiv individuelle Formulare erstellen. Oder Sie nutzen eine der bestehenden Vorlagen. Für die mobile Nutzung auf dem Tablet oder Smartphone einfach App starten, Formular öffnen, ausfüllen, absenden. Fertig!
+Kosten und Zeit sparen
+Ausgefüllte Formulare werden automatisch als PDF oder Word-Datei in Ihrem Firmendesign per E-Mail an Mitarbeiter oder Kunden versendet. Bürokratische Aufgaben können so direkt vor Ort automatisch erledigt werden. Kundendetails wie z.B. die Adresse können hinterlegt und so automatisch ausgefüllt werden.
+Sichere Prozesse & Datenhaltung
+Ihre Daten werden verschlüsselt übertragen und in einem deutschen Hochleistungs-Rechenzentrum DSGVO-konform gespeichert. Deutsche Datenschutzgesetze werden vollständig beachtet.
+“Dank Formtastic haben wir nun bessere Kontrolle über unsere Kunden und Mitarbeiter. Dadurch können wir den bestmöglichen Service anbieten und sparen Papier, was ja auch der Umwelt zu Gute kommt.”
+Christoph Schmetter
+Schmetter PulverDesign
+„Formtastic passt sich an unsere Prozesse an und ist mein Werkzeug, Aufgaben zu standardisieren und Informationen zu digitalisieren.“
+Matthias Höll
+VdW Bayern Treuhand
+“Formtastic macht es uns möglich, detaillierter zu dokumentieren und Prozessketten zu kürzen. Ein Muss als Tool zur Digitalisierung!”
+Karl Wichmann
+Wichmann GmbH
+Zentrale Steuerung über das Web-Portal
+Alle Vorgänge können zentral im Browser gesteuert werden. Die graphische Oberfläche des Formular-Designers ermöglicht das bequeme Erstellen Ihrer Formularvorlagen. Sie können hier auch auf unsere praktischen fertig konfigurierten Formularvorlagen zugreifen. Legen Sie in den Export-Einstellungen Ihr individuelles Design für den PDF-Export mit Hilfe einer Word-Vorlage fest. Bestimmen Sie, an wen die befüllten Formulare geschickt werden sollen oder weisen Sie noch nicht vollständig ausgefüllte Formulare anderen Mitarbeitern zu (Workflow).
+Individuelle und intelligente Formularvorlagen
+Per Drag&Drop können beliebige Formularvorlagen nach Ihren Anforderungen erstellt werden. Es ergeben sich unzählig viele Anwendungsmöglichkeiten durch die Verwendung von Eingabefeldern, Auswahllisten, Checkboxen, Schiebereglern, Fotofeldern, Unterschriftsfeldern, Standort, QR/Barcode, Kalkulation usw.
+Felder können gruppiert, mehrspaltig oder in Tabellenform genutzt werden. Die Sichtbarkeit von Feldern kann gesteuert werden, so dass diese nur dann angezeigt werden, wenn eine bestimmte Bedingung erfüllt ist. Auch können z.B. Kundendetails zum automatischen Ausfüllen hinterlegt werden, damit diese nicht manuell eingegeben werden müssen.
+So werden mit Formtastic aus Papierformularen intelligente Geschäftsprozesse.
+Formulardaten speichern und versenden über die mobile App
+Nutzen Sie Ihre Formularvorlagen auf dem Tablet oder auf dem Smartphone mit der kostenlosen Formtastic App. Ihre aktuellen Formulare und Formularvorlagen werden mit dem Web-Portal synchronisiert. Durch die übersichtliche Ordnerstruktur wissen Sie immer genau, welche Formulare neu eingegangen, in Bearbeitung, an andere Benutzer zugewiesen oder bereits versendet sind.
+Offline-Nutzung:  Offline erfasste Daten werden zwischengespeichert und automatisch synchronisiert, sobald Sie wieder “online” sind.
+Behalten Sie die Übersicht über Ihre Daten: Export als PDF, Word- oder Excel-Datei
+Die erfassten Daten können mit einem Klick automatisch als PDF und/oder Word-Datei in Ihrem Design per E-Mail versendet werden. Damit erhalten alle Beteiligten die relevanten Informationen zum gleichen Zeitpunkt und im gewünschten Design. Ihre Daten können zudem gebündelt als Zip mit den gesendeten PDF/Word-Dateien zusammen mit einer Excel-Tabelle heruntergeladen werden und somit weiterverarbeitet und archiviert werden. Auch eine automatische Sicherung per SFTP auf Ihrem Server ist möglich.
+Keine Nachbearbeitung und keine Doppelerfassungen mehr. Papierkram erledigt!
+}
+50% Zeitersparnis
+Weil Informationen direkt vor Ort digital erfasst und verarbeitet werden – ohne Medienbrüche!
+
+Mehr Effizienz
+Export als PDF, Versand per Email und Zuweisung an andere Mitarbeiter – alles automatisch nach Ihren Wünschen.
+l
+100% flexible Gestaltung
+Formularvorlagen und Ergebnisdokumente können nach Ihren Wünschen individuell gestaltet werden.
+
+Intelligente Formulare
+Felder können versteckt oder automatisch mit Kundendaten befüllt werden. Auch Live-Berechnungen mit individuellen Formeln sind möglich.
+~
+DSGVO-konforme Datenverarbeitung
+Die Datenverarbeitung und der Datenschutz erfolgt gemäß DSGVO. Daten werden verschlüsselt übertragen und in  einem deutschen Rechenzentrum gespeichert.
+Erfassen Sie Ihre Daten
+jetzt mobil und digital!
+Kostenlos Registrieren
+ 
+FORMTASTIC VORTEILE
+Profitieren Sie von der einfachen Bedienung am PC und in der App, der DSGVO-konformen Datensicherheit und einer flexiblen Preisstruktur. Digitalisieren Sie noch heute Ihre Formulare, um Kosten und Zeit zu sparen!
+Branchenbeispiele
+ App für Handwerker
+App für Hausverwaltungen
+ANWENDUNGSBEISPIELE
+Zeiterfassung/Stundenzettel Inventurliste Auftragserfassung Audit Regiebericht Quittung Checkliste Kundendatenblatt Schadenmeldung Geschäftsbrief (mehr)
+WEITERE INFOS
+Fertige FormularvorlagenOnline-HilfeForumAGBsDatenschutzbestimmungenImpressum
+KONTAKT
+Support-Ticket-CenterTel.: 089/7168020-90Email: info@formtastic.de
+ 

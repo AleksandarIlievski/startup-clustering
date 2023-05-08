@@ -1,0 +1,76 @@
+truemetrics | location - motion - analysis
+Home
+Products
+Product Overview
+Precise Customer Location
+Improved Parking Position
+Delivery Process Segmentation
+Custom Position & Motion Metrics
+About Us
+The future of motion and position data
+Better data makes better services - start using truemetrics algorithms today
+Learn More
+Better data to deliver better services
+It takes a lot of expertise in sensors, algorithms and data science to guarantee precise motion and location data for every use case.
+truemetrics takes this challenge off your plate so your engineers can focus on developing the next super feature that will 'wow' your customers.
+Explore Products
+ One simple API call to get all the motion and position data you need
+precise location data
+Know the position of your assets and users at sub-meter precision.
+advanced motion data
+orientation, speed and acceleration at high frequency and accuracy
+motion patterns
+detect and quantify motion patterns specific to your use case
+INDUSTRIES
+Motion and position is everywhere
+Mobility sharing
+Finding vehicles, tracking distances, enforcing regulations.
+ 
+ 
+Logistics
+Tracking parcels, detailed ETA, proving delivery. 
+ 
+Sports
+3D trajectories, maneuver detection, advanced metrics.
+ 
+Ride hailing
+Locating drivers and customers, routing, optimizing fleet efficiency. 
+ 
+Tell us about your use case
+Our customers & partners
+                                GLS Group
+                            
+                                Amazon Web Services
+                            
+                                Flink
+                            
+                                Bettermile
+                            
+                                Reaktor Berlin
+                            
+                                City of Berlin
+                            
+                                European Social Fund
+                            
+                                ESF in Berlin
+                            
+Learn From The Experts
+You don’t have to do it alone. We are here to help you.
+Get Started
+truemetrics GmbH
+c/o Mindspace
+Skalitzer Str. 104
+10997 Berlin
+ 
+Follow us on LinkedIn
+Products
+How it works
+Schedule a Demo
+Company
+About Us
+Contact Us
+Resources
+Imprint
+Disclaimer
+Privacy Policy
+Copyright © truemetrics GmbH 2023. All Rights Reserved. | Privacy Policy 

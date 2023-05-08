@@ -1,0 +1,127 @@
+oee.ai – Industrie 4.0, Overall Equipment Effectiveness (OEE) Management und Steigerung
+ 
+Zum Inhalt springen
+ 
+ 
+Menü
+Funktionen
+Über uns
+Services
+Details & News
+Kontakt
+Log-In
+Impressum
+Deutsch
+English
+Wir sind OEE | Produktivität | Einfach | Industrie 4.0  Die Industrie 4.0 Lösung zur OEE-Optimierung. Durch künstliche Intelligenz und mit minimalem Aufwand für Erfassung, Analyse und Auswertung. Für Unternehmen, die Lean Management und Industrie 4.0 verstanden haben.
+ Unser Service Get Started 
+Funktionen 
+  
+Echtzeitanalysen
+Produktivitäts- und Verlustinformationen werden in Echtzeit erfasst. Die Ergebnisse und KPIs werden als Widget auf Cockpits, Andon-Boards, Smartwatchtes, etc. angezeigt.
+  
+Künstliche Intelligenz
+KI-Algorithmen erkennen Muster und Anomalien in den Zeitreihen und leiten Menschen bei der Optimierung. KI-Bibliotheken bieten einfachen Zugang zu schnellen Lösungen.
+  
+Social Manufacturing
+Gamifizierte Visualisierungen motivieren Mitarbeiter zur Aktivität auf Basis der Analyseerkenntnisse. Verfügbare Benchmarking-Informationen klassifizieren die Produktivität.
+  
+Anlagenkonnektivität
+Anlagen werden flexibel konnektiert: Von Plug-&-Play Zähl- oder Schwingungs-Retro-Fits bis zur Anbindung der Anlagen über OPC-UA oder MQTT.
+Über uns 
+Unsere Idee
+Aus langjähriger Beratungs- und Managementerfahrung wissen wir, dass die Produktion datenreich aber informationsarm ist. Mit der oee.ai App schließen wir die Lücke zwischen Daten und Wissen mit Hilfe eines modernen „Manufacturing Intelligence“ Ansatzes und vereinfachen so das Management in einem komplexen Produktionsumfeld.
+Unsere Mission
+Wir stellen produzierenden Unternehmen auf Knopfdruck die relevanten Status- und Optimierungsinformationen am richtigen Ort zur Verfügung. KI-Algorithmen finden die Optimierungspotenziale im Datenstrom. Mitarbeiter werden motiviert, auf Basis der Daten zu handeln, um die bestmögliche Produktion zu realisieren.
+Unser Wissen
+Innovation ist der Schlüssel für erfolgreiche Unternehmen. Dem verpflichtet entwickeln wir nicht nur die oee.ai-App stetig weiter, sondern tragen auch zur Qualifizierung der Mitarbeiter – in Form von modernen online Kursen – siehe Udemy – und Büchern – siehe Amazon –, sowie Whitepapern und Fachartikeln bei.
+ 
+Unsere Services 
+ 
+OEE as a Service
+oee.ai zur Miete. Nutzung in der Cloud oder on-premise. Einfache monatliche Abrechnung. Keine Investition bei vollem Leistungsumfang.
+ 
+Künstliche Intelligenz
+Wir erstellen auch individuelle Lösungen zur Auswertung von Maschinendaten mit künstlicher Intelligenz und maschinellem Lernen.
+ 
+Eigeninstallation
+Installieren Sie oee.ai auf Ihrem Server mit Speicherung der Daten in Ihrer Hoheit. Eine Lösung für größere Unternehmen.
+ 
+Produktivitätsberatung
+Wir helfen Ihnen mit unserem erfahrenen Team, Ihre Anlagenproduktivität zu steigern. Das ist unser Fokus, darin sind wir Spezialisten.
+Mit unserer Analytik arbeiten 
+Unsere Technologiepartner 
+ 
+SFM Systems
+ 
+Cybus Connectware
+ 
+WAGO Kontakttechnik
+ 
+Bosch Rexroth ctrlX Automation
+ 
+msg Plaut Smart Factory Platform
+ 
+FLECS
+ 
+Phoenix Contact PLCnext
+ 
+MPDV MIP
+ 
+Hoffmann Group Go Digital Store
+OEE-Steigerung als Hard- & Software-as-a-Service – ganz ohne Invest
+Jetzt loslegen
+Details & News 
+ 
+Industrie 4.0 / OEE / Produktivität 
+Mit Künstlicher Intelligenz die Dauer bis zum nächsten Anlagenstillstand vorhersagen 
+oee.ai’s Künstliche Intelligenz Algorithmen analysieren die Anlagenproduktivität 24×7 und helfen den Mitarbeitern so, die Anlagenproduktivität zu steigern. Aus der Bibliothek der verfügbaren Algorithmen stellen wir in diesem Artikel den KI-Algorithmus …
+ 
+Industrie 4.0 / OEE / Produktivität 
+Next Lean: Lean Leadership am Shopfloor Board mit Echtzeitdaten 
+Das Buch “Die zweite Revolution in der Autoindustrie” wurde 1990 veröffentlicht und markiert den Start des Denkens in Wertschöpfung und Verschwendung in der westlichen Welt, dem Start von “Schlanker Produktion”. …
+ 
+Industrie 4.0 / OEE / Produktivität 
+Gamifizierung zur Steigerung der Anlagenproduktivität: Annotation 
+Gamifizierungen haben sich in unserem Leben verbreitet. Ein Armband vibriert, wenn am Tag 10.000 Schritte gemacht wurden, die Sprachlern-App motiviert zum täglichen Vokabeltraining und das Auto präsentiert einen “Eco-Score” bei …
+ 
+Industrie 4.0 / OEE / Produktivität 
+Die best-demonstrierte Zykluszeit zur Optimierung des Leistungsfaktors der OEE 
+Während der Verfügbarkeits- und auch der Qualitätsfaktor für den Zweck der OEE-Optimierung relativ einfach zu messende Parameter darstellen, stellt der Leistungsfaktor viele Unternehmen vor eine Herausforderung. Das Konzept der best-demonstrierten …
+ 
+Industrie 4.0 / OEE / Produktivität 
+Das Rüstrad zur Steigerung der Anlagenproduktivität 
+Ein Rüstrad ist ein visuelles Werkzeug zur Optimierung des Rüstprozesses in der Fertigung. Es wurde entwickelt, um produzierenden Unternehmen dabei zu helfen, den Zeit- und Arbeitsaufwand für die Umstellung von …
+Weitere Informationen
+Kontaktieren Sie uns 
+ 
+ Name
+ 
+ E-Mail-Adresse / -address
+ 
+ Betreff / Subject
+ 
+ Ihre Nachricht / Your Message
+ 
+WIR NEHMEN NEUE PROJEKTE AN.
+Kontaktieren Sie uns. Wir stellen Ihnen gerne ein Starter-Set oee.ai für einen Test in Ihrer Produktionsumgebung zur Verfügung. Erst danach entscheiden Sie sich.
+ifp Software GmbH
+Kalverbenden 31  52066 Aachen  Deutschland
++49 (0)241/401 842 75
+info@oee.ai
++49 (0)241/401 842 73
+	Datenschutz und Cookies: Diese Seite verwendet Cookies. Durch die weitere Nutzung dieser Website stimmen Sie deren Verwendung zu.
+Weitere Informationen dazu, wie Sie Cookies steuern können, finden Sie hier:
+		
+		Cookie-Richtlinie	
+ 
+Abonnieren Sie unseren Newsletter 
+Bleiben Sie auf dem Laufenden 
+								Copyright © 2016 – 2023 ifp Software GmbH, Aachen, Germany; Link zu/to AGBs/T&Cs 
+ 
+Lade Kommentare …
+ 
+Verfasse einen Kommentar …
+E-Mail (Erforderlich)
+Name (Erforderlich)
+Website

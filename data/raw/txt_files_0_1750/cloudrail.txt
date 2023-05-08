@@ -1,0 +1,104 @@
+CloudRail — Industrial Cloud Connectivity #IIoT
+ 
+Login / Sign Up
+Home
+CloudRail Solution
+Solution Overview
+Compatible Clouds
+Sensor Connector
+Compatible Sensors
+OPC UA Connector
+Use Cases
+Industrial Retrofitting
+OPC-UA
+Digital Inputs / Outputs
+Analog Sensors
+Edge Computing
+On-Premise Installations
+Wireless / Cellular Connectivity
+Why CloudRail
+5 Reasons for CloudRail
+References
+How to Buy
+Pricing
+Hardware Purchase Options
+Request a Quote
+Partner Network
+Contact Us
+BLOG
+ 
+ 
+Home
+CloudRail Solution
+Solution Overview
+Compatible Clouds
+Sensor Connector
+Compatible Sensors
+OPC UA Connector
+Use Cases
+Industrial Retrofitting
+OPC-UA
+Digital Inputs / Outputs
+Analog Sensors
+Edge Computing
+On-Premise Installations
+Wireless / Cellular Connectivity
+Why CloudRail
+5 Reasons for CloudRail
+References
+How to Buy
+Pricing
+Hardware Purchase Options
+Request a Quote
+Partner Network
+Contact Us
+BLOG
+Managed OT to Cloud Connectivity
+IIoT — Proving Value Fast & Easily Scale Afterward
+ 
+ 
+Data for the Industrial IoT
+CloudRail is a fully managed solution to acquire data from industrial environments, preprocess it locally and send it to any cloud — Plug&Play. CloudRail works for greenfield as well as brownfield applications. It uses industry standards like OPC-UA to connect modern equipment, while old machines are retrofitted with secondary sensors. A database of over 12.000 sensor definitions in combination with automated data normalization and device provisioning reduces the setup time for connecting a machine to the cloud from weeks to just hours.
+Besides faster time to value for IIoT projects, CloudRail provides a cloud-based device management solution which allows enterprise customers to securely roll-out, manage, and update thousands of globally distributed edge devices.
+Your IIoT journey with CloudRail
+Connect
+Connect industrial assets in hours instead of weeks — no matter if it’s modern or legacy equipment.
+Scale
+Seamlessly scale from a first PoC to large IIoT ecosystems using a sophisticated roll-out process.
+Operate
+Centrally manage up to millions of gateways across multiple sites. Automatic remote updates keep your installations secure and compatible.
+Learn More
+CloudRail changes the way IIoT projects are realized. Companies can start small, prove value fast and quickly scale based on their learnings. Businesses around the world will benefit from faster results and lower device onboarding and management costs. 
+Tony Shakib General Manager, Microsoft
+ 
+ 
+Heavy Equipment Manufacturer Accelerates Multi Site IIoT Roll-Out with CloudRail
+Download Case Study
+ 
+Aerospace & Defense Supplier Utilizes CloudRail for Secure OT-to-AWS Connectivity
+Download Case Study
+ 
+Pharmaceutical Manufacturer Saves 1.5 Million Euro Monthly per Production Site
+Download Case Study
+ 
+How KAMAX Connected Their Industrial Machines to AWS in Hours Instead of Weeks
+Download Case Study
+ 
+About Us
+Contact Us
+FAQs
+Documentation
+Jobs
+Privacy Policy
+Imprint
+© 2022 CloudRail GmbH, all rights reserved. Various trademarks held by their respective owners.
+We use cookies to improve your experience on our site and offer you relevant information. Learn more. ACCEPTPrivacy & Cookies Policy
+Close
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are as essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+ 
+								Necessary							
+Necessary
+Always Enabled
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								
+SAVE & ACCEPT

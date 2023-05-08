@@ -1,0 +1,68 @@
+Supertab
+Skip to content
+ 
+Personal
+Business
+Active Payments
+My Tab
+ 
+Personal
+Business
+Active Payments
+My Tab
+ 
+We're changing the way the game is paid.
+We're changing the way the game is paid.
+Supertab is a patented payments platform that can help supercharge the way your customers buy digital goods and services. By aggregating purchases of any size, including micropayments and fractional payments, Supertab makes tiny payments possible.
+But our payments can do so much more. Through our Active Payments architecture you can enable small applets that accompany each payment allowing features like access management, subscription billing, object ownership or whatever you would like to dream up.
+Want to learn more? Contact Sales
+More monetization options?We’ve got a Tab for that.
+For Publishers
+For Gaming
+For Anything
+You’ve mastered your high-value traffic, now monetize the other 98%. Keep your existing ad model. Double down on your subscription strategy. Unlock the transactional space that lives between those traditional revenue sources.
+Supertab maximizes publisher revenues in addition to ads and subscriptions. With one click, users commit to a purchase and “put it on my Tab.” Supertab aggregates small purchases across a universal network and processes payments once a $5 threshold has been crossed.
+Individual Content Sales
+Supertab maximizes publisher revenues in addition to ads and subscriptions.
+Time Passes
+Use Supertab to allow timed access to your product for any duration, at any price.
+AdBlock Monetization
+Selectively target ad block traffic and allow users to view ads or pay a small amount for an ad-free experience.
+Backaway Offers
+Provide short duration paid offers as an alternative monetization channel for “never-subscribers”
+Power-up in game monetization with Supertab. Supertab’s flexible payment architecture allows for the creation of interesting and unique payment options and game mechanics benefiting both users and developers.
+By not being tied to a one size fits all “pay now” system, the ability to programmatically vary payment triggers, timing, and size provides a highly flexible and unique monetization engine for any gaming application.
+In-Game Monetization
+Utilize any real or fictional currency as part of uninterrupted gameplay. Only settle in the fiat currency of your choice when appropriate.
+Asset Portability
+Use Active Payments to tag any asset purchase with a unique identifier and rule set to make it instantly available in another game or application
+Micropayments
+Overcome consumer barriers to high price points by enabling quick and seamless micropayments that can add up to big profits
+Offline Support
+Utilize Supertab’s ability to accrue and track payments even if a network connection is unavailable, making offline transactions possible.
+Take advantage of the flexibility of Supertab to create a purpose built payment system that’s uniquely suited to your product or service.
+Mix and match any of the attributes of our Active Payment system to create a bespoke implementation. Have a need that we don’t meet? Get in touch and we’ll figure out how to make it happen.
+Buy Now, Pay Later
+Many consumers prefer buy now, pay later options and Supertab’s tracking and settlement
+Active Payments
+Use Active Payments to tag any asset purchase with a unique identifier and rule set to make it instantly available in another game or application
+Low Lift Integration
+Integrate via Google Ad Manager’s Admin Console or roll your own integration using our custom API suite.
+Global Support
+Utilize Supertab’s ability to accrue and track payments even if a network connection is unavailable, making offline transactions possible.
+Want to learn more? Contact Sales
+Selling digital goods and services made easy
+Get in Touch
+Terms of Service
+Privacy Policy
+FAQs
+Contact Us
+Imprint
+ 
+Twitter
+LinkedIn
+ 
+					© 2023 Supertab
+				
+	Notice: JavaScript is required for this content.
+			×			

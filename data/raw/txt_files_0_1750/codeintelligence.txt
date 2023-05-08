@@ -1,0 +1,471 @@
+Application Security Testing Powered by AI | Code Intelligence
+Skip to content
+Close
+  
+Product
+Product Tour
+Start Fuzzing
+CVEs & Findings
+Resources
+What is Fuzz Testing?
+Webinars
+Monthly Coffee Hour
+Documentation
+Best Practices
+Java Testing
+JUnit Testing
+API Testing
+Embedded Testing
+ISO 21434 Compliance
+Company
+About Us
+Careers
+Contact
+Blog
+SEARCH
+Book a Demo
+Product
+Product Tour
+Start Fuzzing
+CVEs & Findings
+Resources
+What is Fuzz Testing?
+Webinars
+Monthly Coffee Hour
+Documentation
+Best Practices
+Java Testing
+JUnit Testing
+API Testing
+Embedded Testing
+ISO 21434 Compliance
+Company
+About Us
+Careers
+Contact
+Blog
+Book a Demo
+Software Testing Made for Developers. 
+Powered by AI.
+Unlock the power of self-learning AI to uncover edge-case bugs and vulnerabilities with every code change.
+ 
+Trusted by
+Fill in Your Testing Blind Spots With the Help of AI
+Combine dynamic testing with self-learning AI to take your existing tests to the next level. Code Intelligence maximizes the code coverage of your tests based on your application’s behavior and previous test runs. This allows you to autogenerate test cases that reach paths you never would have thought of.
+Find Hidden Bugs and Vulnerabilities With Every Code Change
+Code Intelligence enables you to find hidden functional bugs and robustness issues, including OWASP vulnerabilities and memory corruption within your existing test environment.
+Unit & Integration Tests
+API Tests
+Deep Bugs
+Functional Tests
+Java
+C/C++
+Golang
+JavaScript
+// This is the code you want to test
+public static String getUser(String id) {
+  // SECURITY ISSUE: vulnerable to log4Shell (CVE-2021-44228)
+  log.info("Request: user with ID " + id);
+  
+  Statement stmt = conn.createStatement();
+  // SECURITY ISSUE: vulnerable to SQL injection!
+  ResultSet rs = stmt.executeQuery("SELECT * FROM users WHERE id = '" + id + "'");
+  // handle results
+}
+// This is the test you write
+@FuzzTest
+void testGetUser(String generatedId) {
+  // Call your method with AI-generated inputs.
+  User.getUser(generatedId);
+}
+        TERMINAL
+        
+$
+cifuzz
+run all
+ Results: found 2 issues and reached 91% code coverage
+ * Critical Security Issue: Remote Code Execution in getUser (com.example.User:4)
+ * Critical Security Issue: SQL Injection in getUser (com.example.User:8)
+ To assess the issues, check your project on CI Sense
+// This is the code you want to test
+char* getUser(const char* id, size_t id_size) {
+  char* user_buffer = (char*) malloc(MAX_USER_LENGTH); 
+  // SECURITY ISSUE: buffer overflow!
+  memcpy(user_buffer, id, id_size);
+  // finish constructing the user buffer
+}
+// This is the test you write
+FUZZ_TEST(const char* data, size_t size) {
+  // Call your function with AI-generated inputs.
+  getUser(data, size);
+}
+        TERMINAL
+        
+$
+cifuzz
+run all
+ Results: found 1 issues and reached 86% code coverage
+ * Critical Security Issue: Heap Buffer Overflow in getUser (src/user.cpp:5:2)
+ To assess the issues, check your project on CI Sense
+// This is the code you want to test
+func GetUser(id string) (string, error) {
+  // SECURITY ISSUE: vulnerable to command injection!
+  out, err := exec.Command(fmt.Sprintf("id -nu %s", id)).Output()
+  // handle error and return result
+}
+// This is the test you write
+func FuzzGetUser(f *testing.F) {
+  f.Fuzz(func(t *testing.T, id string) {
+    // Call your function with AI-generated inputs.
+    result, err := GetUser(id)
+    // ...
+  })
+}
+        TERMINAL
+        
+$
+cifuzz
+run all
+ Results: found 1 issues and reached 71% code coverage
+ * Critical Security Issue: Command Injection in GetUser (user/user.go:4)
+ To assess the issues, check your project on CI Sense
+// This is the code you want to test
+function getUser(id) {
+  // SECURITY ISSUE: vulnerable to command injection!
+  const result = execSync(`id -nu ${id}`);
+  // handle error and return result
+}
+// This is the test you write
+describe("Test the getUser function", () => {
+  it.fuzz("with AI-generated inputs", (data) => {
+    getUser(data);
+  });
+});
+        TERMINAL
+        
+$
+cifuzz
+run all
+ Results: found 1 issues and reached 74% code coverage
+ * Critical Security Issue: Command Injection in getUser (user/user.js:4:2)
+ To assess the issues, check your project on CI Sense
+Java
+C/C++
+Golang
+JavaScript
+// This is the code you want to test
+@SpringBootApplication
+@RestController
+class MyApplication {
+  @GetMapping("/user")
+  public String getUser(@RequestParam() String id) {
+    Statement stmt = conn.createStatement();
+    // SECURITY ISSUE: vulnerable to SQL injection!
+    ResultSet rs = stmt.executeQuery("SELECT * FROM users WHERE id = '" + id + "'");
+    // handle results
+  }
+}
+// This is the test you write
+@FuzzTest
+public void testUserEndpoint(String generatedId) throws Exception {
+  // Call your API endpoint with AI-generated inputs.
+  mockMvc.perform(get("/user").param("id", generatedId));
+}
+        TERMINAL
+        
+$
+cifuzz
+run all
+ Results: found 1 issues and reached 86% code coverage
+* Critical Security Issue: SQL Injection in Get User endpoint (com.example.MyApplication:10)
+ To assess the issues, check your project on CI Sense
+// This is the code you want to test
+int getUser(struct Connection *conn, const char *id) {
+  sprintf(query, "SELECT * FROM users WHERE id ='%s'", id);
+  char *zErrMsg = nullptr;
+  
+  // SECURITY ISSUE: vulnerable to SQL injection!
+  sqlite3_exec(db, query, nullptr, nullptr, &zErrMsg);
+  // handle query results
+}
+// This is the test you write
+FUZZ_TEST(const uint8_t *data, size_t size) {
+  // Call your API endpoint with AI-generated inputs.
+  Client *client = connect_to_server(ip, port);
+  client->send_request("GET /user/%s HTTP/1.0", data);
+}
+        TERMINAL
+        
+$
+cifuzz
+run all
+ Results: found 1 issues and reached 76% code coverage
+ * Critical Security Issue: SQL Injection in the Get User API endpoint (src/user.cpp:7:2)
+ To assess the issues, check your project on CI Sense
+// This is the code you want to test
+func GetUser(db sql.DB, w http.ResponseWriter, r *http.Request) {
+  id := r.URL.Query().Get("id")
+  
+  // SECURITY ISSUE: vulnerable to SQL injection!
+  rows, err := db.Query(fmt.Sprintf("SELECT * FROM users WHERE id = %s", id))
+  // Handle the answer and write the answer to `w`
+}
+// This is the test you write
+func FuzzGetUser(f *testing.F) {
+  f.Fuzz(func(t *testing.T, id string) {
+    // Call your API endpoint with AI-generated inputs.
+    url := fmt.Sprintf("/user?id=%s", id)
+    req := httptest.NewRequest("GET", url, nil)
+    performRequestAndCheckResult(req)
+  })
+}
+        TERMINAL
+        
+$
+cifuzz
+run all
+ Results: found 1 issues and reached 76% code coverage
+ * Critical Security Issue: SQL Injection in the Get User API endpoint (user/user.go:6)
+ To assess the issues, check your project on CI Sense
+// This is the code you want to test
+const app = require('express')();
+app.get("/user", (request, response) => {
+  const id = request.query.id;
+  const query = `SELECT * FROM users WHERE id = ${id}`;
+  // SECURITY ISSUE: vulnerable to SQL injection!
+  connection.query(query, (error, results, fields) => {
+    // handle results
+  });
+});
+// This is the test you write
+const request = require("supertest");
+describe("Test the Get User API Endpoint", () => {
+  it.fuzz("with AI-generated inputs", async (generatedId) => {
+    const response = await request(app).get("/user").query({ id: generatedId });
+  });
+});
+        TERMINAL
+        
+$
+cifuzz
+run all
+ Results: found 1 issues and reached 73% code coverage
+* Critical Security Issue: SQL Injection in the Get User API endpoint (user/user.js:7:2)
+ To assess the issues, check your project on CI Sense
+Java
+C/C++
+Golang
+JavaScript
+// This is the code you want to test
+public static String getUser(String id) {
+  if (id.startsWith("admin:")) {
+    Statement stmt = conn.createStatement();
+    // SECURITY ISSUE: vulnerable to SQL injection!
+    ResultSet rs = stmt.executeQuery("SELECT * FROM admins WHERE id = '" + id + "'");
+    // handle results
+  }
+  // Handle non-admin users.
+}
+// This is the test you write
+@FuzzTest
+void testGetUser(String generatedId) {
+  // Call your method with AI-generated inputs.
+  User.getUser(generatedId);
+}
+        TERMINAL
+        
+$
+cifuzz
+run all
+ Results: found 2 issues and reached 91% code coverage
+ * Critical Security Issue: SQL Injection in getUser (com.example.User:6)
+ To assess the issues, check your project on CI Sense
+// This is the code you want to test
+char* getUser(const char* id, size_t id_size) {
+  char* user_buffer = (char*) malloc(MAX_USER_LENGTH);
+  
+  if (id_size >= 6 && strncmp("admin:", id, id_size) == 0) {
+    // SECURITY ISSUE: vulnerable to heap buffer overflow!
+    memcpy(user_buffer, id, id_size);
+  
+    // finish constructing the user buffer
+  }
+}
+// This is the test you write
+FUZZ_TEST(const char* data, size_t size) {
+  // Call your function with AI-generated inputs.
+  getUser(data, size);
+}
+        TERMINAL
+        
+$
+cifuzz
+run all
+ Results: found 1 issues and reached 63% code coverage
+ * Critical Security Issue: Heap Buffer Overflow in getUser (src/user.cpp:7:4)
+ To assess the issues, check your project on CI Sense
+// This is the code you want to test
+func GetUser(id string) (string, error) {
+  if strings.HasPrefix(id, "admin:") {
+    // SECURITY ISSUE: vulnerable to SQL injection!
+    rows, err := db.Query(fmt.Sprintf("SELECT * FROM admins WHERE id = %s", id))
+    // ...
+  }
+}
+// This is the test you write
+func FuzzGetUser(f *testing.F) {
+  f.Fuzz(func(t *testing.T, id string) {
+    // Call your function with AI-generated inputs.
+    GetUser(id)
+  })
+}
+        TERMINAL
+        
+$
+cifuzz
+run all
+ Results: found 1 issues and reached 79% code coverage
+ * Critical Security Issue: Command Injection in GetUser (user/user.go:5)
+ To assess the issues, check your project on CI Sense
+// This is the code you want to test
+function getUser(id) {
+  if (id.startsWith("admin:")) {
+    const query = `SELECT * FROM admins WHERE id = ${id}`;
+    // SECURITY ISSUE: vulnerable to SQL injection!
+    connection.query(query, (error, results, fields) => {
+      // handle results
+    });
+  }
+}
+// This is the test you write
+describe("Test the getUser function", () => {
+  it.fuzz("with AI-generated inputs", (data) => {
+    getUser(data);
+  });
+});
+        TERMINAL
+        
+$
+cifuzz
+run all
+ Results: found 1 issue and reached 93% code coverage
+ * Critical Security Issue: SQL Injection in getUser (user/user.js:6:4)
+ To assess the issues, check your project on CI Sense
+Java
+C/C++
+Golang
+JavaScript
+// This is the code you want to test
+public static String sanitize(String userInput) {
+  // logic to remove all HTML tags from user input
+}
+// This is the test you write
+@FuzzTest
+void testSanitize(String generatedInput) {
+  // Call your method with AI-generated inputs.
+  String sanitizedInput = User.sanitize(generatedInput);
+  assertFalse("Result contains unwanted string", sanitizedInput.contains("</script"))
+}
+        TERMINAL
+        
+$
+cifuzz
+run all
+ Results: found 1 issue and reached 61% code coverage
+ * Assertion Failure: Result contains unwanted string (com.example.SanitizerTest)
+ To assess the issues, check your project on CI Sense
+// This is the code you want to test
+std::string sanitize(const std::string& userInput) {
+  // logic to remove all HTML tags from user input
+}
+// This is the test you write
+FUZZ_TEST(const char*data, size_t size) {
+  // Call your function with AI-generated inputs.
+  std::string input(data, size);
+  std::string sanitizedInput = sanitize(input);
+  assert(sanitizedInput.contains("</script"), "Result contains unwanted string")
+}
+        TERMINAL
+        
+$
+cifuzz
+run all
+ Results: found 1 issue and reached 61% code coverage
+ * Assertion Failure: Result contains unwanted string (src/sanitize_test.cpp)
+ To assess the issues, check your project on CI Sense
+// This is the code you want to test
+func Sanitize(userInput string) string {
+  // logic to remove all HTML tags from user input
+}
+// This is the test you write
+func FuzzSanitize(f *testing.F) {
+  f.Fuzz(func(t *testing.T, input string) {
+    // Call your function with AI-generated inputs.
+    sanitizedInput := Sanitize(input)
+    if strings.Contains(sanitizedInput, "</script") {
+      t.Error("Result contains unwanted string")
+    }
+  })
+}
+        TERMINAL
+        
+$
+cifuzz
+run all
+ Results: found 1 issue and reached 90% code coverage
+ * Test Failure: Result contains unwanted string (sanitizer/sanitize_test.go)
+ To assess the issues, check your project on CI Sense
+// This is the code you want to test
+function sanitize(userInput) {
+  // logic to remove all HTML tags from user input
+}
+// This is the test you write
+describe("Test the sanitize function", () => {
+  it.fuzz("with AI-generated inputs", (input) => {
+    const sanitizedInput = sanitize(input)
+    expect(
+      sanitizedInput.includes("</script"), 
+      "Result contains unwanted string"
+    ).toBeFalsy();
+  });
+});
+        TERMINAL
+        
+$
+cifuzz
+run all
+ Results: found 1 issue and reached 76% code coverage
+* Test Failure: Result contains unwanted string (sanitizer/sanitize_test.js)
+ To assess the issues, check your project on CI Sense
+Resolve Issues Long Before They Make It Into Your Codebase
+Make sure that optimizing your pipeline to maximum performance comes at no cost to your software’s integrity. With Code Intelligence’s CI/CD integration, your software will automatically be tested at each code change so that regressions and other release blockers are found long before production.
+Reproduce All Findings in Your Favorite IDE
+Reproduce, debug and fix all findings in your IDE of choice. Code Intelligence provides the exact line in your code, the full stack trace and the input causing the issue to ensure that you deal with real findings only. No duplicates or false-positives. Code Intelligence’s standard classification and bug tracking integration enable you to prioritize and schedule fixes ahead.
+Build Better Software While Complying With Industry Standards
+Whether you’re building web apps, microservices, or automotive software, Code Intelligence helps you become compliant with the norms and standards of your industry, including ISO 21434, ISO 27001 and SOC 2.
+"Code Intelligence helps developers ship secure software by providing the necessary integrations to test their code at each pull request, without ever having to leave their favorite environment. It's like having an automated security expert always by your side."
+Thomas DohmkeCEO, GitHub
+Set-Up Your AI-Powered Testing Sidekick Now
+Have your first AI-powered tests up and running within minutes. All you need is a working unit test in JUnit or any other unit testing tool.
+Improve Your Software With Every Code Change
+Schedule some time with our team to see how AI-powered testing will help you exceed today’s quality and security requirements.
+Code IntelligenceRheinwerkallee 653227 Bonn, GermanyGet in Touchinfo@code-intelligence.com
+ 
+Follow Us
+Product
+Product Tour
+Start Fuzzing
+CVEs & Findings
+Monthly Demo
+Resources
+What is Fuzz Testing?
+Documentation
+Blog
+Careers
+About Us
+Open Positions
+Contact
+Press
+© 2023 Code Intelligence
+Imprint
+Privacy Policy

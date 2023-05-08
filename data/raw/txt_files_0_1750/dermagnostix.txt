@@ -1,0 +1,42 @@
+Dermagnostix - Moving diagnostic frontiers in dermatology
+   
+  Investors
+Careers
+myDermagnostix
+  Technology
+LabDisk Products
+Research & Development
+About us
+News & Press
+Get in Touch
+ 
+Moving diagnostic frontiers in dermatologyPioneering molecular tests to advance clinical practice and improve patients’ lives
+Contact us
+The demand for precision diagnosticsOne third of the population suffers from at least one skin condition¹.Skin diseases impair patients’ quality of life more drastically than cancer and diabetes²’³.Biologics and small-molecule inhibitors have created an unprecedented potential for precision medicine. Yet, diagnostics have not kept pace. Dermagnostix offers molecular diagnostic solutions to meet the need for personalized care.
+View products
+Your point-of-need molecular solution Groundbreaking translational research meets cutting-edge technology – Dermagnostix provides unique diagnostic tests for unmet clinical needs in dermatology on a fully automated portable laboratory. With PsorX (CE-IVD), Dermagnostix offers the first in-class molecular test for differential diagnosis of psoriasis and eczema.
+View technology
+Simple diagnostic tools for complex skin diseasesGet diagnostic support for challenging skin diseases using our quick and simple system: Sample into LabDisk – LabDisk into Analyzer – Answer out.
+SimpleEnsuring maximum usability, the user only needs to place the sample into the LabDisk and insert the LabDisk into the Analyzer.
+QuickResults are delivered in only 45 min to 2 hours enabling physicians to make timely decisions about their patients’ therapies.
+Cost-efficientEach LabDisk contains only minimum amounts of reagents and materials due to microfluidics design.
+PreciseAll advantages of centrifugal microfluidics are exploited, enabling reliable, objective and valid results.
+Point of needTimely diagnoses where they are needed: Get objective and valid results anywhere and at any time.
+Product of GermanyOur technology is developed, produced and tested in Germany.
+Meet the Dermagnostix team Brilliant minds from dermatology, molecular biology, microfluidics engineering and artificial intelligence have joined forces to help patients suffering from skin diseases and stigmatization get accurate diagnoses to improve their quality of life. 
+About us
+Get our news 
+FFPE-Based Molecular Classifier Precisely Separates Eczema From Psoriasis“A recently presented poster session from RAD 2023 evaluated a gene expression based molecular test’s differential diagnosis of psoriasis and eczema.
+read more
+FFPE-Based Molecular Classifier Precisely Separates Eczema From Psoriasis
+DX featured at Kompass DermatologieDermagnostix is featured in the journal series ‘Karger Kompass’ aimed at clinicians and specialists in private practice with a focus on young, committed physicians with four specialist target groups of pneumologists, dermatologists, oncologists and ophthalmologists.
+read more
+DX featured at Kompass Dermatologie
+Interim clinical utility data published at ADF, February 22-25 2023Dermagnostix announces mid-term analysis of ongoing 3-year clinical utility study on PsorX classifier sponsored by the DGUV (German Accident Insurance Company) was presented at ADF.
+read more
+Interim clinical utility data published at ADF, February 22-25 2023
+View all news
+ReferencesFlohr, C. and R. Hay (2021). "Putting the burden of skin diseases on the global map." Br J Dermatol 184(2): 189-190.Montero-Vílchez, T., M. Sánchez-Díaz, A. Martínez-López and S. Arias-Santiago (2021). Quality of Life in Patients with Skin Disease and Their Cohabitants. Quality of Life Modifiers Due to Biological, Psychological, and Societal Factors, IntechOpen.Neurodermitisreport (tk.de)
+ DERMAGNOSTIXGeorges-Köhler-Allee 30279110 FreiburgDeutschland__CONFIG_colors_palette__{"active_palette":0,"config":{"colors":{"62516":{"name":"Main Accent","parent":-1}},"gradients":[]},"palettes":[{"name":"Default Palette","value":{"colors":{"62516":{"val":"var(--tcb-color-0)"}},"gradients":[]}}]}__CONFIG_colors_palette__  Contact us  info@dermagnostix.com__CONFIG_colors_palette__{"active_palette":0,"config":{"colors":{"f3080":{"name":"Main Accent","parent":-1},"f2bba":{"name":"Main Light 10","parent":"f3080"},"trewq":{"name":"Main Light 30","parent":"f3080"},"poiuy":{"name":"Main Light 80","parent":"f3080"},"f83d7":{"name":"Main Light 80","parent":"f3080"},"frty6":{"name":"Main Light 45","parent":"f3080"},"flktr":{"name":"Main Light 80","parent":"f3080"}},"gradients":[]},"palettes":[{"name":"Default","value":{"colors":{"f3080":{"val":"var(--tcb-color-3)"},"f2bba":{"val":"rgba(241, 245, 248, 0.5)","hsl_parent_dependency":{"h":205,"l":0.96,"s":0.33}},"trewq":{"val":"rgba(241, 245, 248, 0.7)","hsl_parent_dependency":{"h":205,"l":0.96,"s":0.33}},"poiuy":{"val":"rgba(241, 245, 248, 0.35)","hsl_parent_dependency":{"h":205,"l":0.96,"s":0.33}},"f83d7":{"val":"rgba(241, 245, 248, 0.4)","hsl_parent_dependency":{"h":205,"l":0.96,"s":0.33}},"frty6":{"val":"rgba(241, 245, 248, 0.2)","hsl_parent_dependency":{"h":205,"l":0.96,"s":0.33}},"flktr":{"val":"rgba(241, 245, 248, 0.8)","hsl_parent_dependency":{"h":205,"l":0.96,"s":0.33}}},"gradients":[]},"original":{"colors":{"f3080":{"val":"rgb(23, 23, 22)","hsl":{"h":60,"s":0.02,"l":0.09}},"f2bba":{"val":"rgba(23, 23, 22, 0.5)","hsl_parent_dependency":{"h":60,"s":0.02,"l":0.09,"a":0.5}},"trewq":{"val":"rgba(23, 23, 22, 0.7)","hsl_parent_dependency":{"h":60,"s":0.02,"l":0.09,"a":0.7}},"poiuy":{"val":"rgba(23, 23, 22, 0.35)","hsl_parent_dependency":{"h":60,"s":0.02,"l":0.09,"a":0.35}},"f83d7":{"val":"rgba(23, 23, 22, 0.4)","hsl_parent_dependency":{"h":60,"s":0.02,"l":0.09,"a":0.4}},"frty6":{"val":"rgba(23, 23, 22, 0.2)","hsl_parent_dependency":{"h":60,"s":0.02,"l":0.09,"a":0.2}},"flktr":{"val":"rgba(23, 23, 22, 0.8)","hsl_parent_dependency":{"h":60,"s":0.02,"l":0.09,"a":0.8}}},"gradients":[]}}]}__CONFIG_colors_palette__            Legal Disclosure
+Privacy Policy
+ 

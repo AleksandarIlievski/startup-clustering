@@ -1,0 +1,200 @@
+HiveMQ - Enterprise ready MQTT to move your IoT data
+Menu
+Product 
+Product
+HiveMQ
+Features
+Editions
+HiveMQ Swarm
+Marketplace
+Customer Stories
+Pricing
+Cloud 
+Cloud
+HiveMQ Cloud
+Developers 
+Developers
+Resources
+Getting Started
+Documentation 
+Documentation  
+Complete Documentation
+HiveMQ
+HiveMQ Cloud
+HiveMQ Swarm
+Security Extension
+Kafka Extension
+Bridge Extension
+Google Cloud Pub/Sub Extension
+Distributed Tracing Extension
+Amazon Kinesis Extension
+Kubernetes Operator
+Open Source
+Webinars
+Newsletter
+MQTT 
+MQTT
+Overview
+Glossary
+MQTT 5 Essentials
+MQTT Essentials
+MQTT Buyer´s Guide
+Sparkplug Essentials
+UNS Essentials
+Security
+Client Library
+MQTT Toolbox
+Public MQTT Broker
+FAQ
+Solutions 
+Solutions
+Connected Cars
+Automotive Manufacturing
+Transportation
+Manufacturing
+Energy
+Pharma
+Chemical
+Food & Beverage
+Azure Solution
+Google Cloud Solution
+AWS Solution
+Kafka Solution
+HiveMQ Security
+Kubernetes
+MQTT Sparkplug
+Blog
+Company 
+Company
+About us
+Logos & Media Kit
+News
+Events
+Partners
+Career
+Contact
+Services
+Support
+Reliable Data Movement for Connected Devices
+HiveMQ's MQTT broker makes it easy to move data to and from connected devices in an efficient, fast and reliable manner. We make it possible to build connected products that enable new digital businesses.
+         
+Learn more
+Get HiveMQ
+Contact Us
+Watch our exciting new video on how Rimac Technology built a powerful connected car platform with HiveMQ
+Watch now
+Develop Efficient IoT Solutions
+      IoT applications can generate a LOT of data. It is critical to select a technology that is designed to move IoT data across networks and cloud platforms. HiveMQ's MQTT broker is designed for cloud native deployments to make optimal use of cloud resources. Its use of MQTT reduces network bandwidth required for moving data. Efficient IoT solutions mean lower total costs of operation.
+   
+Connect Any Device
+      A key challenge for any IoT solution is connecting and moving data to and from devices. HiveMQ connects any device and backend system in a reliable and secure manner via the IoT standard protocol MQTT.
+   
+Fast and Instant Data Delivery
+      Your users expect an instant response from IoT products. HiveMQ uses push technology designed for IoT applications to quickly send and receive data from connected devices.
+   
+Business Critical Reliability at Scale
+      HiveMQ is architected for scale and reliability. Our enterprise MQTT broker scales up to 200 million connected devices and uses industry standards to ensure data is not lost. Our customers depend on HiveMQ for business critical IoT systems.
+   
+Easy and Flexible Integration with Enterprise Systems
+      Your IoT data needs to be integrated with existing enterprise systems. HiveMQ has an open API that allows flexible integration of your IoT data into enterprise systems and pre-built extensions for quick integration to other enterprise systems such as Kafka, SQL and NoSQL databases.
+   
+Freedom to Run Anywhere
+      HiveMQ doesn't lock you into one deployment platform. We have a multi-cloud strategy that allows our MQTT broker to be deployed on private, hybrid and public clouds like AWS and Microsoft Azure. HiveMQ is based on the open IoT standard MQTT, so companies have access to a wide variety of MQTT clients from open source communities, like Eclipse Paho, custom built MQTT libraries and libraries direct from HiveMQ. 
+      With  HiveMQ Cloud  we also provide a fully-managed MQTT Cloud Platform that requires no installation or management. Only a few clicks to create an MQTT cloud-broker cluster and you are ready to connect your IoT devices.
+   
+Customers Who Depend on HiveMQ
+100+ customers run HiveMQ in production
+ View all customers
+Get started
+HiveMQ Features
+Try HiveMQ
+Request A Demo
+            Sign up for our newsletter to keep up with the latest news about HiveMQ and MQTT.
+      
+By clicking the subscribe button you give your consent to the
+                  use of your data according to our Privacy Policy. You can withdraw
+                  your consent at any time with future effect.
+            
+Product
+HiveMQ
+Features
+Editions
+HiveMQ Swarm
+Marketplace
+Customer Stories
+Benchmark Report
+Pricing
+Contact Sales
+Cloud
+HiveMQ Cloud
+Sign up
+Developers
+Resources
+Getting Started
+Documentation
+ HiveMQ
+ HiveMQ Cloud
+ HiveMQ Swarm
+ Security Extension
+ Kafka Extension
+ Bridge Extension
+ Google Cloud Pub/Sub
+ Distributed Tracing
+ Amazon Kinesis
+ Kubernetes Operator
+Open Source
+Webinars
+Newsletter
+MQTT
+Overview
+Glossary
+MQTT 5 Essentials
+MQTT Essentials
+MQTT Sparkplug Essentials
+MQTT Buyer´s Guide
+UNS Essentials
+MQTT Security
+MQTT Client Library
+MQTT Toolbox
+Public MQTT Broker
+FAQ
+Solutions
+Connected-Cars
+Automotive Manufacturing
+Transportation
+Manufacturing
+Energy
+Pharma
+Chemical
+Food & Beverage
+Technology
+Azure Solution
+Google Cloud Solution
+AWS Solution
+ Kafka Solution
+ HiveMQ Security
+ Kubernetes
+ MQTT Sparkplug
+Blog
+MQTT Client Tools
+MQTT Introduction
+Get started with MQTT
+Publish and Subscribe
+Company
+About us
+Logos & Media Kit
+News
+Events
+Partners
+Career
+Contact
+Services
+Support
+Try HiveMQ
+Download HiveMQ
+Docker
+AWS
+HiveMQ Reviews
+HiveMQ GmbHPostplatz 397, 84028 LandshutBavaria, Germany
+            Follow us on
+© 2023 HiveMQ GmbH  |  Legal note  |  Legal Documents  |  Privacy Policy  |  PGP

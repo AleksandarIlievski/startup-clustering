@@ -1,0 +1,167 @@
+Comcrypto MXG - sicherer, DSGVO-konformer E-Mail-Versand
+Start
+Überblick comcrypto
+Kontakt
+Sichere E-Mail-Übertragung
+Das Sicherheitsproblem in der E-Mail-Welt
+Die aktuellen Datenschutzanforderungen
+Traditionelle Verschlüsselungsverfahren für E-Mails
+Was ist "Qualifizierte Transportverschlüsselung?"
+Die Lösung: Adaptive Verschlüsselung mit comcrypto MXG
+MXG E-Mail-Gateway
+Überblick zum MXG E-Mail-Gateway
+Branchen und Referenzen
+Übersicht
+Berufsgeheimnisträger, Steuerberater, Anwälte
+Freie Wohlfahrt, Pflege, Soziales
+Wohnungs- und Immobilienwirtschaft
+Krankenhäuser, Praxen, MVZ
+Finanzdienstleister, Banken, Versicherungen
+Datenschutzberater, IT-Sicherheitsberater
+Jobs
+Karriere bei comcrypto
+Über comcrypto
+Wer wir sind
+Blog
+Wissensecke
+Presse
+Zurück nach oben
+Sicherer E-Mail-Versand der nächsten Generation
+Stressfrei. Datenschutzkonform. Auf Sie zugeschnitten.
+Sichere E-Mail-Übertragung an externe Empfänger ist wichtig und gesetzlich gefordert, aber bisher in der Praxis viel zu kompliziert:
+hoher Schulungsbedarf und aufwändige Handlungsleitfäden für die Mitarbeiter
+häufig mehrere Tools für verschiedene externe Empfänger parallel im Einsatz
+Nachweis der korrekten Prozess-Umsetzung nahezu unmöglich
+Bei uns bekommen Sie eine neue Kategorie der sicheren E-Mail-Übertragung. Mehrere Verschlüsselungs-Technologien werden miteinander verknüpft und automatisiert angewendet.	Wir nennen das „adaptive Verschlüsselung“.
+					Das Ergebnis:
+				
+Erstmals einfache Arbeitsabläufe beim sicheren E-Mail-Versand nach Extern
+Gewissheit, die eigenen Datenschutzpflichten zu erfüllen
+Keine Schulungen notwendig
+Kostenersparnis durch Einsparung von Arbeitszeit bei der E-Mail-Verschlüsselung
+Prozesse mit externer Kommunikation können datenschutzkonform digitalisiert werden
+Versenden Sie schon sicher?
+ 
+Einige unserer Referenzen:
+								Münchner Sicherheitskonferenz gGmbH
+							
+								S-Factoring GmbH
+							
+								bruno banani underwear GmbH
+							
+								Bürschaftsbank Sachsen GmbH
+							
+								Diakonie Mark Ruhr gGmbH
+							
+								Schneider + Partner GmbH
+							
+								Verein für Knochenmark- und Stammzellspende e.V.
+							
+Comcrypto MXG ist branchenübergreifend vom Kleinstunternehmen mit unter 3 Postfächern bis zum Konzern mit mehreren tausend Beschäftigten im Einsatz.
+				Lesen Sie zu den Vorteilen unserer Lösung auch unsere Success Story mit der Münchner Sicherheitskonferenz (Munich Security Conference): Zur Success Story.
+				
+Mehr zu unseren Referenzen und Branchen
+Das MXG E-Mail-Gateway sorgt für automatisierte Sicherheit
+Das MXG Gateway von comcrypto sorgt mit der adaptiven Verschlüsselung für die technische Automatisierung des sicheren E-Mail-Versands.
+					Das bedeutet, dass Prozesse zur sicheren E-Mail-Übertragung deutlich einfacher und sogar automatisiert umgesetzt werden können. Schutzziele aus gesetzlichen Pflichten (z.B. Datenschutz), aber auch aus dem eigenen Schutzbedarf heraus, werden mit erheblich weniger Aufwand erreicht.
+					Zudem werden die aktuellen Anforderungen der deutschen Datenschutz-Aufsichtsbehörden (Stand Juni 2021) erfüllt, indem bei jeder E-Mail-Übertragung das dafür angemessene Sicherheitslevel zur Anwendung kommt. Fehlerquellen werden ohne Schulungsaufwand minimiert.
+					
+Sie möchten mehr erfahren?
+					Vereinbaren Sie eine Online-Präsentation.
+Oder lesen Sie mehr dazu
+						wo genau das Sicherheitsproblem der E-Mail-Übertragung liegt,
+					
+						warum traditionelle Verschlüsselungsverfahren das Problem nicht lösen,
+					
+						was qualifizierte Transportverschlüsselung bedeutet und wo der Unterschied zu "normaler" Transportverschlüsselung liegt.
+					
+comcrypto MXG in Zahlen
+Beauftragungen nach Testphase: 99,2 %
+Einsatzbereit nach durchschnittlich: 1,22 h
+Bisherige Entwicklungszeit: 27,4 Personenjahre
+Erfolgreiche Datenschutzbegutachtung
+Um im Zuge eines rechtlichen Gutachtens zu prüfen, ob und zu welchem Grad Unternehmen mit dem Einsatz von comcrypto MXG die geltenden Datenschutzvorgaben der DSGVO erfüllen können, haben wir unser MXG E-Mail-Gateway den Experten der Morgenstern Rechtsanwaltsgesellschaft mbH und Morgenstern consecom GmbH überlassen.
+					Das Ergebnis der renommierten Rechts- und IT-Berater:
+				
+Verantwortliche können mit comcrypto MXG die Datenschutz-Vorgaben zur sicheren E-Mail-Übertragung in allen Punkten erfüllen.
+Zusätzlich wurde angemerkt, dass die Software die Umsetzung der rechtlichen Vorgaben äußerst benutzerfreundlich ermöglicht.
+Comcrypto und das MXG Gateway erhalten das Prädikat „Datenschutz-ready“.
+Testen Siehier selbst
+Wie sicher ist Ihr E-Mail-Versand aktuell? Machen Sie den Test!
+Häufig stehen in Unternehmen nur Optionen zur (teils manuellen) Inhaltsverschlüsselung von E-Mails zur Verfügung. Diese ermöglichen eine sichere Übertragung, sind aber meist kompliziert und zeitaufwändig in der Handhabung.
+					Ob Ihre E-Mail-Systeme auch auf der Ebene der Transportverschlüsselung bereits mit einem wirksamen Mindest-Sicherheitslevel (obligatorische oder qualifizierte Transportverschlüsselung) arbeiten, das für viele Anwendungsfälle bereits ausreichenden Schutz bietet, erfahren Sie durch unseren Test.
+				
+Nutzen Sie schon obligatorische und/oder qualifizierte TLS-Verschlüsselung?
+						Senden Sie eine Test-Mail an: test@evaluation.comcrypto.de
+Was prüft der Schnelltest?
+Der Empfänger-Server wurde absichtlich mit groben Sicherheitsmängeln konfiguriert und es wurde ein gefälschtes TLS-Zertifikat hinterlegt. Der Test prüft, ob Ihr E-Mail-System vor dem Versand diesen unsicheren Empfänger-Server erkennt und Sie warnt bzw. den Versand unterbindet.
+Was prüft der Test nicht?
+Ob und welche Inhalts-Verschlüsselungen Sie ggf. bereits einsetzen. Eine von Ihnen manuell geschützte E-Mail, z.B. mit einem verschlüsselten PDF- oder ZIP-Anhang, wird vom Test nicht erkannt.
+Ist der Test gefährlich?
+Nein. Sie erhalten nur eine automatisch generierte E-Mail-Antwort und erfahren, ob Ihr E-Mail-Server bereits mit obligatorischer oder qualifizierter Transportverschlüsselung arbeitet und die absichtlich erzeugten Sicherheitsmängel erkennt.
+Sie erhalten keine Antwort-Mail?
+Falls Sie kein Testergebnis, sondern stattdessen binnen 24 Stunden eine Unzustellbarkeits-Benachrichtigung von Ihrem E-Mail-Server erhalten, bedeutet dies, dass Ihr E-Mail-Server bereits mit einer obligatorischen oder qualifizierten Transportverschlüsselung arbeitet. Das ist ein positives Ergebnis. Der praktische Nachteil ist häufig, dass dann zwischen 1 und 10% Ihrer ausgehenden Nachrichten nicht via E-Mail zugestellt werden können. Nehmen Sie Kontakt auf, um zu erfahren, warum dieses Problem mit MXG nicht auftritt.
+Was bedeutet das Testergebnis?
+Ein negatives Testergebnis bedeutet, dass Ihre E-Mail-Systeme auf der Ebene der Transportverschlüsselung bisher keine sichere Verschlüsselung bereitstellen. Stattdessen müssen Sie aktuell auf die inhaltliche E-Mail-Verschlüsselung (z.B. mit Passwort oder PGP oder S/MIME) zurückgreifen, um eine sichere Übertragung zu erreichen. Eine Alternative kann unser MXG Gateway mit der adaptiven Verschlüsselung sein.
+					Mehr Informationen erhalten
+Das ist comcrypto
+Das Team von comcrypto hat sich voll und ganz der sicheren Kommunikation im Internet verschrieben. Bereits seit 8 Jahren entwickeln wir in Chemnitz Technologien und Lösungen, die Unternehmen, Behörden und Institutionen helfen, ihren E-Mail-Versand einfach, effektiv und automatisiert vor Datendiebstahl zu schützen und an die rechtlichen Anforderungen bspw. aus der DSGVO anzupassen. Über die Jahre haben wir nicht nur unsere Lösungen weiterentwickelt, sondern auch im Rahmen von Mitglied- und Partnerschaften wertvolle Allianzen geschlossen.
+					
+Comcrypto ist Mitglied im TeleTrusT - Bundesverband IT-Sicherheit e.V.
+						Wir garantieren hochqualitative und vertrauenswürdige IT-Sicherheitslösungen. Comcrypto trägt deshalb das Siegel "IT Security made in Germany" des IT-Security-Verbands TeleTrusT e.V.
+						Der TeleTrusT veröffentlicht regelmäßig einen renommierten Leitfaden zum "Stand der Technik". Unser Engagement im TeleTrusT umfasst auch die Mitarbeit an dieser Leitlinie.
+					
+Comcrypto ist Teilnehmer in der Allianz für Cyber-Sicherheit.
+Unser Unternehmen befasst sich aktiv mit dem Thema Cyber-Sicherheit und steht im Erfahrungsaustausch mit den Expertenkreisen der Allianz-Partner und des Bundesamts für Sicherheit in der Informationstechnik (BSI).
+					
+					Welche E-Mail-Probleme möchten Sie lösen? Welche Umwege einsparen? Wir freuen uns auf Ihren Anruf.
+Georg Nestmann Geschäftsführer Produktmanagement
+					
+Kontakt
+Kontaktformular
+Anrede*
+ Herr
+					 Frau
+					 keine Angabe
+					
+Vor- und Nachname*
+Firma
+Telefon*
+E-Mail*
+Anzahl zu schützender Postfächer
+Hosting
+ Eigenes Hosting
+					 MXG Cloud
+					
+Ihre Nachricht*
+Sicherheitsfrage: Was ist acht mal fünf?*
+Nachricht senden
+ 
+					Seit 2013 beschäftigt sich comcrypto mit sicherer Kommunikation – speziell im Bereich verschlüsselte E-Mail. Für Fragen stehen wir gern zur Verfügung.
+				
++49 (0) 371 256206-00
+Per Klick freischalten
+Facebook
+Twitter
+Impressum
+comcrypto GmbH
+Brückenstraße 4
+09111 Chemnitz
+Vertretungsberechtigte Geschäftsführer:  Georg Nestmann, Hendrik Nöll
+USt-IdNr.: DE306589279
+Amtsgericht Chemnitz, HRB 30342
+Inhaltlich Verantwortlich:  Georg Nestmann, Hendrik Nöll
+Presse
+Ein umfangreiches Pressekit erhalten Sie gern auf Anfrage. Weitere Informationen sind in unserem Pressebereich zu finden.
+Datenschutz
+Datenschutzerklärung der comcrypto GmbH
+AGB
+Allgemeine Vertragsbedingungen
+Vertragsbedingungen für Erbringung von Dienstleistungen
+Vertragsbedingungen für die Erstellung von Individualsoftware
+Vertragsbedingungen für die Nutzung von Software über das Internet (Software as a Service)
+Vertragsbedingungen für die Pflege von Standardsoftware
+Vertragsbedingungen für die Überlassung von Standardsoftware (Kauf)
+""
+www.comcrypto.de/index.php
+www.comcrypto.de/

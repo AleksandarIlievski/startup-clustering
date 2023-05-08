@@ -1,0 +1,69 @@
+meetwise GmbH - meetwise GmbH
+english Version
+Navigation überspringen
+Home
+Aktuelles
+Videowalls
+netzwerkbasierte Videowall Controller
+Partner
+Downloads
+Kontakt
+Impressum / Datenschutz
+ 
+Navigation überspringen
+Home		
+Aktuelles		
+Videowalls		
+– Displays für Videowalls		
+– Controller		
+– Integration		
+– KVM Lösungen		
+– Referenzen		
+netzwerkbasierte Videowall Controller		
+– Aufbau / Struktur		
+– Master		
+– Decoder DC2		
+– Quellen		
+– Integration / API		
+– Referenzen		
+Partner		
+Downloads		
+Kontakt		
+– Support		
+Impressum / Datenschutz		
+ 
+ 
+Lösungen von meetwise
+Videowände
+meetwise DisplayDriver
+meetwise Videowalls für Leitstände, Überwachungszentralen, Kontrollräume und gehobene Digital Signage Anwendungen.
+Wir bieten neben unsere Videowall Management Software auch Beratung und Hilfe zu Konzeption für die Integration von Videowänden, KVM Lösungen und weiteren Gewerken an. 
+ 
+Videocontroller
+meetwise distributed DisplayDriver
+Verteilte, Netzwerkbasierte Videowallcontroller für Kontrollräume und Leitstände.
+Der meetwise distributed DisplayDriver ist eine netzwerkbasierte, verteilte Lösung zum Aufbau von flexiblen Videowänden und Kontrollräumen die sich Ihren Anforderungen anpassen.
+Webbasiert oder per API können Sie Videowände und Einzeldisplays steuern und die Anordnung Ihrer Quellen frei festlegen.
+Sie wollen mehr über die Produkte von meetwise erfahren? Fragen oder weitere Infos? Nehmen Sie Kontakt zu uns auf!
+Aktuelle Meldungen der meetwise GmbH
+15.11.2022				
+MDD Decoder 2.6		
+Die Hardware der DisplayDriver Familie - MDD 2.6 - ist nun als Single, Dual Decoder und Master mit Intel CPUs der 12. Generation verfügbar Weiterlesen … MDD Decoder 2.6
+20.10.2022				
+NixCon 2022 Konferenz		
+Die NixCon 2022 beginnt heute in Paris. Weiterlesen … NixCon 2022 Konferenz
+17.03.2022				
+ISE 2022, Barcelona		
+Besuchen Sie uns auf der ISE in Amsterdam vom 10-13. Mai 2022 bei WEY Technology - Stand 3-B880 Weiterlesen … ISE 2022, Barcelona
+Navigation überspringen
+Home
+Aktuelles
+Videowalls
+netzwerkbasierte Videowall Controller
+Partner
+Downloads
+Kontakt
+Impressum / Datenschutz
+ 
+© meetwise					RockSolid Contao Themes & Templates
+ 

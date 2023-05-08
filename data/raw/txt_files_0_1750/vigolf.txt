@@ -1,0 +1,5 @@
+Google Search Console
+-
+Sitemap Notification Received
+Sitemap Notification Received
+Your Sitemap has been successfully added to our list of Sitemaps to crawl. If this is the first time that you are notifying Google about this Sitemap, please add it via  http://www.google.com/webmasters/tools/  so that you can track its status. Please note that we do not add all submitted URLs to our index and we cannot make any predictions or guarantees about when or if they will appear.

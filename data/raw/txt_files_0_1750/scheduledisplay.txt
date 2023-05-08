@@ -1,0 +1,292 @@
+ 
+Meeting Room Schedule. Desk Sharing. Sign In. Visitor Management.
+ 
+Toggle navigation
+Home
+Solutions 
+Meeting Room
+– Pricing
+– Quick Set-up Guide
+Desk Sharing
+Sign In
+Documentation 
+Frequently asked questions
+Features & Benefits
+Blog
+Contact
+About Us 
+Team
+Imprint
+Data Privacy Policy
+English 
+Español
+Deutsch
+Türkçe
+Català
+Workplace Management – Easy and Effective
+Solutions to optimize the utilization of your office space.
+Manage Meeting Rooms, Shared Desks, Visitor & Employee Sign-ins.
+Tired of talking to SaaS chatbots? Let’s have a call to find out how we can help.
+Connect to   
+1-3 Meeting Rooms
+Download „light” version from Google Play​
+Free trial: 1 month. Contact support for questions.
+Test on Android tablet. Consider displays w/ external LEDs. Supported devices here.
+Subscribe on Play or contact sales for other plans
+3+ Rooms or Sign-in or Desk Sharing
+Get „light” version for a quick trial or ask for “pro” version. 
+Get 20 minute live demo via MS Teams​
+Get quote
+Evaluate 1 month for free, contact support for questions
+Schedule Demo
+RESELLER​
+Ask for demo and hardware integrations
+Get 20 minute live demo via MS Teams
+Get quote
+Evaluate 1 month for free, contact support for questions
+Schedule Demo
+Meeting Room Schedule
+Sign In & Visitor Register
+Our Displays on the World Map
+Supported languages
+Customers who trust us:
+Fortune Global 500
+Original Design Manufacturer of ICT
+Customers who trust us:
+Enabling Outstanding Sports Content With
+AI Video Solutions – Raised 100 Million $ in 2022
+Customers who trust us:
+Coloring the world through industrial dyes & pigments, and natural food colors & ingredients.
+Present in 22 countries.
+Customers who trust us:
+Award Winning Oracle Platinium Partner
+Customers who trust us:
+Group of 8 companies dedicated to municipal services
+Customers who trust us:
+Collaborative workspaces for enterprise clients. Managing 2 million sq.ft. 
+Customers who trust us:
+Internationally awarded SAP partner
+Customers who trust us:
+“315 IT specialists, 20+ years of experience, serving the biggest companies”
+“It’s Rock solid and haven’t had to touch it in months. All the issues we had with the accounts was around our own issues. Once we cleared that up, we have had no issues at all.”
+“Best app out there for small business use. Works about as well as the high priced systems out there.”
+Google Review – March 7, 2019
+“I am very happy with the App. So far we have not had any issues or problems to speak of. Getting set up with your app was quick, simple and very streamlined. This solution has allowed our office to move away from printed schedules for the conference rooms to a fully digital setup. Everyone here really likes the new conference room displays.”
+Meeting Room Schedule
+Screenshots of our Door Display Solution
+Features
+Highlights of Meeting Room Schedule
+Real-time status
+In a quick glance you can see the ongoing and upcoming events and the availability of the resource. Wondering who will be joining the upcoming meeting? Missing someone? Check who’s inside without disturbing.
+Learn more
+Calendar integration
+Connect to resource calendars through Microsoft Exchange, Office 365, Google Calendar, Google Workplace (formerly G Suite) or an ICS URL link from any shared internet calendar.
+Learn more
+Room Amenities
+Show what’s inside your conference room. Users need an overview of the room’s features to get prepared. Upload a layout/picture and list the equipment provided.
+Learn more
+Kiosk Mode
+Meeting Room Schedule secures your digital signage display from unwanted interactions. The password protected “kiosk mode” won’t allow access to other apps.
+Learn more
+Hardware Integration – Pro Displays with Built-in LEDs & sensors
+Contact us for details and in case you have a new device to integrate.
+Qbic TD 1050, Philips 10BDL4151T/10BDL4551T/10BDL3051T, Hopestar HP1020T, elc (WA1022, WA1012T), Queedji TAB10s, Geekland GK-1052PL.
+Learn more
+Analytics
+Wondering how close you are to the meeting space capacity limit? Who are the frequent users? Which department is using the resource most intensively? Get statistics for your reporting.
+Learn more
+Check-in & Release
+Reduce late starters and effectively utilize the available room resources by checking-in to the meeting in time. The room will be auto released if the host doesn’t check in. Manual release allows the host to make the room available if a meeting ends early.
+Learn more
+Book Room Now or Later
+Did you locate a free resource and want to book it immediately? “Walk-in” meetings can be booked from the tablet. Search for time slots to book later. In addition to walk-in bookings, you have the option to plan ahead and book a room for a later date. If the room is occupied, you can use the “Other rooms” button to look for other available rooms.
+Learn more
+Easy to customize
+Customize your digital signage display with the fonts, background colors of your choosing. Adapt the display to match the theme of your company or your resource. Brand the display with your company logo and add a background image.
+Learn more
+Multi-language support
+Meeting Room Schedule comes with multiple language options. We support English, German, French, …, which can be set in “Admin Settings”. The headers need to be changed manually. Your language is not supported yet? Just ask for it, we’ll add it within 1-2 weeks. English, German, French, Spanish, Russia, Danish, Norwegian, Portuguese, Turkish, Dutch.
+Learn more
+Admin Website
+Access settings on your devices remotely. Monitor the status of your connection and other “vital signs” of your displays. Manage access roles for end users or configure groups for multi-location deployment.
+Learn more
+Workplace Management Integrations
+Get more value from your displays by integrating 3rd party solutions. Check out our “Desk Sharing” or “Sign-in” solution. Integrate visitor data, way finding, door access. Ask for more..
+Learn more
+What's different about this solution?
+Most solutions are backend-heavy. Your meeting details are processed in the cloud. These include your meeting subject lines and personally identifiable information (PII) like names of attendees.
+Our solution processes the meeting data locally and can even be operated without an internet connection. Ask for details…
+Who needs it ?
+Meeting Room Schedule enables anyone in a company or organization to see the schedule of a resource or person instantly. It’s perfect for organizations where appointments are occurring on an ongoing basis and schedule collisions are a part of everyday business life.
+What it offers ?
+Great business app for displaying meeting schedules or any type of calendar.
+Displays the ongoing events in a particular room and brings clarity to your organization.
+Reduce late starters and no-show meetings with “Auto-Release” (Check-in button).
+Improve room utilization by canceling reservations if event ends early (Release button).
+Easy instant booking from tablet (Book this room button).
+Easily integrated with Microsoft Exchange (via asmx-link), Outlook.com, Office 365, Google calendar, local file in your Android device and Dropbox or any other File Server Address.
+Multi-language support for re-defining headers on main page in any language.
+Admin passwords for secure use of the app and enabling “kiosk mode”.
+Useful style features for customization of the data displayed.
+How to get it ?
+Install the app  Meeting Room Schedule from Play store
+Read our Quick-setup-guide for installation and set up instructions.
+If you have any questions, please read the FAQ section or write to us at support@scheduledisplay.com
+How to use it ?
+Meeting Room Schedule is very easy to set up and use:
+Start by downloading and installing Meeting Room Schedule to your android device.
+Check our live demo that we prepared for you.
+Register with your email.
+Connect your Android device to your meeting room calendar.
+Finally place the Android Device in front of the Meeting Room and enjoy it!
+If you have questions, check our FAQ and feel free to reach out!!!
+Licenses
+Choose your package for meeting rooms. Ask  sales@scheduledisplay.com for pricing of Hot Desking or Sign in and Visitor Register. 
+%
+Subscriptions
+Stay flexible with yearly subscriptions
+Free 30 day trial  Extensions possible, ask for more time
+$125 or 125€ yearly per display 
+For further options contact  sales@scheduledisplay.com
+%%
+One-off Payments
+4-year license
+Free 30 day trial  Extensions possible, ask for more time
+Whitelabel options for resellers
+Multi-language support Ask for your language
+Add-on app for overview displays of multiple rooms
+Bulk discounts give number of rooms to quote 
+Ask sales for pricing  sales@scheduledisplay.com
+30 DAYS FREE TRIAL
+Quick Set-up Guide
+.
+ 
+Install and try the demoLearn moreGet the app from Google Play Store Meeting Room Schedule
+The Meeting Room Schedule provides a demo connection to explore the features of the app using dummy data.
+Once installed, open the app and check “options” in the welcome screen.
+Choose the  “Demo Server” Display.
+The main display screen is now loaded with data from our demo server. You can play around the features to get a feel of what Meeting Room Schedule offers. You can connect to your personal/company calendar once you complete the registration process.
+.
+ 
+RegisterLearn moreRegistration is mandatory for using Meeting Room Schedule to display your calendar data. You can easily register using a valid email address in a few quick steps.
+Install the app and click on “Register” or from main display screen go to Settings > “Admin Settings”.
+Enter the email address, re-enter the email address and click on “Register”.
+You will receive a confirmation code in the given email address.
+Enter the confirmation code and click on “Confirm Registration” to complete the registration process.
+.
+ 
+Connect CalenderLearn moreMeeting Room Schedule supports calendar data in diverse formats and sources. Hence, you can connect to MS Exchange, Office 365, Google Calendar as well as any ICS files available in the device or accessible through Internet.
+Look up different applications with iCalendar support here.
+Choose the connection option that suits your company requirements and configure as explained below. However, if you still find it difficult to configure your resource calendar, please feel free to write to us at support@scheduledisplay.com. Alternatively, you can also chat with our support staff to get immediate help.
+Microsoft Exchange/0365First of all, if you already have a Microsoft Exchange account, connecting to your calendar can be really quick and easy.
+Tap on the main display screen to get the navigation options.
+Go to the screen  Settings > “Calendar Connection” and select the option “exchange”.
+Clear the demo server settings.
+Enter your account credentials and select  “Save & Exit” option.
+The data from your calendar should consequently appear on the tablet display.
+In order to know more about the different exchange server connection options, check out Get connected to using Microsoft Exchange.
+Google Calendar/Google Workspace (GSuite)Meeting Room Schedule can seamlessly integrate your Google calendar data and display it on any android tablet display.
+You have to add the Google account to the device accounts For Meeting Room Schedule to be able to access the calendar. If you do not have the preferred Google Account configured in your device yet, you can do so in a few simple steps as described here.  To display your calendar data in Meeting Room Schedule, follow the below steps.
+Tap on the main display screen to get the navigation options.
+Go to the screen Settings > “Calendar Connection” and select the option “Google”.
+Click on “Select Account” button and choose your Google account linked to the desired calendar.
+If you have not added your account still, you can select “Add Account” option instead.
+Once your account is selected, the calendars linked to the account will be auto-populated.
+Click on “Select Calendar” button to choose the desired calendar.
+Select “Save & Exit” option.
+The data from the selected Google calendar should now appear on the tablet main display.
+Server AddressMeeting Room Schedule allows you to connect to any ICS file published at any folder location accessible over the internet. Therefore, you can connect to any ICS file saved in the Dropbox or to the .ics link for your Outlook calendar.
+You need the URL pointing to the .ics file and connect to the calendar via the app.
+Tap on the main display screen to get the navigation options.
+Go to the screen Settings > “Calendar Connection” and select the option  Server.
+Enter the URL  for the ICS file. Credentials are not mandatory, enter only if it is required to access the calendar data.
+Select “Save & Exit” option.
+The data from the ICS file should consequently appear on the tablet main display.
+.
+ 
+Customize your displayLearn moreThe Meeting Room Schedule offers various customization options to modify the display and tune to the needs of your tablet. Tap on the main display screen, to access the menu to proceed to Settings > “Style Settings”. Here you can adjust the look and feel of the display as well as adapt the color scheme to your company theme. The app allows you to change the font settings as well as background and text color for different sections on the main screen.
+Furthermore, it comes with the feature to upload custom logo and  background picture. The app display can thus be adapted for your branding needs by enabling  these customization options.
+.
+ 
+Enable Book RoomLearn more“Book Room” is a great feature for spontaneous meetings.
+Go to Settings > “Admin Settings”.
+Enable the option “Activate Book Room Procedure”.
+Now, the “book room” button will be displayed in the main screen (bottom right), when the resource is available and there are no other meetings starting in the next 30 minutes.
+In addition to walk-in bookings, you have the option to plan ahead and book a room for a later date. If the room is occupied, you can use the “Other Rooms” button to look for other available rooms.
+.
+ 
+Enable Check-In & ReleaseLearn moreOnce the feature is activated and enabled from admin settings, the” check-in” and “release” buttons will be displayed on the main screen. Time to “auto-release” option allows the admin to set a time after which the room will be marked as available, if the host does not check in.
+Go to Settings > “Admin Settings”.
+Enable the option “Activate Check-in Procedure”.
+Set the Time to “auto release” as per your requirements.
+Now, the “check-in” and “release” options, when available, will be displayed for meetings in the main display screen. This functionality should be discussed with management prior to activation. Ask our support (link: support@scheduledisplay.com) for training documents.
+.
+ 
+Multi-language SupportLearn moreMeeting Room Schedule comes with multiple language options. We support English, German, French, Spanish, Russia, Danish, Norwegian, Portuguese, Turkish and Dutch, which can be set in “Admin Settings”. The headers need to be changed manually. Your language is not supported yet? Just ask for it, we’ll add it within 1-2 weeks.
+.
+ 
+Kiosk ModeLearn moreKiosk mode prevents  any unauthorized interaction with the tablet display.
+Configure a password to enable kiosk mode and secure your device.
+From main display screen go to Settings > “Admin Settings”.
+Under the section “Password protected kiosk mode“.
+Enter a password, re-confirm the password and click on “Set Password”.
+ After returning to main screen, you’ll be asked for this password to reach the menus again.
+If you forget your password, push “Reset Password” on the pop-up to get a new password sent to your registered email address. You can also change your password anytime under “Admin Settings”.
+Kiosk mode is now enabled in the tablet, therefore requires a password to modify any configuration as well as to exit from the Meeting Room Schedule.
+Desk Sharing Solution
+ Desk Sharing became a necessity for many companies in the age of Covid-19. Due to the safety clearances, there are fewer spaces available in open-plan offices. Several employees therefore share the same workplace. All shared desks / workstations are created in O365 / Exchange / G Suite and have an automated, calendar-like meeting room. This is the basis for our solution, which offers multiple options.
+In the process, any office can be transformed into a smart office.
+From the company’s point of view, desk sharing helps to keep the workforce safe during the pandemic. The traceability via the occupancy helps in the case of a positive test. Possible transmission chains can be checked more easily. In the long run, reducing office space leads to cost savings. Desk Sharing  promises employees more flexibility and efficiency in order to reconcile home office and presence.
+Learn More
+Sign In & Visitor Register
+No personnel at the reception area? No control about the ins and outs? Move to the next level.
+Many small and medium-sized companies don’t have any digital solution to handle employee and visitor streams.
+With “Sign In & Visitor Register” you can transform any office into a Smart Office in a short time.
+What for?
+Visitor registration with contact data and visitor notification. Know who’s visiting and get your visitor guidelines acknowledged (emergencies, corona rules etc.).
+Emergency evacuation. Employees sign-in and sign-out with their RFID/NFC tags. Visitors are registered. You’ll know who’s in the building. Your assigned personnel can do further sign-outs at the assembly point.
+Monitoring lone workers. Triggers emails that warn your lone workers and notifies supervisors.
+Our solution needs a tablet in the entrance area and nfc tags for the employees. You’ll have the data available in the cloud in case the tablet cannot be evacuated. Administrators can set up the look of the welcome screen and configure all the email notifications.
+Ask for additional features, we’re permanently adding new ones. Export timesheet for payroll? Way finding? Custom reporting? Just ask for it!
+Learn More
+CONTACT US
+  
+email:  support@scheduledisplay.com
+Alternatively, please enter your details below to schedule a call back
+ 
+ Your name (required)
+ Your email address (required)
+ Your phone number
+Meeting RoomHot DeskingSign In
+ Your Message
+ 
+Sigmaringer Str. 41, 70567 Stuttgart, Germany
+Manage Cookie Consent
+Wir nutzen Cookies um unsere Website für Sie optimal gestalten und verbessern zu können.
+Funktionen
+Funktionen
+								Always active							
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+Preferences
+Preferences
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+Statistics
+Statistics
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+Marketing
+Marketing
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Manage options
+Manage services
+Manage vendors
+Read more about these purposes
+OK
+Ablehnen
+View preferences
+Save preferences
+View preferences
+{title}
+{title}
+{title}
+Manage consent

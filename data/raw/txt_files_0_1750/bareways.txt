@@ -1,0 +1,54 @@
+Bareways: Navigation data solutions for rural mobility
+ 
+Home
+Automotive
+Blog
+About us
+BAREWAYS
+Jobs
+Contact
+ 
+Select Page
+  
+ 
+ 
+
+Bareways: Navigation for Good and Bad Roads
+Safe & Pleasant Drive
+With the Bareways navigation service, we enable you to drive safely and pleasantly on good and bad roads.
+You can find challenging street conditions globally, but rural areas with complex road environments suffer the most.
+Bareways knows the present street conditions and the impact of climate, season, weather, and traffic by heart. Therefore, our maps, routing services, and hazard warnings focus on providing all the continually changing data well-prepared to avoid critical situations on your way and to provide you with reliable travel time estimates.
+Individual drivers use our data on bad and good roads to avoid the next disastrous thunderstorm or find scenic routes off the beaten path. Fleet managers save time and costs when scheduling delivery services in rural areas, and highway authorities gain insights into road networks’ resilience and other transport lines.
+E X P E R I E N C E
+ 
+Flexibility – Choose Between Fast and Adventure
+Taking the fastest route is just one way to reach your destination.
+You might as well favor a scenic route along the coast, a winding road with viewpoints overlooking the mountains, gravel roads with just the right level of adventure, or just an alternative route when your family needs a break for a picnic.
+We have built an easy-to-configure navigation service that takes your personal routing preferences into account. You may want to avoid highways, toll-roads, or border crossings, just like any other navigation system. Beyond, you may choose alternative ways with touristic attractions, beautiful landscapes, and spectacular nature.
+LWild Animals!Seen 25 minutes ago
+Avoid risks and allow for efficient planning.
+LStrong Crosswinds!In 5 km > 7bft
+LBumpy RoadAvg speed was 12 mph
+Affects travel time and safety.
+ 
+LRock SlideIn 2 km possible
+Is the road still passable?
+LElevationSteep hill upwards – 10%
+Affects range prediction for electric cars.
+Big Data
+We design our patent-pending technology stack to combine very different types of data sources. Some of these data sources are available globally – such as most satellite imagery or the OpenStreetMap. However, most of them, like weather forecasts or traffic warnings, are specific to a continent, country, or state. Thus, they may differ in spatial and temporal resolution, data format, or language, making it impossible for the average traveler to obtain all relevant information for the next trip in a reasonable time.
+ 
+Road Condition API
+We provide a unique data layer that simplifies the data retrieval process. We deliver specific and accurate information for every single road worldwide as a developer-friendly API. Such data is the basis to predict how conditions change over time and what travelers need to expect on their way, even if no real-time information for the road ahead is available.
+Awards
+We were honored for the best startup idea and won the Lübeck Business Startup Award “Existenzgründerpreis der Lübecker Wirtschaft“.
+Our product was also rewarded by the KfW as the most innovative in the state of Schleswig-Holstein, with the KfW Founding Award. 
+With our pitch at INNOspace Masters, we set important impulses in the space sector. We won the Airbus Challenge by INNOspace Masters. 
+We are immensely pleased to receive recognition through these awards. They show us that we are working in the right direction. With our idea, we are addressing a topic of global importance, both for the population living in rural areas as well as the automotive industry.
+We thank all those who support and promote us to develop a bleeding-edge navigation service together to the highest automotive requirements.
+Supporters
+FollowFollowFollowFollowFollow
+ 
+Legal Disclosure & Privacy Settings
+Contact
+ 

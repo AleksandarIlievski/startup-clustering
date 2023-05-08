@@ -1,0 +1,165 @@
+Printinue – Continuous 3D-Printing
+ 
+   
+Startseite
+Über Printinue
+Kontakt
+DE
+EN
+ 
+ 
+Startseite
+Über Printinue
+Kontakt
+DE
+EN
+ 
+ 
+ 
+ 
+Startseite
+Über Printinue
+Kontakt
+DE
+EN
+ 
+ 
+PRINTINUE FACTORY 
+										Vom Prototyping zur Serienproduktion 
+										Als erster in unserer Reihe intelligenter und automatisierter 3D-Drucker bietet das additive Produktionssystem Printinue Factory kontinuierlichen 3D-Druck in unübertroffener Qualität und Geschwindigkeit. 
+										
+ 
+Additive Serienproduktion 
+										Mit seinem innovativen Teile-Auswurfsystem ist das Printinue Factory Additive Produktionssystem in der Lage, große Mengen an Teilen autonom zu produzieren, ohne dass eine ständige menschliche Interaktion und Überwachung erforderlich ist.  
+										
+ 
+Großes Druckvolumen 
+										Mit ihrem großzügigen Druckvolumen bietet die Printinue Factory mehr Flexibilität für Ihre Produktionsanforderungen. 
+										Länge (X-Achse) 
+										Breite (Y-Achse) 
+										Höhe (Z-Achse) 
+										400mm 
+										300mm 
+										350mm 
+										
+ 
+Automatische Kalibrierung 
+										Die Kalibrierung eines 3D-Druckers ist eine sehr zeitaufwändige und mühsame Aufgabe. Mit der automatischen Portalnivellierung und den Druckbett-Mapping-Routinen ist die Printinue Factory immer perfekt kalibriert und bereit für die nächste Aufgabe. 
+										Portal 
+										Mesh 
+										X/Y-Offset 
+										Z-Offset 
+										Eine kurze Kalibrierungsroutine, die die vier unabhängig voneinander steuerbaren Gewindespindeln der Z-Achse nutzt, um das Druckbett in einem perfekten 90°-Winkel zur Extruderdüse zu positionieren. 
+										Eine detaillierte Kalibrierungsroutine, bei der ein Netz von Punkten auf dem Druckbett abgetastet wird, um kleine Unebenheiten auf dem Druckbett zu kompensieren. Dies ermöglicht es, bei jedem Druck perfekte erste Schichten zu erzielen. 
+										Stellt automatisch den optimalen Abstand zwischen der Extruderdüse und dem Druckbett ein. Diese Routine wird verwendet, um den Drucker nach einem Düsenwechsel neu zu kalibrieren oder die thermische Ausdehnung des Hotends beim Wechsel zwischen Materialien mit niedriger und hoher Temperatur auszugleichen. 
+										Legt den horizontalen Versatz zwischen den beiden Extruderdüsen fest, um sicherzustellen, dass die von jedem einzelnen Extruder gedruckten Schichten immer perfekt ausgerichtet sind. 
+										
+ 
+Independent dual extruder (IDEX) 
+										Die Printinue Factory ist mit zwei Extrudern ausgestattet, die sich unabhängig voneinander auf der X-Achse bewegen können. Diese leistungsstarke Funktion kann auf verschiedene Weise genutzt werden, von der Verdoppelung der Produktionsgeschwindigkeit bis hin zum Drucken mit mehreren Materialien. Je nach Projekt kann das IDEX-Extrudersystem in verschiedenen Modi verwendet werden. 
+										Duplication 
+										Mirror 
+										Supports 
+										Dual Material 
+										Verdoppeln Sie Ihre Produktionsgeschwindigkeit, indem Sie zwei Teilesätze auf einmal drucken. 
+										Drucken Sie zwei symmetrisch gespiegelte Teilesätze auf einmal. 
+										Print with specialized support material like water-soluble supports to realize extremely complex geometries. 
+										Print one part with two different colors or materials. 
+										
+ 
+Odorless & Safe 
+										Der große HEPA- und der Aktivkohlefilter sind in der Lage, 99 % der ultrafeinen Partikel (UFP) zu entfernen und Gerüche zu reduzieren, die beim Drucken bestimmter Arten von Filamenten freigesetzt werden. So bleibt Ihr Arbeitsbereich frei von Gerüchen und potenziell schädlichen Partikeln.  
+										
+ Weitere Informationen  
+ 
+Fortschrittliche Extrusion 
+										Beide Extruder sind mit doppelten Antriebszahnrädern ausgestattet, die das Filament von beiden Seiten ergreifen.  In Kombination mit einem starken, aber leichten Schrittmotor mit Getriebe sorgt dies für eine zuverlässige und präzise Extrusion, selbst bei sehr hohen Druckgeschwindigkeiten. Der kurze Abstand zwischen Antriebszahnrädern und Hotend-Düse garantiert eine präzise und reaktionsschnelle Extrusion, reduziert das Austreten von Material und ermöglicht das Drucken mit sehr anspruchsvollen Materialien wie flexiblen Filamenten. 
+										
+ 
+Eine Fabrik auf Knopfdruck 
+										Behalten Sie den Überblick über Ihre Drucker und Ihre Produktion. Alle unsere Drucker sind netzwerkfähig und können über unsere intuitive Weboberfläche aus der Ferne gesteuert und überwacht werden. 
+										
+ 
+Technische Daten 
+										3D-Druck Technologie
+Motion system
+Druckvolumen
+Maximale Drucktemperatur
+Maximale Druckbett-Temperatur
+Extruder
+Schichtauflösung
+Materialdurchmesser
+Düsendurchmesser
+Verfahren zur Nivellierung des Arbeitsbereichs
+Konnektivität
+Materialien
+Material System
+Druckgeschwindigkeit
+Travel speed
+FFF (Fused Filament Fabrication)
+Kartesisch, mit unabhängigem Doppelextruder (IDEX)
+400 x 300 x 350 [mm]
+280 [°C]
+120 [°C] (1400W @230V)
+Direktantrieb mit Doppelzahnrädern
+0.05 - 0.6 [mm] 
+1.75 [mm]
+0.3 - 1.2 [mm]
+Automatisch
+USB, Ethernet, SD card
+PLA, ABS, PET, Nylon, PVA, HIPS, ASA, TPE, PP, PC, PMMA, PC/ABS
+Offen
+Bis zu 250 [mm/s]
+Bis zu 600 [mm/s]
+ 
+		Unsere Vision...	
+Unser Ziel ist es, unseren Kunden mit branchenführenden Technologien der Additiven Fertigung die Entwicklung innovativer Produkte 
+ zu ermöglichen und diese ohne Umwege in Serie zu produzieren. Flexibel, schnell, kosteneffizient und nachhaltig.	
+ Mehr erfahren  
+ 
+  
+Anwendungsbeispiele 
+Alles
+Design
+Produktion
+ 
+			Design		
+		Golden Hummingbird Trophy	
+ 
+ 
+			Produktion		
+		Apple watch charging station	
+ 
+ 
+			Produktion		
+		Vanlife Keychain	
+ 
+ 
+ 
+Kunden & Partner 
+ 
+ 
+Impressum
+Datenschutzerklärung
+Sitemap
+ 
+ © 2020 Printinue UG, All Rights Reserved
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Contact Info New York +(123) 456 -7890
+webon@qodeinteractive.com
+184 Main Street Victoria 8007
+Follow us on: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

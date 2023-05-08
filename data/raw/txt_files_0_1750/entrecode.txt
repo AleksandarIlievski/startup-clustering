@@ -1,0 +1,76 @@
+entrecode - datamanager and appmanager - SaaS Provider
+home
+products
+philosophy
+clients
+DE
+EN
+Software as a Service
+      as a Service
+We design, develop and operate your SaaS
+      products.
+Learn more
+Backend as a Service
+ec.datamanager: cloud data management with standard APIs.
+Micro Services
+Individual software solutions for specific use cases.
+Mobile First
+Today a majority of internet users is connected using a mobile device. Because of that,
+          we focus on mobile devices and great
+          user experience on smartphones and tablets with web technologies.
+Cloud only
+Dedicated data centers, self hosting and local installations are a thing from the past.
+          We are a cloud software provider.
+          By that, we are able to provide flexible, scalable and reliable products with maximum
+          security.
+Open Source technology
+          We believe in the power and quality of Open Source. We base our core products on Open
+          Source technology like Node.js, PostgreSQL
+          and AngularJS. And we are an active contributor to various Open Source projects to give
+          something back to the community.
+          We believe that the overall quality of Open Source Solutions is better due to the reason
+          of many personalities
+          and minds working together.
+        
+Security and standards
+          Security and privacy is the most important part of being a cloud provider. Because of
+          that, we are very cautious to always
+          run the latest versions of our software, to hotfix critical bugs quickly, and to respect
+          the confidentiality of
+          the data our customers entrusted with us. We respect and use industry standards wherever
+          possible.
+        
+Technologies we use
+Some of our customers
+Career Opportunities
+Interested in development of modern web applications and
+      mobile apps? 
+      Interested in working with Angular and TypeScript in a Startup?
+Frontend Web Developer (m/f/d)
+            Frontend development of web apps, development of hybrid mobile apps, planning of
+            software components with our UX team. In
+            Stuttgart (DE) or Home Office.
+          
+Job Offer pdf
+Angular Working Student (m/f/d)
+            Also possible as internship semester! Live the startup dream and help us developing
+            modern web applications with Angular.
+          
+Job Offer pdf, german
+Interested?
+Send us a message, we'll be in touch!
+Name
+E-mail
+Message
+Send
+            This site is protected by reCAPTCHA and the Google
+            Privacy Policy and
+            Terms of Service apply.
+          
+jobs
+contact
+about / privacy
+      entrecode GmbH, Dornhaldenstr. 6, 70199 Stuttgart, info@entrecode.de
+      Geschäftsführer: Simon Scherzinger
+      UStID: DE297537979, Amtsgericht Stuttgart HRB 750847
+    

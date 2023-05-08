@@ -1,0 +1,291 @@
+Social Media Analytics and Competitive Benchmarking Tool | quintly
+🚨 ANNOUNCEMENT: quintly joins facelift →
+Solutions ▾
+USE CASES
+store
+Brands
+Find the KPIs you need, get deep insights and build your brand by understanding your audience on social.
+apartment
+Agencies
+Drive better decisions based on quality data using social analytics and reporting for all your clients.
+laptop-phone
+Media
+Do more with your data using custom metrics and API integrations to optimize your social strategy.
+star
+Case Study: Benefit Cosmetics
+How the global beauty brand gained 50% growth in engagement and increased reach across the world.
+earth
+Case Study: The Marketing Arm
+Social media analytics made for marketers
+screen
+Case Study: RTL Media Group
+How quintly helps a large news-media organization create a data-driven culture for their teams company-wide.
+map-marker
+Case Study: Meliá Hotels Int.
+How social media data is key to Meliá Hotels International and their brand's digital revolution.
+chart-bars
+Case study: bürosüd plus
+new!
+How bürosüd plus increased their audience by 40%
+bubble
+Case study: Landau Media
+new!
+How Landau Media manages 50 profiles in one place
+Platform ▾
+FEATURES
+chart-bars
+Analytics
+Track, benchmark and optimize your social media.
+file-empty
+Reporting
+Create or automate reports, exports and live links.
+rocket
+Data in Depth
+Secure, trusted data quality for better business.
+database
+API and Integrations
+Take analytics further with our API and integrations.
+NETWORKS
+chevron-right
+Facebook
+chevron-right
+LinkedIn
+chevron-right
+Instagram
+chevron-right
+YouTube
+chevron-right
+Twitter
+chevron-right
+Snapchat
+chevron-right
+TikTok
+New!
+Resources
+Pricing
+Company ▾
+COMPANY
+users
+About Us
+Read our story here.
+heart
+Our Service
+Services designed to support you
+bubble
+Contact
+Want to get in touch? Come say hi.
+RESOURCES
+pencil
+Blog
+Our latest articles, social news and industry insights.
+thumbs-up
+Free Stats Portal
+New!
+Check out popular industries & countries.
+bullhorn
+Product News
+Social media analytics made for Receive the latest news on improvements and updates to our product 
+magnifier
+Knowledge Base
+More than a help center – updates, guides and more.
+earth
+Climate Change
+New
+Our pledge towards Climate Change
+Login
+Solutions
+Brands
+Agencies
+Media
+Case Studies
+Benefit Cosmetics
+The Marketing Arm
+RTL Media Group
+Meliá Hotels
+Platform
+Analytics
+Data in Depth
+Reporting
+API & Integrations
+Services
+Pricing
+Company
+Blog
+Social Media Studies
+Knowledge Base
+Product News
+About Us
+Careers
+Contact
+Login
+The social media data you’ve always wanted, the way you want it
+Advanced social media analytics, delivered with unrivaled quality, customization, and flexibility. Get extensive or layered insights, take action faster and keep up with other players. It’s time to scale social media your way.
+See it in action 
+X
+Some of world’s largest brands trust quintly's social media analytics platform
+Access social media data with network-native excellence
+Pull quality data from all your social media accounts and track performance across hundreds of profiles in one place. Analyse your performance and gain insights into your competitors, inspiring brands, future clients, social media influencers and more. 
+Gain insights to drive real impact faster
+Choose from 500+ social media metrics and from hundreds of customizable dashboards to set up meaningful analyses. Find valuable insights to drive social media management forward. Hands-on with data? Create your own dashboards within a few clicks and find the answers you need.
+Build the reports that your team will love
+Create and automate custom reports within minutes. Share data with your team or set up clients to access private stats securely. Choose to export comprehensive or specific social media reports at the press of a button, or set automated delivery times and formats. 
+SOCIAL MEDIA API & INTEGRATIONS
+Access quintly's extensive and powerful API
+Gain full data flexibility and security with our carefully maintained API. Integrate data from your social platforms with your favourite analytics tools, business intelligence systems or data warehouses. Elevate your performance marketing strategy with social data intelligence.
+        Social Media API
+      
+        Browse and pull data directly from our   catalogue of data points and sources.
+      
+Go to documentation
+        quintly Query Language
+      
+        Push social media analysis forward by writing your custom metrics.
+      
+Get started
+        Integrations
+      
+        Push data to your external data storage solutions, including Google Big Query.
+      
+Explore integrations
+TikTok
+SOCIAL MEDIA NETWORKS
+High quality data and customisation in one place
+At quintly, we're a team of quality-obsessed and hands-on social media specialists. Over 10 years, we've built one of the few social media analytics tools that helps you measure cross-network KPIs and campaigns. 
+Use Cases
+Roles
+Industry
+            How you can use quintly to scale social media marketing
+          
+              Advanced analysis of owned channels
+            
+Use data to optimize you strategy, know your audience and plan your social calendar. 
+              Competitive benchmarking
+            
+Benchmark your industry and stay ahead of competitors on social media.
+              Content optimization
+            
+Get a complete overview with a cross-network content performance and comparison.
+              Ad analytics
+            
+Compare how your paid social ads perform against your organic content.
+              Influencer marketing
+            
+Keep track of your influencer campaigns and measure ROI.
+              Customer care and community analysis
+            
+Keep track of the fundamental customer care metrics across social media platforms
+              Social media campaign analytics
+            
+Monitor goals in real time, from the engagement rate and followers, to hashtag tagging, content performance and more. 
+              Monitoring and focused social listening
+            
+Detect if specific profiles have mentioned specific words within their posts and comments, and see their performance. 
+            Easy-to-use platform for social marketers and data specialists
+          
+              Social Media Managers
+            
+Understand your audience, prove your strategy and scale your social media strategy with confidence. 
+              Data Analysts / Strategists
+            
+              Access quality data with high-security standards, customisation and integration capabilities. 
+            
+              Marketing Directors / CMOs
+            
+Gain performance insights and drive your strategy with analytics and competitive benchmarking.
+            Quality social data for any industry, anywhere
+          
+              Marketing Agencies
+            
+Track all networks in one powerful social media analytics tool, use separate spaces for each client and share your branded reports that prove your impact.
+              Brands and Organisations
+            
+Analyse the performance of your brand's accounts on social, benchmark with competitors and gain insights on your market and audience. 
+ 
+              Media Companies
+            
+Compare your performance among different social media channels in one place and benchmark against other media companies.
+quintly is probably my favorite social media analytics service on the web today. It helps me track, benchmark, and optimize my social performance with super-smooth analytics.
+Neil P.
+Co-founder of Crazy Egg and KISSmetrics
+The tool is very flexible and allow us to create our own KPIs, reports and dataset for API exports. The communication between the devs and the customers is very professional. We feel that there are humans behind the machine.
+Maxime R.
+Web Analyst
+We use quintly to track social media performance across 100+ social channels and compare global goals across networks in 36 markets. quintly's data insights helped us achieve over 22% growth in year over year reach and 50% in total engagement
+Toto H.
+VP Digital
+quintly is the best tool for social media channel analysis we've tried so far - and we've tried a lot of tools. It's easy to use, with a wide variety of features and optional custom designed additions, making it optimal for quick overviews as well as in depth analysis.
+Anna K.
+Senior Intelligence Associate
+Having the right tool like quintly can help us verify the ROI of each marketing investment or content production. Great value, flexible tool for social media performance analysis - I don't know where I'd be without it!
+Sarah Lin
+Digital Marketing Manager
+quintly is easy to use, offering exactly the right depth of information for us to advise our clients. The staff is friendly and accessible any time
+Florian H.
+CEO
+We work well together.
+But don't take it from us. Clients say some nice things about quintly.
+4.7 star rating on G2 Crowd
+Check out our latest resources
+ View all
+Report
+Instagram Reels: Top 20 Brands Report
+Find Out More
+Report
+Black Friday 2022: Report Analysing Facebook Posts of Top 120 Brands 
+Find Out More
+Report
+Super Bowl XXIII: An Instagram Analysis
+Read now
+Book a demo now to get started
+Get in touch today to track, benchmark and optimize your social media performance with advanced analytics, simplified.
+Solutions
+Brands
+Agencies
+Media
+Integrations
+Google Data Studio
+Tableau
+Brandwatch Vizia
+Platform
+Analytics
+Data In Depth
+Reporting
+API & Integrations
+↳ Social Media API
+↳ Data Warehouses
+Services
+↳ Migration Assistant
+Networks
+Facebook Analytics
+Twitter Analytics
+Instagram Analytics
+Instagram Stories Analytics
+LinkedIn Analytics
+YouTube Analytics
+TikTok Analytics
+Snapchat Story Studio Analytics
+Resources
+Product News
+Our Blog
+Free Stats Portal
+Social Media Studies
+Reach vs Impressions
+Influencer Marketing
+Knowledge Base
+Press
+What's new
+Company
+Pricing
+Reviews
+About Us
+Careers
+Transparency
+🌳 Climate
+Contact
+Email Us
+Facebook
+Twitter
+LinkedIn
+Instagram
+YouTube
+Copyright © 2022 quintly. All rights reserved. • Terms • Privacy • Imprint • More...

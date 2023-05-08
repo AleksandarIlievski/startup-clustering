@@ -1,0 +1,211 @@
+TreasuryView™ – Treasury Management simplified
+Skip to content
+ 
+Toggle mobile menu
+Features
+Products
+Pricing
+Sign-in / Sign-up
+English
+Deutsch
+ 
+Search for:
+ 
+				Interest rate movements			
+				Currency movements			
+are not transitory. 
+Be prepared.
+Manage all your bank loans, interest rate and currency hedges in one system- built for modern treasury teams of all sizes, delivered as a service in the cloud. Upgrade now and leave finally static spreadsheets behind. 
+START YOUR 30 DAY FREE TRIAL
+Your trial expires automatically. No credit card.What to expect during your free-trial:  Capture bank loans and interest rate hedges. Forecast interest expenses.Understand how movements in interest rates can affect the market values of your interest rate hedges Turn loans and IR derivatives data, cashflows and valuation results into interactive dashboards Share results with other members of your finance or management team Here’s how it looks after day one of abandoning spreadsheets:  loans and derivatives use cases 
+ 
+Interest rate movements are not transitory. Be prepared! 
+Manage all your bank loans, interest rate and currency hedges in one system- built for modern treasury teams of all sizes, delivered as a service in the cloud.   Upgrade now and leave finally static spreadsheets behind. 
+ 
+JOIN FREE FOR A MONTH
+What you can expect during your free-trial:  
+Capture bank loans and interest rate hedges. Forecast interest expenses.Understand how movements in interest rates can affect the market values of your interest rate hedges Turn loan and financial instrument data, forecasted cashflows and valuation results into a dashboard Share results with other members of your finance or management team                                                         
+  Full functionality. No credit card. Your trial expires automatically 
+Our cloud platform simplifies the management of your interest rate and currency risks, so you can focus on what's important - running your business. Plus, our market data automation gives you the peace of mind that comes with knowing your business is prepared for any rate hike that may arise in the future. 
+ 
+LOANS, FX AND DERIVATIVES 
+ 
+integrated MARKET DATA 
+ 
+Predictive insights 
+ 
+EMBED REAL-TIME RISK ANALYTICS AND INSIGHTS INTO YOUR DAILY WORKFLOWS. 
+Key features 
+Banks deliver only fractional product information.TreasuryView™ is the new focal point for reimagined treasury functions.We deliver the complete picture! 
+Automated loan and interest rate derivatives management 
+Our platform enables loan portfolio insights to be collated, automated, and delivered to management and other important stakeholders. Manage loan and interest rate hedge exposures across all of your banking relationships and enterprise structure. Forecast cash-flows from corporate loans and interest rate hedges.Understand strategy outcomes across different financial markets states. Our platform comes with relevant market and reference data pre-integrated.  
+ 
+ 
+Currency exposure management Add-on 
+Stay in control over all foreign currency transactions and fx hedge exposures across all your banking relationships and enterprise structure. Automated P&L tracking against budget rate across all payables, receivables or planned transactions. Fetch data from enterprise ERP/TMS systems or upload via spreadsheet. 
+Seamless hedging simulation 
+Keen to understand what happens if existing loans or future borrowings are hedged vs doing nothing? Try out different hedging strategies!TreasuryView™ helps you to link loans and future cash-flows with hedging options, before markets open. Connect with banks, brokers or treasury advisors to make the trade happen 
+ 
+Benefits 
+ 
+Easy financial risk and exposure management 
+Automated tracking and simulation of current and forecasted loan, fx and hedges exposure, with limited manual work. 
+ 
+Treasury team success, now 
+Immediate impactful results without waiting for the end of treasury technology implementation project 
+ 
+Actionable insights to changing needs 
+Understand risk and strategy outcomes across different business states by leveraging easily customizable reports, with no delay 
+ 
+Results up to date with market pulse 
+Near- or realtime market data keeps your instrument values and forecasted cash-flows up to date 
+ 
+Treasury automation made easy 
+Faster results by integrating financial instruments and exposure information from SAP S/4HANA Cloud and other data sources 
+Products 
+Cloud platform that enables companies to unite banking transactions into secure digital repository, forecast foreign currency cash-flows, manage corporate loans, understand hedging options, anytime when underlying business or markets change 
+Products covered 
+Term loans 
+Variable rate loans 
+INTEREST RATE SWAPS 
+FX EXPOSURES 
+FX FORWARDS 
+FX OPTIONS 
+ 
+CORPORATE LOANS AND INTEREST RATE HEDGES MANAGEMENT 
+CORPORATE FX MANAGEMENT (BETA) 
+ 
+STANDARD PLANEUR 199 / user/month 
+(best for small teams) 
+Easy start with sample data and discover our functionality.
+Pricing plan:
+single currency EUR
+24h delayed market data EOD
+E-mail/Teams/Zoom support
+Deal cap =30 instruments
+1 internal user
+Feedback bonus +170 deals      
+ 
+                                                                                                     Monthly upgrade options (ask our sales team):
+intraday market data (5x day)
+multi-currency (USD,GBP, JPY) 
+additional reference rate data 
+additional IR option vola data
+swaption pricing module 
+hedge effectiveness testing
+user enrolment via Azure AD
+additional internal user 
+additional guest user
+additional dashboards or embedded reports via API
+API access
+integration with ERP systems                                                                                                                                                                                                                                                                     Explore more loans and derivatives use cases                 
+* Start with 30-day free trial. Your trial expires automatically. No credit card. Annual subscription. Quarterly invoicing. 3 months termination notice to the end of the 12 months period.                 
+START YOUR FREE TRIAL
+ 
+ENTERPRISE PLANEUR 330/month 
+(per company) 
+Easy start with sample data and discover our functionality.Pricing plan:single currency EUR24h delayed market data EODE-mail/Teams/Zoom supportDeal cap =100 instrumentsFeedback bonus +300 dealsunlimited guest usersDeal API access                                                          Monthly upgrade options (ask our sales team):intraday market data (5x day)multi-currency (USD, GBP, JPY)additional deal volume planadditional reference rate dataadditional IR option vola dataswaption pricing modulehedge effectiveness testinguser enrolment via Azure ADadditional dashboards or embedded reports via API  integration with ERP systems                                                                                                                                                                                                                                                                                                                                                Explore more loans and derivatives use cases* Start with 30-day free trial. Your trial expires automatically. No credit card. Annual subscription. Quarterly invoicing. 3 months termination notice to the end of the 12 months period.   
+START YOUR FREE TRIAL
+ 
+SIGN-UP FOR BETA 
+Start out with sample data and discover our functionality.
+Pricing plan:
+start with sample products
+upload or manual trade entry
+EUR, GBP, USD as functional currencies
+end of day market data
+E-mail/Teams/Zoom support
+ 
+Explore more FX use cases 
+CONTACT US
+ 
+IT and information security 
+Our clients entrust us with sensitive company data. IT security and data protection has therefor been our top priority right from the start. Yor data is stored in ISO27001 certified data center in Western Europe and managed according to German and EU data security regulations. Furthermore we have appointed external data security officer to oversee and improve our data protection procedures. 
+ 
+CORPORATE LOANS AND INTEREST RATE HEDGES MANAGEMENT 
+ 
+STANDARD PLAN EUR 99/user/ month 
+Easy start with sample data and discover our functionality.Pricing plan:single currency EUR24h delayed market data (EOD)E-mail/Teams/Zoom supportDeal cap=30 instruments1 Internal userFeedback bonus +170 deals  Add-ons (ask our sales team):intraday market data (updated 5x day)multi currency (USD, GBP etc.) additional reference rate dataadditional interest rate option and swaption volatility datauser enrollment via Azure ADadditional user accountsdedicated dashboards for C-Level or third party advisors API portal accessintegration ERP systems   Explore more loans and derivatives use cases* Start with 30-day free trial. Your trial expires automatically. No credit card. Annual subscription. Quarterly invoicing. 3 months termination notice to the end of the 12 months period (applies also for initial term). 
+START FREE TRIAL
+ 
+ENTERPRISE PLAN EUR 330/ month 
+Easy start with sample data and discover our functionality.
+Pricing plan:
+single currency EUR
+24h delayed market data 
+E-mail/Teams/Zoom support
+Deal cap =200 instruments
+Feedback bonus +300 deals
+unlimited guest users
+API access
+ 
+ 
+Add-ons (ask our sales team):
+intraday market data (5x day)
+multi currency (USD, GBP etc.) 
+additional reference rate data
+additional IR option data
+swaption pricing module
+hedge effectiveness testing
+user enrollment via Azure AD
+additional user accounts
+additional dashboards for management or  advisors 
+API portal access
+integration ERP systems
+ 
+  
+Explore more loans and derivatives use cases
+* Start with 30-day free trial. Your trial expires automatically. No credit card. Annual subscription. Quarterly invoicing. 3 months termination notice to the end of the 12 months period (applies also for initial term).F 
+START FREE TRIAL
+CORPORATE FX MANAGEMENT (BETA) 
+ 
+Sign-up for beta  
+Start out with sample data and discover our functionality.Pricing plan:start with sample productsupload or manual trade entryEUR, GBP, USD as functional currenciesend of day market dataE-mail/Teams/Zoom support Explore more FX use cases 
+Contact us
+ 
+IT and information security 
+Our clients entrust us with sensitive company data. IT security and data protection has therefor been our top priority right from the start. Yor data is stored in ISO27001 certified data center in Western Europe and managed according to German and EU data security regulations. Furthermore we have appointed external data security officer to oversee and improve our data protection procedures. 
+Contact us 
+Our team is enthusiastic about learning how we can assist you in effectively managing your financial risks on a daily basis. We’re happy to hear from you. Fill in the form below and we’ll be in touch soon. 
+ 
+© 2007-2023 emformX GmbH. All rights reserved. 
+Imprint    I    Terms and Conditions    I    Privacy Policy 
+ 
+© 2007-2023 emformX GmbH. Alle Rechte vorbehalten. 
+Imprint    I    Terms and Conditions    I    Privacy Policy 
+ 
+Proudly powered by WordPress
+ | 
+			Theme: Airi by aThemes.			
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the necessary cookies.Cookie settings ACCEPTPrivacy & Cookies Policy
+Close
+Cookie settings 
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+ 
+                                Necessary                            
+ Necessary 
+                                    Always Enabled                                
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+CookieDurationDescription_GRECAPTCHA5 months 27 daysGoogle Recaptcha service sets this cookie to identify bots to protect the website against malicious spam attacks.cli_user_preference1 yearThe cookie is used to store the yes/no selection the consent given for cookie usage. It does not store any personal data.cookielawinfo-checkbox-advertisement1 yearThis cookie is set by GDPR Cookie Consent plugin. The purpose of this cookie is to check whether or not the user has given their consent to the usage of cookies under the category 'Advertisement'.cookielawinfo-checkbox-analytics1 yearThis cookie is set by GDPR Cookie Consent plugin. The purpose of this cookie is to check whether or not the user has given the consent to the usage of cookies under the category 'Analytics'.cookielawinfo-checkbox-necessary1 yearThis cookie is set by GDPR Cookie Consent plugin. The purpose of this cookie is to check whether or not the user has given the consent to the usage of cookies under the category 'Necessary'.cookielawinfo-checkbox-preferences1 yearThis cookie is set by GDPR Cookie Consent plugin. The purpose of this cookie is to check whether or not the user has given the consent to the usage of cookies under the category 'Preferences'.CookieLawInfoConsent1 yearThe cookie is used to store the summary of the consent given for cookie usage. It does not store any personal data.elementorneverThe website's WordPress theme uses this cookie. It allows the website owner to implement or change the website's content in real-time.viewed_cookie_policy1 hourThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+                                Analytics                            
+analytics
+These cookies are not necessary for the website to function, but allow us to learn from your behavior so we can improve our site’s functionality, content, and user experience.
+CookieDurationDescription_clck1 yearMicrosoft Clarity sets this cookie to retain the browser's Clarity User ID and settings exclusive to that website. This guarantees that actions taken during subsequent visits to the same website will be linked to the same user ID._clsk1 dayMicrosoft Clarity sets this cookie to store and consolidate a user's pageviews into a single session recording._ga1 year 1 month 4 daysGoogle Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors._ga_*1 year 1 month 4 daysGoogle Analytics sets this cookie to store and count page views._gcl_au3 monthsGoogle Tag Manager sets the cookie to experiment advertisement efficiency of websites using their services.CLID1 yearMicrosoft Clarity set this cookie to store information about how visitors interact with the website. The cookie helps to provide an analysis report. The data collection includes the number of visitors, where they visit the website, and the pages visited.MR7 daysThis cookie, set by Bing, is used to collect user information for analytics purposes.SMsessionMicrosoft Clarity cookie set this cookie for synchronizing the MUID across Microsoft domains.vuid1 year 1 month 4 daysVimeo installs this cookie to collect tracking information by setting a unique ID to embed videos on the website.
+                                Preferences                            
+preferences
+Preference cookies are used to store user preferences to provide content that is customized and convenient for the users, like the language of the website or the location of the visitor.
+CookieDurationDescriptionpll_language1 yearThis cookie is set by Polylang plugin for WordPress powered websites. The cookie stores the language code of the last browsed page.
+                                Advertisement                            
+advertisement
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+CookieDurationDescriptionANONCHK10 minutesThe ANONCHK cookie, set by Bing, is used to store a user's session ID and verify ads' clicks on the Bing search engine. The cookie helps in reporting and personalization as well.MUID1 year 24 daysBing sets this cookie to recognise unique web browsers visiting Microsoft sites. This cookie is used for advertising, site analytics, and other operations.NID6 monthsThis cookie is used to a profile based on user's interest and display personalized ads to the users.test_cookie15 minutesdoubleclick.net sets this cookie to determine if the user's browser supports cookies.
+                                Functional                            
+functional
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+CookieDurationDescription__cf_bm30 minutesCloudflare set the cookie to support Cloudflare Bot Management.
+                                Performance                            
+performance
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+CookieDurationDescription_uetsid1 dayBing Ads sets this cookie to engage with a user that has previously visited the website._uetvid1 year 24 daysBing Ads sets this cookie to engage with a user that has previously visited the website.SRM_B1 year 24 daysUsed by Microsoft Advertising as a unique ID for visitors.
+Save & Accept
+Powered by 

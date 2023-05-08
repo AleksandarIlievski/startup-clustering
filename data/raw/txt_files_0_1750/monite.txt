@@ -1,0 +1,377 @@
+Monite - Add Invoicing & Payables Automation to your product
+Products
+Offer financial admin automation
+Invoicing (AR Automation)
+Help customers get paid fast and easily
+Bill Pay (AP Automation)
+Help customers pay supplier bills
+Monetize users better with payments
+Invoice Payment Links
+Embed links to invoices generated on your platform and earn
+                                                on it
+Bill Pay
+One-click bill pay with any payment method
+Developers
+API Docs
+Explore our guides and easily integrate your platform with Monite
+                                            APIs
+Sandbox
+Dry-run our product in a safe environment to test all the
+                                            features
+GitHub Repositories
+Examples of SDK sources 
+Postman Collections
+Integrate with the Monite platform through this public
+                                            workspace
+Resources
+Revenue Calculator
+About
+Company
+Get demo
+Products
+Offer Financial Admin Automation
+Invoicing (AR Automation)
+Help customers get paid fast and easily
+Bill Pay (AP Automation)
+Help customers pay supplier bills
+Monetize users better with payments
+Invoice Payment Links
+Embed links to invoices generated on your platform and earn
+                                                on it
+Bill Pay
+One-click bill pay with any payment method
+Developers
+API Docs
+Explore our guides and easily integrate your platform with Monite
+                                            APIs
+Sandbox
+Dry-run our product in a safe environment to test all the
+                                            features
+GitHub Repositories
+Examples of SDK sources 
+Postman Collections
+Integrate with the Monite platform through this public
+                                            workspace
+Resources
+Revenue Calculator
+About
+Company
+Unlock new revenue streams by embedding
+Offer invoicing, bill pay, B2B payments and cash flow
+                analytics to your business clients. Customize using API building blocks. Go live with 2 developers in 4
+                weeks.
+Get demo
+Backed by founders & execs of
+Trusted by many B2B platforms
+Earn 2-5x more per user
+It takes up to 2 years and $3-5 million to automate finance in-house. Go live with 2
+            developers in 4 weeks.
+01
+Grow revenue per user 2-5x
+Earn an additional $10-200 per user/mo in SaaS fees
+Expand your revenue and TAM with payments, earning 0.1-2% on each
+                                transaction made on your platform
+                            
+Get commissions on financial services: BNPL, factoring and more
+02
+Increase product stickiness
+Become a one-stop-shop for SMBs. Offer valuable services that make it much
+                                harder to switch to a competitor
+                            
+New functionality used daily – higher WAU/MAU
+Get more users onto your platform – expand your reach to new teams at your
+                                SME clients
+                            
+03
+Attract more users
+Win over customers from competitors without new marketing expenses. Create
+                                a network effect with an all-in-one offering
+                            
+Set your brand apart. Expand your offering to become the go-to player for
+                                your industry
+                            
+Upsell your current users so you can invest more into growth
+                Works best for
+            
+                        NeoBanks
+                    
+                        Vertical SaaS
+                    
+                        FinTech SaaS
+                    
+                        Marketplaces
+                    
+Embeddable workflows
+Features that match top industry players
+Invoicing & getting paid fast
+                    90% of SMBs struggle to get paid on time, chasing invoice payments for up to 30 days on average.
+                
+                    Monite lets your customers:
+                
+Add clients & products
+Send quotes
+Send invoices
+Get paid via link
+Overview invoices & statuses
+Send payment reminders
+See revenue analytics
+Integrate with 40+ accounting platforms
+Learn more
+Pay bills & expenses
+                    It usually costs €6.5-15 for SMBs to process a single invoice. Many use Excel and email to handle payables
+                    tasks, leading to debts, double payments, audit issues and overspending.
+                
+                    Monite lets your customers:
+                
+Collect bills via email
+Get overviews payables & obligations
+Build & customize approval flows
+Add comments & to-dos for their team
+Approve bills in one click
+Perform single and bulk payments
+Analyze spending and debt analytics
+Integrate with 40+ accounting providers
+Learn more
+Embeddable B2B payments
+Someone else earns from your clients’ payments. Take this revenue back.
+63% of SMBs struggle with payments. They enter payments manually and use multiple
+            platforms for banking, FX, cards, etc. 90% would prefer a single solution for all payments
+        
+                    Payment links
+                
+                    Bill pay
+                
+                                        Your customer emails an invoice with a payment link attached
+                                    
+                                        Their client pays it in one click by card, bank transfer, or other popular methods
+                                    
+                                        Invoices with payment links get paid 40% faster, so your clients don’t need to chase payments.
+                                        Monite does this for them
+                                    
+                                        Your customer gets notified when the invoice is paid, and reconciliation is automated
+                                    
+                                        You earn up to 0.5% on every invoice payment. Markups for each payment method are adjustable
+                                    
+                                        A bill is forwarded or uploaded to your platform and prepared for payment
+                                    
+                                        The user pays the bill with open banking, credit card, or other methods. You make commission on
+                                        every payment – e.g. up to 2% on card payments
+                                    
+                                        The payment is charged to the user’s card or account and sent to the supplier via SEPA/ACH or
+                                        another payment method
+                                    
+                                        If the user paid the bill with a credit card, standard credit terms apply—for instance, allowing up
+                                        to 30 extra days to pay the balance
+                                    
+01
+Your customer emails an invoice with a payment link attached
+02
+Their client pays it in one click by card, bank transfer, or other popular
+                        methods.
+03
+Invoices with payment links get paid 40% faster, so your clients don’t need
+                        to chase payments. Monite does this for them.
+04
+Your customer gets notified when the invoice is paid, and reconciliation is
+                        automated
+05
+You earn up to 2% on every invoice payment. Markups for each payment method
+                        are adjustable.
+01
+A bill is uploaded to your platform and prepared for payment
+02
+                        The user covers the bill by credit card to leverage their credit terms,
+                        paying about 3% commission, of which you earn 0.2%+ and interchange fees if you issued the card
+                    
+03
+The payment is charged to the user’s card and sent to the supplier via
+                        ACH/SEPA or a preferred payment method
+04
+The user has 30+ days to cover the credit card balance
+Customers say it best
+                        Processing documents, AR & AP via Monite
+                    
+                        AR/AP are core to our product, so we looked at multiple providers as well as building in-house.
+                        We chose Monite due to their product depth, quality of APIs, and fast development.
+                        Working with Monite has been a breeze – a robust API platform, knowledgeable team, and quick support at all
+                        times
+                    
+Jane Shmygaleva, CPO
+                        Neobanking platform for E-commerce companies
+                    
+                        Thanks to Monite, we enable our clients all across Europe to send compliant invoices and collect payments
+                        via
+                        payment links.
+                        At the same time, we enable our eComm customers to pay suppliers worldwide using Monite’s Accounts Payable
+                        functionalities and payment rails
+                    
+Carlos Reuven, CEO
+                        Global payrol solution & merketplace for freelancers
+                    
+                        We let companies employ people & freelancers globally.
+                        With Monite, we are building a finance one-stop-shop for freelancers on our marketplace – so they can manage
+                        all their revenue, supplier payments, and more in one interface.
+                        Monite also powers up our marketplace payments
+                    
+Collin Thompson, CEO
+                        Business process automation platform for African SMEs
+                    
+                        African businesses waste hundreds of hours on admin work, so we are building a platform to streamline their
+                        back office, accounting, and payments.
+                        We rely on Monite for core functionalities – Invoicing and Bill Pay.
+                        We love Monite’s great service, solid features, and easy-to-use SDKs
+                    
+Steve Mwangi, CEO
+Become the one-stop-shop for your industry before someone else does
+Be the first-mover. Don’t play catch-up.
+01
+Finance is a pain
+Today, SMBs handle finance manually, leading to lost time, money, cash flow
+                    and spending control.
+                
+02
+5-7 tools are needed
+It’s hard to automate everything. SMBs need to onboard 5-7 specialized tools
+                    for finance alone, which is too pricey and complex.
+                
+03
+SMBs want an all-in-one solution
+SMBs dream of automated finance management on a platform they use daily.
+Onece a software demonstrates its value, customers consolidate around it for all of
+                their needs, transforming it into a one-stop shop.
+            
+a16z
+And tens of other reasons why customers would switch to you for
+                finance automation
+            
+How companies earn millions offering one-stop-shops for niche industries
+Started as a POS for restaurants—now it's
+                                an all-in-one tech stack for the entire industry
+                            
+78%
+of revenues and 97% of gross profit
+                                    from financial services
+                                
+114%
+net retention rate and 18-month payback
+                                    period
+                                
+Brex started as a credit card provider for
+                                startups and became a one-stop-shop financial system for entrepreneurs
+                            
+$12.3bln
+valuation
+60/40
+The majority of Brex’s revenue came from
+                                    interchange fees, followed by SaaS revenue and others
+                                
+How much more money can you make with Monite?
+            Instantly calculate potential revenue based on your user base
+        
+CLIENTS
+1000
+Calculate
+Save development time with modular API
+A single access point for various
+                    capabilities. Construct solutions of any complexity; test new features once we roll them out without the need
+                    to re-integrate
+                
+API docs
+Sandbox
+Backend integration
+2-5 days of work for 2 devs
+Frontend integration
+2-4 weeks with our SDKs—a bit longer if you use your own design
+                    system
+                
+Design
+We provide a full guide to UX/UI for each feature to get users
+                    active
+                
+About Monite
+Building the future of financial services
+Monite doubles seed round to €10 million
+20.03.2022
+Learn more
+                
+Next-Gen CFOs Need Next-Gen Tools to Power Their Organizations
+01.03.2022
+Learn more
+          
+Monite Raises $10M in Seed Funding
+20.03.2022
+Learn more
+            
+Monite raises another $5 million bringing in a total of $10 million in seed
+                            funding
+20.03.2022
+Learn more
+            
+Why we pay for employee mentors
+01.03.2022
+Learn more
+            
+The definitive 100 pioneering digital procurement solutions
+01.03.2022
+Learn more
+            
+How To Prepare For The Era Of Hyper-Niche B2B Super Apps
+21.09.2022
+Learn more
+            
+See all
+More about us
+By providing a tailored and efficient solution through its API-first finance
+                workflows, Monite has the power to unlock an enormous opportunity for the B2B sector, both for SMBs and the
+                platforms serving them, in a repeatable and durable way
+            
+Mike Kim General Partner at Third Prime
+High priority for your roadmap
+Become a one-stop-shop before your competitors do
+Get demo
+hello@monite.com
+Products
+                            AP Automation
+                        
+                            AR Automation
+                        
+                            Bill Pay
+                        
+                            Payment Links
+                        
+Developers
+                            API docs
+                        
+                            Sandbox
+                        
+                            GitHub
+                        
+                            Postman
+                        
+Company
+                            About
+                        
+                            Careers
+                        
+                            Blog
+                        
+                        Imprint
+                    
+                        Terms
+                    
+                        Data privacy
+                    
+                        Cookie Policy
+                    
+2022 - 2023 Monite GmbH
+Let’s talk!
+Please tell us more about your business and how Monite could help
+    Notice: JavaScript is required for this content.
+ We got your message!
+Our team will be in touch with you shortly.
+Go Home      
+ We didn`t got your message!
+Our team will be in touch with you shortly.
+Go Home      
+Please enable JavaScript in your browser to complete this form.Full name *PositionYour email *CommentSent  
+Please enable JavaScript in your browser to complete this form.Full name *PositionYour email *CommentSent  

@@ -1,0 +1,121 @@
+Spherebox | Cloudless Communication Network, Secure Messaging and File Transfer API
+Menu
+Menu
+Home
+Features
+Applications
+Demo
+Contact
+Impressum
+Privacy Policy
+Close
+Secure messaging & smart data communication
+Easy to integrate into your application
+Secure digital communication
+The Spherebox technology provides an API for end-to-end encrypted communication between devices, services, people and groups. Through this secure virtual network, data of all formats such as messages, files, and metadata can be transmitted.
+Secure authentication
+All users are authenticated using strong 256-bit keys, which are exchanged asymmetrically. The end-to-end encryption is consistently implemented: the keys are generated on the respective end devices of the users and are only stored there.With our special hierarchical key management over devices, persons and groups, both the secure key exchange in groups as well as the realization of secure multiclient applications are possible.
+Data transfer and storage
+The data transfer is protected with strong encryption from the sender to the recipient, thereby ensuring the integrity of the data and the authenticity of the sender through digital signatures. The transport of data is possible via:a pure peer-to-peer connectiontemporary caching until retrieving the encrypted dataor a permanent data room solution with long-term storage of the encrypted dataFull data sovereignty is always given to all users of the system.
+Increase the safety level of your application with our innovative concept
+From authentication through messaging to the transfer of large files
+What makes our Spherebox technology special?
+The Spherebox API makes it easy to add end-to-end encryption with appropriate key management, device synchronization, secure messaging, and secure data transfer to your application.
+Public & private key management of individuals and services	
+Unique address space, which can be used independently of telephone number and emailAuthentication and authorization by 256 Bit Public Key Key (Curve25519)Making contacts with a secure key exchange between individuals and services
+Secure synchronization between devices
+Synchronization of private keys / contacts / groupsDevices can be de-authorized from existing devices (if devices are lost)
+Administration of groups
+Key management for groupsManagement of group rights (open and moderated groups)Exclusion of group members with Perfect Forward Secrecy
+Transfer of files between devices, people, services, and groups
+End-to-end encrypted (AES-256)Local transfer if network devices are on the same LANDirect transfer P2P between network devicesNo file size restriction for direct transfer via P2POffline Transfer via Caching ServerFile size restrictions only depending on storage time, theoretically unlimited file size when shippingSigned by the sender (Ed25519)
+Sending messages or notifications between devices, people, services, and groups
+End-to-end encrypted (AES-256)With any payload (text, XML, JSON)Offline cachingShipping and acknowledgment of receiptSigned by the sender (Ed25519)
+Cross platform
+Developed in C ++Compatible with Android, iOS, Linux, MacOS and WindowsInterfaces for common programming languages (C #, Swift, Objective-C, Javascript)
+Applications
+The possible applications for the Spherebox technology are wide. Depending on the security requirements and feature set of your application, the individual modules can be used individually as well as combined with each other.
+Secure messaging
+An intelligent messaging API for individual contacts and groups for a modern social communication level between colleagues or with customers.
+Distributed and secure data exchange
+Exchange data easily and safely between contacts and within groups within the intranet. Suitable for various cases such as File Messenger and data space solutions.
+Encrypted data storage
+Due to the consistent end-to-end encryption, all files are protected during online storage and can only be decrypted on the devices of the users.
+Secure authentication
+Unmistakable verification of devices, contacts and groups via encrypted channels. Optional anonymous or individual-related.
+Example of an application based on the Spherebox technology
+To demonstrate our technology, we have developed the cross-platform, secure team messenger "Sid" with individual components of the Spherebox technology.
+Communicate more securely and efficiently with Sid than with email or other chat solutions from, whether it is to send messages, documents, images or large files quickly and securely.
+Try Sid for free: 
+	www.sid.co
+Let your app meet the highest security requirements
+From authentication through messaging and the transfer of large files
+Areas of application
+Integrate the secure Spherebox components into your application to increase the security of your product. Bring a new security level to your application with consistent end-to-end encryption and the replacement of HTTPS with a specially developed transfer protocol.
+Sales
+Extend your ERP or CRM system with an encrypted communication component and protect sensitive customer and company data. Communicate and share files over a secure network.
+Banking, FinTech
+Protection of confidential documents, as well as confidential communication among employees and a secure channel to your customers through the integration of Spherebox technology. Especially in the FinTech area, a secure platform is essential for the communication and exchange of documents. Our technology offers the same security on mobile devices as on desktop computers.
+IoT
+Secure connection of IoT devices and double protection during operation by encryption and the non-use of HTTPS connections. Because no HTTPS is required, your application consumes less resources and shows a reduced maintenance effort.
+Robotics
+Security-critical systems can be protected using the Spherebox technology by implementing an encrypted channel for control and communication.
+Healthcare
+Allow direct contact and document exchange between physicians and their patients in compliance with the privacy laws.
+Education
+Up-to-date fast communication and common access to files while adhering to the special legal requirements for data protection in education.
+E-government, public authorities
+The use of software products in governmental institutions is subject to special legal conditions, including strict data protection. The Spherebox technology provides compliant communication solutions.
+Dating
+Protect your customers' communications and their privacy. Provide a new security standard in this area and keep intimate details secret.
+Gaming
+Fast and direct connection of all players. The devices of the players communicate directly with each other by using peer-to-peer technology. Your product can also support streaming or VoIP due to the low latency of our technology.
+Security risks of current cloud solutions
+	We see a security risk when using HTTPS authentication that can be avoided with the use of the Spherebox technology. The most critical points are:
+Password authorization vulnerable by brute force (10 characters provide 65 bit security)
+Combination of authorization with authentication by unsafe email questionable
+HTTPS based encryption only provides encryption in transit, needs intensive maintenance, and shows design weaknesses at TLS/SSL level
+Browser as user frontend is a hard-to-secure environment
+	
+Data management
+	
+Operators of the cloud have full access to your data
+Unclear access rights of the cloud infrastructure provider
+	The Spherebox technology is easy to integrate, runs reliably and can be implemented on all platforms thanks to its low level C++ implementation.
+Please contact us so that we can put together the ideal package of Spherebox modules for your needs.
+Contact us!
+Please send us an e-mail if you have questions or would like to use the Spherebox technology for your projects.
+									Spherebox UG (haftungsbeschränkt)
+									Bordeauxstr. 7 
+									13127 Berlin
+									Germany
+								
++49 30 83218030
+hello@spherebox.com
+twitter.com/wearespherebox
+facebook.com/spherebox.berlin
+Impressum
+	 Spherebox UG (haftungsbeschränkt) 
+	
+	 Bordeauxstr. 7 
+	
+	 13127 Berlin 
+	
+	 Email: 
+	hello@spherebox.com
+	 Telefon: +49 30 91749821
+	
+Geschäftsführer
+	 Toine Diepstraten, Nils Krüger
+Gesellschaftsdaten
+	 Sitz der Gesellschaft: Berlin 
+	
+	 Registergericht: Berlin, Amtsgericht Berlin-Charlottenburg 
+	
+	 Registernummer: HRB 169037 B 
+	
+	 USt-IdNR.: DE 300857300
+© Spherebox UG (haftungsbeschränkt) 2017
+EN
+DE
+Privacy Policy

@@ -1,0 +1,68 @@
+Videmo – New standard in video analysis
+Videmo - New standard in video analysis.
+Menu
+Contact
+Solutions 
+Our solutions at a glance
+Security
+Manufacturers and integrators
+Retail and Market Research
+Products 
+Video Analysis made easy
+Videmo 360Face recognition redefined
+Videmo SDK Simple and easy integration
+Technology
+About us
+Contact
+English
+Pick Language
+Deutsch
+English
+Welcome to Videmo
+New standards in video analysis
+Discover a whole new way of analyzing your video content. State-of-the-art facial recognition technology as simple and flexible as never before.
+More information
+Our solutions at a glance
+Security and Law Enforcement
+View large volumes of video footage, review events with our retrospective search, or upgrade your access control solution with facial recognition.
+Learn more
+Manufacturers and integrators
+Looking for a way to integrate facial recognition into your systems? With our flexible interface you can extend your own solutions with new features in no time!
+Learn more
+Retail and Market Research
+Do you know your customers? Collect marketing-relevant data such as age, gender, dwell time and duration of eye contact and maximize your turnover at the POS.
+Learn more
+Technology
+Face Recognition
+Deep Learning
+The Videmo Technology
+For more than 10 years, we have been actively developing and improving state-of-the-art video analysis technology in the field of face recognition. Application users will find this in our easy but versatile all-in-one solution Videmo 360, while manufacturers and integrators profit from our open API and the Videmo SDK.
+Face Recognition
+Our face recognition tools find even the smallest faces in photos or videos of poor quality. By comparing with reference images, known persons are reliably recognized, and their age and gender estimated as well. Thanks to hardware acceleration, all components are suitable for live use.
+Deep Learning
+Deep neural networks are state of the art tools in image analysis and are the technological foundation of our recognition methods. We design and train our deep nets with large amounts of data in order to achieve the optimal combination of recognition performance and speed.
+Learn more
+Videmo 360
+Face recognition redefined. Videmo 360 is the latest generation of face recognition software, combining retrospective analysis and live observation capabilities in a distributed, client-server-ready solution. Integrate cameras from remote observation points, and let teams of operators analyze large amounts of video footage.
+More information
+Intuitive user interface
+With a simple and modern user interface, you can quickly get an overview of the content of your videos and start search queries with a single click.
+Multi-user ready
+Use a single workstation or a distributed installation: Videmo 360 is scalable and fits your requirements with its flexible client-server architecture. 
+All-in-one solution
+Videos, photos, cameras - process various data sources with a single software and search for people across media.
+Videmo 360 API
+With its open programming interface (API), Videmo 360 provides all of its functionality to software developers. This makes it easy to integrate Videmo 360 into an existing infrastructure, to initiate requests from third-party systems and to implement complex processes programmatically.
+Learn more
+Videmo SDK
+Videmo SDK is our offering for software and hardware manufacturers who require a deep integration of facial recognition features into their own product. The SDK combines our facial recognition technology with image acquisition functions, providing a software library for C/C++ programmers.
+Learn more
+References and partners
+Our claim is to offer you the best solution in the market. We work closely together with well-known partners from industry and research.
+At home in the technology region Karlsruhe
+We are an innovative company in the field of automatic video analysis. Since our foundation we have been developing state-of-the-art solutions for facial recognition.
+Company profile
+Imprint & Pricacy
+Videmo - Inzelligente Videoanalyse
+About us
+Contact

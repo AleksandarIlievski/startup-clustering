@@ -1,0 +1,127 @@
+Flying Circus
+en |
+                de
+Login | Register
+Status
+Documentation
+Blog
+GitHub
+Careers
+Your digitalization
+About us
+Our service
+Our prices
+Contact
+Let your ideas fly!
+ Make your digital transformation agile and reliable:
+with Flying Circus operations and hosting.
+Let us help you master the challenges of digitalization!
+If this resonates with you, Flying Circus is just what you need:
+You have a custom web application based on open source components. You would like to outsource operations to someone who can meet your high standards of availability and reliability. 
+Does that sound like you?
+ Let's talk!
+ 
+Certificate Download
+Simple, agile and secure: 3 good reasons why we should work together!
+Because we are perfectly prepared and positioned
+Rely on a well-oiled team with over 20 years of experience in the agile development and stable operations of web applications. We can ensure short release cycles, low deployment effort and seamless monitoring.
+Because perfect operations are a matter of attitude
+No matter how suitable a technical solution may seem – ultimately, the success of any project comes down to the people involved. That’s why we always communicate openly and strive to build an effective and pragmatic collaboration.
+Because our DevOps approach makes it easier for everyone
+We primarily understand DevOps as a cooperation of development and operations – in other words, your developers and our administrators working hand in hand. This leads to maximum flexibility and therefore short response times, and your products benefit from our combined expertise. 
+Would you like to find out more? 
+ Get in touch!
+Benefit from our customized service!
+Scalable infrastructure
+Choose exactly the components you need. We can adapt the scope of the virtual machines we provide and the associated resources to your project's needs at any time.
+Managed platform
+Our open source components are configured in a way that facilitates your operations and development. We manage and administer the Linux platform, which can be fully customized to your requirements. You can use your subscription for multiple projects and as many customers as you like.
+Ideal support level 
+Whether you prefer to host your applications yourself or leave everything to us – our support can be adapted to your needs. Feel free to extend the scope as you wish. But no matter which package you choose, you can always expect a cooperative partnership and a forward-looking approach.
+Does that sound like what you need?
+ Get in touch!
+Sample package prices:
+A micro site using a webserver, your application and a database – from 280 € per month
+Guided: you deploy the application yourself – we give extensive advise and respond to incidents
+This example includes a production and test environment with each 1 CPU, 4 GiB RAM and 30 GiB SSD, as well as 100 GiB traffic. We answer any questions you have about operating your application on our platform and respond to critical incidents related to your application during our business hours.
+A business application using a webserver, your application, a database and multiple additional components – from 1.000€ per month
+Managed 1: we take on full responsibility for the deployment operations of your application. We are constantly available to be in touch with your developers.
+This example includes a production environment with 8 CPUs, 50 GiB RAM, 100 GiB SSD and 180 GiB HDD, as well as 100 GiB of traffic. In addition a test environment with 4 CPUs, 10 GIB RAM and 190 GiB HDD is also included. You give us access to your application code and we start working on an automated deployment and get your application ready for production. After going live we operate the application continuously.  We consult with your developers and are constantly available. Any issues within your application will be responded within our regular business hours and we guarantee a user availability of the application of at least 99.5%.
+A critical application – from 2.300 € per month
+Managed 3: we are available 24/7 for your application and guarantee an availability of 99.5%
+This example uses the same resources as the previous example but our team is available around the clock and knows about the state of your application. Our job is done when customers can successfully use your application at any time.
+Does any of those packages fit your budget?
+The actual monthly amount will be based on your specific requirements and can be given after a personal discussion. The example packages are intended to give you a first impression.
+                „We built the Flying Circus based on the requirements we had ourselves: the best possible environment for custom web applications.“
+            
+                    Christian Theune, Founder and CTO
+                
+Lowering your operating costs
+The Flying Circus reduces effort and cost operating your applications..
+Infrastructure
+ managed virtual machines 
+ monthly invoice based on daily consumption 
+ includes daily backups 
+CPU: 10 € / 1 virtual core
+RAM: 2 € / 1 GiB
+Disk (regular): 2 € / 10 GiBup to 250 IOPS
+Disk (fast): 6 € / 10 GiBup to 10.000 IOPS
+Object storage: 1,5 € / 10 GiBS3 compatible
+Hourly backups: 2 € / 10 GiB in addition to daily backups
+Traffic: 50 € / 1.000 GiBfrom/to the internet, internal traffic is free of charge
+Basic VM – 1 CPU, 30 GiB disk, 1 GiB RAM = 18€
+Platform
+Provides access to our platform: a managed Linux distribution, managed components, monitoring and more, including 100GiB traffic per month.
+As a customer the platform subscription can be used for multiple projects or as an agency you can use it for as many customers as you like..
+Platform subscription: 100 € per month for each invoice recipient
+Guided
+Application Operations
+You operate your application and get all the support you need. We respond to application incidents and respond to any question you might have — no hourly charges!
+Guaranteed response times for critical incidents:
+Response time
+per component
+4 hours, Mo‐Fr, 8‐16 hr
+20 €
+1 hour, Mo‐Su, 7–21 hr
+75 €
+1 hour, 24x7
+100 €
+oder
+Managed
+Application Operations
+Our  premium package for support and cooperative development.
+We take on full responsibility for continously operating your application — all inclusive — no hourly charges! Proactive feedback about performance and anomalies of your application. 99.5% guaranteed end customer availability of your application
+Guaranteed response times for critical incidents:
+Response time
+per component
+4 hours, Mo‐Fr, 8‐16 hr
+100 €
+1 hour, Mo‐Su, 7–21 hr
+250 €
+1 hour, 24x7
+350 €
+15 minutes, Mo–Fr, 8–16 hrelse 1 hr, 24x7
+425 €
+15 minutes, Mo–Su, 7–21 hrelse 1 hr, 24x7
+500 €
+Get in touch
+Call us or send us an email.
+Contact
+                        mail: mail@flyingcircus.io
+                        fon: +49 345 219 401 0
+                        fax: +49 345 219 401 28
+                    
+Address
+                        Flying Circus Internet Operations GmbH
+                        Leipziger Str. 70/71
+                        06108 Halle (Saale)
+                        GERMANY
+                    
+                        Commercial register
+                        AG Stendal as HRB 21169
+                        VAT ID: DE297423633
+                    
+                        Managing Directors:
+                        Christian Theune, Christian Zagrodnick
+                    
+flyingcircus.io — 2016-2021 – Privacy

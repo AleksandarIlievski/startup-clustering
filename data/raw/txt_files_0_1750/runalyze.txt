@@ -1,0 +1,157 @@
+RUNALYZE - Data analysis for athletes
+Features
+Showcase
+Team
+Premium
+Pricing
+Sign in
+Register
+                    Training analysis for                    
+                    RUNALYZE is a manufacturer-independent analysis platform for endurance athletes, that helps athletes to train smarter.                
+Create account for free
+Sign in
+Boost your training analysis
+Effective VO2max
+                VO2max is a scientific metric for the maximal oxygen uptake that is highly correlated with your maximal running performance. RUNALYZE will estimate this value for you.            
+Privacy first
+                Your data is yours! We don't sell any data. All default settings are set to private and you can choose what you want to share.            
+Race prediction
+                Based on your effective VO2max and a unique marathon shape calculation, you will always get an up-to-date prediction for every of your favorite distances from 3k to (ultra-)marathon.            
+Training Load
+                Based on your heart rate, every activity is considered for your overall training load.                This model for human performance enables us to point out your acute and chronic training load.            
+Equipment
+                You can track your equipment in any level of detail. Never forget to replace overstrained running shoes or bicycle parts again.            
+Visual Statistics
+                Trend analysis, boxplots, dynamic histograms, arbitrary summaries and tons of data tables – RUNALYZE tracks and analyzes every bit of your activities.            
+Compatible with
+            See our full list of compatible devices and apps.        
+            Create a free account and start analyzing your activities.        
+                You can also sign up with your Facebook or Google account.            
+Know your condition at any time
+                        RUNALYZE knows your training condition at all times. The calculations will help you to control your training and our running forecasts help you to have a better feeling at the starting line on competition day.                    
+Always keep an eye on your latest activities
+                        Never loose track of your current activities. The calendar view is always showing you the most important parameters of your latest training sessions.                    
+Power Curve
+Heart Rate Curve
+Pace Curve
+Your performance curves
+                        RUNALYZE gives you the possibility to take a look at your last 90 days performance curves. Not only power, but also heart rate and pace.                    
+Compare your performances
+                        With the help of our performance chart you are able to compare all your competition results regarding age grade, effective VO2max or speed.                    
+                        Which is your best discipline and which races have you not been able to fully exploit your potential performance in?                    
+Histogram
+Anova
+Trend Analysis
+Progression graph
+Analyze your complete history
+                        RUNALYZE gives you the possibility to understand your completed training. Dive deep into your data and see how the individual values have changed over time.                    
+Have fun climbing some hills
+                        Climbing a mountain is always special and a tough challenge – not just since riders at the Tour de France show us how to conquer the toughest mountains.                    
+                        RUNALYZE will categorize all climbs in your activities and analyze them, from little hills of the 5th category up to mountains of 'Hors catégorie' (HC).                    
+Calendar
+Circle
+Grid
+Heatmap
+Visualize your activities
+                        Generate posters from your training data – Share them in the social media or print them out and hang them on the wall as a memory of a good training year.                    
+Runalyze Premium
+Best segments
+                By looking at the best distance results, you can examine your fastest times over a variety of distances - whether from a race or a normal (tempo) workout.
+            
+Quality sessions
+                In order to be best prepared for the next competition, runners cannot avoid the necessary tempo training.
+                We offer you a direct look at your key workouts: How did you perform on the paced intervals?
+            
+Moving average mileage
+                Stop looking only at your weekly mileage:
+                Look at your moving average mileage, whether for a year, a month or a week.
+            
+Poster generator
+                Enjoy your all time heatmap with map tiles as background.
+            
+Tiles counter
+                Look at where you've been exercising and try to maximize your visited tiles.
+            
+ 
+Historic HRV values
+                Plot the trend of your activity's hrv values, e.g. rmssd and DFA-alpha1.
+            
+Colored tracks
+                Color your tracks by pace, heart rate, power, altitude, gradient, cadence or stride length.
+            
+Get Runalyze Premium
+Check your fastest times
+                            You don't run official competitions over all distances, and you don't always achieve your actual best performance in competition. And yet you want to know when you were how fast over a certain distance?
+                        
+                            By looking at the best distance results, you can examine your fastest times over a variety of distances - whether from a race or a normal (tempo) workout.
+                        
+Start chasing tiles
+                            Are you bored with the same routes over and over again? Motivate yourself to explore new routes! Our Tiles counter shows you where you've been and how big your network is. Start exploring new routes and areas now and increase your cluster and max square.
+                        
+Create poster for all your activities
+                            As a Premium user, you can create the visualization posters for your complete activities across all years, not just for a single year. So you can create the heatmap of your entire sports history. You can also use maps as background for the heatmap.
+                        
+Find and visualize the longest streaks in your training history.
+                            Streak running, i.e. running (or exercising) every day, can be an additional motivation. Runalyze shows you your longest streaks and visualizes your data as a calendar heatmap.
+                        
+Get Runalyze Premium
+Team
+            RUNALYZE is brought to you from Kaiserslautern and Kiel in Germany. We are all passionate runners and love what we do.        
+            You want to support us? Feel free to drop us a line or become a Runalyze supporter!        
+Hannes
+                Chief Developer
+                Officer/Head of RUNALYZE
+            
+Michael
+                DevOp
+                Officer/Head of RUNALYZE
+            
+Start your analysis now 
+            Create a free account and start analyzing your activities.        
+                You can also sign up with your Facebook or Google account.            
+Questions?
+                        Any questions left? We are there for you.                        Ask your questions in our Forum or Facebook Community.                    
+Need help?
+                        Do you have troubles with your account?
+                        Contact our Support.                    
+RUNALYZE
+English
+Deutsch
+Polski
+Català
+Nederlandse
+Italiano
+Español
+Français
+Norsk
+suomi
+中文 (33％已翻译)
+русский
+Hungarian (50%)
+Česky
+Português
+Português Brasileiro
+Follow us
+Customer Care
+Blog
+Forum
+Community
+Feature Requests
+Documentation
+Help and Support
+Glossary
+Translations
+Status
+API
+Tools
+Effective VO2max
+FIT file viewer
+About
+Pricing
+Features
+Compatible devices
+Changelog
+Legal
+Terms of Service
+Privacy Policy
+Legal notice

@@ -1,0 +1,194 @@
+JoS QUANTUM - Data-centric business intelligence
+		Skip to content
+ 
+ 
+ 
+ 
+Data-centric business intelligence 
+OFFER
+PROJECTS
+TEAM
+CONTACT
+ 
+DATA SCIENCE & ANALYTICS 
+EnvisionWith our business, technical and project management expertise we help defining, planning and executing data strategies, analyze data and business requirements, mitigate risks and automate processes. 
+Integrate & ScaleIntegration of data pipelines, ETL, machine learning, and reporting on preferred cloud solutions. 
+PrototypeDefine objective of data-enabled decision making. Examine what kind of data analysis is applicable (prediction, forecasting, classification). 
+ML OpsDeploy and maintain models for data analysis in production. 
+ 
+OUR SERVICES
+ 
+RESEARCH AS A SERVICE (RaaS) 
+Learn about quantum computingWe offer learning sessions tailored to your needs.  
+Identify use cases in your companyDiscover where quantum computing can be applied from a business and technological perspective. 
+Evaluate use cases for quantum upgradesCould your use cases benefit from upgrades using quantum computers? Find out together with us! 
+Prototypes & proof-of-conceptsPrototyping and evaluation of speedups that can provide competitive advantages and open new markets. 
+ 
+OUR OFFER
+Read about our approach and successfull collaborations 
+ 
+AWS Marketplace
+You can book our professional services via AWS marketplace. 
+ 
+INTELLECTUAL PROPERTY 
+ 
+Monte carlo simulation on todays quantum computers 
+Quantum computers can perform Monte Carlo simulations faster than.We show how phase and amplitude estimation  algorithms can be parallelized. This can reduce the gate depth of the quantum circuits to that of a single Grover operator with a small overhead. 
+ 
+ RESEARCH PAPER
+ 
+TECHNOLOGY ASSESSMENT
+ 
+VIDEO
+ 
+TOOLS & SOFTWARE 
+ 
+Open source framework: "pygrnd" 
+Open source framework to model quantum programs.Provide acces to our proprietary quantum algorithms to evaluate quantum programs. 
+ 
+GITHUB
+ 
+Serviced quantum application environment 
+Fully managed virtual cloud  environment with all relevant frameworks, packages and dependecies. Pre-installed of pygrnd and relevant functions and notebooks.We provide research services through this easy reachable tool.Hardware connections available on demand for benchmark. 
+ 
+LOGIN
+PROJECTS 
+ 
+						A quantum algorithm for the sensitivity analysis of business risks					
+						We present a novel use case for quantum computation: the sensitivity analysis for a risk model used at Deutsche Börse Group. Such an analysis is computationally too expensive to perform on classical computers.					
+ 
+Paper
+PRESS
+ 
+ 
+						Whitepaper: Quantum computing for finance					
+						Whitepaper about quantum computing in finance together with our partners from NTT, SVA and AQT. 					
+ 
+WHITEPAPER
+ 
+						Asset allocation & portfolio optimization					
+						Jupyter notebook that translates the combinatorial optimization into a QUBO which can be solved by adiabatic quantum computing, gate-based algorithms and quantum-inspired algorithms. It shows how to allocate a long-short portfolio that minimizes overall risk based on covariance of assets.					
+LEARN MORE
+ 
+						DZ BANK AG TrendLab					
+						Workshop to explore quantum computing, providing knowledge-transfer and use case identification for various applications in risk management, optimization and machine learning.					
+NOTEBOOK
+ 
+						EnerQuant: Fundamental modelling in energy economics with quantum algorithms					
+						Within this project we develop solutions for models in energy markets that consist of complex optimization problems including stochastic components. Solutions are prototyped and tested on various quantum hardware. The project is funded by the Federal Ministry of Economics and Technology (BMWK).					
+WEBSITE
+WHITEPAPER
+RESEARCH PAPER
+ 
+						QuSAA: Quantum algorithms for strategic asset allocation					
+						Quantum computing for strategic asset allocation. The project investigates application of quantum algorithms to achieve lower fluctuations of investment portfolios  to contribute to the stabilization of companies and thus of the financial system.  The project is funded by the Federal Ministry of Education and Research (BMBF)					
+WEBSITE
+ 
+						ATIQ: Implementation of quantum algorithms for finance and chemistry on ion-trap based quantum computers					
+						The goal of the joint project is to build a reliable demonstrators of Ion trap quantum computers. Our part is to develop algorithms for credit risk modelling and evaluation using Quantum Monte Carlo methods and gain insights for requirements towards quantum advantage.The project is funded by the Federal Ministry of Education and Research (BMBF) 
+WEBSITE
+ 
+Scientific publications 
+ 
+Towards optimization under uncertainty for fundamental models in energy markets using quantum computers 
+ 
+arxiv
+ 
+Error Resilient Quantum Amplitude Estimation from Parallel Quantum Phase Estimation 
+ 
+arxiv
+ 
+A Quantum Algorithm for the Sensitivity Analysis of Business Risks 
+ 
+arxiv
+ 
+An efficient quantum algorithm for finding hidden parabolic subgroups in the general linear group 
+ 
+arxiv
+ 
+Polynomial time quantum algorithms for certain bivariate hidden polynomial problems 
+ 
+arxiv
+ 
+Hidden Symmetry Subgroup Problems
+ 
+ 
+arxiv
+ 
+Quantum Community 
+Creation of a quantum community through meetups, video sessions and workshops to develop a platform for information, ideas, knowledge-transfer and networking. We want to bring together people that are interested in the quantum future. 
+Follow us on: 
+ 
+						linkedin					
+ 
+						twitter					
+ 
+						youtube					
+ 
+						github					
+ 
+						meetup					
+“Providing in-depth expertise, the team of JoS QUANTUM helped us gaining crucial understanding in how quantum technology can help tackle increasing complexity in the financial services industry.” Rory McLaren   (Technology Strategist, Deutsche Börse Group) 
+"The young and creative team of JoS QUANTUM develops quantum computing algorithms for applications in finance, for example in the field of portfolio optimization and risk modelling.”Dr. Mohammad Assadsolimani  (Risk manager, R+V Lebensversicherung AG) 
+"JoS QUANTUM develops cutting-edge quantum computing algorithms for quantitative finance, insurance and energy to accelerate models and enable new ways of data analytics."Dr. Jörg Wenzel  (Head of Department, Fraunhofer Institute for Industrial Mathematics) 
+TEAM 
+ 
+Markus C. Braun 
+Founder & Managing Director 
+ 
+ 
+ 
+markus.c.braun@jos-quantum.de
+Markus founded JoS QUANTUM in 2018. Before that, he worked for Deutsche Bank and as a consultant for various financial institutions. He advised and implemented various quantitative models for fraud detection and risk modelling. Markus studied mathematical physics in Magdeburg, Tokyo and Taipei. 
+ 
+Niklas Hegemann 
+Managing Director 
+ 
+ 
+ 
+niklas.hegemann@jos-quantum.de
+Niklas is managing director of JoS QUANTUM. Before that, he worked as a management consultant in different business and technical areas focusing on software integration and financial services. He was responsible for several big projects mostly in the field of trading and risk management. Niklas worked at the German electron-synchrotron DESY where he used Monte Carlo simulation methods to validate high energy experiments. He received his degree (Dipl.-Phys.) with subsidiary subject  economics in 2011 from University of Hamburg. 
+ 
+Sven Kerstan 
+Head of Research 
+ 
+sven.kerstan@jos-quantum.de
+Sven joined JoS QUANTUM in 2019. He has more than ten years of experience in trading and risk management. Most of that time he spent on the trading floor of a large proprietary trading company where, as Head of Research, he was in charge of all quantitative models and algorithms for trading and built up and managed a team of quants. Before that, he did Part III maths at the University of Cambridge, a PhD in theoretical physics at King’s College, London, and a postdoc at the Center for Theoretical Physics in Groningen. 
+ 
+Thomas Decker 
+Chief Technology Officer 
+ 
+ 
+thomas.decker@jos-quantum.de
+Thomas joined JoS QUANTUM in 2019. Before he worked as a software developer for a high-performance database company where he was responsible for the optimization algorithms. He held postdoctoral research positions at the University of Washington in Seattle, at McGill University in Montreal and at the Centre for Quantum Technologies in Singapore. His research is focused on the design and analysis of quantum algorithms and on quantum information theory. He received his Diplom degree in computer science in 2002 and his Dr.rer.nat. degree with specialization in quantum algorithms in 2006 from the University of Karlsruhe (KIT). 
+PARTNERSHIP 
+ 
+ Previous image
+ Next image
+ACADEMIC PARTNER 
+ 
+ Previous image
+ Next image
+ 
+						Schedule a meeting with us					
+						Below you can easily book an appointment with us for more information					
+ 
+ 
+ 
+Google
+ 
+Linkedin
+ 
+Twitter
+ 
+Github
+ 
+JoS QUANTUM GmbHc/o TechQuartierPlatz der Einheit  60327 Frankfurt am MainGermany 
+imprint
+privacy policy
+ 
+ 
+ 
+ 
+ 
+ 

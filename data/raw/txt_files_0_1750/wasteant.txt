@@ -1,0 +1,120 @@
+Home - WasteAnt
+Our Solutions
+How We do it
+Team
+Partners
+ENG
+DE
+Contact
+We make waste a more valuable resource through AI-based waste quality management
+We are a pioneer company in automated assessment of unstructured waste streams in high volumes: Our technology continuously analyzes and quantifies complex waste streams, enabling impurity detection, value chain traceability, and more efficient plant operations
+With our AI-based solutions we support all types of waste management facilities: Sorting, Recycling, Waste-to-Energy, Sewage sludge, Biomass, and more by making waste streams fully transparent.
+We enable informed decision-making operations that contribute to the optimization of waste processes and efficiency of circular economy.
+Our solutions applied to Waste–to–Energy plants
+24/7 automated waste monitoring 
+of incoming waste materials and exhibit of results in dashboard
+Impurity detection
+Waste quality assessment 
+100% Supplier traceability
+Proactive  process steering
+AI-based material preparation for incineration
+Sorting / homogenization  recommendations
+Real time material selection for maximum incineration efficiency
+Location of WasteAnt sensor boxes
+In a typical Waste–to–Energy plant we can
+decreaseplant operating costs
+Avoid unexpected downtimes through impurity detection
+Less maintenance efforts through impurity detection
+Decrease the required monitoring time of supplier's deliveries by 95%
+Reduction in the use of fossil fuels for incineration and gas cleaning material through AI-supported material homogenization
+increasethe Electricity output
+Incineration closer to optimal efficiency through AI-supported material selection
+Higher waste material throughput due to fewer downtimes
+reduceemissions
+Reduction in the use of fossil fuels  for incineration
+Avoidance of emission peaks through better material homogenization
+                24/7              
+Automatic monitoring of incoming material
+">0 
+Continuous days of operation
+">0 
+Deliveries autonomously characterized
+">0 
+Tonnes of material analyzed and characterized
+How we do it
+Smart sensors and AI-based technology to continuously analyze and quantify waste streams
+Continuous waste material classification and identification concerning
+Quality Analysis
+ AVV Code Validation
+ Impurity Detection 
+24/7 automated waste monitoring
+Flue Gas Forecasts
+Temperature Monitoring 
+Calorific Value Forecast​
+Proactive process steering
+to increase operational efficiency within facilities and optimization of utilization
+Anomaly Detection
+Calorific Value & Flue Gas Forecasts
+Contract Compliance - AVV Identification
+Hot Spot Detection - Thermal Analysis
+The Founding Team
+That's us!
+We got to know each other during our doctoral studies and joint EU and BMBF funded projects. WasteAnt's journey began with the Jacobs Startup Competition 2019, and with the inclusion of Maximilian Storp as a business co-founder at the beginning of 2022, we are now a complete team: international backgrounds, interdisciplinary training, extensive professional experience and the same common vision!
+The Co-Founders
+Dr. Christian Müller
+Managing Director (Tech.)
+12 years in Robotics with focus
+on Computer Vision and 
+Machine Learning
+Product Vision and
+Quality Control 
+Maximilian Storp
+Managing Director (Business)
+6 years in Strategy, Operations and Restructuring consulting 
+with Deloitte
+Business Development,
+Finance, Marketing
+Dr. Szymon Krupinski
+Head of Operations
+15 years in innovation in Oil and Gas industry – software and system engineering
+Engineering and 
+On-sight Operations
+Arturo Gomez Chavez
+Head of R&D
+8 years in Robotics R&D with 
+focus on Cognitive Systems 
+and AI frameworks
+Software Development
+and Research
+Our Story
+Participation in Jacobs Startup Competition 2019 with “PacketAnt” (Top 10 out of 160)
+Winner of the project pitch 2019 competition with the further developed “WasteAnt” concept, organized by swb Kraftwerk city accelerator
+Participation in the Open innovation cycle accelerator program 2020
+Approval of EXIST funding 2021
+Installation of the first prototype in a waste-to-energy plant in autumn 2021
+Official company formation in October 2021
+Business Co-Founder Match in November 2021
+Start of 2nd pilot project with NEEW Ventures in February 2022 
+Pilot project extension with SWB in April 2022
+Part of the first batch of the High-Tech Incubator Oldenburg since August 2022 
+2nd place at Deutscher KI-Startup Preis in September 2022 
+Received pre-seed investment from independent investors in October 2022 
+Our pilot partners
+At swb, we deployed a prototype of the 24/7 automated waste monitoring solution since Q3 2021 and have successfully completed the proof of concept.
+In the next phase, the solution is going to be retrofitted in all delivery gates and the waste bunker. The goal is to enable transparency in the material acceptance process and offer recommendations for waste homogenization.
+At hkw Blumenthal, we use our solution for waste quality analysis on the conveyor belt. On the one hand, downtimes should be reduced through the continuous identification of impurities. On the other hand, an optimized thermal utilization of the waste is aimed at, made possible by the early recording of calorific and emission values.
+In cooperation with NEEW we built a prototype for collecting information about the waste materials at the bunker drop chute before the incineration process.
+The aim is to be able to significantly reduce the fluctuations in the burning and energy output operations based on a better knowledge of the materials quality and type.
+Our supporters
+Want to fully capitalize on your waste streams?
+Book a timeslot to  talk to us 
+Send us an email to: info@wasteant.com
+Give us a call: +49 151 51917270
+Impressum
+WasteAnt GmbH
+Campus Ring 1, 28759 Bremen, DE
+info@wasteant.com
+Geschäftsführer: Dr. Christian A. Müller, Maximilian Storp
+Prokurist: Dr. Szymon Krupinski, Arturo Gomez Chavez
+Amtsgericht Bremen HRB 37409 HB
+Privacy policies

@@ -1,0 +1,361 @@
+Next-generation digital commerce | commercetools
+EN
+                    
+ EN - English
+ DE - Deutsch
+EN
+                                
+ EN - English
+ DE - Deutsch
+Dev Center
+                  
+Training
+                     
+Documentation
+                                    
+Merchant Center
+                     
+Tutorials
+                     
+Support
+                     
+System Status
+                       
+Dev Center
+Careers
+                     
+Offices
+                     
+Jobs
+                               
+Hiring FAQ
+                    
+Employee's Blog
+                           
+Careers
+                                    Start free trial
+                                
+                                            Products
+                                        
+                             
+                                                        Commercetools Portfolio
+                                                    
+Limitless Commerce Possibilities for future growth
+                                                Product Portfolio Overview
+                                            
+                                                Composable Commerce
+                                            
+                                                B2B
+                                            
+                                                B2C
+                                            
+                                                Frontend
+                                            
+                          
+                                                        Technology
+                                                    
+True cloud benefits for the ultimate customer experience
+                                                Overview
+                                            
+                                                Multi-cloud
+                                            
+                                                Security
+                                            
+                                                Multi-tenant
+                                            
+                     
+                                                        MACH® Architecture
+                                                    
+Composable Commerce – Business scale anytime, anywhere
+                                                Overview
+                                            
+                                                Microservices
+                                            
+                                                API Commerce
+                                            
+                                                Cloud-native
+                                            
+                                                Headless Commerce
+                                            
+                         
+Premium Support
+ Premium Support consists of elevated services that provide specialized guidance for commercetools MACH® implementations. 
+                                                                Learn more
+                                                            
+                                            Commerce Possibilities
+                                        
+                      
+                                                        By Role
+                                                    
+                                                For Business
+                                            
+                                                For IT
+                                            
+                                                For eCommerce
+                                            
+                                                For Finance
+                                            
+                         
+                                                        By Business
+                                                    
+                                                For B2C
+                                            
+                                                For B2B
+                                            
+                                                For D2C
+                                            
+                          
+                                                        By Channel
+                                                    
+                                                For Web & Desktop
+                                            
+                                                For Mobile Devices
+                                            
+                                                For Smart Devices / IoT
+                                            
+                                                For Digital Signage / Public Spaces
+                                            
+                                                For Custom Commerce
+                                            
+                    
+Why commercetools
+                                                        Learn all the possibilities of how the commercetools platform can help you grow your business.
+                                                        
+                                                            Learn more
+                                                        
+                                            Customers
+                                        
+                                            Industries
+                                        
+                            
+                                                    Automotive & Transportation
+                                                
+                                                    Fashion & Lifestyle
+                                                
+                                                    Food & Grocery
+                                                
+                                                    Retail
+                                                
+                                                    Telecommunications
+                                                
+                                            Partners
+                                        
+                      
+                                                        Find A Partner
+                                                    
+                                                Overview
+                                            
+                                                Solution Integrators & Agencies
+                                            
+                                                Solution Center
+                                            
+                       
+                                                        Become a Partner
+                                                    
+                                                Partner Possibility Program
+                                            
+                                                Join the Partner Possibility Program
+                                            
+                                                        Infrastructure partners
+                                                    
+                                                Google Cloud
+                                            
+                                                AWS
+                                            
+                                                MongoDB
+                                            
+                     
+Are you already a Partner?
+                                                        For existing Partners, visit our
+                                                        
+                                                            Partner Center
+                                                        
+                                            Resources
+                                        
+                           
+                                                        Resources
+                                                    
+                                                Whitepapers & e-Books
+                                            
+                                                Analyst Reports
+                                            
+                                                Videos & Webinars
+                                            
+                       
+                                                        Blogs
+                                                    
+                                                Business Blog
+                                            
+                                                Tech Blog
+                                            
+                     
+Mach® Alliance
+                                                        The MACH® Alliance presents and advocates for an open and best-of-breed enterprise technology ecosystem.
+                                                        
+                                                            Learn more
+                                                        
+                                            About Us
+                                        
+                    
+                                                        Company
+                                                    
+                                                About Us
+                                            
+                                                Leadership
+                                            
+                                                Responsibility
+                                            
+                                                Offices
+                                            
+                                                Investor Relations
+                                            
+                        
+                                                        Newsroom
+                                                    
+                                                Press Releases
+                                            
+                                                Media Resources
+                                            
+                                                Newsletter Marketing
+                                            
+                         
+                                                        Meet us
+                                                    
+                                                Events
+                                            
+                                                Contact Us
+                                            
+                                Start free trial
+                            
+Build the eCommerce solution of the future. Your way.
+    Read now
+COMMERCE FOR B2B BUSINESS MODELS
+Deliver outstanding commerce experiences for your buyers
+    More
+Break free of monolithic platforms that stifle growth
+    Read now
+COMMERCE FOR ENTERPRISE BRANDS
+Commerce for a connected world
+    More
+Next-generation B2B and B2C commerce
+                                            Fast, flexible freedom:Create amazing customer experiences with modern commerce
+                    
+commercetools is the world’s leading commerce solution built on modern MACH® principles (Microservice-based, API-first, Cloud-native and Headless), allowing you to work with, not around, your commerce solution to tailor experiences to the exact needs of your business and its customers.
+    Learn more about MACH®
+The Modern Commerce Company
+                                                                Making the impossible possible!
+                                                                                    
+You decide how to grow your business. We make it happen.
+                Total Cost of Ownership
+    
+                -0%
+    
+                Average Order Value
+    
+                +0%
+    
+                Site Speed
+    
+                +0%
+    
+                Operating Costs
+    
+                -0%
+    
+Discover our possibilities
+    for IT
+Discover our possibilities
+    for eCommerce
+Discover our possibilities
+    for Business
+Discover our possibilities
+    for Finance
+commercetools: The solution
+                                                                What is possible with commercetools?
+                                                            
+With our API-first commerce, experience unrivaled levels of flexibility by connecting to all frontends and third-party applications.
+                                   
+Headless Commerce
+Liberate your platform with a frontend that is decoupled and connected seamlessly to the backend via APIs.
+Best-of-Breed Commerce
+Free yourself from vendor lock-in by choosing only the third-party services you want and need.
+Composable Commerce
+Use ready-made commerce building blocks to create or supplement your own infrastructure and run them at scale.
+Solutions for all Business Models
+Possibilities for B2B 
+Possibilities for B2C
+Possibilities for D2C
+How to easily migrate in 3 steps
+01 
+Build a migration roadmap
+                                            List important milestones, deliverables and a timeline. There are 3 areas which are the basis for the roadmap: data, business logic and UI/UX.
+                                        
+02 
+Extract, import and verify data
+                                            Our extremely flexible data model allows for real-time updates to its structure. Extract the data you want, and import it into commercetools by calling the appropriate APIs.
+                                        
+03 
+Customize your commerce
+                                            Customize or build your own features and functionality using our easily extensible portfolio to create the exact commerce experience your business wants to give customers.
+                                        
+Initially, we were looking for an eCommerce solution to respond quickly and flexibly to changing customer requirements. We chose commercetools because the platform allows us to extend our microservice-based landscape with eCommerce capabilities. We are convinced that commercetools is a strong partner for our digital strategy.
+Matthes Kohndrow
+Product Owner Digital Business, Audi
+Analyst Reports: commercetools is a Leader
+                                                            Analyst Report
+                            
+                            
+2022 Gartner® Magic Quadrant™ and Critical Capabilities for Digital Commerce
+                                commercetools drives the future of modern commerce, being named a Leader for the 3rd consecutive year in the 2022 Gartner® Magic QuadrantTM and Critical Capabilities for Digital Commerce.
+                            
+                                    Read More
+                                
+                                                            Analyst Report
+                            
+                            
+IDC MarketScape: Headless Digital Commerce
+                                commercetools was named a Leader in headless commerce by IDC MarketScape that stands out through its MACH approach.
+                            
+                                    Read More
+                                
+60-Day Free Trial
+Experience the freedom to develop using the world’s leading enterprise commerce solution
+                                    
+Fully functional for 60 days, one of the longest in the industry
+No credit card required, no strings attached
+Registration is easy and takes seconds to complete
+Receive full access to our portfolio, APIs and all the cloud advantages
+    Start free trial
+Product
+    Composable Commerce
+    MACH Architecture
+    Commerce Platform
+    Why commercetools
+Partners
+    Find a Partner
+    Become a Partner
+    Partner Center
+    Solution Center
+Expert Hub
+    Resources
+    Business Blog
+    Tech Blog
+    Dev Center
+Company
+    About Us
+    Careers
+    Offices
+    Newsletter
+                            Do you have questions?
+                        
+                            Contact us
+                        
+                        Choose your Language:
+					
+EN
+ EN - English
+ DE - Deutsch
+©2023 commercetools GmbH - All rights reserved
+    Privacy Policy
+    Imprint
+     

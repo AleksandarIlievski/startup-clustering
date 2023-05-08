@@ -1,0 +1,46 @@
+Wohnraumkarte™ GmbH - Widget
+Filter einblenden
+Alle Objekte | 
+                Nur Favoriten
+Objektart
+✓Alle
+✓Wohnung
+✓Haus
+✓Grundstück
+✓Büro/Praxis
+✓Einzelhandel
+✓Stellplatz
+✓Kapitalanlage
+OK
+Filter
+✓
+Mieten
+✓
+Kaufen
+✓
+Mieten&Kaufen
+ €
+                -
+                 €
+                
+ m²
+                -
+                 m²
+                
+ Zi.
+                -
+                 Zi.
+                
+OK
+Sortierung
+✓Preis (teuerste zuerst)
+✓Preis (günstigste zuerst)
+✓Zimmer (meisten zuerst)
+✓Zimmer (wenigsten zuerst)
+✓Fläche (größte zuerst)
+✓Fläche (kleinste zuerst)
+✓Aktualität (neueste zuerst)
+✓Aktualität (älteste zuerst)
+✓Entfernung (näheste zuerst)
+OK
+OK

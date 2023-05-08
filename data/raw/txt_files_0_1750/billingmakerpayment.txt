@@ -1,0 +1,70 @@
+Online Zahlungen bequem empfangen
+Toggle navigation
+Funktionen 
+Zahlungsmethoden
+SEPA Lastschrift
+PayPal
+Kreditkarte
+Überweisung
+paydirekt
+SOFORT
+Giropay
+Barzahlen
+Weiteres
+Wiederkehrend
+Mahnverfahren
+Dashboard
+Lastschrift Verifizierung
+Kartenzahlungen
+Extras
+BIC/SWIFT Suche
+Geschäftskonten
+Privatkonten
+Preise
+Integration
+Login
+Online Zahlungen  bequem empfangen.
+Lassen Sie Ihre Kunden via Lastschrift, Barzahlen, paydirekt, Überweisung, Kreditkarte, SOFORT Überweisung, Giropay und PayPal bezahlen.
+Empfangen Sie einmalige, monatliche und jährliche Zahlungen!
+Zahlungen
+                        Ihrer Kunden
+                        übersichtlich verwalten.
+Dashboard mit Buchungsliste und Mahnverfahren!
+Zurück
+Vor
+Buchungen verwalten
+Egal mit welcher Zahlungsart Ihre Kunden bezahlen, die Buchungen können Sie übersichtlich im Dashboard verwalten.
+Integriertes Mahnsystem
+Sollte ein Kunde eine Rückbuchung veranlassen, können Sie diesen automatisch via Mail und Post anmahnen.
+Wiederkehrende Zahlungen
+Empfangen Sie monatliche und jährliche Abozahlungen über PayPal, Kreditkarte und SEPA Lastschrift.
+SEPA Konform
+Wir erstellen die erforderlichen SEPA Mandate und XML Dateien für das Lastschriftverfahren. Optional mit SMS Verifizierung!
+Vorraussetzungen Sie entscheiden, welche Zahlungsmethoden genutzt werden. 
+Für SEPA Lastschriften benötigen Sie eine entsprechende Vereinbarung mit Ihrer Bank. Für Übeweisungen einen Onlinebanking Zugang, für Kreditkarten und PayPal ein Konto bei Braintree, für paydirekt einen Händler-Zugang, für Barzahlen einen Zugang und für SOFORT und Giropay einen Stripe-Zugang.
+Registrierung
+Registrieren Sie sich jetzt in wenigen Schritten bei Billingmaker Payment.
+Eine Integration für mehrere Zahlungsarten
+Alle Buchungen zentral verwalten
+Automatisierte Abläufe, API, Mahnverfahren
+Legen Sie sich Ihren Account in wenigen Schritten an.
+Mit einem Account bei Billingmaker Payment können Sie diverse Zahlungsarten in Ihrem Shop oder auf Ihrer Webseite integrieren.
+Zur Registrierung
+                    YouTube Tutorials
+                
+Besuchen Sie unseren YouTube Kanal mit vielen hilfreichen Tutorials, wie "Erste Schritte", "Anwendungsszenarien" und "Zahlungsmethoden".
+Aufrufen
+                    Android App
+                
+Mit unserer kostenlosen Android App können Sie beispielsweise Ihre Buchungen übersichtlich auf Ihrem Tablet verwalten.
+Aufrufen
+Billingmaker Payment
+Impressum
+Datenschutz | AGB
+Kündigung
+Informationen
+Für Händler
+Für Käufer
+Support
+YouTube
+Kontaktformular

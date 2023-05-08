@@ -1,0 +1,143 @@
+Identity verification: Passbase is a KYC and ID verification solution
+      Solutions    
+              Identity Verification
+             
+              Additional Checks
+             
+              Workflows
+             
+              Liveness Detection
+             
+              AML Compliance
+             
+              Age Verification
+             
+              Identity Auditor
+             Developers     Integration Guide Initial Setup Hosted Integration Web SDKs Mobile SDKs Server DocsResources    
+              Blog
+              Help Center
+              Supported Documents
+             
+              Newsletter
+             Company    
+              Team
+             
+              Press
+              Careers Bug Bounty Program
+              Contact Us
+              Manifesto Pricing    Book Demo  Login 
+    Book demo
+     Login 
+    Sign Up
+      English   English Deutsch All rights reserved © Passbase 2023         
+      Solve identity verification and scale your product
+     
+      Forward-thinking brands use Passbase to securely verify their customers’ identities through ID documents, selfies, and government databases
+     
+    Book demo
+       
+      Keep users safe with automated ID verification
+     
+      Authenticate 6,000+ government issued identity documents from over 190 countries in a matter of seconds on web and mobile
+     
+    Learn more
+     "Passbase has significantly reduced the time and cost of our manual review process as we grow our user base, and it’s invaluable to us to have a partner that so strongly believes in individual privacy and data security" Matthew Hamilton, COO and Co-founder of Linus  
+      Strengthen your KYC
+ with facial recognition
+     
+      Match IDs to faces with top-ranked NIST face comparison technology and prevent spoofing attacks with industry leading liveness detection
+     
+            Active Liveness
+           Make sure a user is physically present during ID verifications 
+    Learn more
+   
+            Facial Comparison
+           Match IDs to faces with industry leading 3D face match technology 
+    Learn more
+    
+    Learn more
+     
+      Stay compliant 
+with additional checks
+     
+      Strengthen your identity verification program with 
+global AML watchlist checks or additional documents required for your industry
+     
+    Learn more
+     "Passbase helped us speed up onboarding and scale effortlessly in times of increased demand" Katharina Jünger, CEO & Co-founder of TeleClinic   
+    Assemble and adjust your ID verification flow with ease
+   Design, deploy, and maintain your verification solution in minutes not months - no matter your requirements. 
+    Learn more
+       Ready to get started? Build an identity verification solution today. 
+    Talk to an expert
+        
+    Security and KYC compliance 
+across all your markets
+   GlobalReach Wherever your customers are, we're ready to help them with support for 15 languages, the ability to publish multiple identity verification flows across different markets and 6000+ ID documents and syndicated databases from over 190 countries. EnterpriseScale With 99.9%+ uptime and high scalability and redundancy, our system is designed to modernise enterprise operations. We process thousands of identity checks daily, while returning results in minutes and helping companies optimise their infrastructure. PlatformSecurity We're committed to exceeding 
+the highest global data security standards. Our team regularly deploy improvements to our platform and work with regulators around the world to ensure our identity verification system adapts to the changing legal, privacy, and security landscape. DedicatedSupport Get premium support from dedicated success and solutions engineering teams whenever you need via email, chat or phone. We're there for you from the design and deployment stages through operations to help solve problems before they arise. Enterprise ready security & compliance posture  GDPR Compliant CCPA Compliant SOC 2 Type 2JavaScriptPythonJavaRuby                        
+                                         
+                                         
+                                         
+                   
+      Explore our powerful and easy to use SDKs
+     We agonize over the right abstractions so your teams don’t need to stitch together disparate systems or spend months integrating identity verification software. 
+    Explore documentation
+     6 client side and 6 server side SDKs Instant data sync via webhooks Intuitive API Explorer
+      ID verification designed for the modern developer’s workflow
+     Use the tools you already love to prototype ideas and launch a production-ready system in minutes, not months. 
+    Explore integrations
+     We decided to go with Passbase for two reasons - because it’s easy to integrate and it allows us to avoid storing personal information.  Steven Othar, Coordinator at Las Vegas PRIDE 
+      Explore helpful resources
+     Our blog is packed with articles and insights to help you stay up to date with all things identity verification 
+    Discover resources
+      Product Introducing Biometric Authentication  Insights The comprehensive guide to KYC  Case study Appjobs partnership with Passbase Case study Las Vegas PRIDE teams up with Passbase Insights Alternative mobility and ID verification Insights Introduction to CIP for US FinTechs Product Introducing Biometric Authentication  Insights The comprehensive guide to KYC  Case study Appjobs partnership with Passbase Case study Las Vegas PRIDE teams up with Passbase Insights Alternative mobility and ID verification Insights Introduction to CIP for US FinTechs Product Introducing Biometric Authentication  Insights The comprehensive guide to KYC  Case study Appjobs partnership with Passbase Case study Las Vegas PRIDE teams up with Passbase Insights Alternative mobility and ID verification Insights Introduction to CIP for US FinTechs Product Introducing Biometric Authentication  Insights The comprehensive guide to KYC  Case study Appjobs partnership with Passbase Case study Las Vegas PRIDE teams up with Passbase Insights Alternative mobility and ID verification Insights Introduction to CIP for US FinTechs Product Introducing Biometric Authentication  Insights The comprehensive guide to KYC  Case study Appjobs partnership with Passbase Case study Las Vegas PRIDE teams up with Passbase Insights Alternative mobility and ID verification Insights Introduction to CIP for US FinTechs Product Introducing Biometric Authentication  Insights The comprehensive guide to KYC  Case study Appjobs partnership with Passbase Case study Las Vegas PRIDE teams up with Passbase Insights Alternative mobility and ID verification Insights Introduction to CIP for US FinTechs Product Introducing Biometric Authentication  Insights The comprehensive guide to KYC  Case study Appjobs partnership with Passbase Case study Las Vegas PRIDE teams up with Passbase Insights Alternative mobility and ID verification Insights Introduction to CIP for US FinTechs Product Introducing Biometric Authentication  Insights The comprehensive guide to KYC  Case study Appjobs partnership with Passbase Case study Las Vegas PRIDE teams up with Passbase Insights Alternative mobility and ID verification Insights Introduction to CIP for US FinTechs      Ready to get started?  
+    Start Free Trial
+     
+    Book Demo
+        Connect 
+            Blog
+          LinkedinTwitter
+            Contact us
+          
+            Live Chat
+          Products 
+            AML Compliance
+          
+            Liveness Detection
+          
+            Identity Verification
+          
+            Additional Checks
+          
+            Workflows
+          
+            Age verification
+          
+            Identity Auditor
+          Support DocumentationHelp Center
+            Book a Demo
+          Status PageCompany 
+            Team
+          Careers
+            Press
+          PrivacyTerms & Conditions      Back to top 
+        Passbase © 2023
+          English   English Deutsch Passbase is an identity verification solution that makes facial recognition, liveness detection, ID verification and KYC and AML compliance accessible through a suite of flexible developer tools. A zero-knowledge architecture ensures that companies using Passbase can securely verify users from over 190 countries without having to store their data. Built for developers, it can be integrated with just a few lines of code on iOS, Android, and Web. All rights reserved © Passbase 2023 Built with love in NYC and Berlin    We value your privacy 
+      Passbase applies tools which may collect information about your visit to our general Website including
+      session cookies to personalise & analyse your interactions with the site.
+     
+      By clicking below, you consent to the use of advanced cookies across the Web. Select show purposes below
+      for more information on how we use them.
+     
+    I Accept
+     Show Purpose Essential Cookies 
+        Session cookies are essential to assuring the full and proper functionality of the Website. As a
+        result, deleting or rejecting them will result in lost functionality and speed during your visit.
+        Toggle essential cookies Advanced cookies 
+        Advanced cookies include the functional cookies which allow us to analyze site usage so we can
+        measure and improve performance, as well as anonymised ad tracking cookies.Ad tracking cookies are
+        anonymous & allow you to allow Passbase to serve you ads relevant to our product, as you visit other
+        websites.
+        Toggle advanced cookies 
+    I Accept
+      

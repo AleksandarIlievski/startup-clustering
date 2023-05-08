@@ -1,0 +1,129 @@
+ 
+      Simplify Microsoft 365 governance - Teams, SharePoint, Power Platform, Azure and more - Rencore    
+Simplify Microsoft 365 governance - Teams, SharePoint, Power Platform, Azure and more - Rencore
+MenuendeAboutAbout UsContact usCareerPartnersCustomersTestimonialsSign in
+GovernanceUse CasesUse CasesDeclutterUnderstand the current state of your services, monitor growth and prevent sprawl.
+Optimize CostsLearn more about the current costs of your services and identify potentials for saving.Manage External AccessIdentify externally shared files as well as external users accessing your services to keep your data safe.
+Visibility into Microsoft 365Full visibility across all Microsoft 365 services is key to informed decisions on security, cost & compliance.
+Microsoft 365 Operational GovernanceAs a Microsoft 365 admin team, you must facilitate users to work efficiently across all services.Microsoft 365 User OffboardingMicrosoft admins must preserve relevant data, remove access and reassign licenses.M365 Tenant-to-tenant migrationThoroughly preparing a M365 tenant is a critical process in any modern-day tenant-to-tenant migration.Reduce the digital footprint of M365Easily identify redundant storage and unnecessary computing capacity and automates processes to reduce energy consumption of your Microsoft cloud.
+Microsoft Defender –
+Strategy & Information Security
+Sign up for free
+FeaturesFeaturesFeature overviewA full overview of Rencore Governance features and how they help you simplify your governance.Deep Service InventoryEffective governance starts with knowing what you have.Clear Reporting & InsightsStay on top of what is happening in your tenant with powerful reports and comprehensive insights.Simple ComplianceMonitor and enforce compliance to your policies throughout your cloud services.Advanced AutomationPut your Microsoft 365 governance on auto-pilot with our flexible automations.
+Microsoft Defender –
+Strategy & Information Security
+Sign up for free
+PricingStart Free TrialResourcesMediaBlogWebinarsWhitepapersSuccess StoriesTestimonialsReportsSupportKnowledge BaseDocumentationDownloadsUserVoiceContact usManage Subscriptionsmy.Rencore
+Microsoft Defender –
+Strategy & Information Security
+Sign up for free
+ProductsProductsRencore GovernanceUnderstand the current state of your platform, monitor its most important aspects, and automate the handling of issues.
+Rencore Code (SPCAF)Analyze and assure SharePoint code quality to eliminate any security, performance, maintainability, and support issues.
+Microsoft 365 Governance made easy!
+Empower your users to reach business goals without friction
+Simplify Microsoft 365 governance
+Flexible, effective Microsoft 365 governance empowers everyone to reach business goals without friction – simplify Microsoft 365 governance with Rencore!
+Find out how
+See the bigger picture
+Cloud collaboration, change management, and rapid platform growth offer new Microsoft 365 governance challenges for IT and stakeholders across the business including:
+A complete understanding of holistic data
+Upholding stringent Security and Compliance standards
+Ensuring fluid collaboration and productivity
+Reducing platform Total Cost of Ownership (TCO)
+There must be a way to gather, assess, and act on data quickly and consistently, making cloud collaboration seamless across your organization.
+Simplify & enjoy
+Our award-winning software helps you establish visibility into what is happening in your Microsoft 365. Once achieved, you will be able to scale time-consuming governance tasks, and simplify lifecycle management, access control, and cost management, maintaining business continuity in a breeze!
+Rencore is a trusted quadruple gold Microsoft partner with a proven track record in simplifying Microsoft 365 governance and over 15 years of experience in the Microsoft space.
+Learn how our customers slash costs, give time back to IT, and reduce cloud collaboration risk.
+Customer success stories
+With one click
+You will
+Succeed
+With one click
+Receive an instant inventory of your Microsoft cloud services.
+Visualize data through dashboards and produce automatic reports.
+Assess insights provided by Rencore -create actionable plans and automate!
+You will
+Secure your organization’s data.
+Benefit from best-in-class customer support throughout your customer journey.
+Have access to a powerful and robust governance tool engineered in Germany.
+Succeed
+Fast and simple data collection.
+Clear reporting and delegation of responsibilities.
+No more time-consuming manual processes and data loss.
+Be efficient. Stay in control. Simplify Microsoft 365 Governance!
+Try for free
+Trusted by the world’s leading organizations
+helping them keep control over their Microsoft 365 environments
+Software
+built in Germany
+Rencore provides high-quality and award-winning software essential for Microsoft 365, Teams, Azure, SharePoint, Power Platform, Exchange, and Yammer.
+Global & Secure
+MS Azure hosting
+Our infrastructure is hosted on Microsoft Azure and passes all built-in automated regulatory compliance checks and security controls (Azure CIS, PCI DSS, SOC TSP, ISO 27001).
+Full SOC 2 Type 2 Accreditation
+Rencore tools and services are fully SOC 2 Type 2 accredited and GDPR compliant. Find out more in our full security overview.
+Get the latest news and Microsoft 365 governance best practices delivered right into your inbox.
+Form loadingIn case the form does not load, please reload the page, temporarily disable your adblocker or reach out to our support team via email.
+Products
+Rencore Governance
+Rencore Code (SPCAF)
+Resources
+Blog
+Webinars
+Whitepapers & Reports
+Success Stories
+Support
+Knowledge Base
+Documentation
+Downloads
+UserVoice
+Contact us
+my.Rencore
+Company
+About Us
+Company culture
+Careers | Join Rencore
+Customers
+Partner
+Events
+ 
+Social
+Contact us at any time
+Contact us
+ 
+ 
+ 
+ 
+Imprint
+Terms of Use
+Terms of Service
+Privacy Policy
+Eula
+ 
+Copyright © 2023 Rencore GmbH. All Rights Reserved
+This website stores cookies on your computer. These cookies are used to improve your website experience and provide more personalized services to you, both on this website and through other media. To find out more about the cookies we use, see our Privacy Policy.
+If you decline, your information won’t be tracked when you visit this website. A single cookie will be used in your browser to remember your preference not to be tracked. 
+Accept   Decline   Cookie Settings
+Manage consent
+Close
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+ 
+Necessary 
+ Necessary 
+Always Enabled 
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+CookieDurationDescriptioncf_use_obpastCloudflare sets this cookie to improve page load times and to disallow any security restrictions based on the visitor's IP address.cookielawinfo-checkbox-advertisement1 yearSet by the GDPR Cookie Consent plugin, this cookie is used to record the user consent for the cookies in the "Advertisement" category .cookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".CookieLawInfoConsent1 yearRecords the default button state of the corresponding category & the status of CCPA. It works only in coordination with the primary cookie.viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.__cfruidsessionCloudflare sets this cookie to identify trusted web traffic.__cf_bm30 minutesThis cookie, set by Cloudflare, is used to support Cloudflare Bot Management.
+Analytics 
+analytics
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+CookieDurationDescriptionai_session30 minutesThis is a unique anonymous session identifier cookie set by Microsoft Application Insights software to gather statistical usage and telemetry data for apps built on the Azure cloud platform.ai_user1 yearA unique user identifier cookie, set by Microsoft Application Insights software, that enables counting of the number of users accessing the application over time.AnalyticsSyncHistory1 monthNo descriptionbrowser_id5 yearsThis cookie is used for identifying the visitor browser on re-visit to the website.CLID1 yearClarity (MS)CONSENT16 years 2 months 24 days 16 hoursYouTube sets this cookie via embedded youtube-videos and registers anonymous statistical data.hubspotutk1 year 24 daysThis cookie is used by HubSpot to keep track of the visitors to the website. This cookie is passed to Hubspot on form submission and used when deduplicating contacts.MicrosoftApplicationsTelemetryDeviceId1 yearMicrosoft sets this cookie to install a unique device ID that is used to track how users behave and interact with the Microsoft application on the device.MS030 minutesThis cookie is set by Microsoft to identify a particular session.MSFPC1 yearThis cookie is set by Microsoft to recognize unique web browsers that visit Microsoft sites. It is used for advertising, site analytics, and other operational purposes.original_req_urlpastNo descriptionRencore AnalyticsneverAnalyticsvisitorId1 yearZoomInfo sets this cookie to identify a user._cfuvidsessionNo description_clck1 yearClarity (MS)_clsk1 dayMicrosoft Clarity - Analytics_ga2 yearsThe _ga cookie, installed by Google Analytics, calculates visitor, session and campaign data and also keeps track of site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognize unique visitors._gat_UA-77273030-11 minuteA variation of the _gat cookie set by Google Analytics and Google Tag Manager to allow website owners to track visitor behaviour and measure site performance. The pattern element in the name contains the unique identity number of the account or website it relates to._ga_Z5LR216TRD2 yearsThis cookie is installed by Google Analytics._gcl_au3 monthsProvided by Google Tag Manager to experiment advertisement efficiency of websites using their services._gid1 dayInstalled by Google Analytics, _gid cookie stores information on how visitors use a website, while also creating an analytics report of the website's performance. Some of the data that are collected include the number of visitors, their source, and the pages they visit anonymously._uetsid1 dayThis cookies are used to collect analytical information about how visitors use the website. This information is used to compile report and improve site.__hssrcsessionThis cookie is set by Hubspot whenever it changes the session cookie. The __hssrc cookie set to 1 indicates that the user has restarted the browser, and if the cookie does not exist, it is assumed to be a new session.__hstc1 year 24 daysThis is the main cookie set by Hubspot, for tracking visitors. It contains the domain, initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session).
+Advertisement 
+advertisement
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+CookieDurationDescriptionANONCHK10 minutesThe ANONCHK cookie, set by Bing, is used to store a user's session ID and also verify the clicks from ads on the Bing search engine. The cookie helps in reporting and personalization as well.bscookie2 yearsThis cookie is a browser ID cookie set by Linked share Buttons and ad tags.fr3 monthsFacebook sets this cookie to show relevant advertisements to users by tracking user behaviour across the web, on sites that have Facebook pixel or Facebook social plugin.IDE1 year 24 daysGoogle DoubleClick IDE cookies are used to store information about how the user uses the website to present them with relevant ads and according to the user profile.li_gc2 yearsNo descriptionli_sugr3 monthsLinkedIn InsightTagmuc_ads2 yearsTwitter set this cookie to collect visitor navigation data to optimise ad relevance.MUID1 year 24 daysBing sets this cookie to recognize unique web browsers visiting Microsoft sites. This cookie is used for advertising, site analytics, and other operations.NID6 monthsNID cookie, set by Google, is used for advertising purposes; to limit the number of times the user sees an ad, to mute unwanted ads, and to measure the effectiveness of ads.personalization_id2 yearsTwitter sets this cookie to integrate and share features for social media and also store information about how the user uses the website, for tracking and targeting.SRM_B1 year 24 daysMicrosoft Bing Adstest_cookie15 minutesThe test_cookie is set by doubleclick.net and is used to determine if the user's browser supports cookies.UserMatchHistory1 monthLinkedin - Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.VISITOR_INFO1_LIVE5 months 27 daysA cookie set by YouTube to measure bandwidth that determines whether the user gets the new or old player interface.YSCsessionYSC cookie is set by Youtube and is used to track the views of embedded videos on Youtube pages.yt-remote-connected-devicesneverYouTube sets this cookie to store the video preferences of the user using embedded YouTube video.yt-remote-device-idneverYouTube sets this cookie to store the video preferences of the user using embedded YouTube video.yt.innertube::nextIdneverThis cookie, set by YouTube, registers a unique ID to store data on what videos from YouTube the user has seen.yt.innertube::requestsneverThis cookie, set by YouTube, registers a unique ID to store data on what videos from YouTube the user has seen._fbp3 monthsThis cookie is set by Facebook to display advertisements when either on Facebook or on a digital platform powered by Facebook advertising, after visiting the website._uetvid1 year 24 daysBing Ads
+Performance 
+performance
+Performance cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Save & Accept

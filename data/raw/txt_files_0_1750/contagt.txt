@@ -1,0 +1,99 @@
+contagt | The smart Indoorguide. Indoor navigation and guides
+Wählen Sie eine Seite
+Mein Konto
+Newsletter
+ 
+Deutsch 
+English
+ hallo@contagt.com 
+								 @contagt 
+								 +49 621 82039965
+Wählen Sie eine Seite
+Download App
+Google Android
+Apple iPhone
+Guides
+Funktionen
+Branchen
+FAQ
+Entwickler
+Über uns
+News
+Jobs
+Presse
+Jetzt anfragen
+ 
+    
+contagt
+NEWS: contagt ist “Barrierefreies Produkt des Jahres”
+Ankommen. Nicht nur am Gebäude.
+Sondern im richtigen Raum.
+Das Gebäudeleitsystem der Zukunft: Simple Navigation wie man sie vom Auto kennt – aber für Innenräume. Mit der contagt-App werden Besucher zuverlässig durch Ihr Gebäude geführt. Heißt für Sie: besserer Service und begeisterte Gäste, die gerne wiederkommen!
+Mehr erfahren
+ 
+Sagen Sie hallo zum smartesten Indoorguide der Welt.
+ 
+Begrüßen Sie Ihre Gäste auf innovative Weise.
+Der Empfang und Hinweisschilder sind die ersten Kontaktpunkte, auf die Besucher in Ihrem Gebäude treffen. contagt sorgt dafür, dass der erste Eindruck stimmt.
+Auf dem contagt-Terminal erhalten Gäste einen interaktiven Überblick über das Gebäude. Durch die QR/NFC-Tags von contagt können sie den digitalen Guide direkt auf dem Smartphone starten. So fasziniert Ihr Gebäude von Anfang an.
+   Anpassbar mit Ihren eigenen Farben, Logo und Bildern
+   Standort einsehen und speichern per simplen Scan
+ 
+Leiten Sie Besucher bis zu ihren Zielen.
+Mit der mobilen contagt-App werden Nutzer “an die Hand genommen”: Sie können im Gebäude über Stockwerke hinweg navigieren und selbständig finden, was sie suchen.
+Die neue contagt-Positionierungstechnologie benötigt hierfür keine teure WiFi-Infrastruktur, sondern lediglich QR/NFC-Tags bzw. Bluetooth-Sender. Eine Integration der Indoor-Navigation in bestehende Apps ist ebenso möglich.
+   Genauigkeit bis zu 1-2 Meter innerhalb von Gebäuden
+   App und Libraries verfügbar für Android und iOS
+ 
+Managen Sie Ihr Gebäude – einfach und effizient.
+Über das Web-Backend haben Sie Ihr Gebäude perfekt im Blick. Per Mausklick können Sie Ihre Daten jederzeit aktualisieren und Auswertungen zum Nutzungsverhalten erhalten. 
+Der Einstieg ist denkbar einfach: Sie schicken uns Ihre Gebäudepläne, wir erstellen hieraus einen Guide. Die Datenhohheit bleibt bei Ihnen – contagt basiert auf offenen Kartenstandards und betreibt die Lösung in deutschen Rechenzentren.
+   Analysen konform mit deutschem Datenschutzrecht
+  Anbindung an vorhandene Systeme via REST API
+ 
+Elegant willkommen heißen: App anstatt
+Empfangsbuch, gedruckten Gebäudeplänen
+und Hinweis-Schildern!
+ 
+Alle Infos griffbereit auf dem Smartphone.
+contagt bündelt alle Indoor-Daten und stellt sie universell zur Verfügung, von Terminals bis hin zu mobilen Apps (Android, iOS). So bleiben Sie und Ihre Gäste jederzeit up-to-date.
+Ihre Gäste und Mitarbeiter werden es lieben.
+contagt begeistert Ihre Besucher und unterstützt Ihre Service-Kräfte bei der täglichen Arbeit. Plus: Das Onboarding neuer Mitarbeiter wird mit Ihrer eigenen App so einfach wie nie!
+ 
+Durch höhere Effizienz bares Geld sparen.
+Die Indoor-Navigation von contagt beschleunigt Prozesse im Gebäude. Keine verlorene Zeit mehr durch Suchen – und kein unnötiger Druckaufwand mehr für Info-Material.
+Das Tool zur kontinuierlichen Verbesserung.
+Lernen Sie aus den gewonnen Daten und erschließen Sie neue Potentiale im Gebäude. Mit contagt erhalten Sie eine sichere Datengrundlage für bessere Entscheidungen.
+ 
+Alle Funktionen ansehen
+ 
+“Wir wollen den Parkhausaufenthalt für unsere Kunden so angenehm wie möglich gestalten. Die Merk- und Leitfunktion von contagt unterstützt dieses Ziel hervorragend.“Markus Olschewski (Kaufmännische Leitung MPB GmbH, Mannheim)“contagt erleichtert die Orientierung an der Universität ungemein. Studenten, Gäste und Zulieferer finden sich in der Fakultät besser zurecht.”Prof. Dr. Heinz Jürgen Müller (Dekan Wirtschaftsinformatik Universität Mannheim)
+ 
+Über uns
+ 
+Ausgezeichnet: Für unsere neuartige Navigations-Technologie haben wir gleich mehrere Innovationspreise gewonnen. Außerdem sind wir Alumni des EXIST-Stipendiums, das Gründungen aus der Wissenschaft fördert. Unser Motto: Komplexe Technik einfach verpacken – und Nutzer zum Staunen bringen.
+ 
+Mehr über uns
+ 
+Informieren Sie sich noch heute!
+Mehr Infos anfordernBeispiel-Guides ansehen
+ 
+ Kontakt
+   contagt GmbH 
+   Langstraße 83
+    68169 Mannheim 
+   +49 621 82039965
+   hallo@contagt.com
+ 
+Social Links Facebook
+Twitter
+Google+
+RSS Feed
+ 
+Download App 
+ 
+Newsletter 
+ 
+©2023 contagt | Impressum | Datenschutz
+Made in Monnem
+contagt.com benutzt Cookies, um ein möglichst optimales Benutzererlebnis zu gewährleisten.  Jetzt Datenschutzinformationen lesenIch habe verstanden

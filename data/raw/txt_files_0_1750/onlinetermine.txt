@@ -1,0 +1,101 @@
+bookingtime - Appointments simply managed
+Toggle navigation
+bookingtime
+Business
+Enterprise
+Support
+myplus
+Login
+myplus
+Appointmentssimply managed
+Software for all services - connecting you with your customers. Start now!
+Scroll Down
+Free
+Business
+Free to the self-employed and small businesses* with fewer than 250 employees and less than 50 branches. Unrestricted functionality with a very reasonable support offer.
+Free - Reliable - Fast
+More information
+* Does not apply to franchise businesses, corporate structures or organisations that maintain a unitary corporate  identity (CI).
+Enterprise
+The tried and tested solution for larger businesses and corporations with subsidiaries in Germany and abroad. Individual concepts and consulting services for system integration with 1st and 2nd level Support.
+API solutions - Scalability - Security
+More information
+Sales increase
+Reach a higher appointment utilisation and increase your sales with more flexibility and efficiency.
+24/7 availability
+We enable your customers to book appointments around the clock – even outside opening hours.
+Real time booking
+Appointments are booked in real time and the required resources are immediately blocked. Double bookings are thus avoided.
+Features
+This is an overview of the main features offered on the bookingtime platform. Real-time bookings, appointment availability and much more.
+Real-time booking
+bookingtime works in real-time. It allows you to immediately see availability of all appointments. This means, from the second an appointment is booked, the slot is no longer available.
+This also applies to all listed resources, which are no longer available for the selected period. It eliminates the possibility of double bookings of an appointment or a resource. You and your customers will have the assurance that the booked appointment is confirmed and will actually take place. Follow ups for confirmations are not required, which saves (your) time. Of course appointments can also be moved or cancelled in the event of unexpected eventualities.
+E-mail / text message* reminders
+From time to time, if an appointment is not directly noted, it can easily be forgotten. This can be annoying, especially for you as the service provider.
+Our notification service can avoid such nuisances. You have the option to set up automatic reminders via e-mail and/or text messages* for your customers. It reduces the no-show rate and thus increases your planning reliability.* 10 ct. per text message
+Notifications on client activity
+bookingtime will inform you about your customers’ activities. Once an appointment has been booked, moved or canceled, you will receive a notification via text message* and/or email.
+If requested, the employee listed for this appointment can be notified as well. It assures you to always stay informed about your appointments and react to changes, as they occur.* 10 ct. per text message
+Daily and weekly calendar
+Every appointment booking software requires a calendar. We have different calendar viewing options. You can choose between a detailed daily schedule and a neatly arranged weekly calendar.
+Both are highly customisable to meet your specific needs. Choose which appointment types and resources should be displayed and share this configuration. Every employee can receive a personalised calendar.
+Individual appointments and courses
+You need individual appointments, courses with several participants or other recurring group events? No problem. Our course booking option enables you to make appointments with several participants.
+You can define the number of participants for each course.
+Personal microsite
+We want you to be able to use bookingtime even if you don’t have your own website. Therefore, we provide you with a personal microsite. The microsite holds essential information about your business and  enables your customers to book appointments with you.
+Easily integrated client booking module
+You already have a website and would like to offer your customers the possibility to book appointments online? Our client booking module can easily be integrated in your current website and is already optimised for mobile devices.
+Complete customer management
+Create customers, edit and manage contact details, send birthday greetings and take a look at past and future appointments of individual customers. You can access all data it in the customer administration panel.
+Calendar Sync
+We want you to know about the upcoming appointments – anywhere at anytime. Therefore, you can synchronise your usual calendar (e.g. iCal, Outlook, Google Calendar etc.) with bookingtime and look at your appointments on any smartphone or tablet.
+Our system will automatically transmit every event to the registred calendar at regular intervals. You don’t even have to log in to bookingtime to see them.
+Staff management
+Manage your employees with bookingtime. Enter individual working hours, contact information for notifications and enter absent days and leave.
+Guest booking / registration
+You can decide whether your customers need to register once or are able to book appointments as a guest. Registered customers have the added benefit of easily being able to book, move or cancel their appointments within their bookingtime account.
+Furthermore, you will be able to specify mandatory fields for completion of the registry, e.g. telephone numbers or email addresses.
+Availability of Appointments
+Some of your appointments are only offered at certain times or they are unique events? That’s no problem for bookingtime.
+Simply arrange your appointment types and availabilities to set-up the desired times. Flexible for the whole year.
+Customisable texts
+To tailor bookingtime even more to your needs, you can customise the content of the emails/SMS your customers will receive – adding a personal note.
+There are a myriad of placeholders serving this purpose, e.g. the date of the appointment or addressing your customer in a gender specific form. The placeholders will be replaced automatically by the actual data.
+Log
+Each branch at bookingtime has its own system log. All changes, promotions, postings etc. that occur are registred in real time.
+The log can be viewed by the admin or your staff, depending on the user permissions they have. Look up when and by whom changes were made.
+Standard access permissions
+Employees often require different levels of access permissions, depending on their level of authority and position within the company.
+Employees can be assigned to pre-defined staff groups e.g. – managerial, operations or admin. This way, mapping your corporate structure is simple, straightforward and convenient especially for larger companies with a high number of employees. For example, you can provide the "branch manager" with more rights than the group "employees with restricted access".
+Individual access permissions
+You want more control over each employee’s access permissions? The staff permission management panel allows you to define each employee’s permissions individually.
+This is the solution, if the predefined user groups are not sufficient for your needs.
+Resource optimisation
+It is our most important tool for complex events, where additional resources or equipment is required. For example: 
+Your patient requires a specialised scan which can only be conducted in a dedicated and specially equipped room with specific equipment and suitably trained personnel. You can book the required resource (venue, personnel, equipment) for the application and time needed. The resource optimisation management tool is now working its magic and allows the equipment to be used by other parties at the times it isn’t is use. This ensures maximum optimisation and utilisation of the resources at all times.
+10 years of experience
+With more than 10 years of experience as online scheduling and appointment booking service, bookingtime is your expert for the most complex of requirements.
+Business
+The right choice for most service providers with simple appointments or complex types of events with resource optimisation.
+Business
+Enterprise
+Looking for an individual solution for your business? We connect complex organisational structures and large corporations.
+Enterprise
+Solutions
+Business
+Enterprise
+For Service Providers
+Login
+Support
+FAQ
+Contact
+Follow us
+Copyright © 2006-2023 bookingtime - All rights reserved.
+Imprint
+Privacy Policy
+Jobs
+FAQ
+Contact
+Jobs

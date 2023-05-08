@@ -1,0 +1,81 @@
+CAMPR | Professional Project Management
+ 
+CAMPR
+Basic concepts            
+                        
+16 modules            
+                        
+Book a tour            
+                        
+DOCS
+Guide            
+                        
+Tutorials vimeo            
+                        
+RESOURCES
+GitHub            
+                        
+Roadmap            
+                        
+Docker            
+                        
+Newsletter            
+                        
+ABOUT US
+Who we are            
+                        
+Feedback            
+                        
+REGISTER
+en
+SIGN IN
+ 
+Choose website language
+            Deutsch            
+            English            
+English is the main website language.
+    OPEN SOURCE PROJECT MANAGEMENTCAMPR is the Open Source enterprise Project Management tool for projects of any size. With 16 activatable modules you can adapt the tool to your needs.CAMPR is lean, intuitively designed and offers everything from project initiation trough close out and allows you collaborate successfully with other project members following established industry standards.
+  Open Source. Free. Full functionality.    
+    Christoph, Developer CAMPR  
+    THE POWER YOU NEEDCAMPR is organized by Workspaces. This central element allows you to organize your multi-project environment by grouping certain projects into workspaces. You can invite project members to join your workspaces and collaborate with them on certain projects only. That way makes it simple for you to structure your projects for clients, scope and participants.You can also create workspaces for your own projects and be a member of other workspaces using only one user account.Follow CAMPRs One-Stop-Concept: One user account, one login, one personal workspace dashboard.
+    FULL PROJECT LIFECYCLECreate visual organigrams with dedicated roles, responsibilities and relationships between all project participants, define distribution lists for reports and meetings and plan your project timeline, including phases, milestones and work packages.Work packages can be grouped in a phase according to project sequences. Particularly important events in the project progress are defined and terminated as milestones.Risk management has a significant influence on your project success. The module “Risks & Opportunities” makes it simple for you to track possible outcomes and allows you to act accordingly.
+Server
+Server status Frontend.
+Server status Backend. 
+Sources
+GitHub
+Tutorials on vimeo
+Roadmap 
+Contact
+CAMPR-PM SRL
+Strada Timisoara nr. 31
+550130 Sibiu, Romania
+contact
+newsletter
+twitter
+Mastodon
+ko-fi 
+Legal
+Imprint
+Privacy 
+ 
+CAMPR
+Basic concepts
+16 modules
+Book a tour
+DOCS
+Guide
+Tutorials vimeo
+RESOURCES
+GitHub
+Roadmap
+Docker
+Newsletter
+ABOUT US
+Who we are
+Feedback
+              REGISTER            
+SIGN IN
+      Deutsch      
+      English      
+    © CAMPR    

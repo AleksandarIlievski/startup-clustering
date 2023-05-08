@@ -1,0 +1,146 @@
+Live, Historical and On-demand Market Data Feed and API
+BusinessIndividuals
+Order Data
+Buy Data
+            EN
+          
+English
+German
+Turkish
+Data
+Market DataEquities & ETFsFuturesOptionsIndicesFixed incomeForexCryptocurrenciesSpotReference DataGlobal FundamentalsCorporate ActionsTrading schedulesData AnalyticsOptions AnalyticsGreeks and Implied VolatilityMarket IndicatorsCoverageUnited StatesEuropean UnionTurkeyAPACBrazilGlobalData ServicesReal-time and Delayed Data ServiceHistorical Data ServicesMarket ReplayAggregated Data ServicesORCS: Multidimensional Aggregation ServiceNews
+Symbol LookupSolutions
+Index Management SolutionsIceberg Detection SolutionBlockchain Oracle SolutionsSEC Rule 6c-11 Solution for ETF VendorsMachine LearningVirtual and Augmented RealityChainlink NodeMiFID II
+Applications
+Market SearchdxFeed RadardxFeed Options ScannerdxFeed Unusual Options ScreenerdxFeed Alert ServicedxScriptVisualizationdxFeed WidgetsInforiderdxFeed ViewerPlatformsDXfinadxFeed ATASdxFeed BookmapdxFeed HeldenTraderdxFeed OriondxFeed TensorChartsdxFeed QuantowerdxFeed Optimus FlowdxFeed NinjaTraderdxFeed MotiveWave
+Research
+LabLimit Order Book AnalysisIceberg DetectionPublicationsResearch Articles
+Downloads
+APIJava APIC and .NET APIsJavaScript and REST APIsPython and R APIsFIX APIResourcesKnowledge BaseChange NoticesDemo
+Company
+AboutTrust CenterdxFeed NewsConnectivityArticlesCareersImprintPress Kit
+SupportContact usOrder Data
+DataPlatforms
+DXfinadxFeed ATASdxFeed BookmapdxFeed HeldenTraderdxFeed OriondxFeed TensorChartsdxFeed QuantowerdxFeed Optimus FlowdxFeed MotiveWavedxFeed NinjaTrader
+Symbol LookupCompany
+About dxFeedTrust CenterConnectivityCareersdxFeed NewsImprintPress Kit
+SupportOrder Data
+Next Generation Market Data Solutions
+          For online brokerages, exchangers, benchmarking agencies, prop traders, financial websites and startups
+        
+          Consolidated Data Feed        
+          Explore Other Solutions        
+Beyond Market Data 
+			On top of basic services we offer a portfolio of versatile analytical services, custom solutions, cloud services, data management and index management solutions.        
+ 
+				Historical Tick Data: Extraction and Time-Machine Market Replay            
+			A "YouTube for the market". The fully scalable solution utilizes the power of cloud computing and brings virtually unlimited capacity and scalability for tick data storage, access and replay across all asset classes: options, equities, futures, indices, FX and custom data sets. Delivered directly to the end-client from our cloud, no extra infrastructure required.			        
+                Learn More            
+ 
+				Reference data, Fundamentals, Corporate Actions            
+			Global Fundamentals and Corporate Actions data, provided via carefully engineered APIs which simplify integration and allow to query the global company fundamentals easily.			        
+                Learn More            
+ 
+				Index Construction and Management Solutions            
+			Full index management lifecycle automation technology. An easy way for documenting algorithms and methods used together with analytical expressions and code eliminating the need for separate documentation storage and management. Workflow automation and visual structuring. Data flow design and automation. Backtesting and analytics. Custom solutions and on-demand index construction.			        
+                Learn More            
+ 
+				Options Analytics, Option Pricing and other Calculated Data Services            
+			Our options analytics engine provides the model-free arb-free theoretical option prices calculation based on real-time or historical data as well as pluggable-model calculations. Pricing data may be delivered along with a real-time data feed or calculated en masse based on the historical onDemand data store tick-level and aggregated data.			        
+                Learn More            
+ 
+				Machine Learning            
+			Our market clustering tool uses machine learning techniques and statistical models using true performance of each security to create a real-time map of the market, providing true vision for investors and portfolio managers. It helps to uncover the financial nature of each security and its behavior and its place in the always shifting market structure.			        
+                Learn More            
+ 
+				VR/AR            
+			dxFeed holographic solutions bring together the expertise and state-of-the-art technology from the developers of one of the best options platforms for options traders in the USA and more than 10 years’ experience of our fellow traders and analysts.			                
+                Learn More            
+Awards & Recognitions 
+			Our leadership has been recognized by many prestigious awards        
+Colocation and Connectivity 
+ 
+				Carefully planned coverage and reach            
+			Our choice of colocation data centers was carefully made to enable our clients to rationalize their infrastructure, decrease their technology spending and be connected to a broad community of market participants including exchanges, execution brokers, buy- sides and other technology service providers.			        
+                Learn More            
+Chicago
+US, CST
+New York
+US, EST
+Zurich
+SWISS, CET
+Frankfurt
+GER, CET
+London
+UK, GMT
+Istanbul
+TUR, TRT
+Market Data Analytics Tools 
+			Dynamics of depth of market and the evolution of the order book.        
+ 
+				dxFeed Market Scanner            
+			A comprehensive technical and fundamental analysis tool that screens the whole market data universe. Utilizing tick-level resolution, dxFeed Market Scanner provides real-time trading signals. This powerful tool enables companies to instantly add new unique features to their trading or analysis software.			        
+                Learn More            
+ 
+				dxFeed Bookmap            
+			An innovative data visualization platform offering an advanced interface to monitor the dynamics of Depth of Market (DOM) and the evolution of the order book. This powerful tool provides its users a clear and transparent view of the market, empowering them to make better decisions with new information. At the core of this tool is the Order-Book Heat-Map.			        
+                Learn More            
+Analytical Terminals 
+			Visual data analytics for desktop, web, mobile and VR/AR.        
+Inforiderdxfeed viewervr/ar
+	                    Inforider                    
+                    Designed to be essentially easy to use, elegant and effective, the Inforider platform is modular, providing a number of widgets that could be organized in workspaces, providing an efficient multi-monitor display of market ...                
+                        Learn More                    
+	                    dxViewer                    
+                    dxFeed Viewer is a simple yet powerful application allowing to view all the main streaming classes of data coming from dxFeed or via the QDS market distribution infrastructure: Quote (bid/ask), Trade (last sale), Summary ...                
+                        Learn More                    
+	                    dxFeed VR/AR                    
+                    dxFeed Holographic Solution represents market data visualization and analysis in Augmented Reality. It delivers a new interactive user interface supported by a natural navigation and a VR/AR team collaboration.                
+                        Learn More                    
+Need Assistance? 
+			Please feel free to contact us.        
+                  Contact us                
+          Data Coverage
+        
+              DATA            
+Market data
+Reference data
+Data analytics
+Coverage
+Data services
+                SOLUTIONS              
+Index Management
+Iceberg Detection Solution
+Blockchain Oracle Solutions
+SEC Rule 6c-11 Solution for ETF Vendors
+Machine Learning
+Virtual and Augmented Reality
+Chainlink Node
+MiFID II
+                APPLICATIONS              
+dxFeed Widgets
+dxFeed Radar
+dxFeed Options Scanner
+dxFeed Unusual Options Screener
+dxFeed Alert Service
+Inforider
+dxFeed Viewer
+                COMPANY              
+About dxFeed
+Connectivity
+dxFeed News
+Imprint
+Contact us
+            NEWSLETTER          
+Your email
+              Receive the most recent news, cases, offers and product announcements from dxFeed. I give my consent to Devexperts Inc. to send me newsletters in accordance with the terms and conditions set on the Privacy Policy.            
+            FOLLOW US          
+            MEMBERSHIP          
+Disclaimer
+Terms of Use
+3rd Party Terms
+dxfeed.com Privacy Policy
+Cookie Settings
+            Copyright © 2009-2023 Devexperts Inc. DevexpertsTM, dxFeedTM. All rights reserved.Devexperts LLC and Devexperts Inc. are software companies that provide software products and services. Hence, Devexperts LLC and Devexperts Inc. do not provide any investment or brokerage services.          
+    sheehaf@dxfeed.com blueprint32003@dxfeed.com
+  

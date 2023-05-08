@@ -1,0 +1,246 @@
+Übersicht Software Pflege und Behandlung
+Skip to the main content.
+                      careIT
+                    
+                      Übersicht
+                    
+                      KHZG
+                    
+                      Stakeholder
+                    
+                      Funktionalitäten
+                    
+                      Aktuelles
+                    
+                      Unternehmen
+                    
+                      Karriere
+                    
+                      Kontakt
+                    
+                      Impressum
+                    
+                      Datenschutz
+                    
+Search
+Search
+Toggle Menu
+Search
+Search
+Toggle Menu
+        careIT
+        
+        
+Toggle Menu
+        Übersicht
+        
+      
+        KHZG
+        
+      
+        Stakeholder
+        
+      
+        Funktionalitäten
+        
+      
+        Aktuelles
+        
+      
+        Unternehmen
+        
+        
+Toggle Menu
+        Karriere
+        
+      
+        Kontakt
+        
+      
+        Impressum
+        
+      
+        Datenschutz
+        
+      
+careIT ist die smarteste, intuitivste Pflege- und Behandlungssoftware.   
+Automatisiert., Zeitsparend., Entlastend. 
+careIT bietet KI-gesteuerte Entscheidungsunterstützung.
+We care for care!
+Wir verstehen die Versorgung eines Patienten als Teamarbeit und möchten diese durch unsere Leistungen täglich fördern. Uns ist es wichtig, die Arbeit aller Beteiligten so einfach wie möglich zu gestalten, dennoch die Genauigkeit und Detailtiefe der Informationen zu bewahren.
+Aus unserer klinischen Erfahrung wissen wir, dass bis zu 60 % der Arbeitszeit für Dokumentationsarbeiten verwendet wird, die dann für die Versorgung am Patienten fehlt. Dennoch ist die Dokumentation sehr häufig unvollständig. Unser Ziel ist es, diese Tendenz zu ändern.
+careIT ist der neue Weg für die Planung, Übersicht und Dokumentation in der Pflege und der Behandlung.
+careIT bietet Vorteile für:
+                Pflegefachkräfte
+                
+                Ärzte
+                
+                Management
+                
+                IT
+                
+ 
+careIT vereinfacht die Arbeit von Pflegenden und Therapeuten
+Wir haben eine moderne, intuitive Expertensoftware geschaffen, die nicht nur beim täglichen Pflegeprozess und der Pflegedokumentation mittels KI und Prädiktion unterstützt, sondern auch Routineaufgaben automatisch und selbstständig übernehmen kann. careIT ist mobil und kann in allen Pflegesettings und -sektoren interoperabel genutzt werden.
+ 
+careIT ist interdisziplinär 
+Mit careIT können Ärzte sich jederzeit zu ihren Patienten informieren und mobil am Point-of-Care dokumentieren. Unsere digitale Patientenkurve samt Medikation ist der interdisziplinäre Informationspunkt von careIT und unterstützt die Ärzte durch eine intuitive Behandlungsdokumentation.
+ 
+careIT generiert automatisch Erlöse
+Aus Sicht des Managements sorgt die automatisierte, KI-gesteuerte Pflege- und Behandlungsdokumentation für eine Erhöhung der Patientensicherheit, Mitarbeiterzufriedenheit und Pflegequalität. Viele neue Prozesskennzahlen ermöglichen eine bessere Versorgungssteuerung. Die automatische Ableitung abrechnungsrelevanter Daten unterstützt die Erlössicherung.
+ 
+careIT ist höchst interoperabel
+careIT ist höchst interoperabel und arbeitet über moderne Schnittstellen (HL7 FHIR) mit anderen Softwaresystemen zusammen. Auf dieser Grundlage fällt die Integration von careIT in eine bereits bestehende Infrastruktur besonders leicht und für die IT sind keine extra Aufwände bei der Einführung notwendig.
+Förderfähig gemäß KHZG
+Unsere Pflege- und Behandlungssoftware careIT Pro erfüllt alle Kriterien der Fördertatbestände 3, 4 und 5 und ist damit durch das KHZG förderfähig.
+Wir informieren Sie gern. Nutzen Sie den direkten Kontakt zu unseren KHZG-Experten: khzg@nursit.institute
+Was ist careIT 
+Light?, Pro?, One?
+careIT ist die professionelle Ergänzung Ihres KIS-Systems um eine professionelle, interoperable Pflege- und Behandlungsdokumention. 
+careIT ist in drei Ausbaustufen erhältlich.
+Was ist careIT?
+careIT ist die professionelle Ergänzung Ihres KIS-Systems um eine professionelle, interoperable Pflege- und Behandlungsdokumention. 
+careIT ist in drei Ausbaustufen erhältlich.
+Basis Version
+careIT Light
+Im Paket enthalten:
+Patienten-Dashboard (ohne grafische Eingabe von Zu-, Ableitungen, und Wunden) 
+Anamnese (anpassbar) 
+Assessment (SeMPA) ohne Maßnahmen 
+Automatische Datenanalyse und -bewertung (ohne Trigger für Info an Sozialdienst und Pflegespezialisten) 
+Pflegeakte 
+Benutzerverwaltung 
+Schnittstellen 
+Reporting
+ 
+Pro Version
+careIT Pro
+Im Paket enthalten: 
+Patienten-Dashboard 
+Anamnese (anpassbar)
+Assessment (SeMPA)
+Automatische Datenanalyse und -bewertung
+Pflegeplanung
+Evaluation und Re-Assessment
+Wunddokumentation
+Pflegeakte
+Bettenübersicht
+Pflegeplan
+Abrechnungskennzahlen
+Benutzerverwaltung
+Schnittstellen
+Reporting
+CareIntelligence careIN
+Onlineportal für eLearning der careIT-Funktionen
+Pro Version + e-Kurve
+careIT One
+Im Paket enthalten: 
+Patienten-Dashboard 
+Anamnese (anpassbar)
+Assessment (SeMPA)
+Automatische Datenanalyse & -bewertung
+Pflegeplanung
+Evaluation und Re-Assessment
+Wunddokumentation
+Pflegeakte
+Bettenübersicht
+Pflegeplan
+Abrechnungskennzahlen
+Benutzerverwaltung
+Schnittstellen
+Reporting
+CareIntelligence careIN
+Onlineportal für eLearning der careIT-Funktionen
+digitale, mobile Patientenkurve
+Basis Version
+careIT Light
+Im Paket enthalten:
+Patienten-Dashboard (ohne grafische Eingabe von Zu-, Ableitungen, und Wunden) 
+Anamnese (anpassbar) 
+Assessment (SeMPA) ohne Maßnahmen 
+Automatische Datenanalyse und -bewertung (ohne Trigger für Info an Sozialdienst und Pflegespezialisten) 
+Pflegeakte 
+Benutzerverwaltung 
+Schnittstellen 
+Reporting
+ 
+Pro Version
+careIT Pro
+Im Paket enthalten: 
+alle Leistungen aus careIT Light mit vollem Funktionsumfang 
+Pflegeplanung
+Evaluation und Re-Assessment
+Wunddokumentation
+Bettenübersicht
+Pflegeplan
+Abrechnungskennzahlen
+CareIntelligence careIN
+Onlineportal für eLearning der careIT-Funktionen
+Pro Version + e-Kurve
+careIT One
+Im Paket enthalten: 
+alle Leistungen aus careIT Pro  
+digitale, mobile Patientenkurve
+Unser Dokumentationsprozess
+Anamnese & Assessment
+Mit careIT Pro können Sie die integrierte, interdisziplinäre Pflegeanamnese nutzen oder auch individuelle Anamnesen einfügen. Sie bildet eine der Datengrundlagen für den Anstoß des automatisierten Pflegeprozesses.
+Anamnese schon von Zuhause
+Die Anamnese im careIT kann bereits im häuslichen Umfeld erstellt und dann auf der Station für die Versorgung zur Verfügung gestellt werden.
+Nur noch ein digitales Assessment
+SeMPA – ist das Selbstversorgungs-Meta-Pflegeassessment für eine ganzheitliche und systematische Einschätzung pflegerelevanter Zustände und Phänomene. SeMPA wurde auf Basis der neuesten digitalen Möglichkeiten, intelligenten Algorithmen, künstlicher Intelligenz und Prädiktion entwickelt.
+SeMPA bietet den Anwendern automatisch die richtigen Kriterien zur Einschätzung der Patienten bzw. Bewohner sowie für die anschließenden Pflegeprozesse. Mit SeMPA wird nur noch ein digitales Assessment für alle pflegerischen Settings benötigt, was den Dokumentationsaufwand für Pflegefachleute um zwei Drittel reduziert und eine Grundlage für pflegerische Entscheidungen bietet.
+SeMPA kann nach Bedarf erweitert werden und zeigt nicht nur pflegerelevante Risiken und deren Scoringwerte auf, sondern erzeugt auch automatisch einen post-akuten Versorgungsbedarf, einen eventuellen Pflegegrad und etwaige Abrechnungskennzahlen.
+SeMPA verschafft den Fachleuten somit ein ganzheitliches Bild zu den pflegerischen Aufwänden und Belastungsfaktoren der Versorgung. Zudem erkennt SeMPA mögliche Phänomene, die gegebenenfalls einer tieferen Pflegediagnostik bedürfen und bietet hierfür weitere Fokus-Assessments an.
+Andere Kataloge integrieren und umsetzen
+Da wir mit careIT auf die Anforderungen aller Pflegesettings eingehen wollen, können in careIT auch andere Kataloge integriert und genutzt werden, wie z.B. EPAcc, LEP, BASS, Nanda, Nic, Noc, POP oder Omaha.Bestehende Kataloge können um eigene Pflegemaßnahmen ergänzt werden, wenn diese umfassend und nicht nur im Einzelfall Anwendung finden sollen. So könnten neue Behandlungsmethoden einrichtungsweit eingesetzt und erprobt werden.
+Pflegediagnosen & -risiken
+Automatische Pflegediagnosen und Maßnahmenvorschläge
+Entdecken Sie die neue Generation der Pflegedokumentation mit careIT! Dank unserer innovativen Technologien werden Pflegediagnosen automatisch aus den erfassten Informationen abgeleitet - und das mit höchster Genauigkeit. Selbstverständlich können Sie die Pflegediagnosen jederzeit manuell ergänzen oder entfernen. Mit dem kostenfrei mitgelieferten Pflegekatalogen (SeMPA, carMA) oder anderen Pflegeklassifikationen, haben Sie dabei stets die volle Flexibilität. Der integrierte Maßnahmenkatalog carMA schlägt automatisch die passenden Pflegeinterventionen samt Durchführungszeiten vor, um Ihnen wertvolle Zeit zu sparen. Zusätzlich können Sie Standards für wiederkehrende Pflegesituationen und/oder Krankheitsbilder erstellen und somit Ihre Arbeit noch weiter erleichtern. Verabschieden Sie sich von zeitaufwendigen manuellen Prozessen und steigen Sie auf careIT um!
+Umfassende Risikobewertung in Sekunden
+Entdecken Sie jetzt unser einzigartiges, KI-basiertes Meta-Pflegeassessment SeMPA! In nur wenigen Sekunden liefert Ihnen careIT eine umfassende Bewertung der Selbstversorgungsfähigkeiten und pflegerelevanten Risiken Ihres Patienten. Dabei werden auch spezielle Focus-Assessments separat berücksichtigt. Doch damit nicht genug - careIT extrahiert nicht nur medizinisch-pflegerische Kennzahlen, sondern auch abrechnungsrelevante Kennzahlen wie ICD-10 und OPS-Codes. So sparen Sie Zeit und Ressourcen und können sich voll und ganz auf die Pflege Ihrer Patienten konzentrieren. Erleben Sie jetzt die Zukunft der Pflegedokumentation und -planung mit careIT und SeMPA!
+Pflegeplan & Durchführungsdokumentation
+Mit unserer benutzerfreundlichen Software können Sie aus Ihrer abgeschlossenen Planung automatisch einen übersichtlichen, mobilen Pflegeplan erzeugen, der gleichzeitig als Durchführungsdokumentation dient. Sie können die Durchführungsdokumentation in beliebiger Detailgenauigkeit vornehmen, einzelne Aufgaben als erledigt markieren oder umfangreiche Kommentare dazu abgeben.
+Mit careIT können Sie ungeplante Maßnahmen jederzeit erfassen und entscheiden, ob ein Folge-Assessment erforderlich ist. Die Ist- und Soll-Pflegezeiten können abgeleitet und für den Patienten oder die ganze Station ausgewertet werden. Darüber hinaus wird die Pflegepersonalbemessung "PPR2.0" automatisch abgeleitet. Steigern Sie Ihre Effizienz und verbessern Sie die Pflegequalität mit careIT!
+Evaluation
+Die Einschätzung des Assessments der Patienten wird regelmäßig von den Pflegefachkräften wiederholt. Dadurch erfolgt in der Software automatisch die Evaluation der zugrundeliegenden Pflegeplanung.
+Patientensicherheit & Pflegequalität
+Vereinfachte Pflegedokumentation
+Präventive & prädiktive Pflege
+Mitarbeiterzufriedenheit
+Automatische Erlöse
+Interoperabilität (FHIR® -Technologie)
+Patientensicherheit & Pflegequalität
+Vereinfachte Pflegedokumentation
+Präventive & prädiktive Pflege
+Mitarbeiterzufriedenheit
+Automatische Erlöse
+Interoperabilität (FHIR® -Technologie)
+Lösungen & Funktionen in careIT
+SeMPA
+Assessment & Maßnahmenkatalog 
+Das Herzstück von careIT ist unser Selbstversorgungs-Meta-Pflegeassessment (SeMPA). Mit Hilfe künstlicher Intelligenz werden daraus pflegerelevante Risiken und Scores abgeleitet und entsprechende Pflegemaßnahmen vorgeschlagen. 
+eKurve
+Der interdisziplinäre Informationspunkt
+In unserer eKurve finden sich alle aus der täglichen Pflegepraxis bekannten Vital-Parameter wieder. Aber auch solche Daten, die aus (z.B. auch patienteneigenen) Messgeräten, Sensoren und smarten Hilfsmitteln gewonnen wurden, werden hier übersichtlich dargestellt.
+Grafixx
+Wundbeschreibung & Wundfotografie
+Hier können neben den Wunden auch alle Zu- und Ableitungen oder sonstige Merkmale am Körper des Patienten erfasst und die zeitliche Abfolge bewertet werden. Pflegende können Fotos in Wundreports integrieren und Wundabmessungen in Fotos berechnen lassen. 
+Weitere Funktionen:
+Dashboard careIN
+careIN (Intelligence)
+… liefert Entscheidern in der Pflege unterschiedlichste Statistiken und Darstellungen in Echtzeit als Entscheidungsgrundlage z.B. für Patientenflusssteuerung, Mitarbeitereinsatz oder Fortbildungsplanung.
+Messenger careCOM
+Schnelle patientenbezogene Kommunikation
+Angehörige verschiedener Berufsgruppen, die gerade nicht von Angesicht zu Angesicht miteinander kommunizieren können, haben die Möglichkeit, unser Messenger-System zu nutzen, aus welchem die patientenbezogene Konversation anschließend der entsprechenden Patientenakte zugefügt wird. 
+Bettenplanung bedIT
+Daten, Belegungs- und Einsatzplanung
+bedIT gibt Auskunft über die Bettenbelegung von Ebene der Station bis hin zur Ebene des Krankenhausverbundes mit Daten, die die Belegungs- und Einsatzplanung erleichtern. Zudem kann der Bettstatus deklariert werden und eine Betten- Suchfunktion genutzt werden.
+Therapieplaner planIT
+Smarter Kalender
+Unser Therapieplanner planIT funktioniert wie ein Kalender aus unterschiedlichen Ebenen, auf denen Einzel- und Gruppentermine verwaltet werden können.Aus den Terminen können anschließend Einheiten erstellt werden, um Komplexbehandlungen zu dokumentieren und Leistungen von der Krankenkasse abrechnen zu lassen.
+Ausgewählte Kunden:
+Impressum
+Datenschutz
+© 2023 nursIT Institute GmbH
+FacebookTwitterInstagramLinkedIn
+Return to Top

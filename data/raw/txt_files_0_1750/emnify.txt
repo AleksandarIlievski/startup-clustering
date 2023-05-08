@@ -1,0 +1,187 @@
+emnify | IoT Solution Provider
+Search
+Free trial
+Log in 
+             EN
+          
+DE
+ES
+FR
+IT
+PT
+IoT Connectivity Platform
+                      emnify IoT eSIM
+                   
+                      IoT Dashboard
+                   
+                      IoT Cloud Integration
+                   
+                      IoT Network Security
+                   
+emnify for you
+IoT Connectivity for your Business
+High Growth CompaniesGo to market fast with a complete solution
+Small BusinessesScale your business with custom connectivity
+ EnterprisesCount on consistent and high-quality connectivity
+Solutions by Industries
+                                     Agriculture
+                               
+                                     Energy
+                               
+                                     Healthcare
+                               
+                                     Retail
+                               
+                                     Media
+                               
+                                     Transportation
+                               
+                            See all Industries
+                         
+Discover why more than 1800 Businesses worldwide trust emnify
+See Case Studies
+Careers
+                      Jobs
+                   
+                      Culture
+                   
+Resources
+                      IoT Glossary
+                   
+                      Blog & News
+                   
+                      Developer Blog
+                   
+                      Documentation
+                   
+                      Whitepapers
+                   
+Talk to us 
+Login 
+Search
+Free Trial
+Get in touch 
+IoT Connectivity Platform
+emnify IoT eSIM
+IoT Dashboard
+IoT Cloud Integration
+IoT Network Security
+emnify for you
+IoT Connectivity for your Business
+High Growth Companies
+Small Businesses
+ Enterprises
+Solutions by Industries
+Agriculture
+Energy
+Healthcare
+Retail
+Media
+Transportation
+See all Industries
+See Case Studies
+Careers
+Jobs
+Culture
+Resources
+IoT Glossary
+Blog & News
+Developer Blog
+Documentation
+Whitepapers
+                EN
+            
+DE
+ES
+FR
+IT
+PT-BR
+One eSIM, One Platform, One IoT SuperNetwork
+Introducing theemnify IoT eSIM
+Learn more
+Futureproof your network with emnify IoT eSIM
+540 Networks in over 180                            countries
+IoT Security Network made easy
+Easy-to-use IoT Monitoring Dashboard
+Join the emnify IoT SuperNetwork!
+Trusted by hundreds of growing businesses and global enterprises around the world.
+Top Rated by G2
+emnify’s carrier-agnostic IoT eSIM cards enable your devices to connect to more than 540 cellular networks in over 180 countries
+Learn about our IoT eSIM
+We connect millions of devices globally - Join the emnify SuperNetwork
+Learn more
+emnify makes IoT deployment easy –  worldwide
+Unleash your full IoT potential: The emnify IoT Supernetwork is the largest globally distributed mobile cloud core network of its kind, supporting local network access (2G – 5G, LTE-M, NB-IoT) in over 180 countries.
+All types and sizes of businesses
+Scale up and get connected with emnify:
+High Growth  Companies
+Small Businesses
+Enterprises
+High Growth Services
+Small Business Services
+Enterprise Services
+LET’S TALK SOLUTIONS
+Read what our customers have to say
+1/
+"We needed a perfectly neutral SIM card to ensure reliable communications regardless of device location. emnify SIM cards were the perfect answer to our needs, and they could be managed easily from emnify's platform, with a one-stop overview of network activity and costs. We recommend emnify for its operator-neutrality that connects devices to the best available network."
+Marc Dikötter
+CTO, OptiWaste
+2/
+"Thanks to emnify, Urban.io can connect to cellular network providers from all around the world and maintain the best possible signal. emnify met all our requirements thanks to their flexibility. The platform provides us with control over connectivity and a high level of data security (via emnify Cloud Connect / Transit Gateway)."
+Rob Cumming
+CEO, Urban.io
+3/
+"Primagaz uses emnify's SIM card to transfer data from the metering items on the field to our servers so that we are able to bill customers based on consumption. emnify's platform allows us to get all SIM cards together and manage them easily from one place. emnify's multi-operator service allows Primagaz to increase its network performance by always connecting our devices to the best operator."
+François Vanoverschelde
+Technical Operations Manager, Primagaz
+4/
+"We develop solar solutions for rural communities, so they have GSM modules for status updates and remote control. emnify won us over with their excellent customer relationship: human and fast. It also helped their API had clear, concise documentation so we could integrate emnify's data and intelligence into our own internal platform, which enhances our users' experience."
+Michel Fripiat
+Technical Director, Solarly 
+5/
+"emnify allows us to operate our sensors easily and quickly anywhere in the world, thanks to their SIMs that support global multi-operator network connectivity. This lets our sensors hop onto the best given network. emnify also provides responsiveness, support and API that make their platform easily integrated into our internal tools."
+Romain Scimia
+Co-Founder, AtmoTrack
+Your business,  our IoT Connectivity Solution
+Instant Connection
+Bring your devices online, no matter wherethey are - with our Global IoT SIM Card.
+Secure Cloud Integration
+Discover our IoT Cloud Integrations with high-performing Cloud Services like AWS.
+Best-in-class Management
+Get a 360° view of your whole IoT Solution, thanks to our IoT Dashboard and Data Streamer.
+Secure IoT Network
+Protect two-way data path and prevent cyber-attacks on your devices with our IoT Network Security.
+Free trial
+Frequently Asked Questions
+                  What is an IoT eSIM card?
+               
+                     IoT – or M2M – eSIM cards provide access to cellular networks to connect devices – with a management platform to monitor and operate device connections at scale. If you want two or more ‘Things’ (connected devices) to communicate with each other, then you need a data connection. In most cases, a standard cellular mobile eSIM (or consumer eSIM) won’t cut it.
+                  
+                  How much does an IoT eSIM card cost?
+               
+The price can start from less than EUR 2 for a commercial-grade emnify IoT eSIM and less than EUR 3 for an industrial-grade emnify IoT eSIM depending on your order volume. A discount automatically applies as more eSIM cards are purchased within an order.
+                  How safe are cellular networks for IoT?
+               
+Cellular networks automatically come with some advanced security features that make them well-suited for IoT. While any device can join a Wifi network, you can only connect to a cellular network with a compatible SIM card. Yet, with traditional cellular networks, the most significant security gap occurs when your devices communicate with the cloud. emnify closes this gap with Cloud Connect, keeping your connections private and secure.
+                  Does emnify provide 24/7 support?
+               
+Yes. Whether you need technical support or basic customer service, we’re here to help any time, any day.
+ 
+We want you!
+Be a part of emnify’s mission
+If you want to become an engaged member of our international experts, then this is the place. Become an emnifier and bring our customer-centric approach to life.
+See open positions
+Customer Support
+Customer Knowledge HUb
+Documentation
+Integration Guides
+Company
+About Us
+Newsletter
+Careers
+Imprint
+Privacy Policy
+Events
+Connect with us
+Contact us
+© 2023 All rights reserved.

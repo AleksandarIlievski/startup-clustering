@@ -1,0 +1,263 @@
+Book Taxis and Limousines Online - Talixo
+EN
+Deutsch (DE)
+English (EN)
+Français (FR)
+Italiano (IT)
+Español (ES)
+Polski (PL)
+Sign in
+Self Service
+Talixo for Corporates
+#1 choice of Fortune 500 companies. Book on web, mobile, OBEs in 95 countries.
+» read more
+Talixo for SMEs
+Take control of transfer expenses. Online payments and invoices worldwide.
+» read more
+For Travel Agencies
+Book and manage trips everywhere in the world, including China and India.
+» read more
+APIs and Integrations
+Book taxi and limousine transfers, track updates and commissions.
+» read more
+Do you own a fleet?
+Use our Fleet Management tool for your business and receive bookings from Talixo.
+» read more
+Book your taxi or limousine
+Where & When
+Choose a Car
+Details & Payment
+Please provide a street address, airport name or hotel name.
+Pick up:
+Our system didn't recognise the address. Please make sure it's correct - it can be a street address, airport, hotel name or venue.
+Estimated arrival time of the next Taxi to this address:  minutes
+Sorry, currently no Taxi available for this address
+House number:
+Please provide house number
+                    Flight number:
+                
+Departure city:
+Please provide a street address, airport name or hotel name.
+Destination:
+Our system didn't recognise the address. Please make sure it's correct - it can be a street address, airport, hotel name or venue.
+House number:
+Please provide house number
+At:On:
+08.05
+Today
+09.05
+Tomorrow
+10.05
+Wednesday
+Based on your flight number, we have determined the pickup time. Be informed that the driver is monitoring the flight status and if you wish to take more time when leaving the airport (customs, etc.) please include this information in the message to the driver at the last step of the process.
+                    
+                        Booking has to be at least 60 minutes in the future
+                    
+                
+Voucher code (optional):
+                For  with 
+more options
+hide options
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+0
+1
+2
+3
+0
+1
+2
+3
+4
+0
+How many children seats?
+                            1-4 years (9-18kg)
+                            
+0
+1
+2
+                            3-6 years (15-25kg)
+                            
+0
+1
+2
+                            6-12 years (22-36kg)
+                            
+0
+1
+2
+The driver can carry only 2 children seats
+cancel
+OK
+                        Hourly booking
+                    
+            for
+        1h2h3h4h5h6h7h8h9h10h11h12h13h14h15h16h17h18h19h20h21h22h23h24h
+            till
+            00:13
+Childseats from the city centre cost 30 CHF extra.
+OK
+Childseats from the Airport are for free. But for the driver it is allowed to let the taximeter running, when he needs to mount the seat in his car.
+OK
+                
+                    Talixo Mobile
+                
+                
+Book and manage trips via our mobile apps.
+How does it work
+            Enter your pickup point and time, select your car.
+        
+            Verify the booking details and select your preferred payment method.
+        
+            
+                Our Talixo driver picks you up at the given location and time.
+            
+        
+Easy & Simple
+                    When
+                
+Enter your start and destination address, date and time.
+                    What
+                
+                    Talixo finds a suitable taxi and the best limousine offers within the categories Economy, Business and First Class.
+                    All offers can be booked immediately and without time delay.
+                
+                    Who
+                
+Specify the passenger details such that the driver can contact the passenger if necessary.
+                    Confirm booking
+                
+Verify the booking details and select your preferred payment method. By clicking "Confirm Booking" button the booking process is completed. 
+                    Receive details
+                
+You will receive a booking confirmation with all the ride details and the payment PIN via email.
+Trip: Safe and comfortable to your destination
+                    Car and contact details
+                
+You receive car and contact details of your driver around 30 minutes before the pickup time via email and text message.
+                    Driver arrives
+                
+An additional notification is sent to you via text message once the driver has arrived at the pickup location.
+                    Verify ID & ride
+                
+After the driver has verified that you are the right customer, he will drive you to your destination.
+                    Authorize payment
+                
+At the end of your ride you authorize the payment with your PIN. Payment and billing will take place automatically and be displayed in your Talixo account.
+Changes of your booking or cancelation can be done easily through your Talixo account. While logged in you just go to Bookings and click on the Edit or Cancellation button. Please notice the booking change and cancelation deadlines. Depending on when you change or cancel your booking, additional costs can occur.
+read more
+collapse
+Customer feedback
+This was one of the best experiences I have ever had with a cab company. I had problems at the airport and the driver stayed with me for over an hour and helped me sort everything out. I would recommend this company to anyone. Thank you for such fabulous service!
+R.M.
+Ich möchte mich für den super Service Ihrer Fahrer/in bedanken. Das war Klasse, sehr flexibel und absolut empfehlenswert!
+M. Vogel, VOGEL Ingenieure
+We were very pleased with the service and would happily use it again when we are next in Germany.
+T. M.
+Taxi
+ 
+The taxi you know
+Price based on taximeter
+Executed by local taxi fleets
+Online and offline payment
+24/7 support hotline
+Economy+
+Toyota Prius Plus or similar
+The holy grail of budget travelers
+Fixed price
+Automated flight tracking
+45 minutes waiting time after landing
+Convenient pickup at precise meeting point
+Children seats available on request
+Online and offline payment
+24/7 support hotline
+Business Class
+Mercedes-Benz E-Class or similar
+Business traveler's favourite
+Black car guaranteed
+Fixed price
+English-speaking driver
+Automated flight tracking
+60 minutes waiting time after landing
+Convenient pickup at precise meeting point
+Children seats available on request
+Online and offline payment
+24/7 support hotline
+How can I pay
+Individual customers
+Talixo accepts all major payment methods including MasterCard, Visa and American Express.
+Corporate customers
+                
+                Corporate customers using the Talixo Corporate Account have access to all payment methods available to individual customers. On top of that, Talixo supports corporate payment methods such as AirPlus. Upon special request, payment by invoice can be made available for our partners and event organisers.For more details, read about the Talixo Corporate Account
+Talixo is available in 1169 cities worldwide
+Our most popular locations right now:
+Taxi
+Taxi Berlin
+Taxi Munich
+Taxi Zurich
+Taxi Geneva
+Taxi London
+Taxi Milan
+Taxi Hamburg
+Taxi Cologne
+Taxi Frankfurt
+Limousine
+Limousine Berlin
+Limousine  Munich
+Limousine Zurich
+Limousine Geneva
+Limousine London
+Limousine Milan
+Limousine Hamburg
+Limousine Cologne
+Limousine Frankfurt
+Airport Transfer
+Airport Transfer Berlin
+Airport Transfer Munich
+Airport Transfer Zurich
+Airport Transfer Geneva
+Airport Transfer London
+Airport Transfer Milan
+Airport Transfer Hamburg
+Airport Transfer Cologne
+Airport Transfer Frankfurt
+FAQ
+Contact Us
+About Us
+Terms & Conditions
+Conditions of Transport
+Data Privacy Statement
+Imprint
+Careers
+© 2023 Public in Motion GmbH

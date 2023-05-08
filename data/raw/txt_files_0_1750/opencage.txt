@@ -1,0 +1,401 @@
+OpenCage - Easy, Open, Worldwide, Affordable Geocoding and Geosearch
+OpenCage logo
+Geocoding API
+Quick Start
+start geocoding ASAP
+API Documentation
+parameters, best practices, response codes
+Demo
+try the API out
+Libraries and SDKs
+30+ programming languages
+Tutorials
+example code
+Switching from Google Maps
+Price comparison with Google
+Switching from Nominatim
+Service status
+Geosearch
+Location Autosuggest
+for forms or maps
+Demo
+play with different configurations
+add search to a map:
+Leafletjs
+OpenLayers
+MapLibre
+Service status
+Pricing
+About / Guides
+About us
+who we are, what we do
+Contact us / Support
+Why open data?
+Comparing geocoding services
+Geocoding vs Geosearch?
+what's the difference?
+Guides
+recipes for common scenarios
+FAQ
+technical, billing, legal
+Our blog
+what's new
+Log in
+Sign up
+OpenCage Geocoding API
+Convert coordinates to and from places
+Worldwide · Affordable · Reliable · Open Data
+Live demo
+Full API docs,
+quick start,
+best practices
+Geocoding buyer's guide
+Cost comparison with Google Maps
+SDKs
+and
+tutorials
+for 30+ languages and frameworks
+curl
+Go
+Java
+Node
+Perl
+PHP
+Python
+Ruby
+More SDKs
+Why OpenCage?
+A trusted partner
+Hundreds of satisfied customers worldwide,
+tens of millions of requests per day
+Here today, here tomorrow.
+Funded by customers, not VCs - since 2013
+Redundant EU data centers,
+fully GDPR compliant
+Independently monitored uptime
+All API requests via 256-bit SSL encryption (HTTPS)
+Responsive customer support.
+Ask us anything
+Proud corporate member of the OpenStreetMap Foundation
+Great product
+Many open gecoders behind a single API
+Most
+permissive licensing
+in the industry
+Cache results
+as long as you like
+No vendor lock-in,
+display results on ANY map
+Worldwide coverage
+Continual updates - OpenStreetMap has
+over four million edits/day
+Using open data has many benefits, doing it via OpenCage means one less thing for us to maintain.
+Robert Theml
+·
+Director
+·
+SIXT Share
+Less maintenance
+Avoid the stress and on-going costs
+of maintaining your own system
+Easy setup:
+Tutorials
+and
+SDKs
+for over 30 different programming languages
+We add useful info
+like
+timezones, Wikidata ids, NUTS codes, FIPS codes, speed limits, UN/LOCODEs, what3words, etc
+to save you engineering time
+Well-formatted address strings
+so your users understand where they are -
+see
+why this matters
+Affordable, predictable, transparent pricing
+Generous free testing tier
+No credit card required
+at sign up
+Subscription and one-time plans
+No tricks.
+Cancel anytime,
+for any reason
+No surge or usage charges
+No long term commitment.
+Pay as you go
+Secure payment in all major currencies
+See pricing
+Great value for money, and a responsive team. OpenCage has been a reliable partner as we've grown MileCatcher
+Lars Boesen
+·
+Founder
+·
+MileCatcher
+Customers around the world
+See how OpenCage is used in your industry
+Fleet Tracking
+Data Enrichment
+Logistics
+Classifieds
+Internet of Things
+Shared / Micromobility
+Academia
+Image Processing
+Payment Processing
+Who builds OpenCage? And why?
+Our mission: to make using open data
+easy, dependable,
+and
+much more affordable than proprietary geocoders.
+Learn about
+the advantages of open data,
+the team behind the API,
+and
+how we give back to the open geospatial community.
+Questions?
+Please
+get in touch
+or have a look
+at our
+FAQ
+=== BASH ===
+BASE_URL="https://api.opencagedata.com/geocode/v1/json"
+curl "$BASE_URL?q=New+York+City&pretty=1&key=YOUR-API-KEY"
+#  "formatted": "New York City, United States of America",
+#  "confidence": 2,
+#  "bounds": { "northeast": { "lat": 40.9161785, "lng": -73.7001808 }, "southwest": { ...
+#  ...
+# jq (https://stedolan.github.io/jq/) can filter and extract JSON data
+curl "$BASE_URL?q=52.72,6.46&key=YOUR-API-KEY" | jq '.results[0].formatted'
+# "Fleminghof 21, 7909 AR Hoogeveen, Netherlands"
+curl "$BASE_URL?q=52.72,6.46&key=YOUR-API-KEY" | jq '.results[0].components'
+# { "house_number": "21", "road": "Fleminghof", "postcode": "7909 AR", "town": ...
+curl "$BASE_URL?q=Washington&key=YOUR-API-KEY" | jq '.results[] | [.formatted,.geometry]'
+# ["Washington, District of Columbia, United States of America",{"lat":38.8950368,"lng":-77.0365427}]
+# ["Washington, United States of America",{"lat":47.2868352,"lng":-120.212613}]
+# ["Washington County, Texas, United States of America",{"lat":30.2226352,"lng":-96.3936114}]
+# ["Washington County, Illinois, United States of America",{"lat":38.3662806,"lng":-89.4201902}]
+# ["Washington County, Pennsylvania, United States of America",{"lat":40.1943798,"lng":-80.2541251}]
+#  ...
+=== JAVA ===
+// See our full tutorial:
+// https://opencagedata.com/tutorials/geocode-in-java
+JOpenCageGeocoder jOCG = new JOpenCageGeocoder("YOUR-API-KEY");
+JOpenCageReverseRequest req = new JOpenCageReverseRequest(41.40015, 2.15765);
+req.setLanguage("es"); // we want Spanish address format
+req.setLimit(5); // only return the first 5 results
+JOpenCageResponse res = jOpenCageGeocoder.reverse(req);
+// get the formatted address of the first result:
+String fAddress = res.getResults().get(0).getFormatted();
+System.out.print(fAddress)
+// 'Travessera de Gràcia, 142, 08012 Barcelona, España'
+=== CSHARP ===
+var gc = new Geocoder("YOUR-API-KEY");
+var reverse = gc.ReverseGeocode(47.678756, -122.121034)
+var forward = gc.Geocode("1 Microsoft Way, Redmond, WA 98052, USA");
+=== LEAFLET ===
+//
+// see our full leaflet tutorial:
+// https://opencagedata.com/tutorials/geocode-in-leaflet
+//
+var map = L.map('map').setView([51.52255, -0.10249], 13);
+var options = { key: 'YOUR-API-KEY' };
+L.Control.openCageGeocoding(options).addTo(map); // add search box to map
+// reverse geocode on map click
+var geocoder = L.Control.openCageGeocoding.geocoder(options);
+var marker;
+map.on('click', function(e) {
+  var query = e.latlng.lat.toString() + ',' + e.latlng.lng.toString();
+  geocoder.geocode(query, function(results) {
+    var res = results[0];
+    if (res) {
+      if (marker) {
+        marker.setLatLng(res.center).setPopupContent(res.name).openPopup();
+      } else {
+        marker = L.marker(res.center).bindPopup(res.name).addTo(map).openPopup();
+      }
+    }
+  })
+})
+// tiles
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors',
+  minZoom: 4,
+  maxZoom: 18
+}).addTo(map);
+=== PERL ===
+# See our full Perl tutorial
+# https://opencagedata.com/tutorials/geocode-in-perl
+use feature qw(say);
+use Geo::Coder::OpenCage;
+use Data::Dumper;
+my $OCG = Geo::Coder::OpenCage->new(api_key => 'YOUR-API-KEY');
+my $result = $OCG->reverse_geocode(lat => 50.978, lng => 11.328);
+say $result->{'formatted'};
+# Brauhausgasse 11, 99423 Weimar, Germany
+say $result->{'components'}->{'postcode'};
+# 99423
+my $resp = $OCG->geocode(location => "Kirkegata 9, 0153 Oslo");
+say Dumper $resp->{'results'}->[0]->{'geometry'};
+# { "lat" => 59.909836, "lng" => 10.743142 }
+say Dumper $resp->{'results'}->[0]->{'components'};
+# { "city" => "Oslo", "road" => "Kirkegata", "suburb" => "Kvadraturen", ...
+=== PHP ===
+# See our full PHP tutorial:
+# https://opencagedata.com/tutorials/geocode-in-php
+# install with Composer
+composer require opencage/geocode
+require "vendor/autoload.php";
+$OCG = new \OpenCage\Geocoder\Geocoder('YOUR-API-KEY');
+$results = $OCG->geocode('43.77, 11.26')
+print(results['results'][0]['formatted'])
+# Via della Vigna Vecchia, 3 R, 50122 Florence FI, Italy
+$results = $OCG->geocode('43.77, 11.26', ['language' => 'it'])
+print(results['results'][0]['components']['country'])
+# Italia
+$results = $OCG->geocode('2672 Rue Notre-Dame Ouest, Montréal, Canada')
+print_r($results);
+=== PYTHON ===
+# See our full Python tutorial:
+# https://opencagedata.com/tutorials/geocode-in-python
+from opencage.geocoder import OpenCageGeocode
+OCG = OpenCageGeocode('YOUR-API-KEY')
+results = OCG.reverse_geocode(14.666, 76.833)
+print(results[0][formatted])
+# Sirigedoddi, Gummagatta, India
+results = OCG.geocode(u'Athens')
+print(u'%f;%f;%s;%s' % (results[0]['geometry']['lat'],
+                        results[0]['geometry']['lng'],
+                        results[0]['components']['country_code'],
+                        results[0]['annotations']['timezone']['name']))
+# 37.983941;23.728305;gr;Europe/Athens
+results = OCG.geocode(u'Athens, Texas', language='de')
+print(results[0]['components']['country'])
+# Vereinigte Staaten von Amerika
+=== RUBY ===
+# See our full Ruby tutorial:
+# https://opencagedata.com/tutorials/geocode-in-ruby
+require 'opencage/geocoder'
+OCG = OpenCage::Geocoder.new(api_key: 'YOUR-API-KEY')
+result = OCG.reverse_geocode(51.5019951, -0.0698806)
+p result.address
+# 'Reeds Wharf, 33 Mill Street, London SE15, United Kingdom'
+result.components['house_number']
+# 33
+results = OCG.geocode('Manchester', language: 'fr')
+p results.first.address
+# "Manchester, Angleterre, Royaume-Uni"
+p results.first.coordinates
+# [53.47949, -2.24511]
+=== JAVASCRIPT ===
+// See our full nodejs tutorial:
+// https://opencagedata.com/tutorials/geocode-in-nodejs
+//
+// npm install opencage-api-client
+const opencage = require('opencage-api-client');
+opencage.geocode({ q: '37.4396, -122.1864', language: 'fr' }).then((data) => {
+  console.log(JSON.stringify(data, null, 2));
+  // { "components": { "house_number": "1330", "road": "Middle Avenue", "postcode": "94025", "town": ...
+  if (data.status.code == 200 && data.results.length > 0) {
+    console.log(data.results[0].formatted);
+    // "1330 Middle Avenue, Menlo Park, Californie 94025, États-Unis d'Amérique"
+  }
+});
+opencage.geocode({ q: '3629 Yale Street, Vancouver, CA' }).then((data) => {
+  console.log(data.results[0].geometry);
+  // { "lat": 49.2909409, "lng": -123.024879 }
+}).catch((error) => { console.warn(error.message) };
+=== GO ===
+// Installation:
+// go get github.com/rubenv/opencagedata
+//
+import "fmt"
+import "github.com/rubenv/opencagedata"
+geocoder := opencagedata.NewGeocoder("YOUR-API-KEY")
+result, err := geocoder.Geocode("-36.855, 174.761", nil)
+if err == nil {
+  f_result := result.Results[0] // opencagedata.GeocodeResultItem struct
+  fmt.Printf("%.6f, %.6f => %s\n",
+    f_result.Geometry.Latitude,
+    f_result.Geometry.Longitude,
+    f_result.Formatted)
+  // -36.8548028, 174.7608283 => 4/78 Greys Avenue, City Centre, Auckland 1010, New Zealand
+} else {
+  fmt.Printf("error: %v\n", err)
+}
+===
+Start your free trial
+2,500 geocoding API requests per day.
+No credit card required.
+This image shows the node density of OpenStreetMap data in summer 2015.
+It's one of many data sources we use.
+Data ©
+OpenStreetMap contributors,
+Imagery ©
+Martin Raifer, cc-by
+Open as larger interactive map
+OpenStreetMap node coverage
+Background / Guides
+Why open data?
+Comparing Geocoding Services
+Reverse Geocoding
+Geocoding vs Geosearch?
+25+ further guides
+Use Cases
+Academia
+Classifieds
+Data Enrichment
+Fleet Tracking
+Image Processing
+Internet of Things
+Logistics
+Payment Processing
+Shared / Micromobility
+Geocoding API
+API Documentation
+Demo
+Tutorials
+/
+SDKs
+Enterprise Solutions
+Geosearch
+Location Autosuggest
+Demo
+Tutorials:
+Leaflet
+/
+OpenLayers
+General Info
+Pricing
+Guides
+FAQ
+Uptime and Status
+Company Info
+About us
+Our commitment to:
+geo-innovation
+the environment
+We organise Geomob
+Events
+Podcast
+We're hiring
+Branding / Media Resources
+Legal
+GDPR / Privacy
+Terms & Conditions
+Security Policy
+Credits, Data, and Sources
+Our Blog
+OpenCage GmbH
+Philipsbornstr. 2
+30165 Hannover
+Germany
+Reg No.:
+Hannover HRB 222547
+VAT No.:
+DE323788688
+Proud corporate members of
+The OpenStreetMap Foundation
+Association for Geoinformatics, GeoIT and Navigation e.V.
+FOSSGIS e.V.
+The OpenStreetMap UK CIC
+© 2013-2023 OpenCage GmbH

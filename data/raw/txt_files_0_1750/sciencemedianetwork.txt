@@ -1,0 +1,308 @@
+Science Media
+CATEGORIES
+Sign inRegistration 
+Sign inRegistration 
+How it works
+DOI
+Tell us
+About us
+Contact
+Privacy policy
+Terms and conditions
+Computer Sciences
+Algorithms2Artificial intelligence45Computational sciences7Computer architectureData structureDatabaseGrapics and visualization1NetworksSecurity and cryptography1Software engineering4 
+Available Conferences
+Economics
+AccountingChange ManagementCSRFinance17General Management64Human RessourceInnovation2MarketingOperational ManagementStrategy2 
+Available Conferences
+Engineering
+Biomedical Engineering8Chemical engineering4Civil engineering43Construction Engineering and ArchitectureElectrical engineering5Heat Energy Technology, Thermal Machines, Fluid MeMaterials EngineeringMechanical engineering26Mechanics and Constructive Mechanical EngineeringProcess Engineering, Technical ChemistryProduction TechnologySystems Engineering 
+Available Conferences
+Humanities
+Linguistics3Literature7 
+Available Conferences
+Life Sciences
+Agriculture, Forestry, HorticultureBasic Biological and Medical ResearchMedicineMicrobiology, Virology, and ImmunologyNeurosciencesPlant SciencesVeterinary MedicineZoology 
+Available Conferences
+Medicine
+AnaesthesiologyBiomedical Technology and Medical PhysicsCardiology1Cardiology, AngiologyCardiothoracic SurgeryClinical Chemistry and PathobiochemistryDentistryDentistry, Oral SurgeryDermatologyEndocrinology, DiabetologyEpidemiology, Medical Biometry, Medical InformaticGastroenterology, MetabolismGerontology and Geriatric MedicineGynaecology and ObstetricsHematology, Oncology, Transfusion MedicineHuman GeneticsInternal medicine11Neurology8Nutritional SciencesOncologyOtolaryngologyPathology and Forensic MedicinePediatric and Adolescent MedicinePharmacologyPharmacyPhysiologyPneumology, Clinical Infectiology, Intensive Care Pneumology, Clinical Infectiology, Intensive Care Radiation Oncology and RadiobiologyRadiologyRadiology and Nuclear MedicineReproductive Medicine/BiologyRheumatology, Clinical Immunology, AllergologySports medicineSurgery3Toxicology and Occupational MedicineTraumatology and OrthopaedicsUrologyVascular and Visceral Surgery 
+Available Conferences
+Natural Sciences
+Analytical Chemistry, Method Development (Chemistr407Astrophysics and Astrononmy615Atmospheric Science and OceanographyBiological Chemistry and Food ChemistryBiological PhysicsBiology216Chemical Solid State and Surface ResearchCondensed Matter PhysicsEarth sciences8Geochemistry, Mineralogy and CrystallographyGeographyGeology and PaleontologyGeophysics and GeodesyMathematics3Molecular ChemistryNonlinear DynamicsOptics, Quantum OpticsParticle, Nuclei, and FieldsPhysical and Theoretical ChemistryPhysics152Physics of Atoms, Molecules and PlasmasPolymer ResearchStatistical Physics, Soft MatterWater Research 
+Available Conferences
+Social Sciences
+Ancient CulturesAnthropologyArtArt history1Cultural studies4Economics23Education SciencesFine Arts, Music, Theater and Media StudiesHistoryJurisprudenceLanguagesLaw1LinguisticsLiterary StudiesPerforming artsPhilosophyPsychologyReligious StudiesSocial and Cultural AnthropologySocial SciencesTheology 
+Available Conferences
+                Find important work in your field of research            
+                Be a member of the ScienceMedia Network            
+                Upload your work and digital content            
+                Share your videos in your work            
+Make your conference world-wide visible
+Full conference: 299.00€ + VAT only!
+Order Conference ID
+Featured
+Videos
+Posters
+Presentations
+Papers
+Conferences
+euronews futuris - The Cloudbusters
+Natural Sciences                        (Earth sciences)
+                      
+                            Euronews Knowledge                        
+Date of upload:
+01.09.2015
+Co-author:
+Caption:
+A 200 metre tower is one of the tools being used to crack one of the trickiest problems in climate science - clouds.
+View more
+Bulging and buckling of a hose under pressure
+Engineering                        (Mechanical engineering)
+                      
+                            Claas Bierwisch                        
+Date of upload:
+12.10.2015
+Co-author:
+C. Dehning, T. Kraft
+Caption:
+The movie shows a fluid in a rigid pipe which is connected to a hose of rubber-like material. A piston moves downward through the pipe thereby pushing the fluid into the hose which is sealed by a disc at the lower end. The hose bulges due to the increasing pressure until, finally, buckling into a state of lower energy occurs. The direction of the buckling is purely statistical. 
+View more
+Use Case II: Real-time Data Stream
+Computer Sciences                        (Artificial intelligence)
+                      
+                            Rainer von Ammon                        
+Date of upload:
+28.09.2015
+Co-author:
+Arkady Godin (Mitre)
+Caption:
+Use Case II: Real-time Data Stream Analytical Publish/Subscribe System 
+Shall Inbound adapters be "passive" connectors
+Pub/Sub and  Notification Standards
+Subscriptions in Analytic terms
+Pub/Sub as an Analytical Subscriber
+Analytics: Bridging "Sub to Pub" divide
+Analytical Subscription Management
+View more
+Quasi-periodic pulsations in stellar flares 
+Natural Sciences                        (Astrophysics and Astrononmy)
+                      
+                            Anne-Marie Broomhall                        
+Date of upload:
+10.09.2015
+Co-author:
+Chloe Pugh, Valery Nakariakov
+Abstract:
+Quasi-periodic pulsations (QPPs) are a common feature of solar flares that are observed in
+many different wavelengths. Although QPPs appear not to be as abundant in white light Kepler
+flare light curves as they are in solar flares, albeit in different wavelengths the structure of the
+pulsations are strikingly similar, hinting that the same underlying processes govern both solar
+and stellar flares. Here we consider a special case, observed on KIC9655129, which shows
+evidence of multiple periodicities. We speculate that the presence of multiple periodicities is a
+good indication that the QPPs were caused by magnetohydrodynamic oscillations, further
+strengthening the case that the physical processes in operation during stellar flares are at least
+analogous to those in solar flares. 
+View
+                        more
+Accurate numerical solutions to the forward problem of local helioseismology
+Natural Sciences                        (Mathematics)
+                      
+                            Chris Hanson                        
+Date of upload:
+14.07.2016
+Co-author:
+Michael Leguèbe, Damien Fournier, Aaron C. Birch, Laurent Gizon in Collaboration with Inria team Magique3D
+Abstract:
+We compute acoustic Green’s functions in an axisymmetric solar background model, which may include a meridional flow and differential rotation. The wave equation is solved in
+the frequency domain using a finite element solver. A transparent boundary condition for the waves is implemented in the chromosphere, which represents a great improvement in
+computational efficiency compared to implementations based on ’sponge layers’. We perform various convergence studies that demonstrate that wave travel times can be computed
+with an accuracy of 0.001 s. This high level of numerical accuracy is required to interpret travel times in the deep interior, and is achieved thanks to a refined mesh in the near surface
+layers and around the source of excitation. The wave solver presented here lays the ground for future iterative inversion methods for flows in the deep solar interior.
+View
+                        more
+Observations of Red Giants with SONG
+Natural Sciences                        (Astrophysics and Astrononmy)
+                      
+                            Pere L. Pallé                        
+Date of upload:
+03.08.2016
+Co-author:
+Abstract:
+One of the outstanding and unforeseen results from the Kepler mission is our new insight and understanding of red giant stars. These highly evolved stars, which are in the last stages of their life, provide extremely useful information when trying to develop stellar evolutionary models. Furthermore, they show stochastically excited oscillations thus allowing to use asteroseismic techniques to derive conditions of the most internal layers. Bright giants stars are well suited to be studied with the 1m telescopes in the Stellar Observations Network Group project (SONG) using a high resolution echelle spectrograph performing high precision measurements of their the radial velocity. The prototype node- the Hertzsprung SONG telescope- was inaugurated in October 2014 and is located at the Teide Observatory on Tenerife and providing continuous and high quality observations since then, When selecting the best targets for SONG, a precision of 1-2 m/s per point is reachable using the iodine method and a number of red giants have been observed with the SONG telescope since scientific operation started. In this talk we present the first results of these specific campaigns for a few red giants in which eigenmodes have been identified and their global seismic parameters derived.
+View
+                        more
+Comparison of damping mechanisms for transverse waves in coronal loops.
+Natural Sciences                        (Astrophysics and Astrononmy)
+                      
+                            MARÍA MONTES                        
+Date of upload:
+22.01.2017
+Co-author:
+I. Arregui
+Abstract:
+Damping of transverse waves in different solar coronal
+structures is a commonly observed property and a source of
+information about coronal conditions. Although resonant damping
+seems to be the most accepted mechanism for damping of
+transverse waves, there are other possible mechanisms. We have
+carried out a Bayesian analysis comparing three different models
+which could explain the damping in coronal loops. Our results
+indicate that resonant absorption is the most probable mechanism
+for low ratios between damping time and wave period, while the
+wave leakage mechanism is the best candidate for high ratios.
+Nonetheless, the evidence for one model against another shows a
+strong dependence on the data errors.
+View
+                        more
+Gas towards the Gamma­-ray-­Emitting  Supernova Remnant W28 (and others)
+Natural Sciences                        (Astrophysics and Astrononmy)
+                      
+                            Nigel Maxted                        
+Date of upload:
+21.12.2015
+Co-author:
+Gavin Rowell, Matthieu Renaud, Phoebe de Wilt, Fabien Voisin, Yasuo Fukui, Michael Burton, Andrew Walsh, Akiko Kawamura, Andrew Walsh, Akiko Kawamura, Felix Aharonian
+Abstract:
+We present the results of molecular spectral line observations towards Supernova Remnants such as W28, RX J1713.7-3946 and HESS J1731-347. These remnants exhibit TeV gamma-ray emission, beacons for the presence of enhanced populations of high energy particles. It follows that these objects may accelerate Galactic cosmic-ray protons via the diffusive shock mechanism, but knowledge of the environment local to such remnants is required to constrain such scenarios. The Mopra radio telescope is ideal for probing the interstellar environments of HESS gamma-ray sources through large-scale molecular line surveys. Mopra can be employed to hunt for dense gas-tracing CS and NH3 transitions to identify potential cosmic-ray target material, while simultaneously searching for shock-tracing SiO emission lines which can directly highlight shock-disrupted gas. Furthermore, spectral line width gives an insight into gas dynamics and Mopra is capable of measuring this at a ~1' resolution over degree-scale regions. We present results from recent 7 and 12mm surveys towards the above-mentioned TeV-emitting Supernova Remnants and discuss the implications for distance, the diffusion of cosmic-rays and the high energy gamma-ray spectrum.
+View
+                        more
+Survival and activity of bacteria in air: Why do we care?
+Natural Sciences                        (Biology)
+                      
+                            Tina Santl-Temkiv                        
+Date of upload:
+25.04.2016
+Co-author:
+Kai Finster, Meilee Ling, Maher Sahyoun, Morten Dreyer,  Stine Holm, Martin Rasmussen, Stephanie Pilgaard
+Abstract:
+The presentation deals with activity of airborne microbial cells and how this is important for expanding our understanding of habitability and biosignatures.
+View
+                        more
+Field line helicity as a tool for coronal physics
+Natural Sciences                        (Physics)
+                      
+                            Anthony Yeates                        
+Date of upload:
+22.11.2017
+Co-author:
+G. Hornig, M.H. Page
+Abstract:
+What if there were a way to identify **where** the magnetic helicity is concentrated within a three- dimensional magnetic field? At first sight this question appears meaningless, since magnetic helicity is an integral over the whole volume of the magnetic field. But, in fact, it is possible to decompose this total helicity as an integral over individual "field line helicities" for each magnetic field line in the domain. All of these are ideal-invariant, topological quantities, and they allow us to quantify in a meaningful way how magnetic helicity is distributed within the domain. In this talk, I will show how this idea can be practically applied to typical extrapolations of the Sun's coronal magnetic field that are used in solar physics.
+View
+                        more
+Development of instrumentation for solar observations at the Brazilian National Institute for Space 
+Natural Sciences                        (Physics)
+                      
+                            Luis Eduardo Vieira                        
+Date of upload:
+15.11.2018
+Co-author:
+Abstract:
+The solar electromagnetic and corpuscular emissions are strongly modulated by the evolution of the magnetic structure of the solar atmosphere, which is imprinted in the solar surface. The evolution of the magnetic structure leads to gradual changes in the solar activity (space climate) as well as violent events (space weather) that affect the whole Heliosphere. In particular, the solar output affects the ionized and neutral components of the Earth’s atmosphere that have a direct impact on human activities from agriculture to high-technological systems. The solar magnetism is driven by the energy transport from the inner layers to the solar atmosphere. Although systematic observations have revealed several features related to the evolution of solar activity, there is not a complete explanation of the physical processes that lead to solar activity cyclic variability and its long-term changes. Here we present a brief description of the development of a magnetograph and visible-light imager instrument to study the solar dynamo processes through observations of the solar surface magnetic field distribution. The instrument will provide measurements of the vector magnetic field and the line-of-sight velocity in the solar photosphere. As the magnetic field anchored at the solar surface produces most of the structures and energetic events in the upper solar atmosphere and significantly influences the Heliosphere, the development of this instrument plays an essential role in reaching the scientific goals of The Atmospheric and Space Science Coordination (CEA) at the Brazilian National Institute for Space Research (INPE). In particular, the INPE’s Space Weather program will benefit most from the development of this technology. Additionally, we expect that this project will be the starting point to establish a robust research program on Solar System Research at INPE.  The proposed instrument has been designed to operate on the ground, but with a conceptual design flexible enough to be adapted to work on a balloon and space-based platforms. In this way, our main aim is acquiring know-how progressively to build state-of-art solar vector magnetograph and visible-light imagers for space-based platforms to contribute to the efforts of the solar-terrestrial physics community to address the main unanswered questions on how our nearby Star works.  
+View
+                        more
+Impact of Biofield Treatment on Spectroscopic and Physicochemical Properties of p-Nitroaniline
+Natural Sciences                        (Analytical Chemistry, Method Development (Chemistr)
+                      
+                            Gopal Nayak                        
+Date of upload:
+22.11.2016
+Co-author:
+Mahendra Kumar Trivedi, Alice Branton, Dahryn Trivedi, Khemraj Bairwa, Snehasis Jana
+Abstract:
+Para nitroaniline (p-Nitroaniline) is an organic compound, used as an intermediate in the synthesis of pharmaceuticals drugs, gasoline and dyes. The present study was attempted to investigate the influence of biofield treatment on p-nitroaniline. The study was performed in two groups i.e., control and treatment. The treatment group was subjected to Mr. Trivedi’s biofield treatment. The control and treated samples of p-nitroaniline were characterized using Fourier transform infrared (FT-IR) spectroscopy, Ultraviolet-visible (UV-Vis) spectroscopy, high performance liquid chromatography (HPLC), gas chromatography-mass spectrometry (GC-MS), and differential scanning calorimetry (DSC). FT-IR spectral analysis result suggested the alteration in wavenumber of some groups with respect to control. For instance, the C=C and C-C stretching were observed at 1570 cm-1 and 1430 cm-1, respectively in control sample that were shifted to 1585 cm-1 and 1445 cm-1, respectively after biofield treatment. UV spectral analysis revealed the similar pattern of absorbance maxima (λmax) in both control and treated samples. HPLC data showed an alteration in the retention time of p-nitroaniline peak in treated sample (3.25 min) with respect to control (2.75 min). GC-MS results showed a significant change in the isotopic abundance (δ) of 13C and 18O in treated sample as compared to control. DSC data showed that latent heat of fusion (∆H) of treated p-nitroaniline was substantially decreased by 10.66% as compared to control. However, the melting point remained same in both control and treated sample of p-nitroaniline. Overall, results obtained from different analytical techniques such as FT-IR, HPLC, GC-MS, and DSC suggested that biofield treatment has significant impact on spectral, physical and thermal properties of p-nitroaniline with respect to control sample.
+View
+                        more
+Evaluation of Biofield Energy Treatment on Physical and Thermal Characteristics of Selenium Powder
+Natural Sciences                        ()
+                      
+                            Dahryn Trivedi                        
+Date of upload:
+02.12.2016
+Co-author:
+Mahendra Kumar Trivedi, Rama Mohan Tallapragada, Alice Branton, Gopal Nayak, Omprakash Latiyal, Snehasis Jana
+Abstract:
+Selenium (Se) is an essential trace element, and its deficiency in the humans leads to increase the risk of various diseases, such as cancer and heart diseases. The objective of this study was to investigate the influence of biofield energy treatment on the physical and thermal properties of the selenium powder. The selenium powder was divided into two parts denoted as control and treated. The Control part was remained as untreated and treated part received Mr. Trivedi’s biofield energy treatment. Both control and treated selenium samples were characterized using x-ray diffraction (XRD), differential scanning calorimetry (DSC), thermogravimetric analysis - differential thermal analysis (TGA-DTA), and Fourier transform infrared spectroscopy (FT-IR). The XRD data showed that biofield energy treatment has slightly altered the lattice parameter (0.07%), unit cell volume (0.15%), density (-0.14%), atomic weight (0.15%), and nuclear charge per unit volume (-0.21%) in the treated selenium powder as compared to the control. The crystallite size of the treated selenium powder was reduced considerably from 106.98 nm (control) to 47.55 nm. The thermal analysis study showed that the latent heat of fusion was 64.61 J/g in the control, which changed to 68.98, 52.70, 49.71 and 72.47 J/g in the treated T1, T2, T3, and T4 samples respectively. However, the melting temperature did not show any considerable change in the treated selenium samples as compared to the control. The FT-IR spectra showed the absorption peak at 526 and 461 cm-1, which corresponding to metal oxide bonding vibration in the control and treated selenium powder respectively. Hence, overall data suggest that, the biofield energy treatment considerably altered the physical and thermal properties of selenium powder. Therefore, biofield energy treatment could make selenium even more useful nutrient in human body.
+View
+                        more
+Skin Rejuvenating Effect of Consciousness Energy Healing Treatment Based Herbomineral Formulation
+Natural Sciences                        ()
+                      
+                            Dahryn Trivedi                        
+Date of upload:
+08.07.2017
+Co-author:
+James Jeffery Peoples, Mahendra Kumar Trivedi, Alice Branton, Gopal Nayak, Sambhu Charan Mondal, Snehasis Jana
+Abstract:
+Currently in today’s world, herbomineral based cosmetic formulations are continuously gaining popularity globally because they have a high safety profile and skin protection effects. The aim of this study was to evaluate the effects of a Consciousness Energy Healing (The Trivedi Effect®) Treatment based test formulation and medium (DMEM) against different skin health parameters. The test formulation and DMEM were divided into two parts. One part of each received the Consciousness Energy Healing Treatment by James Jeffery Peoples and were termed as the Biofield Energy Treated samples, while the other samples were denoted as the untreated test items. MTT assay showed more than 70% viable cells, indicating that the test formulation was safe and nontoxic in all the tested concentrations in three cell lines. The percent cell proliferation by BrdU assay was increased by 251.30%, 373.36%, and 722.48% at 8.75, 17.5, and 35 µg/mL, respectively in the BT-DMEM + BT-Test formulation group compared to the UT-DMEM + UT-Test formulation group. Collagen synthesis was significantly (p≤0.001) increased by 32.96% in the UT-DMEM + BT-Test formulation group at 2.5 µg/mL with respect to the untreated group. Elastin was significantly (p≤0.001) increased by 69.49% and 17.13% in the UT-DMEM + BT-Test formulation and BT-DMEM + UT-Test formulation groups, respectively at 10 µg/mL compared to the untreated group. The level of hyaluronic acid was increased remarkably by 14.78% in the BT-DMEM + UT-Test formulation group at 1.25 µg/mL compared to the untreated group. Melanin was suppressed significantly by 14.64% and 18.25% in the UT-DMEM + BT-Test formulation and BT-DMEM + UT-Test formulation groups, respectively at 0.13 µg/mL compared to the untreated group. Skin cells protection against UV-B exposure revealed that the percent cell viability was increased by 4.23% in the BT-DMEM + BT-Test formulation group at 2.5 µg/mL compared to the untreated group. The wound healing activity by scratch assay showed significant wound closure and cell migration activity in the test formulation and DMEM group in both HFF-1 and HaCaT cells compared to the untreated group. Altogether, the data suggests that the Biofield Energy Treated DMEM and test formulation showed better responses compared to the untreated group. Overall, the Biofield Energy Treated test formulation could be developed as an effective cosmetic product to protect and treat various skin problems including infection, photosensitivity, cutis rhomboidalis nuchae, erythema, contact dermatitis, behcet's disease, blepharitis, boil, bowen's disease, skin aging, wrinkles and/or change in skin colour, etc.
+View
+                        more
+Physicochemical, Thermal, Structural, and Behavioral Properties Analysis in Magnesium Gluconate: An Effect of the Energy of Consciousness
+Natural Sciences                        (Analytical Chemistry, Method Development (Chemistr)
+                      
+                            Alice Branton                        
+Date of upload:
+14.07.2017
+Co-author:
+Mahendra Kumar Trivedi, Dahryn Trivedi, Gopal Nayak, Cathryn Dawn Nykvist, Celine Lavelle, Daniel Paul Przybylski, Dianne Heather Vincent, Dorothy Felger, Douglas Jay Konersman, Elizabeth Ann Feeney, Jay Anthony Prague, Joanne Lydia Starodub, Karan Rasdan, Karen Mie Strassman, Leonid Soboleff, Maire Anne Mayne, Mary M. Keesee, Padmanabha Narayana Pillai, Pamela Clarkson Ansley, Ronald David Schmitz, Sharyn Marie Sodomora, Kalyan Kumar Sethi, Parthasarathi Panda, Snehasis Jana
+Abstract:
+Magnesium gluconate is an organometallic pharmaceutical/nutraceutical used for the prevention and treatment of various diseases caused by the low level of magnesium. The aim of the present study was to investigate the influence of The Trivedi Effect® - Energy of Consciousness Healing Treatment (Biofield Energy Healing) on the physicochemical, thermal, structural, and behavioral properties of magnesium gluconate using powder PXRD, PSD, FT-IR, UV-visible, TGA, and DSC analysis. Magnesium gluconate was divided into two parts - one part was denoted as the control, while the another part was treated with The Trivedi Effect® remotely by eighteen renowned Biofield Energy Healers and defined as the Trivedi Effect® Treated sample. The PXRD analysis exhibited the significant alteration of the crystal morphology of the treated sample compared with the control sample. The crystallite size of the treated sample was significantly altered from -39.99% to 62.57% compared with the control sample. The average crystallite size of the treated sample was decreased by 9.71% compared with the control sample. Particle size of the treated sample at d10, d50, and d90 value was significantly increased by 5.36%, 23.10% and 11.11%, respectively compared with the control sample. The surface area of the treated sample was significantly decreased by 9.76% compared to the control sample. The FT-IR and UV-vis analysis showed that the structural characteristic of the magnesium gluconate remained same in the treated sample compared with control sample. The TGA data revealed that the weight loss of the treated sample in the first and third steps of degradation was increased by 31.58% and 5.94%, respectively, whereas in the second step of degradation, the weight loss was decreased by 7.57% compared with the control sample. The DSC analysis showed that the melting point of the control and treated samples were at 170.29°C and 169.76°C, respectively. The latent heat of fusion of the treated sample was increased by 4.18% compared with the control sample. The current study evaluated that The Trivedi Effect® - Energy of Consciousness Healing Treatment might lead to a new polymorphic form of the magnesium gluconate, which could be more soluble, powder flowability and long-term storage stability compared with the control sample. Hence, the Trivedi Effect® Treated magnesium gluconate would be very useful to design better nutraceutical and/or pharmaceutical formulations that might provide better therapeutic response against inflammatory diseases, immunological disorders, and other chronic infections.
+View
+                        more
+Seismology of the Sun and the Distant Stars 2016
+Natural Sciences									(Astrophysics and Astrononmy)
+								
+										Markus Roth									
+Start date:
+10.07.2016
+End date:
+14.07.2016
+Location:
+Angra do Heroísmo, Terceira-Açores, Portugal
+View
+									more
+Towards a Multimodal Construction Grammar 
+Humanities									(Linguistics)
+								
+										Elisabeth Zima									
+Start date:
+09.03.2016
+End date:
+11.03.2016
+Location:
+Osnabrück, Germany
+View
+									more
+The Physics of the Sun from the Interior to the Outer Atmosphere
+Natural Sciences									(Astrophysics and Astrononmy)
+								
+										SOLARNET -  High Resolution Solar Physics Network									
+Start date:
+14.01.2017
+End date:
+19.01.2017
+Location:
+Arrecife, Lanzarote, Spain
+View
+									more
+Helicity Thinkshop 3
+Natural Sciences									(Astrophysics and Astrononmy)
+								
+										Nobumitsu Yokoi									
+Start date:
+19.11.2017
+End date:
+24.11.2017
+Location:
+Tokyo (Japan)
+View
+									more
+Some of our users
+Copyright © 2019 Science Media. All rights reserved.
+File upload
+          Please wait, while we are uploading (progress bar) and processing the file(s).
+          The processing of the files may take some additional minutes...
+        
+abc
+Abc
+Ok

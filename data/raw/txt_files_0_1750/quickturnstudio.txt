@@ -1,0 +1,133 @@
+Quick Turn Studio – We use modern technologies to solve problems
+Toggle navigation
+Home
+Services
+Technologies
+Values
+Workshops
+Projects
+Blog
+Contact us
+World class specialists availablefor your business
+World class specialists available for your business
+Services  
+        UX Design
+      
+        Do you have and idea but you need help to visualize it? Does your solution need to have design up to date with latest fashion? Or maybe you need to collect your needs and design solution from end to end?
+      
+        Embedded Software development
+      
+        Do you need to have optimal solution for embedded hardware? Do you need to follow best embedded software practices? requirements like ISO-26262?
+      
+        2D & 3D Applications development
+      
+        Do you want to have great graphics for your solution? Would like you to achieve great effects in your application? Or maybe you wanna have dedicated graphical engine for desktop or embedded device?
+      
+        Continuous Integration services
+      
+        Wanna have quick feedback after delivering the code to your branches? Or maybe you need to report code coverage to fulfill ISO-26262 requirements? Do you know that having automated tests, even for GUI parts develop with Qt is possible?
+      
+        Build system services
+      
+        Do you start setup your C/C++ project and you need to design CMake build system? Or maybe you already have custom build system, but you would like to migrate it to CMake? Do you need to extend build system for supporting new platform?
+      
+        Technical interviews
+      
+        Do you need to hire Software Engineers, but you don't have resources to verify candidates' technical knowledge? Our engineers leaded hunderds of interviews that helped created talented and coordinated teams.
+      
+Our technologies  
+Our values  
+    Continousimprovement
+    
+    State of artsolutions
+    
+    Familyculture
+    
+    Work/Lifebalance
+    
+    Honesty andtransparency
+    
+Tutorials & Live workshops  
+          Introduction to C++for programmers
+          
+          Do your engineers need to become familiar with C ++? Or maybe they already speak this language, but would like to expand their skills and knowledge? We will help you by providing 2-5-day workshops with a scope tailored to your needs.
+          
+          CMakelive trainings
+          
+Not enough CMake tutorials in the web for people starting work with CMake? Or maybe your engineers want to more practice? 3 day workshop and they will be able to design good Modern CMake project.
+          
+          Effective ModernCMake series
+          
+          
+          
+          It is too hard to find synchronize engineers right moment to schedule a workshop? Or maybe you need to get have an access to knowledge that can be watch every time when a new engineer joins your team? Effective Modern CMake video series can help your developers in being up to date with CMake knowledge.
+          
+Our projects  
+              Design tool to create
+UI embedded software
+      
+        Please bare with us for news and upcoming updates
+      
+            QML Editor
+            
+            QML Editor helps to work with QML applications in JetBrains IDEs
+            
+            Qt Style Sheets Editor
+            
+            Style Qt applications with code highlight and code completion
+            
+            Qt Style Sheet Highlighter
+            
+            
+               Qt Style Sheet Highlighter highlights syntax of *qss files in JetBrains IDEs
+            
+Our blog  
++
+Integration Unreal Engine 4 with CMake project and boost library
+2020-04-062020-04-14, CMake, UE4 
+Today we would like to share with you a part of our solution how we integrate Unreal Engine 4... 
++
+Running Tests in compile time – how?
+2020-02-032020-03-30, CMake, TDD, Testing 
+It is time to show some code in our blog. We would like to present you one of the solutions for... 
++
+How to lead a technical interview?
+2020-01-202020-03-30, Recruitment process, Soft skills 
+On the internet, there are a lot articles containing tips how to pass job interview: how to make a... 
++
+Black Box vs White Box Testing
+2020-01-072020-03-30, Testing 
+Black or white – what is a difference? Black box testing is an approach, where test checks the correctness... 
++
+What is a unit test?
+2020-01-062020-03-30, TDD, Testing 
+In this post I would like to explain what is a unit test. In the first moment it seems... 
+Interested? Let’s talk!  
+software@quickturnstudio.com
++48 662 035 507
+Copyright © Quick Turn Studio GmbH. All rights reserved.
+Imprint
+Privacy Policy
+Imprint
+Privacy Policy
+Copyright © Quick Turn Studio GmbH. All rights reserved.
+ 
+This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.  Click here if you would like to get more information or change your cookie settings. AcceptPrivacy & Cookies Policy
+Close
+Privacy Overview 
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are as essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+ 
+								Necessary							
+Necessary
+Always Enabled
+									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								
+SAVE & ACCEPT
+Log in with your credentials
+ 
+Sign in
+ Remember me                
+Lost your password?
+Forgot your details?
+ 
+Reset Password
+I remember my details

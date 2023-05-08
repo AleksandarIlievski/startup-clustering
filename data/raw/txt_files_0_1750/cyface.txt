@@ -1,0 +1,121 @@
+Cyface - qualitative Analyse & Erfassung von Verkehrsdaten
+ 
+Leistungen
+Vorteile
+Forschung
+Blog
+Team
+Kontakt
+ 
+Seite wählen
+  
+ 
+ 
+ 
+Software zur Analyse der Qualität und Nutzung von                                                                                                                                       Verkehrswegen
+„Als Spezialisten der Datenanalyse im Verkehrsbereich erkennen wir Zusammenhänge und entwickeln kreative Lösungen.“
+ 
+Heute mehr denn je spielt die Reduzierung von Abgasemissionen in Städten eine sehr große Rolle. Deshalb steht bei Cyface das Fahrrad und das damit verbundene Verkehrssystem im Vordergrund der Arbeit und Forschung. Es trägt aber nicht nur zum Klimaschutz bei, sondern fördert auch die Gesundheit aller Bürger.Um diesen Wandel zu begleiten, sind die Erfassung und Auswertung von Straßen- und Verkehrsdaten auf Fahrradwegen unabdingbar. Gemeinsam mit einem starken Netzwerk aus Ingenieurdienstleistern, Wissenschaft und Branchenexperten realisieren wir Projekte, in denen wir eine flexible Erfassung von Daten ermöglichen und aussagekräftige Analysen der Verkehrswege erstellen. Entdecken Sie, wie auch Sie von unseren Leistungen und innovativen Produkten profitieren.
+Entdecken Sie unsere Leistungen für Kommunen, Institutionen und Ingenieurbüros
+ 
+ 
+
+Wir erfassen Verkehrsdaten mittels eigener Software 
+
+Sie können vorhandene Apps über SDK-Integration oder unsere White Label App nutzen
+
+Wir analysieren die Daten nach Ihren Bedürfnissen
+
+Sie behalten die Nutzungsrechte der Daten
+Erfassung von Verkehrsdaten
+ 
+Die Cyface App ist ein Werkzeug für messtechnische Befahrungen auf Straßen, Fahrrad- oder Gehwegen. Während der Fahrt werden durch die im Smartphone eingebaute Sensorik Bewegungs- und Erschütterungsdaten aufgezeichnet. Mit Hilfe von Accelerometer, Gyroskop und der sattelitengestützten Positionserfassung können vielfältige Daten erhoben werden. Autonom werden während der Fahrt mit dem Fahrrad oder PKW Erschütterungen aufgezeichnet (Abtastrate von 50–200 Hz.), gespeichert und bei anschließender WLAN-Verbindung an vorher definierte Server übertragen. Unsere Expertise liegt im Bereich der Datenverarbeitung, weshalb wir gerne Ihre erfassten Rohdaten für Sie auswerten.
+   + Mehr Informationen zu unserer White-Label App +
+Die Cyface App kann nach eigenen Vorstellungen verändert werden. Dafür bieten wir eine White-Label App für eigene Projekte an. Design, Schaltflächen und Funktionen können projektbezogen angepasst werden. So erhalten Sie eine auf Ihre Bedürfnisse angepasste Anwendung und ersparen sich unnötige Aufwände.
+   + Mehr Informationen zu unserem Server und Software Development Kit +
+Haben Sie bereits eine App, in die Sie die Cyface Technologie integrieren möchten? Dies bringt Ihnen den Vorteil, dass Sie Daten für eine bestehende Nutzerbasis erfassen können. Zu diesem Zweck steht unsere Erfassungstechnologie als Software Development Kit (SDK) zur Verfügung. Das SDK erlaubt die Integration in Ihre Android und iOS Apps und die Übertragung an den ebenfalls von uns bereitgestellten Cyface Server. Das Cyface SDK wurde bereits in Installationen mit mehreren 10.000 Nutzern erfolgreich erprobt und eingesetzt. Gerne übernehmen wir für Sie die Integration des SDKs in Ihre App.
+ Das SDK steht unter einer Multi-Lizenz. Eine freie und kostenlose Variante finden Sie unter den folgenden Links auf Github. Diese steht unter der GPLv3 Lizenz. Falls Sie die Cyface Technologie im kommerziellen Rahmen nutzen möchten, ohne Ihren eigenen Quellcode zu veröffentlichen, setzen Sie sich bitte mit uns in Verbindung
+zum Server
+zum Android-SDK
+zum IOS-SDK
+DatenauswertungDie von uns entwickelte Cyface App zeichnet während einer Fahrt Erschütterungen und die zurückgelegte Strecke auf. Mittels Positionssignal und Zeitstempel kann eine Fahrt und das Oberflächenprofil exakt nachvollzogen werden. Neben der gefahrenen Route werden auch weitere wichtige Informationen extrahiert. Mit Zunahme der Nutzerzahl und der Datenmenge werden Aussagen über das Verkehrsaufkommen und den Verkehrsfluss getroffen und darüber hinaus auch Gefahrenstellen erkannt. 
+ Straßenzustandsdaten
+Die Fahrbahnqualität eines Streckennetzes wird auf Erschütterungen ab einem Zentimeter untersucht und anschließend anhand einer 4‑stufigen Skala, die sich am International Roughness Index (IRI) orientiert, eingeordnet und dargestellt. blau=sehr gut; grün=gut; gelb=mäßig; rot=schlecht.
+Verkehrsdichte
+In einer Heatmap werden die zurückgelegten Strecken visualisiert, wobei häufig verwendete Abschnitte hervorgehoben werden.
+Fahrtenbuch und Auswertung
+Ein digitales Fahrtenbuch dokumentiert Strecke und Dauer der einzelnen Fahrten. Die Straßenzustandsdaten werden als Shapefile-Datei ausgegeben und in unserem Webportal dargestellt.
+Vorteile
+u
+Anonymität
+Keine Aufzeichnung vonpersonenbezogenen Daten und vollständigen Bewegungsprofilen.
+U
+Zustandserfassung
+Vertiefungen und Erhebungen ab 1 Zentimeter erkennen und aufzeichnen.
+
+Schnell
+Bereitstellung der ausgewerteten Daten innerhalb von Stunden bzw. wenigen Tagen.
+
+Kameramodus
+Aufzeichnung georeferenzierter Einzelbilder oder Videos optional möglich.
+
+Nutzungsrechte
+Sie erhalten exklusive Nutzungsrechte und entscheiden selbst was mit Ihren Daten geschieht.
+
+Fahrzeugunabhängig
+Die Zustandserfassung ist sowohl mit dem Fahrrad als dem PKW möglich.
+~
+Datensicherheit
+Speicherung der Daten auf Ihren bereits bestehenden Servern.
+
+Shapefile-Export
+Ausgabe der Daten als Shapefile, zur Einbindung in bestehende GIS‑Programme.
+Aktuelle Forschungsprojekte
+RadVerS
+Projektbeschreibung: Erfassung von Verhaltensdaten im Verkehr mittels Smartphone & Differenzierung unterschiedlicher Radfahrergrup­pen
+Projektpartner: TU Dresden
+Zur Projektseite
+Movebis
+Projektbeschreibung: Auswertung von Crowdsourcing-Daten zur Verbesserung der kommunalen Fahrradinfrastruktur
+ Projektpartner: Klima-Bündnis e.V. & TU Dresden
+Zur Projektseite
+BikeSim
+Projektbeschreibung: Simulation der Routenwahl im Radverkehr zur Prognose der Auslastung von Radverkehrsinfrastruktur & Nutzung von Big Data
+Projektpartner: TU Dresden
+Zur Projektseite
+DatEnKoSt
+Projektbeschreibung: Entwicklung einer Straßenmanagement-anwendung  mit Hilfe  valider Zustandserfassung über Smarphones und KI-basierte Zustandsporgnosen 
+Projektpartner: AWS-Institut Saarbrücken 
+Zur Projektseite
+Unterstützung und Förderer
+Auszeichnungen
+Aktuelles
+Herzliche Einladung zum Kick-Off des mFund-Projektes „Digitale Gestaltung des urbanen Raums Leipzig“ in Leipzig
+Mrz 12, 2023 | AllgemeinQuelle: Stadtreinigung Leipzig Anfang diesen Jahres startete unser neues mFund Forschungsprojekt "Digitale Gestaltung des urbanen Raums Leipzig" (diGuRal) zusammen mit der Universität Leipzig, dem Aufbauwerk Leipzig, der Stadtreinigung Leipzig, der ccc GmbH und der...
+Radverkehrsdaten zu erfassen war noch nie so einfach: ScoNe
+Jul 14, 2021 | AllgemeinDeutschland wurde in den letzten Jahren förmlich von den E-Tretroller-Anbietern überflutet. In jeder größeren Stadt, an jeder Ecke zu finden. So ist er zu einem gängigen Fortbewegungsmittel geworden. Dennoch wird die Nutzung in Deutschland bisher nur wenig bis gar nicht analysiert.
+Dieses Tool darf bei der Radverkehrsplanung nicht mehr fehlen!
+Mai 6, 2021 | AllgemeinSeit Herbst 2019 arbeitet die Cyface GmbH gemeinsam mit der Professur Verkehrsökologie der Technischen Universität am mFund Forschungsprojekt bikeSim. Letzte Woche wurde das Projekt zur Radverkehrsplanung erfolgreich beendet. Förderung des Radverkehrs Den...
+« Ältere Einträge
+Das Team
+Armin Schnabel
+Armin ist Entwickler aus Leidenschaft mit mehr als 10 Jahren Praxiserfahrung und zuständig für Software- und Hardwareentwicklung.
+Dr. Klemens Muthmann
+Als Experte in den Bereichen des maschinellen Lernens und der Datenanalyse verantwortet Klemens die Forschungsarbeiten und die Systemarchitektur.
+Dirk Ackner
+Dirk ist Strategiemanager mit Unternehmergeist und koordiniert die Vertriebs- und Marketingaktivitäten.
+Treten Sie in Kontakt
+Name
+E-Mail-Adresse
+Nachricht
+ 
+Senden
+Cyface GmbH
+Fröbelstr. 49  01159 DresdenTel.: +49 351 658 6363 9
+mail@cyface.de
+ 
+Facebook
+Twitter
+Instagram
+RSS
+Copyright © 2020-2022 Cyface GmbH | Impressum | Datenschutz 

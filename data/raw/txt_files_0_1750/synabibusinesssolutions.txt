@@ -1,0 +1,256 @@
+D-QUANTUM - Synabi Business Solutions GmbH
+ 
+ 
+    
+D-QUANTUM
+Trainings
+D-QUANTUM Connect
+Data Governance
+Business Glossary
+Data Catalog
+Integrated Metadata Management
+Release Notes
+D-QUANTUM Minor Release Notes
+D-QUΛNTUM V5
+D-QUΛNTUM V4
+Events
+Newsroom
+About us
+Career
+Contact
+Free Demo
+English
+Deutsch
+Press enter to begin your search 
+ 
+  
+  
+Our software solution for Data Management
+  
+The path to successful Data Management with D-QUANTUM.
+  
+More about D-QUANTUM
+  
+Understand data,
+unlock data insights.
+D-QUANTUM – Our intuitively operable and flexibly configurable data management tool centralises business data know-how on a single platform and combines it with automatically generated metadata. This is the basis for successful data management.You can choose between pre-defined solutions or an individual consulting approach. We have summarised the most important modules for you on the Data Management Journey.
+  
+Clear visualisation
+easily understand complex data streams with data lineages
+Automatic connection 
+of external data sources & technologies with D-QUANTUM Connect
+Up-to-dateness and quality
+through automated or manual data maintenance
+  
+Consistent definitions
+of all key figures in the Business Glossary create data trust
+Transparent approval processes
+prevent incorrect entries and ensure data quality using the 4-eyes principle
+Flexible data model 
+individually suited to the customer data strategy
+  
+Informative reporting
+Transparency & clarity about your existing data
+Reliable auditing
+All changes are traceable and documented at all times
+  
+ Start now with the first application module: Business Glossary
+  
+Selection of our customers that rely on D-QUANTUM
+  
+  
+1. BUSINESS GLOSSARY
+  
+In the D-QUANTUM Business Glossary, the entire business knowledge of a company, such as terms, business objects, key figures, reports, etc., is gathered in a central location, defined and brought into a uniform context. The terminologies are categorised and assigned to the responsible departments/persons.Request free Demo
+  
+Consistent definitionsIntuitive searchClear visualisationsEasy data maintenance & workflowsIndividual User ManagementFlexible metamodel
+  
+Consistent definitions
+create data trust
+better understanding of terms
+centrally available
+  
+Intuitive search
+within seconds
+provides responsibilities and data descriptions at a glance
+contains information on data quality
+full text search and pre-filtering possible
+  
+Clear visualisations
+relations visualised by graphs
+understand complex correlations easily through business lineage and business structure
+predefined views enable different views of correlations
+  
+Easy data maintenance & workflows
+intuitive data input mask
+clone and copy records
+mass editing of multiple data sets
+approval processes (4-eyes principle) ensure data quality by avoiding incorrect entries
+  
+Individual User Management
+manage D-QUANTUM role and authorisation principle systematically
+privileges define reading or editing access per role
+changes are fully historicised
+  
+Flexible metamodel
+individually suited to the customer data strategy
+use predefined or implement existing metamodel
+  
+Added value of the Business Glossary:
+Consistent definitions  
+create data trust
+better understanding of terms
+centrally available
+Intuitive search  
+within seconds
+provides responsibilities and data descriptions at a glance
+contains information on data quality
+full text search and pre-filtering possible
+Clear visualisations  
+relations visualised by graphs
+understand complex correlations easily through business lineage and business structure
+predefined views enable different views of correlations
+Easy data maintenance & workflows  
+intuitive data input mask
+clone and copy records
+mass editing of multiple data sets
+approval processes (4-eyes principle) ensure data quality by avoiding incorrect entries and duplicates
+Individual User Management  
+individually suited to the customer data strategy
+use predefined or implement existing metamodel
+Flexible metamodel  
+individually suited to the customer data strategy
+use predefined or implement existing metamodel
+  
+2. DATA CATALOG
+  
+We provide the map to find your way around IT-systems. D-QUANTUM, our high-performance Data Catalog, automatically connects data sources/technologies and reliably keeps metadata up-to-date. Whether automatedly created or even retroactively enriched – as a centralised directory of technical metadata, the Data Catalog enables easy access to detailed information about your data systems.Request free Demo
+  
+Map for IT-systemsAlways up-to-date dataClear visualisations
+  
+Map for IT-systems
+overview of data inventory
+centralised directory of technical metadata
+easy access to detailed information
+  
+Always up-to-date data
+D-QUANTUM Connect impresses with simplicity and rapid implementation
+framework for connecting data sources
+select connector, scan inventory and upload to D-QUANTUM
+connected data can be enriched with information later on
+  
+Clear visualisations
+relations visualised by graphs
+understand complex correlations easily through technical lineage and data flow graph
+predefined views enable different views of correlations
+  
+Added value of the Data Catalog:
+Map for IT-systems  
+Overview of data inventory
+centralised directory of technical metadata
+easy access to detailed information
+Always up-to-date data  
+D-QUANTUM Connect impresses with simplicity and rapid implementation
+Framework for connecting data sources
+Select connector, scan inventory and upload
+to D-QUANTUM
+Connected data can be enriched with information
+later on
+Clear visualisations  
+relations visualised by graphs
+understand complex correlations easily through
+technical lineage and data flow graph
+predefined views enable different views of correlations
+  
+Do you also ask yourself these questions?
+What does my company's data landscape look like from a technical perspective?How can I get a detailed technical view of the business lineage if needed?What are central interfaces and systems of my data landscape?How can I identify technical dependencies in my data?How can I provide my employees with a knowhow-independent access to data structures in my company?  
+ 
+Business Glossary 1:41
+What is the return on investment (ROI) and how is it composed?
+ 
+Data Catalog 2:21
+How do you check the impact of deleting a table column?
+ 
+Connectivity 3:40
+How do I connect a database to D-QUANTUM?
+  
+  
+Our vision:
+We combine the business and technical view on metadata.
+  
+3. INTEGRATED DATA MANAGEMENT
+  
+D-QUANTUM combines AI-supported, business metadata from the Business Glossary with the automatedly connected technical data objects in the Data Catalog. This enables easy access to the technical data world. Responsibilities, data processing procedures and further information can thereby be recorded and visualised for the traceability of the technical realisation of business key figures.
+On this basis, you complement Data Contracting, Quality Management and Request Management. In this way, you get the maximum potential from D-QUANTUM and your data landscape.
+  
+DATA CONTRACTINGDATA QUALITY MANAGEMENTDATA REQUEST MANAGEMENT
+  
+4. DATA CONTRACTING
+  
+D-QUANTUMData Contracting is the solution for digitally and centrally documenting agreements made within the framework of a data supply process, e.g. data supply agreements or interface agreements. Benefit from consistent definitions, responsibilities and clear data correlations in theD-QUANTUMData Catalog.
+  
+5. DATA QUALITIY MANAGEMENT
+  
+Do you know the quality of your data? WithD-QUANTUMData Quality Management, the entire process of data quality assurance is included – from the recording of relevant requirements to the documentation of measurement results. This is followed by the derivation of potential quality deficiencies with associated DQ measures and their implementation.
+  
+6. DATA REQUEST MANAGEMENT
+  
+TheD-QUANTUMData Request Management promotes cooperation between requesters and suppliers with uniformly defined standard processes. Define data requirements and document agreements in the delivery process, such as the time and progress of implementation and the associated responsibilities. With the help of technical metadata and their link to business requirements, the Data Request Management inD-QUANTUMcreates more transparency and minimises time expenditure and ambiguities when creating requirements.
+  
+  Request free Demo
+Get started now with D-QUANTUM!
+Register directly for the free demo:
+  
+ 
+Events & VeranstaltungenSynabi Blog
+ Interview with Synabi
+{:de}Wollten Sie schon immer mal wissen, durch welche 3 Dinge sich D-QUANTUM besonders auszeichnet? Oder…SYNABI31. January 2023
+Events & Veranstaltungen
+ User Group Meeting: Showcase D-QUANTUM V5
+{:de} Dem aufmerksamen Leser unseres Newsrooms wird der Titel dieses Beitrags ("User Group Meeting –…SYNABI21. November 2022
+Synabi Blog
+ Synversity – Synabi back at the uni
+{:de} Ja, Sie haben richtig gelesen! Zwei unserer Kollegen haben es gewagt und sind zurück…SYNABI11. July 2022
+  
+  Alle Nachrichten
+  
+ These topics might also interest you:  
+  
+ 
+Trainings
+Get to know D-QUANTUM step by step.  
+ 
+Career
+Live the startup spirit and become part of our mission.  
+ 
+Events
+Exciting talks and the latest information - be part of it!  
+ 
+News
+Up-to-date information about SYNABI, our events and the latest release notes.  
+MenuBusiness GlossaryData CatalogIntegrated Metadata ManagementData ContractingData Quality ManagementData Request Management
+				© 2023 Synabi Business Solutions GmbH  |  Impressum  |  Datenschutz 
+    
+ 
+D-QUANTUM
+Trainings
+D-QUANTUM Connect
+Data Governance
+Business Glossary
+Data Catalog
+Integrated Metadata Management
+Release Notes
+D-QUANTUM Minor Release Notes
+D-QUΛNTUM V5
+D-QUΛNTUM V4
+Events
+Newsroom
+About us
+Career
+Contact
+Free Demo
+English
+Deutsch
+ 
+Diese Webseite verwendet Cookies, um die Bedienfreundlichkeit zu erhöhen. Sie finden alle Informationen in unseren Datenschutzrichtlinien.EinverstandenCookies ablehnen
+Du kannst deine Zustimmung jederzeit widerrufen, indem du den den Button „Zustimmung widerrufen“ klickst.Zustimmung wiederrufen

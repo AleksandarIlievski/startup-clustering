@@ -1,0 +1,92 @@
+Quantum Simulations
+0
+      Skip to Content
+    
+        Home
+      
+        Solutions
+      
+        News
+      
+        Events
+      
+        Jobs
+      
+        About
+      
+                  About HQS
+                
+                  Media Resources
+                
+                  Team
+                
+                  Contact
+                
+Open Menu
+Close Menu
+        Home
+      
+        Solutions
+      
+        News
+      
+        Events
+      
+        Jobs
+      
+        About
+      
+                  About HQS
+                
+                  Media Resources
+                
+                  Team
+                
+                  Contact
+                
+Open Menu
+Close Menu
+        Home
+      
+        Solutions
+      
+        News
+      
+        Events
+      
+        Jobs
+      
+Folder:
+About
+Back
+          About HQS
+        
+          Media Resources
+        
+          Team
+        
+          Contact
+        
+Material development at the quantum level
+ 
+HQS provides software for materials scientists in the chemical industry, as well as in academia. Sophisticated quantum-level models of materials and their molecular properties give researchers the deeper insights they need to identify the ideal solution for their needs.
+    More about HQS
+  
+    What we offer
+  
+ 
+Our MissionOur mission is to provide state-of-the-art quantum simulation methods that can be leveraged to develop unique materials which could not have been discovered otherwise. Producing these unique results requires unique methods - quantum mechanics will be key to ground-breaking discoveries in materials science and it is our mission to make this a reality.
+ 
+ 
+Our VisionWithin a few short years, our clients will be using quantum-level simulations running on quantum hardware, to discover materials with incredible new properties, thereby improving our world and enhancing our quality of life.
+ 
+ 
+ Realizing the power of quantum
+Quantum Simulations
+The laws of quantum mechanics are the basic principles of nature. Designing functional molecules, formulations, or solid-state compounds requires many subsequent synthesis, formulation, and testing steps to yield the desired specifications. Hence, simulations on a quantum-mechanical level are the key to a deeper understanding of mechanisms and processes in molecules and materials. These cutting-edge tools will lead to insights into how the desired material properties can be achieved.
+Quantum Computing
+No one knows exactly how quickly quantum computing will develop, but with world-leading companies such as Alibaba, Amazon, AT&T, Baidu, Google, IBM, Intel, and Microsoft all investing heavily in the area, it is clear that quantum computing will be an important technology in the near future. By working with HQS, our clients will be able to harness the power of quantum computing early in its development. Quantum simulations running on quantum computers will be exponentially more powerful than their classical analogs.
+ 
+© 2023 HQS Quantum Simulations: all rights reserved
+TeamContact
+ImprintPrivacy Policy

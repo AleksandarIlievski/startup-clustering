@@ -1,0 +1,164 @@
+m2trust – it security
+	Skip to content
+ 
+ 
+ 
+ 
+ 
+Digitale Zertifikate effizient und sicher verwalten 
+ Große Unternehmen und Behörden – mit vielen unterschiedlichen vernetzten Geräten im Einsatz – nutzen die Software und Schnittstellen von m2trust, um den Lebenszyklus digitaler Zertifikate insbesondere in heterogenen und komplexen Infrastrukturen vollständig und automatisiert zu verwalten. 
+Demo buchen
+Mehr erfahren
+ 
+m2trust – DER DIGITALE PKI-ADMINISTRATOR  
+Sicherheit und Gültigkeit digitaler Zertifikate sind essentiell in Unternehmen. Wenn diese nicht gewährleistet sind, geraten ganze Systeme in einen kritischen Status und fallen schlimmstenfalls komplett aus. Abgelaufene oder unsichere Zertifikate sind daher ärgerlich und die Folgen schnell kostspielig. m2trust eliminiert Sicherheitsrisiken und fügt sich dank flexibler Schnittstellen perfekt in die bestehende Systemlandschaft ein. 
+ 
+ 
+Jederzeit sicher und compliant
+ 
+Spart Zeit und Geld
+ 
+Steigert die Wettbewerbsfähigkeit
+ 
+Abbildung der Lebenszyklen von digitalen Zertifikaten
+Innovatives Zertifikatsmanagement als Lösung für steigende Komplexität und Ressourcenbedarf. 
+IT Security der Zukunft 
+Die Herausforderungen für Unternehmen wachsen stetig, denn die Anzahl vernetzter Geräte steigt in den nächsten Jahren deutlich. Die IT Security der Zukunft erfordert Automatisierung, um Compliance-konform und wettbewerbsfähig zu bleiben. 
+66% 
+kürzere Laufzeiten digitaler Zertifikate zwingen Unternehmen zu immer häufigeren Updates. (z. B. Reduzierung der Gültigkeit von SSL/TLS Zertifikaten von drei auf ein Jahr). 
+30% 
+der Unternehmen fehlen Technologien zum Widerruf von Zertifikaten, obwohl lückenhafte IT-Sicherheit ernsthafte juristische Folgeprobleme verursachen kann. 
+5x 
+mehr Datenschutzgesetze seit dem Jahr 2000 (von 20 auf 100). Die Bedeutung von Daten- und Informationssicherheit steigt unaufhaltsam. 
+Automatisiertes Zertifikatsmanagement ist ein Schlüsselfaktor sicherer, digitaler Infrastrukturen. 
+DIGITALISIERUNG IST DER TREIBER, m2trust DIE ANTWORT 
+Die Digitalisierung hat gerade erst begonnen. Immer mehr Anwendungsfelder erhöhen die Anforderungen an die IT-Sicherheit – eine große Herausforderung für Unternehmen. Denn Sicherheit, Compliance und Kosteneffizienz lassen sich nur schwer in Einklang bringen. Diese Problematik löst m2trust als digitaler PKI-Administrator. 
+ 
+KRYPTO-AGILITÄT 
+Häufigerer Austausch kryptografischer Verfahren erfordert permanente Erneuerung digitaler Zertifikate, um Systeme kontinuierlich abzusichern. 
+ 
+DEV-OPS 
+Vielfalt digitaler Zertifikate durch die Integration von PKI in die Software-entwicklung selbst (z. B. digitale Signierung von Source Code). 
+ 
+IOT 
+Machine-to-Machine-Kommunikation oder Smart-Energy-Anwendungen Anwendungen treiben den exponentiellen Anstieg vernetzter Geräte. 
+ 
+GERÄTEANZAHL 
+Auch im klassischen Corporate-Umfeld steigt die Anzahl vernetzter Geräte wie z. B. Smartphones, Drucker, Tablets, Router und viele mehr. 
+ 
+KOSTENDRUCK 
+Höherer (manueller) Aufwand und damit verbundene Kosten stehen im Widerspruch zu Kostenreduktion und Effizienz durch Digitalisierung. 
+ 
+Adaptive und flexible Produktarchitektur, entwickelt für die Anwendungen in großen Unternehmen. 
+IT Security made in Germany 
+m2trust besteht aus einem flexiblen Regelwerk, welches Ereignisse, Richtlinien und Aktionen zusammenfasst und automatisiert. Das Geräte- und Verzeichnisdienstmanagement ermöglicht eine zentrale Verarbeitung der Gerätedaten und Ereignisse aus unterschiedlichen Datenquellen wie SQL, REST oder LDAP. 
+Produkte kennenlernen
+ 
+ALLE Zertifikate auf einen Blick 
+ 
+m2trust ist eine flexible, mandantenfähige und CA unabhängige Plattform zur event- und regelbasierten Verwaltung und Automatisierung von Prozessen während des gesamten Lebenszyklus digitaler Zertifikate. 
+ 
+Geräteübersicht
+ 
+Zertifikatsstatus
+ 
+Verschlüsselungsalgorithmen
+ 
+Zertifikatsprobleme
+ 
+Self-Service-Portal
+ 
+One Klick Recovery
+Mehr erfahren
+Digitale Zertifikate finden sich in vielen von uns abgedeckten Anwendungsgebiete wieder. 
+Use CasES 
+Ob Digital Factory, Secure Payment, Smart Mobility oder Smart Home – digitale Zertifikate gehören zum Kernbestand moderner IT-Infrastrukturen. 
+ 
+TELEKOMMUNIKATIONUmsetzung sicherer Übertragungswege der Informationen in Cloud-Umgebungen zu Datenspeichern und Analysezentren.FINANZENKomplexes Zertifikatsmanagement durch steigende Digitalisierung von Finanzprozessen, wachsende Anzahl von Mobilgeräten, sowie die durch PSD2 geforderte sichere AuthentifizierungINDUSTRIEIntegration der m2trust Module für die automatische Zertifikatsverwaltung im Produktionsumfeld eines Großkonzerns (Machine-to-Machine-Authentifizierung).ENERGIEAufbau und Integration eines Smart-Energy-Ökosystems von Smart Metering bis zur IoT-Cloud-Infrastruktur.Hier klickenGESUNDHEITUmsetzung sicherer Übertragungswege der Informationen in Cloud-Umgebungen zu Datenspeichern und Analysezentren.Hier klicken 
+ Voriger
+ Nächster
+ 
+ 
+Mit dir gestalten wir die Zukunft des digitalen Zertifikatsmanagements. 
+KARRIERE BEI m2trust:
+WE ARE HIRING 
+Wir sind Experten für PKI und Vorreiter für digitale IT-Security-Lösungen. Mit unseren Produkten helfen wir großen Unternehmen digitale Zertifikate effizienter, sicherer und voll automatisiert zu verwalten. Das machen wir mit Elan, Engagement und flachen Hierarchien. Wir sind professionell, technikgetrieben, digital und innovativ. Wir lernen von dir und du lernst von uns. Aber wichtiger als dein Wissen ist deine Persönlichkeit: Im Team zählt jeder Einzelne und wir arbeiten Hand in Hand, um unsere Ziele gemeinsam voranzutreiben. Als Ergänzung unseres IT-Teams suchen wir zum nächstmöglichen Zeitpunkt folgende Mitarbeiter*innen. 
+Zu den Stellen
+Bereit für zukunftsfähige IT Security? 
+Nehmen Sie Kontakt mit uns auf, um eine Produkt-Demo zu erhalten oder in einem persönlichen Gespräch mit unseren Experten über die zahlreichen Einsatzmöglichkeiten zu sprechen. 
+Demo buchen
+ 
+ 
+ 
+Folge uns
+ 
+Kontakt
+ 
+EMAIL
+ 
+Telefon
+Datenschutz  Impressum © 2020 – 2022eCom Service IT GmbH. 
+ 
+ 
+Cookie-Einwilligung verwalten
+Um die besten Erfahrungen zu bieten, verwenden wir Technologien wie Cookies, um Geräteinformationen zu speichern und/oder darauf zuzugreifen. Wenn Sie diesen Technologien zustimmen, können wir Daten wie das Surfverhalten oder eindeutige IDs auf dieser Website verarbeiten. Die Nichteinwilligung oder der Widerruf der Einwilligung kann bestimmte Merkmale und Funktionen beeinträchtigen.
+Functional
+Functional
+								Immer aktiv							
+Die technische Speicherung oder der Zugriff ist für den legitimen Zweck, die Nutzung eines bestimmten Dienstes zu ermöglichen, der ausdrücklich vom Abonnenten oder Benutzer angefordert wurde, oder für den alleinigen Zweck der Durchführung der Übertragung einer Kommunikation über ein elektronisches Kommunikationsnetz unbedingt erforderlich.
+Einstellungen
+Einstellungen
+Die technische Speicherung oder der Zugriff ist für den legitimen Zweck erforderlich, Präferenzen zu speichern, die nicht vom Abonnenten oder Benutzer angefordert werden.
+Statistics
+Statistics
+Die technische Speicherung bzw. der Zugriff dient ausschließlich statistischen Zwecken.
+Die technische Speicherung bzw. der Zugriff dient ausschließlich anonymen statistischen Zwecken. Ohne Vorladung, freiwillige Zustimmung Ihres Internetdienstanbieters oder zusätzliche Aufzeichnungen von Dritten können allein zu diesem Zweck gespeicherte oder abgerufene Informationen in der Regel nicht dazu verwendet werden, Sie zu identifizieren.
+Marketing
+Marketing
+Die technische Speicherung oder der Zugriff ist erforderlich, um Benutzerprofile zu erstellen, um Werbung zu versenden oder den Benutzer auf einer Website oder über mehrere Websites hinweg für ähnliche Marketingzwecke zu verfolgen.
+Optionen verwalten
+Dienste verwalten
+Anbieter verwalten
+Lese mehr über diese Zwecke
+Alle Akzeptieren
+Speichern
+Einstellungen anzeigen
+Einstellungen speichern
+Einstellungen anzeigen
+{title}
+{title}
+{title}
+Manage consent
+ 
+Demo buchen 
+ 
+ 
+								Vorname							
+								Nachname							
+								E-Mail							
+								Unternehmen							
+								Position							
+								Nachricht							
+ 
+ Bitte um Terminvereinbarung 
+								Telefon							
+Ich stimme den Datenschutzbestimmungen zu 
+Senden
+Produkt
+Karriere
+Kontakt
+Support
+ 
+Contact 
+ 
+								Vorname							
+								Nachname							
+								E-Mail							
+								Nachricht							
+ 
+ Bitte um Rückruf 
+								Telefon							
+Ich stimme den Datenschutzbestimmungen zu 
+Senden
+English (Englisch)
+Deutsch

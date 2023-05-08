@@ -1,0 +1,130 @@
+AUTHADA - Schnell & sicher online Signieren und Identifizieren
+ 
+Zum Inhalt springen
+Toggle NavigationSo funktioniert’sAnwendungenonline identifizierenEinfach & sekundenschnell mit Ausweis und Smartphone identifizieren.digital signierenIn wenigen Klicks Dokumente digital unterschreiben.vor Ort identifizierenHalbieren Sie Ihre Zeit am Schalter und weisen Sie sich digital aus.AusweisdokumenteWelche Ausweisdokumente mit unserer Lösungen nutzbar sind.Häufig gestellte FragenAlle FAQs anzeigen…
+Wie kann ich mich identifizieren?
+Welche Geräte sind mit der AUTHADA-App kompatibel?
+Mit welchem Ausweis kann ich mich identifizieren?
+Ich finde den Ident-Code nicht. Was kann ich tun?
+Mein Ausweis ist gesperrt. Was kann ich tun?
+Was ist die Ausweis-PIN?
+Ich habe meine PIN vergessen. Wie kann ich sie zurücksetzen?
+Wer ist der Diensteanbieter?
+GeschäftskundenBranchenFinanzenGwG-konforme KYC-Lösungen für effizientere und kostengünstigere Prozesse – online und am POS.TelekommunikationIndividuelle KYC-Lösungen und rechtssichere Identitätsprüfungen – online und am POS.eCommerceZuverlässige und sekundenschnelle Identitätsprüfung vor Warenversand.Gaming & GamblingIdentität 24/7 und ortsunabhängig bestätigen und Guthaben im Handumdrehen erhöhen.USE CASESAlle Use Cases anzeigen...
+Keine Chance für Datenmanipulation und DatenmissbrauchSIM-Karte 24/7 & von unterwegs aus freischalten & sofort nutzen SIM-Karte kaufen, freischalten und sofort nutzen – ohne Wartezeit!KUNDENPROJEKTEAlle Kundenprojekte anzeigen...
+Betrugsprävention im Online-HandelOnline-Identifikation ohne Videoident
+Lösungenident – online identifizierensign – digitale Signaturonsite – vor Ort identifizierenAUTHADAUnternehmenÜber unsErfahren Sie mehr über Werte, Meilensteine und Zertifizierungen von AUTHADA.KarriereEntdecken Sie AUTHADA als möglichen Arbeitgeber und unsere Jobangebote.KontaktNehmen Sie Kontakt zu unserem Support- oder Vertriebsteam auf.BLOGAlle Blogbeiträge anzeigen...
+Digitalisierung im Unternehmen – Warum?GWG & AML: Das GeldwäschegesetzPRESSEAlle Pressebeiträge anzeigen...
+AUTHADA erweitert Produktportfolio mit neuen Signatur- und Onboarding-Lösungen für den deutschen MarktDigital unterschreiben, europaweit und rechtssicher dank A-Trust, XiTrust und AUTHADA
+ForschungsprojekteID-IdealToggle NavigationSo funktioniert’sAnwendungenonline identifizierenonline signierenvor Ort identifizierenAusweisdokumenteFAQsalle FAQsMit welchem Ausweis kann ich mich identifizieren?Mein Ausweis ist gesperrt. Was kann ich tun?Was ist die PIN und woher bekomme ich sie?Ich habe meine PIN vergessen. Wie kann ich sie zurücksetzen?Wo finde ich meine PUK?Wie kann ich mich identifizieren?Ich finde den QR-Code nicht. Was muss ich tun?Ich habe kein NFC-fähiges Smartphone. Was kann ich tun?GeschäftskundenBranchenFinanzenTelekommunikationeCommerceGaming & GamblingUse CasesAlle Use Cases anzeigenonline identifizierenvor Ort identifizierendigital signierenvor Ort identifizieren und signierenLösungenident – online identifizierensign – digitale Signaturonsite – vor Ort identifizierenKundenprojekteAlle Kundenprojekte anzeigenProjekt in der FinanzbrancheProjekt in der TelekommunikationsbrancheProjekt in der E-Commerce-BrancheProjekt in der Gaming & Gambling BrancheAUTHADAUnternehmenÜber unsKontaktKarriereNewsBlogPresseForschungsprojekteID-IdealSocial & CopyrightKontaktCopyright © AUTHADA
+Sprache
+Deutsch
+English
+Kontakt
+ 
+Homeadmin2023-04-19T21:20:55+02:00
+AUTHADA: Online identifizieren & digital signierenMit unseren AUTHADA-Lösungen zur digitalen Identifizierung und Signatur revolutionieren wir die Interaktion zwischen Ihnen und Ihren Kundinnen und Kunden. 
+Unsere LösungenTrusted by
+Einfach & digital
+Online-Identifizierung oder digitale Signatur per Smartphone​
+Vertragsabschlüsse vollständig digital 
+Immer & überall
+Von unterwegs und auch am POS schnell und rechtssicher
+24/7 identifizieren und signieren​
+Sicher & vertrauensvoll
+Erfüllung aller gesetzlichen Vorgaben​
+Höchste Standards im Bereich IT-Sicherheit als Basis unserer Services
+Unsere Lösungen
+online identifizieren – ident
+Einfach identifizieren mit deutschem Personalausweis, Aufenthaltstitel oder eID-Karte für Unionsbürger*innen, Ausweis-PIN und Smartphone
+Identität bestätigen und das in unter 1 Minute
+24/7 verfügbar
+Mehr erfahren
+digital signieren – sign
+Rechtsgültige elektronische Unterschrift (QES) als Handschrift-Ersatz generieren
+Verträge komplett digital abwickeln – ob unterwegs oder am POS
+Auch in stark regulierten Bereichen einsetzbar
+Mehr erfahren
+vor Ort identifizieren – onsite
+KYC-konformes Customer-Onboarding in weniger als 50 % der gewohnten Zeit
+Kopieren, Scannen und Archivieren des Ausweisdokuments – und alles in einem Schritt
+Prozessoptimierung am POS
+Mehr erfahrenExklusiver Partner von InfoCertWir sind Ihr Ansprechpartner auf dem deutschen Markt, wenn es um Fragen und Informationen zu den Lösungen von InfoCert geht.
+Mehr Informationen
+Und so funktioniert’sonline identifizierendigital signierenvor Ort identifizierenvor Ort identifizieren & signierenonline identifizierenAUTHADA-App öffnenAUTHADA-App öffnen, ident-Code eingeben, QR-Code scannen oder auf Hyperlink klicken.
+PIN eingeben5- oder 6-stellige Ausweis-PIN in AUTHADA-App eingeben.
+Ausweis per NFC auslesenAusweis nach Aufforderung an NFC-Schnittstelle des Smartphones halten.
+Ausweisdaten übertragenÜber den Chip des Ausweises und die NFC-Schnittstelle des Smartphones werden die Daten an den Diensteanbieter übermittelt.
+Mehr zum Use CaseFragen zur Identifizierung? Zu unseren FAQs!
+digital signierenAUTHADA sign startenAUTHADA sign starten und folgen den Anweisungen in der Anwendung folgen.
+Ausweis und PINNach Aufforderung der App den Ausweis an die NFC-Schnittstelle des Smartphones halten und die Identität mittels Eingabe der 5- oder 6-stelligen PIN bestätigen.
+Per Klick signierenDas Dokument mit nur einem Klick unterschreiben.
+DatenübertragungDie Ausweisdaten sowie die unterzeichneten Dokumente werden im letzten Schritt an den Diensteanbieter übertragen.
+Mehr zum Use Case
+vor Ort identifizierenAUTHADA onsite öffnenDie/Der Filialmitarbeiter*in öffnet auf einem mobilen Gerät AUTHADA onsite und folgt den Anweisungen in der Anwendung.
+Fotos erstellenDie/Der Filialmitarbeiter*in erfasst mit der App die Ausweisdokumente der Kundin bzw. des Kunden.
+Ausweis per NFC/OCR auslesenAUTHADA onsite liest die Ausweisdaten der Kundin bzw. des Kunden aus.
+DatenübertragungDie Fotos sowie die Daten der Ausweisdokumente werden automatisch in das Filialsystem übertragen und darin archiviert.
+Mehr zum Use Case
+vor Ort identifizieren & signierenAUTHADA onsite öffnenDie/Der Filialmitarbeiter*in öffnet auf einem mobilen Gerät AUTHADA onsite und folgt den Anweisungen in der Anwendung.
+Ausweis erfassenDie/Der Filialmitarbeiter*in erfasst mit der App die Ausweisdokumente der Kundin bzw. des Kunden.
+Per Klick signierenNach der bestätigten Identifizierung generieren Kundin und Kunden durch einen zugesandten Code an ihr/sein Smartphone eine qualifizierte elektronische Signatur mit nur einem Klick.
+DatenübertragungDie Ausweisdaten sowie die elektronisch signierten Dokumente werden automatisch in das Filialsystem übertragen und archiviert.
+Mehr zum Use Case
+News
+23.03.2023
+		Digitalisierung im Unternehmen – Warum?	
+Die Corona-Pandemie hat vielen Unternehmen verstärkt gezeigt, wie wichtig Digitalisierung ist und an welchen Stellen sie vielleicht im eigenen Unternehmen noch nicht ausreichend umgesetzt wurde. Aber was ist Digitalisierung eigentlich? Und woran erkenne ich, den Digitalisierungsbedarf im Unternehmen? 
+Zum Artikel
+16.02.2023
+		GWG & AML: Das Geldwäschegesetz	
+Illegal erworbenes Geld in den Wirtschaftskreislauf einbringen – ohne dabei zu offenbaren, woher das Geld stammt: Das ist das Ziel von Geldwäsche. In der Serie „Breaking Bad“ eröffnet „Walter White“ eine Auto-Waschanlage, um sein Geld aus Drogengeschäften „reinzuwaschen“. Das GWG – das Geldwäschegesetz – soll das verhindern. Was Geldwäsche genau bedeutet und weitere spannende Fakten rund um das Thema finden Sie im Folgenden.
+Zum Artikel
+17.01.2023
+		KYC: Was ist das und wer braucht das?	
+„Drum prüfe wer sich ewig bindet (…)“ – dieses Zitat aus dem Gedicht von Friedrich Schiller aus dem Jahr 1799 wird gerne im Zusammenhang mit dem Thema Heirat verwendet. Aber auch auf Geschäftsbeziehungen lässt sich die Zeile anwenden. Denn vor jeder Beziehung sollte geprüft werden: „Ist die Person diejenige, für die sie sich ausgibt?“. Hilfestellung und Rahmenbedingungen bietet hierbei der KYC-Prozess.
+Zum Artikel
+13.12.2022
+		AUTHADA erhält erneut ISO 27001-Zertifizierung	
+AUTHADA erhält bereits zum zweiten Mal in Folge die ISO 27001-Zertifizierung. Für eine erneute IDA-Zertifizierung befindet sich AUTHADA im Rezertifizierungsprozess. Ein Mehrwert für Kundinnen und Kunden des Unternehmens, aber auch für deren Kundinnen und Kunden. Welche Vorteile Partner*innen und Kundinnen und Kunden sowie Nutzer*innen haben klären wir im Folgenden.
+Zum Artikel
+29.11.2022
+		Identitätsdieb­stahl: Das Unternehmen sowie Kundinnen und Kunden schützen	
+Wurden früher noch überwiegend Kreditkartendaten online gestohlen, haben es Online-Diebstähle mittlerweile zunehmend auf Identitäten abgesehen – das besagt der Global Identity and Fraud Report 2022 von Experian. Doch wie können Unternehmen dem vorbeugen und sich und ihre Kundinnen und Kunden bzw. Nutzerinnen und Nutzer schützen? Wir geben in diesem Artikel Tipps und Hinweise.
+Zum Artikel
+17.11.2022
+		ISO 27001- und IDA-Zertifizierung: Unterschiede der Identifizierungs­dienste­anbieter	
+Es gibt unterschiedliche Identifizierungsdienstleister. Sie unterscheiden sich nicht nur in ihren Lösungen, sondern auch darin, ob sie ISO 27001- und IDA-zertifiziert sind, oder nicht. Aber was sagen genau bedeuten diese Zertifizierungen? Was sagen sie über ein Unternehmen aus? Der Informationssicherheitsmanagementbeauftragte der AUTHADA GmbH, Patric Meister, beantwortet diese und noch weitere Fragen.
+Zum Artikel
+03.11.2022
+		Identitätsdiebstahl: So können Sie sich schützen	
+Im Jahr 2021 nutzten 66,6 Millionen Deutsche das Internet 54% davon täglich - Tendenz steigend. Mit der Nutzung des Internets steigt jedoch auch der Reiz für Kriminelle, das Netz für Ihre Zwecke zu missbrauchen. Aber was ist Identitätsdiebstahl eigentlich und wie kann man sich schützen? Das klären wir in diesem Artikel.
+Zum Artikel
+18.10.2022
+		Sicherheit und Beweiskraft dank QES in der eIDAS-Verordnung	
+Die QES erfährt in den letzten Jahren immer mehr Aufmerksamkeit und Anwendungsfälle. Sie ist neben der handschriftlichen Signatur die einzige digitale und rechtlich gleichgestellte Alternative zur handschriftlichen Signatur. Definiert und legitimiert wird sie in der bzw. durch die eIDAS-Verordnung. Inwiefern die eIDAS-Verordnung den regulatorischen Rahmen der QES darstellt und was das für Unternehmen bedeutet, stellen wir Ihnen im Folgenden vor.
+Zum Artikel
+11.10.2022
+		Wallets im Unternehmenskontext – Chancen und Herausforderungen	
+Wallets sind in aller Munde – aber welche Rolle spielen sie für Unternehmen? Können sie sowohl einen Mehrwert für Kundinnen und Kunden als auch für das eigene Unternehmen darstellen? Wir klären in diesem Beitrag den Nutzen von Wallets und wie Unternehmen davon profitieren können. 
+Zum Artikel
+20.09.2022
+		Was ist eine qualifizierte elektronische Signatur (QES)?	
+Der Weg hin zu einem unterzeichneten Dokument kann viele Ressourcen eines Unternehmens sowie einer Privatperson beanspruchen: personelle, finanzielle und auch organisatorische. Ressourcen, die man sich sparen kann, geht man mit der Zeit und der Digitalisierung. Die „Qualifizierte Elektronische Signatur“ (QES) beschleunigt und vereinfacht die Prozesse, schont demnach wichtige Ressourcen und ist darüber hinaus rechtskonform und sicher. Doch was genau macht die QES so sicher?
+Zum Artikel
+Zu den NewsGeschäftskunde?Schreiben Sie uns Ihr Anliegen oder vereinbaren Sie ein unverbindliches Beratungsgespräch.
+Vertrieb kontaktierenNutzer*in?Sie finden die Antwort auf Ihre Frage nicht in unseren FAQs? Schreiben Sie uns einfach eine Nachricht – wir helfen Ihnen gerne!
+Support kontaktieren
+ 
+ 
+Julius-Reiber-Straße 15A
+64293 Darmstadt
+DemoFAQsKarrierePresseDatenschutzhinweiseImpressumNEWSLETTER ABONNIERENCopyright © AUTHADA
+Julius-Reiber-Straße 15A
+64293 Darmstadt
+DemoFAQsKarrierePresseDatenschutzhinweiseImpressumCopyright © AUTHADA
+ 
+ 
+Page load link
+ 
+Nach oben

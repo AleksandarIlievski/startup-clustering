@@ -1,0 +1,55 @@
+Tausch und Tracking | Logistikbude Dortmund
+top of pageStartLösungNutzenTechnologieTeamProduktKontaktBlogZur Plattform
+Zur Plattform
+Die Software-Infrastruktur
+für Mehrwegsysteme ​Wir ermöglichen es Unternehmen ihre Mehrweg-Objekte effizienter und mit weniger Personal zu nutzen. Sofort und ohne eigene Infrastruktur.Jetzt unverbindlich kennenlernenoder direkt eine Demo buchen. 
+Unsere KundenTo play, press and hold the enter key. To stop, release the enter key.StartLösungNutzenTechnologieTeamProduktKontaktBlogMoreUse tab to navigate through the menu items.LösungMehrweg-Management betrifft fast jedes Unternehmen
+ Mehrweg-Ladungsträger wie Paletten, Behälter, Gestelle und Co sind notwendig, um Produkte sicher zu transportieren und zu lagern. Das Management verursacht durch Buchungen, Abstimmung und Zusammentragen von Daten hohen Personalaufwand. Durch Schwund und langsame Umlaufzeiten entstehen zudem Kosten durch Nachkauf und Kapitalbindung. Wir digitalisieren Ihr Mehrweg-Management. Sofort.Unsere Software ist sofort nutzbar und ermöglicht es bestehende Ladungsträger effizienter zu nutzen und den Personalaufwand für das Management zu reduzieren. Dazu bieten wir Webanwendung, App und Schnittstellen im out of the Box Ansatz an.  Mehr 
+Nutzen
+Potenziale durch die Digitalisierung des Mehrweg-Managements:bis zu80 %weniger Personalaufwand durch Automatisierung der Prozesse von Erfassung bis zur Abstimmung bis zu40 %weniger Nachkauf von Mehrweg durch Reduzierung von Schwund und Erhöhung der Umlaufgeschwindigkeitbis zu20.000 teingesparte CO2-Emmissionen (GWP) durch weniger Schwund, weniger Bedarf und weniger Transporte von LeergutTechnologieSo digitalisieren Sie mit uns Ihr Mehrweg-Management Unsere Software besteht aus einer Website, einer App und diversen Schnittstellen (API). Die Erfassung von Daten kann so unabhängig von Technologien und Mehrweg-Typen ganz nach Ihren Bedürfnissen per mobile Device, Webmaske, IoT-Sensor oder im eigenen System erfolgen. Unsere Algorithmen automatisieren anschließend alle weiteren Prozesse, so dass Sie sich auf Ihr Kerngeschäft konzentrieren können. Unser AnsatzWir machen modernste Technologien für das Ladungsträger-Management einfach nutzbar. Damit Sie sich nicht mehr über Ladungsträger ärgern müssen und sich wieder auf Ihr Kerngeschäft konzentrieren können.Einfachheit
+Unsere Software ist selbsterklärend aufgebaut und bietet Anleitungen direkt in der Software. So können Sie selbst Nutzer, Standorte, Konten und Ladungsträger verwalten. Durch den innovativen Cloudansatz können Sie direkt ohne eigene Infrastruktur beginnen. Expertenwissen
+Unser Team kombiniert Wissen zu Mehrweg mit herausragender Technologie. Zusammen haben wir über 20 Jahr am Fraunhofer IML zu Mehrweg beraten und Software in dem Bereich entwickelt.Unabhängig
+Sie können mit unserer Software sämtliche Mehrwegobjekte verwalten: Von Standard-Ladungsträgern über individuelle Ladungsträger bis hin zu Sonderlösungen wie Cargobikes oder Mehrweg-Geschirr. Neben der App für Web und Mobilgerät können über Schnittstellen beliebige Systeme (TMS, WMS, ERP etc.) und Technologien (RFID, IoT, Tracker etc.) angebunden werdenDatensicherheit
+Die Software wird auf Microsoft Servern betrieben und bietet daher höchste Standards an Datensicherheit und Verfügbarkeit.Über UnsTeam
+Dr. Philipp Wrycza
+Co-Founder & CEO
+Michael Koscharnyj
+Co-Founder & COO
+Carmen Riehemann
+Marketing
+Serhiy Danilevych
+Softwareentwicklung
+Patrik Elfert
+Co-Founder & CTO
+Vanessa Trauner
+Softwareentwicklung
+Jan Möller
+Co-Founder & CTO
+Du?ProduktUnsere Pakete auf einem BlickProdukt FunktionenTauschkontenLadungsträgertypenStandorteSchnittstellenAppBuchungSonderbuchungDigitaler TauschbelegBestandsmanagementAutomatische AbstimmungSerialisierungLokalisierungZuständeVerknüpfungLieferungIoT-TrackingTracking
+Tausch
+Komplett
+KennzahlenUnsere 5-Stufen-Methode für Ihr Anliegen1Kennenlernen+ Gegenseitiges Kennenlernen
+​
++ Ihre Herausforderungen im Detail verstehen
+​
++ Ehrliche Einschätzung ob sich dies mit unserer Software lösen lässtI’m a paragraph. Double click me or click Edit Text, it's easy.
+Live Demo2Read More >+ Vorstellung unserer Software an Ihrem Use Case
+​
++ Angebot mit transparentem PreismodellOptional
+Pilotprojekt & Gapanalyse3+ Einlesen Ihrer Daten
+​
++ Ausführliches Testen der Software in der Praxis
+​
++ Enge Begleitung mit festem Ansprechpartner
+​
++ Analyse der fehlenden Funktionen und Schnittstellen4Optional
+Anpassung &  Beratung+ Programmierung der fehlenden Funktionen & Schnittstellen
+​
++ Beratung bei der Schaffung von Rahmen-bedingungen
+​
++ Business Case 
+Berechnungen5Betrieb+ Betrieb der Software in der Microsoft Azure- Infrastruktur
+​
++ Laufende Weiterentwicklung & Updates
+ 
++ Support inkl. Ticketing-SystemKontaktNehmen Sie Kontakt zu uns auf!Ich habe Interesse anKontaktDemoInfomaterialSonstigemWie sind Sie auf uns aufmerksam geworden?arrow&amp;vWas ist Ihr Use Case?Telefon (optional)Abschicken Vielen Dank! Wir melden uns!  Unsere Partner und Preise:StartKarriereGlossarFAQAGBDatenschutzImpressum © 2023 Logistikbude GmbHbottom of page

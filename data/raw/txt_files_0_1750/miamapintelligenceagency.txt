@@ -1,0 +1,16 @@
+MIA map intelligence agency
+ EN Presse Blog  Analysen für Mobilitätsdaten Die MIA Mobility Engine hilft Städten und Unternehmen datengestützte Entscheidungen über Mobilitätsinfrastrukturen und -angebote zu treffen. Kontakt aufnehmen Um erfolgreiche Mobilitätsinfrastrukturen und -angebote zu schaffen, muss man die Mobilität quantifizieren. Ohne die Erfassung von KPIs ist es unmöglich gute Maßnahmen umzusetzen. Entscheidungen werden somit aus dem Bauch heraus getroffen. Die MIA Mobility Engine ermöglicht eine objektive Entscheidungsfindung auf Datenbasis.    Datenimport 
+                Wir arbeiten mit Ihnen oder Partnern zusammen um Mobilitätsdaten live oder einmalig in unsere Plattform zu importieren.
+                Datenanalyse 
+                Im Hintergrund werden Ihre Daten automatisch mithilfe von unseren Machine Learning Algorithmen ausgewertet.
+                Visualisierungen 
+                Mit Ihren Zugangsdaten können Sie in jedem Browser von überall unsere Analyseergebnisse im Web-Dashboard einsehen.
+                Use-Cases der MIA Mobility Engine  Städte  Unternehmen   Standzeitanalyse Identifizierung von fahrtbeeinträchtigenden Ampeln und Ampelfolgen  Fahrgastanalyse Auswertung von Fahrten mit Geschwindigkeit, Richtung und Häufigkeit  Effizienzanalyse Verbesserung der Effizienz und Auslastung einer Fahrzeugflotte  Zusammenfahranalyse Erkennung von Nutzergruppen und -dynamiken im Verkehr  Quelle-Ziel-Analyse Fahrtwege und Routen zwischen Regionen visualisieren und verstehen  Wartungsplanung Optimale Einsetzung von Personal um Feldaufgaben zu erledigen  CO₂ Analyse Emissionskarte für Flotten und Stadtverwaltungen Häufige Fragen 
+                Woher kommen die Daten?
+               Sie können ihre bestehenden Daten einfach an uns übermitteln, oder falls noch keine Daten erhoben werden, kennen wir die richtigen Partner für Ihr Projekt. Wir sammeln selbst keine Daten. 
+                Wir brauchen eine spezielle Analyse!
+               Gerne entwickeln wir auf Wunsch kundenspezifische Analysen, die Ihren ganz speziellen Anforderungen entsprechen, oder passen eine bestehende Analyse an. 
+                Wie hoch sind die Kosten?
+               Egal, ob ein kleines oder großes Projekt, wir versuchen stets unseren Kunden ein faires Angebot zu machen. Die Kosten starten bei 1.500,00 € zuzüglich Modulgebühren pro Monat. 
+                Wie lange dauert die Integration?
+               In Abhängigkeit von den Anforderungen, Datenqualität und involvierten Partnern rechnen wir mit einer Startzeit zwischen vier und zwölf Wochen.          Lösungen MIA Mobility Engine gbfsQL MIA Mobility Map Über uns Blog Jobs Unternehmen Pressroom Meet the Team Rechtliches Impressum Datenschutzerklärung © 2019 - 2021     

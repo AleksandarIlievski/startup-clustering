@@ -1,0 +1,141 @@
+        fruux | Contacts, calendars & tasks for teams.    
+Login
+Get started. It's free!
+schedule an event
+Works with
+Pricing
+Developers
+Contacts, calendars & tasks.
+            Securely share, sync and collaborate in teams.
+            
+            Automatically backed up and always consistent.
+        
+Get started. It's free!
+You are using a very old browser! 
+    Please switch to a recent version of Firefox, Chrome, Safari, Opera or at least update your Internet Explorer. Thanks!
+Javascript is required to use fruux!
+        Please make sure it's turned on, or proceed at your own risk.
+    
+Easy collaboration.
+Contacts, calendars and tasks for teams.
+Betty
+Design
+                            “Hey Johnny, I shared the project calendar with you.
+                            Check it out.”
+                        
+Johnny
+Marketing
+                            “Thanks, Betty. I am adding a task list as we speak.”
+                        
+Organization made easy.
+                Save time with shared contacts, events and tasks.
+            
+Contacts
+Search
+Sort options
+Calendars
+Multiple views
+Customizable start of the week
+Supports 12h and 24h format
+Tasks
+Search
+Multiple lists
+Filtering
+Any device and the web.
+                        Windows
+                    
+                        Apple
+                    
+                        Linux
+                    
+                        Android
+                    
+                        BlackBerry
+                    
+                        Sailfish
+                    
+                        fruux Webapp
+                    
+Get started. It's free!
+Work smarter, not harder.
+Simplified scheduling
+                        With free-busy you'll find the right date and time for meetings faster.
+                    
+Better meetings
+                        Check right in your calendar who will be present at your meeting.
+                    
+Out of office
+                        Easy access to your contacts, calendars and tasks while you are out of office.
+                    
+Delegation
+                        With delegation your assistant can easily manage your schedule.
+                    
+Get started. It's free!
+These features require a compatible calendar application. We're working on also adding support to the webapp.
+Public calendars.
+                Show your calendars to the world and keep people informed.
+            
+                Just share the link of your public calendar or embed it on your website like we did below.
+            
+As seen on
+Smart management.
+It starts with your team
+                            Create a team for your company or department.
+                        
+Manage your team
+                            Invite your team members and assign them roles.
+                        
+Contacts, calendars & tasks
+                            You have full control over who gets access to what.
+                        
+Anywhere. Always updated. Secure.
+Any device, anywhere
+                            fruux works across platforms and devices. You'll always have access to your contacts, calendars and tasks.
+                        
+Always updated
+                            Your devices will always stay automatically in sync. Any change you make propagates to your other devices.
+                        
+Always secure
+                            Your data is always encrypted and securely backed up for you - on servers in Germany.
+                        
+New device, no hassle
+                            Whenever you get a new device, just set up fruux and your data is already there.
+                        
+Premium support
+                        We got your back. Just send an email and we'll help you within 24 hours. Usually much faster.
+                    
+Open standards
+                        With CardDAV and CalDAV you won't be locked in to any particular vendor.
+                    
+Serious about privacy
+                        We will never sell or give away your data. Your personal information is yours and it will never be owned by us.
+                    
+We ♥ open source
+                        We are behind sabre/dav, which is the most popular open source implementation of the WebDAV, CardDAV and CalDAV standards. Besides us, developers and companies around the globe use our sabre/dav technology to deliver sync functionality to millions of users.
+                        
+                        We also contribute to and release a lot of other open source software.
+                    
+Visit sabre.io
+Get started. It's free!
+Product
+Works with
+Pricing
+Security
+API
+Resources
+Support
+Developers
+Suggest a feature
+Enterprise
+Company
+About
+Open source
+Press
+Legal info
+Privacy
+Legal
+Terms
+ Facebook
+ Twitter
+            © 2007 – 2023 fruux GmbH
+        

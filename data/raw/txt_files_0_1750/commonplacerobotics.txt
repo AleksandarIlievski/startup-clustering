@@ -1,0 +1,42 @@
+Commonplace Robotics
+ 
+Menu
+Robot control
+Software
+Motor Electronics
+Robots for …
+Industry
+Robot Gantry Cell
+Robot Arms
+Service
+Compact Mobile Platform
+Butler-Platform
+OEM-Robot
+Education
+Mover6
+Mover5
+Mover4
+ROS Packages
+Where to buy..
+Support
+Documentation and software updates
+FAQ / Wiki
+Remote Support
+Training
+Contact
+Company
+Career
+Contact
+Privacy Policy
+Impressum
+ 
+Search
+robot controlsoftware to control and program different types of robots.
+Made for Windows with a 3D-surface and embedded Linux.
+read moreindustrial productionrobots and robot cells for industrial production tasks
+read moreservice roboticrobot arms and mobile platforms for the service robotic
+to use in R+D and serial applications
+read more 
+ 
+ 
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.OkPrivacy policy

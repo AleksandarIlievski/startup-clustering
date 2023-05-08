@@ -1,0 +1,148 @@
+modelwise | model-based safety engineering
+ 
+Product
+Company
+Career
+Contact us
+Resources
+Blog
+Exposé
+Success stories
+Customer center
+DE
+EN
+ 
+Select Page
+  
+ 
+ 
+ 
+Automating FunctionalSafety Analysis
+Seamlessly integrated software for automated failure analysis
+Discover more
+Contact us
+Faster Analyses
+Reduce weeks of safety assessment to a few hours. paitron can automate at least ~60% of the FMEA tasks for you.
+Zero Defects
+Trusted algorithms & methods allow white-box reasoning. Highest quality ensured with a concept report received from TÜV SÜD.
+Save More
+Identify design flaws early & save up to 80% of costs. paitron supports Design-, System- & Piece-part-FMEA.
+No mortal can do 23k checks in 40 minutes 
+JOCHEN DÄSCHLER
+Functional Safety Expert,HIMA GmbH
+paitron saves me three days of copying data from one tool to another for each assessment
+MICHAEL KINDERMANN
+Head of Functional Safety Management,Pepperl+Fuchs SE
+With paitron, I can improve the quality of my safety assessments and products.
+MARKUS DALHEIMER 
+Functional Safety Engineer,HIMA GmbH
+Top of the line
+Our Clients
+Reap the benefits
+Learn more about how paitron can support you
+Want to accelerate the time to market?
+Want to automate routine tasks?
+Want to increase product quality?
+Want to increase efficiency of engineers?
+Do you want to
+      
+increase efficiency of engineers?
+increase product quality?
+accelerate time to market?
+automate routine tasks?
+reduce media breaks?
+%
+Less media breaks 
+%
+Early stage savings
+%
+Routine tasks automated
+Faster than manual
+Our innovation
+paitron in one glance
+paitron automates safety analysis through model-based failure propagation. Artificial intelligence & qualitative models allow a complete & correct analysis of possible system behavior & the effects of errors. The software analyzes engineering models with potentially unsafe design flaws even in early product stages.
+To keep the overhead for modeling as low as possible, industry-specific libraries for fault & component models are included with paitron. The fault modes are selected automatically according to the desired safety norm & level.
+Find out more on the supported Standards, Interfaces and Analyses.
+Standards
+Interfaces
+Analyses
+Up & above
+Our Achievements
+Going strong
+Our Supporters
+Latest DEVELOPMENTS
+What’s happening?
+Automatic assessment of an industrial safety-critical system
+Mar 7, 2022 | Success storiesThe HIMax is an industrial safety-critical system of the HIMA Paul Hildebrandt GmbH that contains multiple digital output modules, whose signals are intended for use in a programmable electronic system. In this article, a partial safety analysis of the HIMax is assessed with paitron.
+read more
+modelwise achieves TÜV concept report
+Mar 2, 2022 | Success storiesThis article aims to show how the tool concept of paitron was evaluated from TÜV SÜD and regarding its certification ability as a qualified software for the use in safety-critical applications. 
+read more
+​Where did ARP 4761 go wrong?
+Nov 28, 2021 | Success storiesIn this article, we compare a manually generated expert failure modes and effects analysis (FMEA) taken from SAE ARP4761 with an automatically generated one, produced with paitron and find where the ARP 4761 went wrong.
+read more
+modelwise One-pager
+Nov 11, 2021 | ExposéWe are the first company to develop a mathematically complete solution for accelerated and improved safety assessment – paitron. In this one-pager, we explain modelwise a bit more including what we have achieved, how we provide value to the customer as well as our portfolio. 
+read more
+How long will my Arduino project work?
+Oct 28, 2021 | BlogIn this article, a failure mode and diagnostic analysis (FMEDA) of the power supply module of an Arduino™ UNO Rev3 is presented in order to assess the robustness of its design and estimate its lifetime when being uninterruptedly powered.
+read more
+All News
+ 
+Ready to get started?
+Schedule a demo
+Customers
+Product
+Services
+Success Stories
+Contact Us
+Company
+About us
+Team
+Career
+Resources
+More information
+Terms & Conditions
+Privacy Policy
+Imprint
+Cookie Policy
+FollowFollow
+Subscribe to our newsletter and be the first one to know about the latest news and developments
+Thank you for subscribing!
+Name
+Email
+Subscribe
+You can unsubscribe from these communications at any time. For more information, please review our Privacy Policy.
+© modelwise 2023  | All Rights Reserved
+ 
+ 
+Manage Cookie Consent
+We use cookies to optimize our website & our service. Because we value your privacy, we are herewith asking for your permission to use these technologies. You can always change/withdraw your consent later by clicking on the "Manage consent" button on the right lower corner of the page.
+Functional
+Functional
+								Always active							
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+Preferences
+Preferences
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+Statistics
+Statistics
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+Marketing
+Marketing
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Manage options
+Manage services
+Manage vendors
+Read more about these purposes
+Accept
+Dismiss
+Preferences
+Save preferences
+Preferences
+{title}
+{title}
+{title}
+Manage consent
+ 

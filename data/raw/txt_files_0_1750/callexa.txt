@@ -1,0 +1,241 @@
+Home - Callexa
+					+49 (0)7245 903 60 91
+				
+					info@callexa.com
+				
+                    English
+                
+                    German
+                
+ 
+						Login
+					
+								Support
+							
+								Blog
+							
+																Testimonials
+							
+											NETZkultur Informationssysteme GmbH
+										
+											Siempre en Casa
+										
+											ATMANTAN Wellness Resort
+										
+											Craft Society
+										
+								Integrations
+							
+								Widgets
+							
+								Impress
+							
+What's the foundation of a company?Their customer's satisfaction!
+            So far only a few companies made the jump to introduce new means of customer sentiment analysis.
+Callexa will help to change that.
+        
+Take the opportunity to measure and predict your customer's behaviour.
+Unsatisfied customers are lost customers. Only convinced customers will become the loyal driving force for the success of your company.
+Adapt your company strategy to the needs of your customers.
+Your customers know best. Listen to what they have to say, recognize weak spots and use the potential to improve your performance. Callexa equips you with the tools you need.
+            Permanently free Starter-Plan.
+        
+                Grab your free plan now!
+            
+Analyse and measure customer sentiment. React immediately.
+Customer satisfaction identifies the perception and quality of your companies relationship to its customers. Callexa helps you to measure this valuable information, makes customer needs predictable and gives you means to react accordingly. This will improve the relationship to your customers and increase the quality and number of recommendations.
+Online shops, services or customer care. Your performance counts.
+Sale
+Callexa does the follow-up survey and gives your customers a voice.
+Survey
+Recognize weak spots and improve your strategy.
+Feedback
+Track
+ Solid scoring model
+ Prevent cancellations
+ Track customer development
+ Identify weak spots
+ Spur passive customers
+ Reward loyal customers
+« HOW DOES THAT WORK? »
+Evaluate customer sentiment
+Callexa uses modern 1 click surveys based on Net Promoter® Score (NPS), measuring the willingness of your customers to recommend you to their friends or colleagues. By doing so, your customer puts his credibility on the line, which evidentially results in more accurate assessments than impersonal ratings. NPS is already used by many well-known companies and has proven to achieve higher response rates than ordinary survey methods.
+Our survey template is optimized for mailings and compatible with most email clients or webmail services. Adapt it to your needs with custom text blocks, personalized salutation and your company logo. No tedious scripting, what you see is what you get.
+Net Promoter, Net Promoter Score, and NPS are trademarks of Satmetrix Systems, Inc., Bain & Company, Inc., and Fred Reichheld.
+Manage your survey recipients
+					Conduct directed customer surveys regulary or by using our API right after certain events.
+					For example several days after an order, a support inquiry or even a cancellation.
+					
+4 ways to connect to your customers:
+Link to the survey in your newsletters or on your website.
+Manage recipient lists to target a selected group of customers.
+Import and export data easily with CSV files.
+Use our API to connect Callexa to your CRM or Online Shop.
+					We provide a distributed mailing service or you can set up your own mail server to send scheduled surveys with just a few clicks.
+				
+Monitor your company scoring
+					Track the development of your overall scoring, based on the responses you get. Our well-arranged dashboard keeps you informed
+					about the feedback coming in and our detailed reports help you to evaluate your service.
+					
+					Get realtime feedback on the impact of changes you made	in your customer service. Get to know the reasons for cancellations or
+					returning goods. React to critism immediately and know your strengths and weaknesses.
+					
+					Callexa is a brand new service. We want you to be open to suggestions, so we are too.
+					Try our service for free and if there is anything you need, just tell us!
+« DID WE RAISE YOUR INTEREST? »
+Register your free starter account today:
+ Convenient and mobile friendly web interface
+ Send up to 50 surveys per month
+ Access to all detailed reports
+ Embed testimonials into your own website
+ Permanently free and non-binding
+ Immediate account activation
+ Register now
+STARTER
+50 Surveys per month
+                                                                        Testimonials, Email Support, Tagging / Detailed Ratings
+                                
+free
+Register now
+SMALL
+500 Surveys per month
+                                                                        Testimonials, Link Surveys, API Control, Data Export, Email Support, Tagging / Detailed Ratings, Website Widget
+                                
+39,90 $ per Month
+Please register first
+MEDIUM
+1000 Surveys per month
+                                                                        Testimonials, Link Surveys, API Control, Data Export, Email Support, Phone Support, Tagging / Detailed Ratings, Website Widget
+                                
+64,90 $ per Month
+Please register first
+LARGE
+5000 Surveys per month
+                                                                        Testimonials, Link Surveys, API Control, Data Export, Email Support, Phone Support, Tagging / Detailed Ratings, Website Widget
+                                
+99,90 $ per Month
+Please register first
+« Integrations »
+Callexa can be integrated with popular CRM solutions and Shop Systems. We are continuously working on more integrations. The following systems are already supported:
+« Testimonials »
+                                    I am absolutely thrilled about Callexa. Design, usability, configuration options, cockpit - everything very intuitive & structured. I have worked with Zenloop so far and I think Callexa is even better already! Especially for start-ups, it's a great tool to develop the product or service for the future in cooperation with the customer.
+                    - Stephan Berg, Founder & CEO So schmeckt Erfolg
+                                    We already knew the Net Promoter Score from previous customer surveys. To ensure and evaluate the quality of "infra-structure", we were planning to carry out a customer satisfaction survey, which is simple and which would also be done quickly.
+                    The detailed feedback from customers regarding our software "infra-structure" could be passed on to our development department in the form of suggestions for improvement; also as problem cases to the support department for further treatment.
+                    - Ino Holling, CEO NETZkultur
+                                    We launched on BigCommerce in early 2019 and immediately added Callexa as our NPS tool. Once integrated and dialed in (super easy!), we're automatically surveying customers to get a glimpse into what we're doing well and what we should work to improve. The feedback has been invaluable as we prioritize improvements and additional optimizations to the site and our fulfillment processes. There are more expensive, complex, and customizable NPS tools out there, but Callexa continues to provide the insight we need in an easy to use and cost effective format. I would highly recommend this app to anyone looking for a NPS solution for their BigCommerce storefront.
+                                - Philip Krug, Marketing West Coast Sailing
+                                    We have used the Quotes of our very satisfied customers in our user reports.
+                                - Stefanie Heither-Bürger, Marketing NETZkultur
+                                    Very sleek and good tool, we have only had the best experiences.
+                    - Dr. Michael Streng, Managing Partner parameta
+                                    The Net Promoter Score is a central element in connection with customer feedback. Simple, neat, professional!
+                    With Callexa Feedback you are offering an outstanding NPS tool for a quick and uncomplicated customer response, suitable for daily use.
+                    - Dr. Lars Wohlers, CEO KON-TIKI
+									STARTER
+								
+										50 Surveys per month
+									
+																					Testimonials
+																					Email Support
+																					Tagging / Detailed Ratings
+Also included for the first 30 days:
+																							Link Surveys
+																							Website Widget
+																							Data Export
+																							API Control
+																							Phone Support
+free
+Register now
+									SMALL
+								
+										500 Surveys per month
+									
+																					Testimonials
+																					Link Surveys
+																					API Control
+																					Data Export
+																					Email Support
+																					Tagging / Detailed Ratings
+																					Website Widget
+$ 39,90 per Month *
+Please register first
+									MEDIUM
+								
+										1000 Surveys per month
+									
+																					Testimonials
+																					Link Surveys
+																					API Control
+																					Data Export
+																					Email Support
+																					Phone Support
+																					Tagging / Detailed Ratings
+																					Website Widget
+$ 64,90 per Month *
+Please register first
+									LARGE
+								
+										5000 Surveys per month
+									
+																					Testimonials
+																					Link Surveys
+																					API Control
+																					Data Export
+																					Email Support
+																					Phone Support
+																					Tagging / Detailed Ratings
+																					Website Widget
+$ 99,90 per Month *
+Please register first
+* All prices are without the value-added tax as valid on the date of invoicing.
+Questions or particular wishes? Contact us:
+  
+				+49 (0)7245 903 60 91
+				 | 
+				  
+				info@callexa.com
+ 30 days money back guarantee
+In case you are not fully satisfied, you can request a full refund during the first 30 days.
+ Special requirements?
+Need higher capacities, CRM support or specific functions? We'd be happy to discuss a custom solution with you.
+ Discounts for the good cause
+Are you part of a nonprofit or educational institution? Contact us to get your individual discount.
+Start getting valuable customer feedback for free!
+ Not now
+ Permanently free STARTER plan.
+If you need more surveys or features, upgrade to one of our advanced plans at any time.
+ No liabilities, no pitfalls.
+You start with the free plan and our paid plans are transparent and easy to understand.
+ Start immediately.
+Your starter account is ready from the get-go. Your first survey sent in just a few minutes.
+ Create account
+I have read and accepted the Terms and Conditions and Privacy Statement.
+					Copexa GmbH
+Wagnerstr. 25
+DE-76448 Durmersheim
+				
+Miscellaneous
+							NPS Calculator
+						
+							Terms and Conditions
+						
+							Privacy Statement
+						
+© 2023 Callexa Feedback
++49 (0)7245 903 60 91
+info@callexa.com
+Sitemap
+            We use cookies for the technical functionality of this website. With your consent, we also collect page views and other statistical data in anonymized form.
+                Accept all cookies
+            
+Select individually
+Cookie Settings
+Read Privacy Statement
+Neccessary Cookies
+These cookies are necessary for the functionality of our website and cannot be switched off within our system. No personal data is collected and no data is permanently stored.
+Performance & Comfort
+We host a customer service live chat on our own servers, no data is transmitted to third parties for this purpose.We use an analysis tool (Matomo) hosted on our own servers which for instance allows us to track which pages are visited most frequently. That allows us to constantly improve our website. No personal data is collected, a disclosure to third parties is excluded.
+Campaigns
+To optimize our own advertising campaigns, we link certain actions, such as an order with any advertisement through which you may have reached our site (e.g. Google AdWords). This data is collected anonymously and is not linked to your personal data.
+Save settings

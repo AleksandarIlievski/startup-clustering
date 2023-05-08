@@ -1,0 +1,192 @@
+InstaLOD – Everything you need for the production and automatic optimization of 3D content.
+ 
+Everything you need for the production
+            and automatic optimization of 3D content.
+Learn More
+Home
+Technology
+Enterprise
+Products
+Licensing
+Career
+Contact
+EVALUATE NOW!
+Unleash Productivity
+Easily achieve more than 10x in cost-savings when creating new assets or getting data ready for any business case.
+               Whether taking massive CAD assemblies into a VR application or optimizing AAA game scenes — InstaLOD helps you achieve your vision.  
+               Each individual feature has been carefully engineered to deliver best-in-class results at outstanding performance levels.
+Imposters and Foliage
+Draw-Call Reduction
+Remeshing Remeshing
+Polygon Optimization
+CAD  Tessellation
+Occlusion Culling
+Baking and UV Tools
+Polygon Optimization
+InstaLOD delivers award-winning polygon optimization at blazing-fast speeds even when operating on large data sets with multiple millions of polygons.
+Award-winning polygon optimization technology
+Adaptive skeletal mesh optimization for perfect animations
+Fine-grained control over optimization for power users
+ Learn More
+Remeshing
+InstaLOD's multi-resolution remesher is fast, memory efficient and can easily handle big data input with multiple millions of polygons.
+Remeshing that delivers on quality, speed and versatility
+Turn unprepped high-polygon 3D data into realtime ready assets
+Handle every situation from individual objects to complex scenes
+ Learn More
+Draw-Call Reduction
+Reducing the amount of draw calls required to render a scene is paramount to achieving a flawless experience. InstaLOD is capable of reducing draw calls by combining multiple material textures into a single material texture.
+Break the GPU bottleneck by merging your draw calls
+Scalable packing and atlas texture creation
+Full support for skinned and static geometry
+ Learn More
+Imposters and Foliage
+Using stand-in geometry for foliage is one of the most widely adopted techniques for foliage rendering. InstaLOD supports the creation of a wide variety of different imposter types.
+One-click imposter generation for objects and entire scenes
+Automatic creation of texture maps such as ambient occlusion, displacement and normal map
+The new hybrid billboard cloud imposter retains depth and animation information
+ Learn More
+Occlusion Culling
+Removing polygons that are not visible to the observer is one of the most important workflows to achieve a smooth experience when rendering complex geometry or scenes. InstaLOD supports a fully automatic and highly scalable occlusion culling engine.
+Fully automatic removal of interior geometry with zero configuration
+Powerful camera based occlusion culling to minimize polygon throughput
+Support for multiple perspective and orthogonal cameras
+ Learn More
+Baking and UV Tools
+ InstaLOD is a versatile toolkit for mesh processing: Automating UV unwrapping or packing, conforming normals or automatically filling holes are just a small sample of the available algorithms. To bridge the texturing gap, InstaLOD comes with a fully batchable high-resolution baking solution that generates all textures required for modern texturing or rendering workflows. 
+                           
+Versatile Toolkit for mesh processing
+Automatic UV unwrapping and packing
+Batchable baking with up to 32k textures
+ Learn More
+CAD Import and Tessellation
+Experience ultra-robust CAD import and tessellation for both native and portable file formats. With InstaLOD's CAD Live Link you can selectively retessellate specific parts of your assembly even long after the scene has been fully loaded. Get a handle on huge assemblies with scene import rules.
+Native CAD Import and Tessellation
+Scriptable scene rules for automation and content regeneration
+Handling of meta data and assembly attributes
+ Learn More
+The solution that leaders use
+From Fortune 500 companies to the game developers that are creating the world's most beloved franchises. InstaLOD supports leading brands to deliver their vision.
+The products that fit into your workflow
+InstaLOD magically fits into every content pipeline due to a wide spectrum of different applications and integrations.
+            No matter what workflow, engine or platform is used to drive your content, InstaLOD enables your team to deliver.
+InstaLOD Pipeline
+InstaLOD SDK
+InstaLODStudio XL
+InstaLOD Grid 
+Autodesk Maya
+Autodesk 3ds Max
+Autodesk VRED
+Blender 
+Unity3D Engine
+Unreal Engine
+InstaLOD SDK
+The 64-bit InstaLOD C++ Software Development Kit enables OEMs and ISVs with custom tools and technology to integrate our technology seamlessly into existing software. Leveraging the InstaLOD SDK for your in-house application development is easy and painless.
+InstaLOD SDK is available on PC Windows and MacOS.
+ Learn More
+InstaLOD Pipeline
+InstaLOD Pipeline is a cross-platform commandline application that enables you to perform data processing on a batch of files without having to use a graphical user interface. Using InstaLOD Pipeline to introduce automation or implement automated data-prepping processes in your asset pipeline is about as easy as it gets. 
+InstaLOD Pipeline is available on PC Windows and MacOS.
+ Learn More
+InstaLOD for Autodesk Maya
+InstaLOD for Autodesk Maya and Maya LT enables you to optimize 3D data without having to waste time switching applications. Great care has been taken to ensure a high degree of usability and productivity even when using InstaLOD for Autodesk Maya for the first time.
+InstaLOD for Autodesk Maya is available on PC Windows and MacOS.
+ Learn More
+InstaLOD for Autodesk 3ds Max
+InstaLOD for Autodesk 3ds Max unleashes killer optimizations on one of the most popular 3D modelling applications. Every single feature of our technology has been smoothly integrated into the 3ds Max UI with a native feel, asynchronous processing and batching.
+InstaLOD for Autodesk 3ds Max is available on PC Windows.
+ Learn More
+InstaLOD for Unity
+InstaLOD for Unity neatly integrates into the engine's sleek editor UI and enables Unity developers to optimize 3D assets with just a few clicks. Optimizing complex scenes or creating entirely new assets with InstaLOD for Unity is as easy and accesible as the engine itself.
+InstaLOD for Unity is available on PC Windows and MacOS.
+ Learn More
+InstaLOD for Unreal Engine
+InstaLOD for Unreal Engine enables game developers to optimize 3D assets and scenes from within Unreal Engine 4. Full support for both static and skeletal meshes as well as draw call reduction make InstaLOD the best choice for optimization in Unreal Engine.
+InstaLOD for Unreal Engine is available on PC Windows and MacOS.
+ Learn More
+InstaLOD Studio XL
+InstaLOD Studio XL is the holistic 3D processing platform that finally makes it easy to convert complex scenes into usable assets. InstaLOD Studio XL draws your content with a stunning physically based renderer and gives you direct access to the powerful features of our technology. Interoperability between InstaLOD Pipeline and a versatile plugin interface make InstaLOD Studio XL stand out from the crowd.
+InstaLOD Studio XL is now available on PC Windows and MacOS. 
+ Learn More
+InstaLOD Grid
+InstaLOD Grid enables you to easily deploy your own on-premise InstaLOD compute cluster. The entire InstaLOD technology stack will be immediately available to all members of your organization. At the same time the InstaLOD Grid strips away the need to install and learn a new software package - making it trivial to spread the technology within your operation. As demand for processing increases, you can easily add more processing nodes to your local InstaLOD Grid cluster.
+ Learn More
+InstaLOD for Autodesk VRED
+InstaLOD for Autodesk VRED is the ultimate companion for creating the best visualizations directly inside Autodesk VRED. Leap ahead by reducing time consuming workflows and slashing iteration cost down to a minimum.
+InstaLOD for Autodesk VRED is now available on PC Windows.
+ Learn More
+InstaLOD for Blender
+InstaLOD for Blender introduces our industry leading technology to the popular free and open-source 3D modelling package. No corners have been cut and the entire InstaLOD toolstack is available at your finger tips.
+InstaLOD for Blender is now available on PC Windows and MacOS.
+ Learn More
+The technology that bonds everything together
+InstaLOD revolutionizes your business by automating labor intensive workflows involved in data preparation.
+                           Establishing InstaLOD as central data source for your visualization data utilizes the full potential of your existing CAD, Scan or 3D data and enables direct retargeting for any business case with automated processing at minimal cost.
+Input Data
+Process and Adapt
+Platform
+Business Case
+The business case typically begins with preexisting data that needs to be converted into a usable format. InstaLOD can process any kind of input data from dense 3D geometry to large CAD assemblies. With support for more than 50 distinct file formats and a high-quality tessellation engine as well as native CAD format reading capabilities, InstaLOD has the broadest file reading capabilities available. A versatile plugin system enables developers to easily add support for any proprietary file format for both import and export.
+After the conversion the time-consuming part of data preparation and adaptation begins. To create a visualization asset, the data must be manually adapted to fit the targeted use case. If the source data changes, the process must be repeated.
+                                  Using InstaLOD as your centralized data source for visualization assets allows you to fully automate this process. These automations range from reducing the number of polygons while maintaining a high-quality surface to cleaning the data hierarchy, assigning materials or fully reconstructing even the most complex scene so it runs properly on the targeted device.
+Every platform requires a different form of data adaptation, this makes it very difficult to reuse preexisting data. InstaLOD enables you to retarget your content for any platform: from low-powered virtual reality headsets to high-end workstations used for CG image generation. With InstaLOD's rule-based automation, it's trivial to retarget your data for different platforms without having to reinvest into a manual preparation process. Just push a button, and your data can be regenerated.
+InstaLOD is a key enabler for a wide range of different business cases ranging from AAA game productions to luxury car configurators for the world's top brands.
+                                  Applications powered by InstaLOD run on almost any device from the internet to an embedded system that's driving the next-generation dashboard of a car.
+                                  Increase your sales by building applications that immerse your customers, or improve your design review process by utilizing automatic data regeneration.
+                                  InstaLOD enables you to build a data-process where flexibility through automation is not just an afterthought.
+Learn More
+Latest News 
+24 Apr 2023
+Meet us at FMX 2023 in Stuttgart FMX 2023 is an international conference hosted in Stuttgart that attracts thousands of digital media professionals, and enthusiasts to explore the latest trends and developments in the digital media industry.
+20 Mar 2023
+Meet us at GDC 2023 in San Francisco The GDC is the world’s largest professional game industry event. Over 17,000 visitors and industry professionals come together in San Francisco for this conference.
+28 Feb 2023
+InstaLOD launches 2023 product wave The InstaLOD 2023 product wave is defined by a massive number of new features such as quad and iso-tropic remeshing and pivotal UX improvements.
+13 Oct 2022
+Meet us at INTERGEO 2022 in Essen INTERGEO is the world’s largest conference in the field of geodesy, geoinformatics, land management and building information modeling (BIM).
+01 Sep 2022
+Meet us at XR Expo 2022 in Stuttgart The XR Expo is a B2B tech event for Virtual Reality, Mixed Reality and Augmented Reality.
+14 Aug 2022
+Meet us at Devcom 2022 in Cologne Pure enjoyment, entertainment, inspiration and innovation! At Devcom 2022, everything that has rank and name meets.
+01 Aug 2022
+Meet us at SIGGRAPH2022 in Vancouver SIGGRAPH is the world’s largest, most influential annual conference and exhibition in computer graphics and interactive techniques.
+23 Mar 2020
+How InstaLOD is minimizing the 2020 Corona Virus Impact As we enter the final weeks of March, COVID-19 continues to be a crisis that warrants our attention. During a moment of unease, it’s not only important what organizational leaders do, but how they do it.
+05 Dec 2019
+InstaLOD launches 2020 product wave The InstaLOD 2020 product wave is defined by groundbreaking new products such as InstaLOD Grid and InstaLOD Analyze, as well as a generation leap for our existing products.
+Evaluate InstaLOD
+Start your risk-free evaluation of InstaLOD now! The evaluation gets you unrestricted access to the entire InstaLOD technology stack: from InstaLOD Studio XL to the InstaLOD C++ SDK.
+EVALUATE NOW!
+Home
+Technology
+Products
+Licensing
+News
+Career
+Contact
+Imprint
+                InstaLOD GmbH - © Copyright 2016 - 2023 All rights reserved.                InstaLOD®
+                is a registered trademark of InstaLOD GmbH            
+This website uses cookies to provide services and to improve your experience. For more details please review our privacy policy.
+Okay
+Evaluate InstaLOD
+Please fill out the form below to begin your risk-free evaluation.
+ We are currently receiving a high volume of evaluation requests. We apologize for an unusual increase
+                    in response time. Thank you for understanding.
+Licensing Type
+Professionals
+Enterprise
+Art Department Staff Size
+0 (OEM/SDK LICENSING)
+1-2
+3-5
+5-10
+10-20
+20-50
+50-100
+100+
+ Subscribe to Newsletter
+ Submit 
+ Reset 
+ 
+×

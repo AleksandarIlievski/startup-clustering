@@ -1,0 +1,315 @@
+IoT Lösungen und drahtlose LPWAN Sensoren | Sentinum
+ 
++49 911 5302 99411
+info@sentinum.de
+ 
+ 
+ 
+ 
+Home
+IoT-Sensoren
+GAIA
+Helios-P
+Apollon-Q
+Apollon Zeta
+Febris CO2
+Febris SCW
+Febris TH
+Febris Zero
+Triton
+Yamori
+Tools
+IoT Lösungen
+CO2 Sensor
+Smart Waste und Container Management
+Spekter FAS
+Datahub
+Engineering
+News
+Shop
+mySentinum
+Kontakt
+ 
+Select Page
+  
+ 
+ 
+ 
+Wir schmieden die digitale Zukunft
+ 
+Sentinum bietet IoT Lösungen für Kommunen und Unternehmen, angefangen von der Entwicklung eigener Sensoren bis hin zur Implementierung von intelligenten Webservices für Endanwender. Wir haben uns auf energieautarke und drahtlose Sensoren auf Basis von energieeffizienten LPWAN Kommunikationstechnologien wie MIOTY®, NB-IoT und LoRaWAN® spezialisiert und bieten skalierbare und preiswerte Produkte für die Smart City von morgen. 
+ 
+Direkt zum Shop
+ 
+ 
+ 
+Smart Waste
+ 
+ 
+ 
+Smart Water
+ 
+ 
+ 
+Smart Bulding
+ 
+ 
+ 
+IoT Engineering
+ 
+ 
+ 
+ 
+ 
+IoT Connectivity
+ 
+Neuste LPWAN Standards
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Customer Testimonials
+ 
+Das sagen unsere Kunden
+ 
+ 
+ 
+We as Murata cooperate with Sentinum in the development of wireless LPWAN products and in the evaluation of new modules. We can always rely on the strong expertise in ultra-low power hardware and firmware development, as well as in the area of connectivity solutions. The company also has a strong expertise in the implementation of cellular standards including scaleable protocols such as LWM2M. From our point of view, Sentinum is a agile partner in device development, as well as in offering complete IoT solutions and providing companies with a flexible service package and a short time-to-market.
+Pawan Jalagar
+Product Engineer, Murata
+ 
+ 
+ 
+ 
+Unsere Firma Spekter arbeitet seit unserem Einstieg in die LPWAN Welt mit Sentinum zusammen. Wir haben viele Produkte getestet und in Sentinum einen Partner gefunden, der für hochwertige drahtlose Sensoren steht. Gemeinsam konnten wir im Bereich des Starkregenrisikomanagements unterschiedliche IoT-Produkte am Markt platzieren. Dabei haben die Experten von Sentinum nicht nur ein breites Wissen im Bereich der Hardware und Cloud Connectivity mit unterschiedlichen LPWAN Protokollen, sondern können auch neue Produkte oder individuelle Anpassungen schnell und professionell umsetzen.
+Matthias Falk
+CTO, Spekter
+ 
+ 
+ 
+ 
+					I have been looking for a cellular CO2 sensor on the basis of which i can offer my own CO2 tracking solutions to my customers. I found what I was looking for with the Febris NB-IoT sensor from Sentinum. Besides the numerous unique features, such as a knock-knock function or a buzzer, the most important thing for me is the real auto-calibration function. Unlike other sensors, the Febris is calibrated with each measurement in a reference medium.  Sentinum took care of the provision of SIM cards, adapted the firmware to the new provider quickly and ensured smooth operation here in Ireland.
+					Tad McAllister
+IoT Architect, Safecility
+ 
+ 
+ 
+ 
+ 
+ 
+Die Sentinum LinQs App
+ 
+Aktivieren und konfigurieren Sie Sentinum LPWAN (NB-IoT, LoRaWAN®, MIOTY®) Sensoren über NFC.
+Gleichzeitig bietet die App zahlreiche Einstellungsmöglichkeiten, die die Anpassung der Übertragungs- und Messrate, Netzwerkparameter, Grenzwerte und vieles mehr ermöglichen.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Smart Agriculture neu gedacht – Optimierung des Ertrags in der Landwirtschaft
+ 
+GAIA: Innovatives Soil Monitoring System für die Landwirtschaft
+ 
+Das IoT-Sensorsystem GAIA ist ein kabelloses und präzises Messsystem für Böden, das speziell für den Markt Smart Agriculture entwickelt wurde. GAIA zeichnet sich insbesondere durch die Bestimmung des Düngemittelgehalts mit einer innovativen Messtechnik durch präzise Messung der elektrischen Leitfähigkeit aus. Darüber hinaus verfügt GAIA über eine genaue temperaturkompensierte Messung des Wassergehalts im Boden, sowie über eine Bodentemperaturmessung. Damit kann die Bewirtschaftung und der Anbau von Feldfrüchten optimiert werden. Die Daten werden in regelmäßigen Abständen gesammelt und drahtlos über LoRaWAN® oder MIOTY® an ein Cloud-Backend gesendet. Der Sensor wurde zusammen mit der Firma Murata und NOWI entwickelt.
+ 
+Mehr zu GAIA
+ 
+ 
+ 
+ 
+ 
+Effektive IoT Sensoren zur Prävention gegen die Schimmelbildung in Gebäuden
+ 
+Febris SCW: IoT gegen Schimmel
+ 
+Der Febris-SCW ist ein weiterer Sensor aus der Febris Reihe, der extra auf die Bedürfnisse zur Schimmelprävention im Wohnungsbau zugeschnitten wurde. Der Sensor erfasst in regelmäßigen Abständen die Temperatur und rel. Luftfeuchtigkeit mit höchster Präzision und verfügt gleichzeitig über ein temperaturkompensiertes Oberflächenthermometer. Bei Überschreitung des vorgegebenen Grenzwertes erfolgt eine direkte Warnung durch den Sensor sowohl akustisch über einen Buzzer als auch visuell durch helle LEDs. Betrieben wird der Sensor mit 4xAA Zellen, die einfach austauschbar sind. Zusätzlich werden die Daten in regelmäßigen Abständen über NB-IoT, LoRaWAN® oder MIOTY® übertragen. Warum der Sensor einzigartig in seiner Klasse ist und eine Messung der Wandoberflächentemperatur Sinn macht zeigen wir hier.
+ 
+Mehr zum Febris SCW
+ 
+ 
+ 
+ 
+Wir gegen Corona – Febris unser CO2 Sensor
+ 
+Febris – Der Smarte Coronasensor
+ 
+Febris ist unsere Antwort auf Corona. Dabei handelt es sich um eine smarte und drahtlose Covid Ampel aus dem Hause Sentinum. Der Sensor erfasst in regelmäßigen Abständen den CO2 Gehalt in der Luft, sowie Temperatur und Luftfeuchtigkeit und warnt bei der Überschreitung des vorgegebenen Grenzwertes akustisch über einen Buzzer und visuell durch helle LEDs. Zusätzlich werden die Daten in regelmäßigen Abständen über NB-IoT, LoRaWAN® oder MIOTY® übertragen. So können Räume oder ganze Gebäude effizient überwacht werden. Alternativ kann der Sensor auch mit einem zusätzlichen VOC Sensor ausgestattet werden. Betrieben wird der Sensor mit 4xAA Zellen, die einfach austauschbar sind.
+ 
+Mehr zum Febris
+ 
+ 
+ 
+Highrunners
+ 
+ 
+ 
+Apollon-Q
+Multipurpose Füllstandsensor
+Robuster Füllstandsensor mit dualem Messprinzip für viele Anwendungen.
+ 
+ 
+ 
+Apollon-ZETA
+Low Cost Smart Waste Sensor
+Für Anwendung im Smart Waste wie Papierkörbe und kleine Container.
+ 
+ 
+ 
+Febris CO2
+CO2 Sensor
+THP und CO2 Sensor zur Überwachung der indoor Luftqualität.
+ 
+ 
+ 
+ 
+ 
+Günstige Sensoren der Febris Reihe für das Smart Building von Morgen
+ 
+ 
+ 
+Febris CO2
+CO2 Sensor
+THP und CO2 Sensor zur Überwachung der Luftqualität.
+ 
+ 
+ 
+Febris SCW
+Schimmelsensor
+THO Sensor zur Warnung vor Schimmelentstehung in Gebäuden.
+ 
+ 
+ 
+Febris TH
+TH Sensor
+Einfacher TH Sensor zur Überwachung von Innenräumen.
+ 
+ 
+ 
+Febris ZERO
+Sensoren ohne Funk
+CO2, TH und Schimmelsensoren ohne Funkschnittstelle.
+ 
+ 
+ 
+ 
+ 
+Unser Leistungen
+ 
+ 
+ 
+drahtlose LPWAN sensoren
+ 
+High Quality IoT Sensoren 
+ 
+Hochwertige drahtlose Sensoren sind für uns die Grundlage für erfolgreiche low-power IoT Anwendungen. Deswegen besitzt die Hardware als zuverlässiger Datenlieferant für uns einen hohen Stellenwert. Unsere Sensoren wurden zusammen mit Partnern aus der Industrie und Forschung nach den neusten Standards entwickelt. Höchste Energieeffizienz und Messperformance gepaart mit den gängigsten LPWAN Kommunikationsstandards und robuster Verpackung zeichnen unsere Produkte aus. Zudem haben wir uns bei der Entwicklung verstärkt auf das Antennendesign konzentriert und viele unterschiedliche Ansätze erprobt. Deshalb können wir unseren Kunden realistische Angaben zur Reichweite, sowie zur Laufzeit treffen. Überzeugen Sie sich selbst.
+ 
+Iot Sensoren
+ 
+ 
+ 
+ 
+IoT Solutions
+ 
+Vollständige IoT Lösungen
+ 
+Neben der Hardware spielt für uns die Endanwendung als Teil einer IoT-Gesamtlösung eine entscheidende Rolle. An diesem Punkt entsteht für den Endanwender der greifbare Mehrwert, der aus den gewonnenen Daten abgeleitet wird. Auf Basis unserer Sensoren bieten wir Kommunen und Unternehmen rentable und gesamtheitliche IoT Lösungen, vom Sensor bis hin zur intelligenten Webanwendung für Endnutzer. Für die Nutzung unserer Services muss keine Software installiert oder in die IT Infrastruktur unserer Kunden eingegriffen werden. Die Lösungen sind auf jedem Endgerät mit Internetzugriff, wie z.B. Smartphone, Desktop-PC oder Tablet nutzbar. Wir bieten dem Nutzer optimierte Anwendungen für die Optimierung logistischer Prozesse im Waste und Container Management sowie spezielle Lösungen für den Winterdienst und Indoor Monitoring Systeme.
+ 
+Iot Lösungen
+ 
+ 
+Services und Dienstleistungen
+ 
+Entwicklung & Consulting
+ 
+„Erwecken Sie Ihre Idee zum Leben“ – Wir entwickeln Ihren individuellen Sensor oder unterstützen Ihr Entwicklerteam auf dem Weg zum drahtlosen Sensor. Profitieren Sie dabei von unserer Erfahrung und unserem globalen Partnernetzwerk. Die Einführung eines technologisch innovativen Produkts ist ein langwieriger und riskanter Prozess. Gerne begleiten wir Sie auf dem Weg zum drahtlosen und energieautarken IoT-Sensor.  Eine hohe Qualität und eine kurze Time-to-Market sind unser Anspruch. Während des Entwicklungsprozesses arbeiten wir direkt mit dem Lehrstuhl für Fertigungsautomatisierung und Produktionssystematik der Friedrich-Alexander Universität Erlangen-Nürnberg zusammen. Den Grad der Zusammenarbeit bestimmen Sie. 
+ 
+Entwicklung
+ 
+ 
+ 
+ 
+ 
+Pegel-, Schmutz- und Rückstaumessung in Kanälen und Sinkkästen
+ 
+Apollon-Q KDW
+ 
+Derzeit herrschen in Deutschland extreme Wetterlagen. Die Anzahl und Intensität der Starkregenereignisse nimmt stetig zu. Feuerwehren und Helfer*innen arbeiten an der Belastungsgrenze. In einigen Landkreisen wurde sogar der Katastrophenfall ausgerufen. Neben innovativen Systemen, die wir zusammen mit der Firma Spekter anbieten, haben wir eine spezielle Version des Apollon-Q Sensors, den Apollon-Q KDW entwickelt, der engmaschige Kontrollen von Kanalpegeln ermöglicht. Daneben kann die Lage des Kanaldeckels, sowie Verschmutzung in Sinkkästen festgestellt werden, die zu einem Rückstau führen kann. Das Produkt wurde zusammen mit dem THW Erlangen getestet und wird bereits in vielen Kommunen eingesetzt. Lesen Sie hier die News.
+ 
+Mehr zum Apollon-Q
+ 
+ 
+ 
+Hardware Entwicklungsplattform für LPWAN Anwendungen
+ 
+Yamori  
+ 
+ist eine Embedded-Plattform von Murata, Sentinum und dem Lehrstuhl FAPS, die energieeffiziente Konnektivitätslösungen mit großer Reichweite schnell, effizient und einfach ermöglicht. Yamori beschleunigt das Prototyping im Rahmen der Evaluierung von IoT-Anwendungen und schließt die Lücke zwischen Entwicklung und marktreifen Produkten.
+Yamori ist das weltweit kleinste, industrietaugliche Multistack-LPWAN IoT-Gerät, das ein schnelles Prototyping, und das Testen von vielseitigen Sensorkonfigurationen ermöglicht.  Die Plattform ist auf die Entwicklung von hochintegrierten, langlebigen IoT-Sensoren spezialisiert, die auf den aktuellen und aufkommenden LPWAN-Kommunikationsprotokollen, wie LoRa und NB-IoT basieren. 
+ 
+Mehr von Yamori
+ 
+    Mit dem Laden des Videos akzeptieren Sie die Datenschutzerklärung von YouTube.Mehr erfahren Video laden  YouTube immer entsperren   
+ 
+ 
+ 
+Neuigkeiten
+ 
+Sentinum Live
+ 
+ 
+ 
+ 
+ 
+ 
+Was ist Versalzung im Boden und wie unser GAIA dabei hilft
+Wie die Versalzung entsteht und wie unser GAIA System bei der Überprüfung hilft Die Versalzung der Böden ist ein großes Problem, das viele landwirtschaftliche Regionen auf der ganzen Welt betrifft, darunter auch Japan und den Mittelmeerraum in Europa....
+ 
+ 
+ 
+ 
+Bayrische Staatsregierung stellt Starkregen-Fühwarnsystem vor
+Bayrischer Rundfunk berichtet Der Bayrische Rundfunk berichtet im folgenden Artikel erneut über das FAS von Spekter. Die Staatsregierung rund um Bayerns Digitalministerin Judith Gerlach hat im niederbayrischen Markt Ergoldsbach (Landkreis Landshut) ein völlig...
+ 
+ 
+ 
+ 
+LWM2M Sensoren in Kürze verfügbar
+Was ist lightwight M2M (LWM2M) LWM2M (Lightweight Machine to Machine) ist ein Protokoll, das für das Management und die Kommunikation mit Geräten im Internet der Dinge (IoT) entwickelt wurde und derzeit speziell für cellular Geräte eingesetzt wird. Es wurde von der...
+ 
+ 
+Mehr News
+ 
+ 
+ 
+Direkt zum Shop
+ 
+ 
+Bereit für Veränderungen? – Dann kontaktieren Sie uns! 
+ 
+ 
+Kontakt
+ 
+ 
+  
+  
+ 
+ 
+ IMPRESSUM    |    DATENSCHUTZERKLÄRUNG
+© 2022 Sentinum – all rights reserved
+  EmailLinkedInYouTube    
+ 
+ 
+ 
+ 
+ 
+Pin It on Pinterest
+ German
+ Arabic Chinese (Simplified) Dutch English French German Italian Japanese Portuguese Russian Spanish
+ 

@@ -1,0 +1,117 @@
+Optiwiser A.I. | Supply Chain Planning Software
+Home
+Solution
+Customers
+Pricing
+About Us
+Resources
+Contact
+FAQs
+Login
+Menu
+Menu
+ 
+Predictwiser.Cloud
+AI-driven Supply Chain Planning for the
+Food Industry
+Beverage Industry
+Demo
+Our clients
+Predictwiser.Cloud’s Potential
+95%Monthly
+Forecast Accuracy
+80%Less
+Stock-Outs
+36%Reduction
+Food Waste
+30%Less
+Inventory Costs
+20%More
+Revenue
+We have dedicated ourselves to the following question:
+“How can we develop an AI-driven supply chain planning tool that is easy to integrate, requires no prior knowledge of supply chain management or AI, and can be offered at a price that allows SMEs to have access to the latest technology?”
+The old way
+Inaccurate planning with Excel
+or outdated ERP-functions
+Generic functions and heuristics not tailored to the food and beverage industry
+Long integration cycles associated with
+high complexity and high costs
+The new way
+State-of-the-art AI models
+with high prediction accuracy
+Algorithms tailored to the F&B industry, considering shelf-life requirements
+Easy integration in less than 4 days
+and we charge 0€ for it
+Sustainable AI
+For us, protecting the environment and resources has been an integral part of the development of our AI since the beginning of our journey and is therefore key to achieving our vision of leading the food and beverage industry into a more sustainable future.
+48000Tons of CO2 saved
+197000000Liters of Water saved
+Predictwiser.Cloud’s Benefits
+No prior knowledge
+of AI or SCM needed
+Extremely userfriendly
+and easy navigation
+No additional consulting
+or training needed
+ROI from day one
+with Predictwiser.Cloud
+Fair pricing for small and
+medium-sized enterprises
+No incurred
+integration costs
+Read more about us in the media
+Plug & Play Integration
+Predictwiser.Cloud
+Get our latest report and learn more about how your business can reduce food waste while increasing sales:
+ 
+ Your name
+ 
+ Your company name
+ 
+ Your email
+ 
+Our alliance partners
+ PreviousNext
+Contact us now to determine your savings potentials
+ 
+Please leave this field empty.
+Please leave this field empty.
+Please leave this field empty.
+I accept the processing and storage of my data according to the Privacy Policy.*
+Frequently Asked Questions
+Why is a sophisticated demand planning software so important?A big problem for SMEs are issues related to poor demand forecasting software. Since demand planning is the first step in supply chain planning, any impact on the demand accuracy reverberates with increased impact through the supply chain planning. SME`s in general suffer more from this problem due to the lack of scale and lack of technical resources to utilize advanced demand planning software. Stockouts and failure to deliver is a major issue for any company due to loss of customer trust and loss of revenues. However, food and beverage manufacturers experience the impacts of poor demand planning software also on the overstocking case, since their products have expiration dates. Next to food waste, overestimating the demand will also lead to increased inventory of items and overproduction on the production line. Although this is a major problem for Small and Medium Enterprises in the Food and Drink sector nearly all enterprises still use Excel as their main demand forecasting software. Without the help of sophisticated & advanced planning tools, 70% of those food and drink manufacturers experience stock-out situations or waste due to poor demand planning.This over reliance on Excel is due to the fact that smaller companies cannot afford the technical and financial resources to acquire and operate sophisticated demand planning software with complex machine learning demand prediction models.
+What is our competitive advantage?Currently on the market there are several players working in demand prediction, but most of the existing companies rely on standard statistical forecasting algorithms. This kind of software performs a statistical fit of existing statistical models on past data and can automatically select the statistical formula with for the prediction. It is important to notice that this decision is made based on the past. Most of these models do not leverage existing Machine Learning techniques in order to do demand forecasting. While you can make predictions based on statistical models (called statistical inference), the statistical models are usually built for inference about the relationships and variables and not for having the most accurate predictions. One clear example is that all statistical models are interpretable – a human can look at the model and infer some information about the process and about the data. Machine Learning, on the other hand, has the goal of having the most accurate predictions. Many Machine Learning models are not interpretable – it is not evident what the weights on the neurons on an Artificial Neural Network mean. By using Machine Learning there is much to be improved on prediction accuracy for demand planning. Although using Machine Learning would make the most sense, Machine Learning is a complex topic, requiring a deep knowledge and understanding of the field to select the best models to be trained and deployed. After using the models for prediction, it is important to monitor performance since a model performance tend to decay over time, via a process called concept drift.
+With our technology StreamWiser, we streamline the process of model monitoring and performance tuning. Our technology is able to automatically decide which models are best for a given prediction – and adjust in real time to changes of scenario. You can consider StreamWiser to be your Data Science department focused solely on getting the best predictions possible.
+Let our tech do the heavy lifting of demand prediction – training models, selecting models, monitoring performance – so that you can focus on what really adds value: your business.
+How much data do we need?Our AI demand planning software is more accurate the more data you feed into the model to be trained and tested. Thus, for our demand forecasting software to reach its full potential we need at least 6 months of data. But we are aware of the fact, that there are many start-ups out there who are new to this business and are keen on using sophisticated demand planning software from day one as well. For those start-ups, we have customized models. Feel free to contact us we can get a better insight into your exact business situation and understand your needs.
+How long is the implementation process for our demand forecasting software?Depending on the settings of your ERP system the implementation can be done within one hour or one day at the latest.
+How is the software coping with dynamic environments?We live in a time of great change. Due to price explosions and material shortages, companies will have to focus on extreme cost control. The ability to quickly adapt to a changing market environment and take advantage of opportunities arising from this change will be the most important key for companies to gain a competitive advantage. A digital supply chain is a key element for future profitability and sustainability in the food and beverage industry. To accelerate the transformation, we have dedicated ourselves to the following question since our company’s inception: “How can we develop an AI-driven supply chain planning tool that is easy to integrate, requires no prior knowledge of supply chain management or AI, and can be offered at a price point that gives SMEs access to the latest technology?” Our goal is to empower our customers to make data-driven decisions. We are convinced that only by looking at data integration, data analytics, and the subsequent operationalization of data-driven decisions together can we lay a strong, resilient and agile foundation for innovation and growth in the 21st century.
+What are the biggest benefits of Predictwiser.Cloud?Predictwiser.Cloud was and is still continuously developed in close cooperation with our clients to solve their biggest pain points when it comes to Demand-, Inventory- and Production Planning. Based on our first module which is Demand Planning, the user benefits from fully automated demand forecasts. This means the user doesn’t need to think about which algorithms to select for forecasting the products, everything is automated in the backend, where our in house technology StreamWiser™ is orchestrating the automatic model selection. Within this module the user has the opportunity to feed in her personal experience when it comes to demand sensing and is therefore able to adjust the demand. After the predictions are generated they are used as input for the second step which is Inventory Planning or Optimization. The higher the accuracy of the predictions the higher the savings potentials are in inventory optimization. Our state of the art algorithm used for inventory optimization was developed with the Chair of Logistic and Supply Chain Management of the Technical University Munich. It is considering food and beverage specific parameters that you cannot find at any other supply chain software vendor. One special input parameter for example is that our algorithm accounts for different shelf life requirements within the multiple sales channels. In the third module which is our Production Planning, the user benefits from a fully automized and cost optimal production plan, telling the user exactly when to produce, what to produce and how much to produce. In a nutshell we are automating all processes along the supply chain in an easy and customer friendly way where no prior knowledge in AI, supply chain or analytics is needed. So our clients can focus on their core competencies which are generating innovative products, cutting costs and increasing their profit margin.
+What is AI driven Forecasting and Disposition?Predictwiser.Cloud’s Production Planning module is responsible for the automatic disposition. This means your supply chain planner is receiving cost optimal production recommendations which help to maximize the company’s profit and increase the planner’s efficiency. The planner now has more time to focus on more strategic sand decision relevant tasks.
+Value added for companies which rely on automatic Material Requirement Planning (MRP):
+Automatic disposition is relieving the supply chain planner by automatically providing information about the cost optimal production or purchase quantities.
+Thanks to an end-to-end integration of inventories, material requirements and demand forecasts, the automatic scheduling is controlled specifically according to the respective requirements. Perfectly aligned inventory levels ensure lower costs and a higher profit margin. This helps the planner to focus on more strategic and decision relevant tasks instead of calculating these quantities in a time-consuming manual process, for example by using Excel.
+In this context, Predictwiser.Cloud uses the sales plan and demand forecast to determine the dynamic safety stock level.
+The optimum order frequency and the optimum order point are also calculated automatically, considering not only ordering or storage costs but also supplier vacations, Chinese New Year, fixed order dates, delivery reliability and numerous other parameters. The calculations take place fully automatically and self-learning in the background! Following parameters are being use in our Optimization Algorithm:
+Demand forecast,
+Shelf life,
+Pre booked orders,
+Lead time,
+Dynamic safety stock levels,
+Chances of stock out vs. food waste,
+Purchase-, Transportation- and Inventory Holding Costs
+ 
+© Copyright - Optiwiser A.I. Solutions GmbH 
+LinkedInImprint
+Privacy Policy
+Scroll to top
+This website uses cookies - click "Accept" to accept cookies and use all the features of this website. Click "More or reject" to learn more, select individual cookies, or reject all cookies.
+Diese Website verwendet Cookies - klicken Sie auf "Akzeptieren", um Cookies zu akzeptieren und alle Funktionen dieser Website zu nutzen. Klicken Sie auf "Mehr oder ablehnen", um mehr zu erfahren, einzelne Cookies auszuwählen oder alle Cookies abzulehnen.Accept AkzeptierenMore or reject Mehr oder ablehnen
+Cookie and privacy settings Cookie- und Datenschutzeinstellungen
+How we use cookies Wie wir Cookies verwendenWe may request cookies to be set on your device. We use cookies to tell us when you visit our websites, how you interact with us, improve your user experience and customize your relationship with our website.Click on the various category headings to learn more. You can also change some of your settings. Note that blocking some types of cookies may impact your experience on our websites and the services we can provide.
+ Wir können Cookies anfordern, die auf Ihrem Gerät eingestellt werden. Wir verwenden Cookies, um uns mitzuteilen, wenn Sie unsere Websites besuchen, wie Sie mit uns interagieren, Ihre Nutzererfahrung verbessern und Ihre Beziehung zu unserer Website anpassen.Klicken Sie auf die verschiedenen Kategorienüberschriften, um mehr zu erfahren. Sie können auch einige Ihrer Einstellungen ändern. Beachten Sie, dass das Blockieren einiger Arten von Cookies Auswirkungen auf Ihre Erfahrung auf unseren Websites und auf die Dienste haben kann, die wir anbieten können.
+Important website cookies Wichtige Website CookiesThese cookies are strictly necessary to provide you with the services available through our website and to use some of its features.As these cookies are strictly necessary for the provision of the website, their rejection will affect the functioning of our website. You can block or delete cookies at any time by changing your browser settings and forcing the blocking of all cookies on this website. However, this will always prompt you to accept/reject cookies when you revisit our website.We fully respect it if you wish to reject cookies, but to avoid being asked again and again, please allow us to store a cookie for this purpose. You are free to opt out at any time or choose to receive other cookies for a better experience. If you decline cookies, we will remove all cookies set in our domain.We will provide you with a list of cookies stored on your computer in our domain so that you can review what we have stored. For security reasons, we are unable to view or change cookies from other domains. You can check this in your browser's security settings. Diese Cookies sind unbedingt erforderlich, um Ihnen die über unsere Website verfügbaren Dienste zur Verfügung zu stellen und einige ihrer Funktionen zu nutzen.Da diese Cookies für die Bereitstellung der Website unbedingt erforderlich sind, wird ihre Ablehnung das Funktionieren unserer Website beeinträchtigen. Sie können Cookies jederzeit blockieren oder löschen, indem Sie Ihre Browsereinstellungen ändern und die Blockierung aller Cookies auf dieser Website erzwingen. Allerdings werden Sie dann immer aufgefordert, Cookies zu akzeptieren/ablehnen, wenn Sie unsere Website erneut besuchen.Wir respektieren es voll und ganz, wenn Sie Cookies ablehnen möchten, aber um zu vermeiden, dass Sie immer wieder gefragt werden, erlauben Sie uns bitte, zu diesem Zweck ein Cookie zu speichern. Es steht Ihnen jederzeit frei, sich dagegen zu entscheiden oder andere Cookies für ein besseres Erlebnis zu erhalten. Wenn Sie Cookies ablehnen, werden wir alle in unserer Domäne gesetzten Cookies entfernen.Wir stellen Ihnen eine Liste der auf Ihrem Computer in unserer Domäne gespeicherten Cookies zur Verfügung, damit Sie überprüfen können, was wir gespeichert haben. Aus Sicherheitsgründen können wir Cookies von anderen Domänen nicht einsehen oder ändern. Sie können dies in den Sicherheitseinstellungen Ihres Browsers überprüfen.Check to enable permanent hiding of message bar and refuse all cookies if you do not opt in. We need 2 cookies to store this setting. Otherwise you will be prompted again when opening a new browser window or new a tab.Click to enable/disable essential site cookies.
+Google Analytics CookiesThese cookies collect information that is used either in aggregate form to help us understand how our website is used or how effective our marketing campaigns are, or to help us customize our website and application for you to improve your experience.If you do not want us to track your visit to our website, you can disable tracking in your browser here: Diese Cookies sammeln Informationen, die entweder in aggregierter Form verwendet werden, um uns zu helfen zu verstehen, wie unsere Website genutzt wird oder wie effektiv unsere Marketingkampagnen sind, oder um uns zu helfen, unsere Website und Anwendung für Sie anzupassen, um Ihre Erfahrung zu verbessern.Wenn Sie nicht möchten, dass wir Ihren Besuch auf unserer Website verfolgen, können Sie die Verfolgung in Ihrem Browser hier deaktivieren: Click to enable/disable Google Analytics tracking.
+Other external services Andere externe DiensteWe also use various external services such as Google Web Fonts, Google Maps and external video providers. Since these providers may collect personal data such as your IP address, we allow you to block them here. Please note that this may severely limit the functionality and appearance of our website. Changes will take effect once you reload the page.  Wir nutzen auch verschiedene externe Dienste wie Google Webfonts, Google Maps und externe Videoanbieter. Da diese Anbieter personenbezogene Daten wie Ihre IP-Adresse erfassen können, erlauben wir Ihnen, diese hier zu sperren. Bitte beachten Sie, dass dies die Funktionalität und das Erscheinungsbild unserer Website stark einschränken kann. Änderungen werden wirksam, sobald Sie die Seite neu laden. Click to enable/disable Google Webfonts.Click to enable/disable Google Maps.Click to enable/disable Google reCaptcha.Click to enable/disable video embeds.
+Privacy policy Datenschutz-BestimmungenYou can read about our cookies and privacy settings in detail on our Privacy Policy.  Sie können unsere Cookies und Datenschutzeinstellungen im Detail auf unserer Datenschutzrichtlinie nachlesen.  Privacy Policy
+Accept cookies Cookies akzeptierenSave settings Einstellungen speichernDisable all cookies Alle cookies deaktivieren

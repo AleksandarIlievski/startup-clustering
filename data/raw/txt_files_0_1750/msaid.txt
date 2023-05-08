@@ -1,0 +1,84 @@
+MSAID Home | Transforming Proteomics with Artificial Intelligence
+Skip to content
+Home
+Software
+Show submenu for Software
+INFERYS
+INFERYS Rescoring
+CHIMERYS
+Services
+Science
+Show submenu for Science
+Publications
+What is Proteomics?
+What is Machine Learning?
+What is Artificial Intelligence (AI)?
+Company
+Show submenu for Company
+About
+Careers
+Conferences & Events
+News
+Sustainability
+Contact
+Open main navigation
+Close main navigation
+Home
+Software
+Show submenu for Software
+INFERYS
+INFERYS Rescoring
+CHIMERYS
+Services
+Science
+Show submenu for Science
+Publications
+What is Proteomics?
+What is Machine Learning?
+What is Artificial Intelligence (AI)?
+Company
+Show submenu for Company
+About
+Careers
+Conferences & Events
+News
+Sustainability
+Contact
+TRANSFORMING PROTEOMICSWITH ARTIFICIAL INTELLIGENCE
+UPCOMING EVENTS
+Find more information about our participation in conferences and events.
+    
+    Conferences & Events
+  
+THE FUTURE OF PROTEOMIC DATA ANALYSIS SOFTWARE
+MSAID [ɛm ɛs eɪd] transforms the way scientists analyze proteomics data. We aid mass spectrometry with artificial intelligence (AI) by providing cutting-edge software and data analysis services for proteomics using powerful machine learning algorithms.
+THE NEW INTELLIGENT SEARCH ALGORITHMAn AI-driven leap forward in peptide identification
+  Learn more about CHIMERYS
+OUR SOFTWARE
+TRANSFORMING PROTEOMICS WITH ARTIFICIAL INTELLIGENCE-DRIVEN SOFTWARE SOLUTIONS
+Powered by vast amounts of training data, we develop deep learning models for bottom-up proteomics and integrate them into innovative software solutions:
+  +  INFERYS: The versatile deep learning framework  +  INFERYS Rescoring: The powerful AI-upgrade  +  CHIMERYS: The AI-driven intelligent search algorithm
+OUR SERVICES
+CUSTOM DEEP LEARNING MODELS 
+Our generic deep learning framework provides the flexibility to expand our prediction capabilities and customize them to your needs, instruments, and infrastructure. 
+DEEP LEARNING-BASED DATA ANALYSIS 
+We have developed next-generation data analysis services that reliably identify up to three times more peptide-spectrum-matches than classical workflows.
+CUSTOM IN-SILICO SPECTRAL LIBRARIES
+Generating spectral libraries is cumbersome, expensive, and rarely comprehensive. Predicted spectral libraries can be generated for any peptide sequence and organism.
+CONSULTING
+With our long-standing expertise in proteomics and proteomic data analysis, we are the perfect partner to test, evaluate and improve your proteomics data workflows. 
+    
+    Contact us
+  
+MSAID GmbHLichtenbergstraße 885748 Garching b. MünchenGermany
+Follow us and sign up to receive our latest updates
+linkedin-in icon
+twitter icon
+Follow us on Youtube
+    
+    Subscribe to Newsletter
+  
+Copyright © 2023, MSAID GmbH            
+Press
+Privacy policy
+Legal notice

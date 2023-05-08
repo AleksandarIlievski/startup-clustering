@@ -1,0 +1,138 @@
+Home - medicalvalues
+ 
+ 
+ 
+Home
+Diagnostic Pathways
+Platform
+LOINC mapping
+Use Cases
+Standardization and Harmonization
+Diagnostic Pathway Management and Data Enrichment
+Laboratory Diagnostic Intelligence
+Cross-Sectoral Care and Telehealth
+Integrated Diagnostics
+Better diagnostics, better care
+Company
+Blog
+Contact
+ 
+ 
+ 
+ 
+Artificial Intelligence for Medical Diagnostics   
+ Create your next-generation diagnostic solutions 
+ 
+Our Offer 
+Bring your diagnostics to the next level 
+Leverage modern technology to support the medical diagnosis process for diseases such as anemia, diabetes and fat metabolic illnesses by utilizing research knowledge, clinical guidelines and machine learning based on historical data. Use the medicalvalues platform as a solid foundation for your individual scenarios. 
+ 
+Use Cases 
+With medicalvalues you can 
+We offer several pre-built tools on the medicalvalues platform and support you in creating individual solutions. Explore our use cases to get a better understanding of how we can help you reach the next level of excellence within your healthcare organization. 
+ 
+Laboratory Diagnostic Intelligence 
+For laboratories looking to differentiate diagnostic offeringsLearn More 
+ 
+Integrated Diagnostics 
+For hospitals breaking down silos by using integrated diagnosticsLearn More 
+ 
+Diagnostic Pathways and Data Enrichment 
+For scientists harmonizing, analyzing and enriching medical dataLearn More 
+ 
+Start Today 
+Get started on the medicalvalues platform in 10 minutes  
+Map & standardize your datasets to leading international standards like SNOMED CT and LOINC
+Analyze & enrich your data with diagnostic insights to kickstart or improve your AI applications and research
+Derive actionable insights in seconds and leverage our diagnostic algorithms to support your medical team or create your own solutions
+ 
+Get started now for free
+Book demo or technical deep dive
+Expertise 
+How do we differ? 
+We combine artificial intelligence and existing knowledge for higher quality and faster results. Medical Experts and expert physicians from various areas help structurizing medical diagnostic knowledge. 
+ 
+Dr. med. Carina Bachmann
+Chief Medical Expert
+Leading a team of physicians and biologists, 
+Carina Bachmann is responsible for the best possible medical quality.
+Prof. Dr. med. Georg Hoffmann​
+External Expert Advisor
+Being a laboratory physician with years of practical experience and research expertise, Prof. Dr. med. Hoffmann is also the founder of the Trillium GmbH - a leading publishing house for diagnostics.
+Prof. Dr. med. Lothar Thomas
+External Expert Advisor
+Prof. Dr. med. Thomas is a medical specialist in clinical laboratory medicine, microbiology and infection epidemiology, transfusion medicine, immunohematology, and clinical chemistry.
+Dr. Hülya Kiralp
+External Expert Advisor
+Having worked in multiple laboratories as a specialist for laboratory medicine, Dr. Kiralp has developed specific expertise for gynecological endocrinology.
+Prof. Dr. med. Kai Gutensohn
+External Expert Advisor
+Prof. Dr. med. Gutensohn is a medical doctor who has years of experience in managing both - private and hospital laboratories as well as teaching at a medical faculty.
+Security 
+Data privacy and security in the core 
+We follow the most recent industry standards for IT security. Gain insights of (pseudo-) anonymous datasets or use our anonymization algorithms. Adapt our solution to your needs. Operate your solution in the cloud or on-premise.Learn more about the medicalvalues platform 
+ 
+ 
+Recent News 
+ 
+				Experience Management: the new Standard in Healthcare			
+			February 1, 2023		
+Experience Management in the context of healthcare has gained importance in the past years.  Examining fields that underwent a digital transformation in the past, such as the e-commerce industry, can yield valuable insights into the observed trends and the desired outcomes.
+			Read More »		
+				Interoperability with FHIR: Creating structure in medical data			
+			August 17, 2022		
+Medical data and its collection, sharing, and analysis are now integral parts of the diagnostic process and increasingly important for more efficient and effective patient care. Interoperability enables seamless communication between different systems and paves the way for advanced diagnostics applications. 
+			Read More »		
+ 
+ 
+medicalvalues is ISO 13485 DQS certified. This internationally recognized standard for quality management systems in the medical device industry demonstrates our commitment to excellence and continuity in the manufacture of safe and effective medical devices. 
+ 
+Connect the dots in clinical pathways to enable improved patient outcomes 
+English
+Deutsch
+Overview 
+ 
+Home
+Diagnostic Pathways
+Platform
+Company
+Jobs
+Blog
+Contact
+ 
+ Menu
+Home
+Diagnostic Pathways
+Platform
+Company
+Jobs
+Blog
+Contact
+ 
+Use Cases 
+Standardization and Harmonization
+Diagnostic Pathway Management and Data Enrichment
+Laboratory Diagnostic Intelligence
+Integrated Diagnostics
+Cross-Sectoral Care and Telehealth
+Better diagnostics, better care
+ 
+ Menu
+Standardization and Harmonization
+Diagnostic Pathway Management and Data Enrichment
+Laboratory Diagnostic Intelligence
+Integrated Diagnostics
+Cross-Sectoral Care and Telehealth
+Better diagnostics, better care
+ 
+Contact 
+medicalvalues GmbHDurlacher Allee 75-7776131 Karlsruhe 
+ 
+ 
+contact@medicalvalues.de
+ 
++49 (0) 163 2545289
+ 
+LinkedIn
+© 2022 medicalvalues. All Rights Reserved. 
+Impressum Information | Privacy Policy 

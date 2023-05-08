@@ -1,0 +1,232 @@
+Heatmap plugin
+Healthcare X.0 | Experience the future
+DE |  EN
+ 
+ MENU 
+ 
+Experience the future.
+Improving communication, making work easier.
+ More info about our products
+HEALTHCARE X.0®Focus on Medical Data
+The idea behind the Healthcare X.0® modules: a modular concept.
+Digitisation has revolutionised medicine and the healthcare sector - but the challenge is to keep track of all the data from different systems. Healthcare X.0® packages patient data into a digital patient file, illustrates the progress of a course of treatment and enables professional communication with other health specialists. Everything in modular form in one software. Connected, crosslinked, unique and intuitive to use: HealthAssist Modules. This is what integrated healthcare software looks like today.  Healthcare X.0® is supported by software modules with specific areas of expertise. All modules are browser-based and work closely together, making them completely independent of the hardware: suitable for Mac or PC, tablet or notebook. All modules operate in the cloud in secure, private data centers in Germany or in-house at the data centre of the clinic. During development particular importance was paid to the different perspectives of users. A physician working with SAP for example in a hospital does not need to enter information twice. This means of course that we have integrated all of the interfaces based on international standard HL7, such as patient management systems (PMS), hospital information systems (HIS) and laboratory data transfer (LDT). Thus all possible individual applications are available to you. It is not necessary to enter data twice.
+ 
+Video: HealthAssist explained in 4 minutes
+OUR STRENGTH:WE MAKE IT EASY
+	 
+More integration and simplification leading to higher productivityand time savings in clinics and medical practices.
+	
+The medical profession is focused on people and their desire to be healthy. Our software provides everything medical staff need to concentrate on making people healthy. The HealthAssist Modules streamline processes, simplify the handling of data and optimise the organisation of many factors related to daily healthcare. The modules work together in a specialised and integrated manner across all fields of healthcare activity. Recurring tasks are similar in all of the modules, so that once you have learned the functions of one module you will be able to familiarise yourself quickly with the other modules: if you know one, you know them all. You will find the videoconferencing tool in each module, as well as the DICOM-viewer, so that you can consult colleagues at any time across multiple locations. Healthcare X.0® creates solutions which have immediate benefits for doctors and patients for every conceivable situation you come across in clinic and in medical practice. This opens up new opportunities for development and gives you time to focus on the essentials: people.
+	 
+1. Patient or doctor activates clinical trials within the Assist-module. | 2. AI identifies the eligible patient. | 3. Patient is highlighted. | 4. Patient or doctor notified. | 5. Discussion between patient, doctor and pharma company.
+COGNITIVE COMPUTING: CLINICAL TRIALS   
+	 
+Effective networking for efficient recruiting.
+	
+It’s a long journey from the development of a new active ingredient to its prescription as an effective medicine. All new medicinal products must be carefully checked and tested. Pharmaceutical companies are therefore instructed to find a valid number of suitable participants for clinical trials, but because patients often have reservations about such trials or about the pharmaceutical industry in general, this poses a problem. However, participation can help establish new perspectives. In addition to innovative active ingredients and therefore improved chances of healing where possible, a continuous and intensive treatment is a core element of such studies. So how does the patient find out that there is a clinical study relevant to their medical indication? Up until now, this has taken place almost exclusively via doctors and agencies as intermediaries. Both cost a lot of time and resources. Now, after the Clinical Trials Search has been activated in the Assist module, the patient automatically receives a notification if a study could be of interest to them. The complete integration of the relevant information in the module enables a more simplified and effective recruiting.
+Your RoadmapTO THE FUTURE
+The HealthAssist database is the core element which is accessible to all modules. HealthAssist manages all relevant data: patient information, medical reports, X-rays and much more. All of the other modules are interconnected and acquire their data from here.
+ 
+	    PatientAssist
+patientportal
+	    OncoAssist
+tumorboard and -documentation
+	   CognitiveAssist
+cognitive computing
+	    InfectAssist
+infectconference and -documentation
+	    DiabetAssist
+diabetboard and -documentation
+	    WoundAssist
+woundboard and -documentation
+	    CardioAssist
+cardioboard and -documentation
+	    Virusassist
+patientportal viurs information
+	    HealthAssist
+database, including all patient data
+[ess_grid alias=”gridhomepage”][/ess_grid] 
+    
+ <    
+ 
+Infectassist significantly increases productivity and raises communication to a new level.
+Documenting the progression of disease is an important part of the treatment – infectassist can help from the point of diagnosis to treatment and aftercare. The infectassist module is based on the standardised basic dataset of the German Tumour Centre Work Group’s (ADT e. V.), which is the authority for reports from cancer centres to the clinical cancer registers. infectassist also supports certification as a cancer centre and takes into account the needs of all medical disciplines to convert them into a user-friendly, physician-oriented user interface. At any time international studies and guidelines are just a mouse click away. At the same time infectassist reduces the workload of documentation by means of a fast entry method and can thus reduce the cost per case significantly. A lot of time and money can be saved which can be invested in other areas and at the same time it is possible to optimise quality because of the uniform registration of relevant quality indicators.
+EHR to VirusAssist
+Cognitive computing
+Virtual case conference documentation, Infect Register Communications, Access to clinical trials and guidelines, DICOM-viewer Videoconference
+Surgery, Infectology, Epidemiology, Radiology, Pathology, Gynaecology, Urology etc.
+ 
+Languages: German, English, Russian, Chinese, Italian, more on request 
+Accounting per case, Partial refund
+infectassist in brief
+EHR to VirusAssist
+Virtual case conference documentation, Infect Register Communications, Access to clinical trials and guidelines, DICOM-viewer Videoconference
+ Cognitive Computing
+Surgery, Infectology, Epidemiology, Radiology, Pathology, Gynaecology, Urology etc.
+ Languages: German, English, Russian, Chinese, Italian, more on request
+ Accounting per case, Partial refund
+	 
+Flexibility and safety: database hosting in the secured cloud on our own servers.
+	
+The modular principle of the HealthAssist modules has a common core where all of the relevant data is found: the HealthAssist database. All of the medical data and information about patients are stored here: MRI data, X-rays, allergens etc. At the same time HealthAssist also provides interfaces for communication including PMS, KIS (e.g. SAP) or LDT. The advantages of having a common database are obvious: the data and values ​​only need to be entered once and can be analysed specifically by data mining methods. Exporting to Excel is also possible. Browser-based access makes it possible to use nearly all devices and operating systems. You can be flexible at all times and in all places. HealthAssist is also internationally oriented and available in different languages​​.
+	
+Implementation in own datacentre or via secured private cloud interface: PMS, HIS, LDT, DICOM
+Cognitive computing
+DICOM-viewer,  Videoconference
+Specialist physicians, Patients, Interdisciplinary 
+Language versions: German, English, Russian, Chinese, Italian, more on request
+Available on Windows, Mac, Tablet, etc.
+Central database can be extended by all Assist modules
+Accounting per case, Partial refund 
+HealthAssist in brief
+ Implementation in own datacentre or via secured private cloud interface: PMS, HIS, LDT, DICOM
+ Central database can be extended by all Assist modules
+ Cognitive Computing
+ DICOM-viewer, Videoconference
+ Specialist physicians, Patients, Interdisciplinary
+ Language versions: German, English, Russian, Chinese, Italian, more on request
+ Available on Windows, Mac, Tablet, etc.
+ Accounting per case, Partial refund
+The sheer volume of information out there relating to health is increasing at a rapid pace. So, with this wealth of data such as doctor’s letters, surgical reports, results, and various other information (such as that from smartwatches) available, it is possible to highlight interdependencies or probabilities of illnesses even more accurately than ever before. In the future, CognitiveAssist will play an active role in helping doctors when it comes to making decisions (with regard to diagnoses, treatment, and medication).
+So how exactly does it work? The doctor starts by populating the system with all relevant basic information (such as symptoms and other associated factors). CognitiveAssist then reconciles this with the latest findings and research results, clinical studies, articles from medical journals, and other data. Once complete, our solution creates a list of potential diagnoses along with an estimate of how reliable these hypotheses actually are.
+CognitiveAssist combines self-learning systems (AI), huge quantities of data (big data), patient needs, and terabyte after terabyte of patient data into a single cognitive system. This makes it possible to create an individual therapy plan for each patient and significantly reduce the number of potential errors in terms of medication and treatment.
+ 
+OncoAssist significantly increases productivity and raises communication to a new level.
+Documenting the progression of disease is an important part of the treatment – OncoAssist can help from the point of diagnosis to treatment and aftercare. The OncoAssist module is based on the standardised basic dataset of the German Tumour Centre Work Group’s (ADT e. V.), which is the authority for reports from cancer centres to the clinical cancer registers. OncoAssist also supports certification as a cancer centre and takes into account the needs of all medical disciplines to convert them into a user-friendly, physician-oriented user interface. At any time international studies and guidelines are just a mouse click away. At the same time OncoAssist reduces the workload of documentation by means of a fast entry method and can thus reduce the cost per case significantly. A lot of time and money can be saved which can be invested in other areas and at the same time it is possible to optimise quality because of the uniform registration of relevant quality indicators.
+EHR to PatientAssist
+Cognitive computing
+Tumour conference and documentation, Cancer Register Communications, Access to clinical trials and guidelines, DICOM-viewer, Videoconference, Interdisciplinary
+Surgery, Oncology, Radiotherapy, Radiology, Pathology, Gynaecology, Urology etc.
+ 
+Languages: German, English, Russian, Chinese, Italian, more on request 
+Accounting per case, Partial refund
+OncoAssist in brief
+EHR to PatientAssist
+ Tumour conference and documentation, Cancer Register Communications, Access to clinical trials and guidelines, DICOM-viewer, Videoconference, Interdisciplinary
+ Cognitive Computing
+ Surgery, Oncology, Radiotherapy, Radiology, Pathology, Gynaecology, Urology etc.
+ Languages: German, English, Russian, Chinese, Italian, more on request
+ Accounting per case, Partial refund
+SHORT & SWEET:ONCOASSIST IN 3 MINUTES
+ 
+CardioAssist supports everyday medical practice in small and great matters.
+The CardioAssist module documents the diagnosis and course of treatment with specific data about heart disease. The basis of the documentation is the Guideline of the Joint Federal Committee on measures for quality assurance for the implementation of minimally invasive heart valve interventions. CardioAssist is especially useful for cardiologists, heart surgeons and anaesthetists. The integrated checklists for the TAVI-protocol and the transvenous clip reconstruction of the mitral valve provide you with support. Valuable time and effort can be saved by automatic communication to the aortic valve registry and assistance with certification as a heart centre. 
+Productivity can also be increased by fast and more accurate communications and automatic documentation.
+Furthermore, you will also be supported by records on historical data and medication, an upload function for medical reports, diagnostic imaging and laboratory findings. 
+EHR to PatientAssist
+Cognitive computing
+Cardio conference and documentation, 
+Communication with aortic valve registry, Access to clinical trials and guidelines, DICOM-viewer, Videoconference, Interdisciplinary
+Cardiologist, Heart Surgeon, Anaesthetist 
+Languages: German, English, Russian, Chinese, Italian, more on request  
+Accounting per case, Partial refund
+CardioAssist in brief
+EHR to PatientAssist 
+ Cardio conference and documentation, Communication with aortic valve registry, Access to clinical trials and guidelines, DICOM-viewer, Videoconference, Interdisciplinary
+ Cognitive computing
+ Cardiologist, Heart Surgeon, Anaesthetist
+ Languages: German, English, Russian, Chinese, Italian, more on request
+ Accounting per case, Partial refund
+	 
+Seamless wound documentation provides more security during aftercare.
+For the treatment of chronic wounds and wound diseases seamless documentation is essential - the only way to reliably detect complications or abnormalities. The Healthcare X.0® module WoundAssist supports the work of specialists in internal medicine, dermatologists or diabetologists in their daily clinical or medical practices. Using the videoconferencing system you can communicate regardless of your location and gain personal access to medical expertise without limitations. WoundAssist is also ready to access the planned German wound register. In this register supply structures and processes and the effectiveness of therapeutic interventions are recorded over the long term in everyday conditions. The data include sociodemographic characteristics, wound parameters such as healing rates, wound status, speed of wound healing and patient feelings. 
+	
+EHR to PatientAssist
+Wound conference and documentation, Access to international studies und guidelines, DICOM-viewer, Videoconference, Interdisciplinary
+ 
+Specialists in internal medicine, Diabetologists, Dermatologists and others 
+Languages: German, English, Russian, Chinese, Italian, more on request 
+Accounting per case 
+WoundAssist in brief
+EHR to PatientAssist 
+Wound conference and documentation, Access to international studies und guidelines, DICOM-viewer, Videoconference, Interdisciplinary
+ Specialists in internal medicine, Diabetologists, Dermatologists and other
+ Languages: German, English, Russian, Chinese, Italian, more on request
+ Accounting per case
+	 
+The digital patient file of the future can be maintained safely and easily online.
+ 
+All relevant patient data can be found in the PatientAssist module. Personal contact data as well as complete medical histories: an electronic health record. Diagnoses, historical data, medical reports, laboratory findings or radiological data can be stored via the integrated upload function. The individual, specific details about the patient’s disease can be saved here. Patients can keep a detailed pain diary and document additional information about their state of health. The standardised exchange and storage of clinical content (doctor’s letters, results, etc.) in Patient Assist is guaranteed by the Clinical Document Architecture (CDA), which is based on XML. Practical and accessible: apps for AppleWatch and iOS provide the patient with future oriented applications for fast and mobile data entry. PatientAssist also offers a medication planner with PZN database. In case of an emergency caused by an accident or acute illness access to the relevant data can be guaranteed fast and safely for a specific period.   
+Our experienced development team follows current market trends closely and we are continually developing and redesign-
+ing apps for Android, iOS and the Apple Watch. Welcome to Healthcare X.0®. 
+Can be extended by all Assist-modules, EHR to Assist-module
+Cognitive computing
+Pain diary, Medication list, EMR/EHR, Access to medical reports etc., Access in case of emergency, Communication exchange between parties concerned
+Patients and physicians
+Languages: German, English, Russian, Chinese, Italian, more on request
+ 
+Fast entry via Apple Watch / iPhone
+PatientAssist in brief
+Can be extended by all Assist-modules, EHR to Assist-module
+ Pain diary, Medication list, EMR/EHR, Access to medical reports etc., Access in case of emergency, Communication exchange between parties concerned
+ Cognitive computing
+ Patients and physicians
+ Languages: German, English, Russian, Chinese, Italian, more on request 
+ Fast entry via Apple Watch / iPhone
+SHORT & SWEET:PATIENTASSIST IN 4 MINUTES
+PIONEERING AND INNOVATIVE:
+THE MASTERMINDS BEHIND HEALTHCARE X.0 ®
+	
+Healthcare X.0 is one of the leading software providers for the healthcare industry. Our management team is renowned for its extensive experience in the field of pioneering IT applications. We have even developed our own software, which includes cloud-based services hosted in data centers in Germany for the dynamic healthcare market. What’s more, our innovative software is certified as a secure tool for processing order data.
+	
+The Founders
+Dipl. oec
+Chris-Gilbert König
+Director Healthcare
+ 
+ 
+Carsten König
+CTO
+Do you want to learn moreabout HEALTHCARE X.0®?
+If you want to learn more about Healthcare X.0® or our products or have a question, please fill in the form and we will contact you as soon as possible with further information.
+Please fill in:
+SalutationMrMrs
+ 
+ 
+What do you wish to discuss? (required)SoftwareArrange an appointmentPlease return callOther 
+ Which market sector are you involved in? (required)MedicineITHealth insuranceExecutive management Hospital/PracticePatient/Private personStudentOthers 
+Subject (required)HealthAssist-SoftwaremodulesHealthAssist-databaseOncoAssistVascularAssistPatientAssistNephroAssistEndoAssistDiabetAssistWoundAssistCardioAssistOthers
+How did you find out about us? (required)Trade fairAdvertisementSymposium/ConferenceRecommendationPersonal recommendationFacebookSearch engineOther
+ * I read the data protection 
+				
+  
+Healthcare X.0® GmbH
+			Am Sandtorkai 62 | 20457 Hamburg 
+info@healthcare-xnull.com  |  www.healthcare-xnull.com
+ IMPRINT   DATA PROTECTION
+Follow us!      	 
+			   
+			    
+Healthcare X.0® GmbH 
+Am Sandtorkai 6220457 Hamburg info@healthcare-xnull.com www.healthcare-xnull.com
+ IMPRINT   DATA PROTECTION
+      
+       
+       
+				
+				
+Open Source Sofware
+X 
+DE |  EN
+ 
+Start
+Our Products
+Healthcare X.0
+Our strength
+COGNITIVE COMPUTING
+Roadmap
+Software Modules
+ InfectAssist
+ HealthAssist
+ CognitiveAssist
+ OncoAssist
+ CardioAssist
+ WoundAssist
+ PatientAssist
+Microsites
+ OncoAssist
+ InfectAssist
+ VirusAssist
+ PatientAssist
+About us
+Contact

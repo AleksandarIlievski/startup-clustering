@@ -1,0 +1,37 @@
+Game-changing instruments for your digital signals | Swabian Instruments
+Products
+Time Tagger Series
+Pulse Streamer 8/2
+Synchronizer
+Applications
+Dynamic Light Scattering (DLS)
+Fluorescence Lifetime Imaging (FLIM)
+Single Photon Microscopy
+Linear Optics Quantum Information
+Frequency Stability Analysis
+Knowledge
+Support
+Application Notes
+Selected Publications
+Open Source Projects
+Careers
+Your opportunity
+Tell your story
+Work culture
+Open positions
+Company
+Locations
+About
+Management Team
+Projects
+Partners
+Awards
+Contact Sales EN|中文Game-changing instruments foryour digital signalsSwabian Instruments provides versatile solutions for the handling of digital signals. We combine high performance hardware with flexible software toolkits and connect them with streaming data paths. Our instruments enable you to process and control your digital signals on-the-fly.Implement fasterTime Tagger SeriesCapture digital signals from your application and process them on-the-fly with Swabian Instruments’ Time Tagger Series.Read morePulse StreamerDefine complex digital signal patterns for your application with a Pulse Streamer.Read moreWhat are your biggest challengesin digital control and measurement?Get us InvolvedThe latest from Swabian Instruments7-10 November 2022Düsseldorf, GermanyITSF 20222-7 October 2022Vienna, AustriaISPCS 2022View all EventsControl your Time Tagger remotely with PythonAre you looking for a way to control your Time Tagger remotely? Learn how you can do it with Python and Pyro5 library. Enjoy the freedom of the open source and checkout the Python code from GitHub or download ready-to-use package. We have also prepared a detailed tutorial and code example for you to start faster.Read moreMeasuring the timing accuracy and jitter of 1PPS signals in White Rabbit applicationsThe transmission of accurate timing information is essential today - not only in science but also in industry and finance.Read moreView all NewsTop universities and research institutes around the globe simplify their digital signal handling with Swabian Instruments' products.
+Awards“Truly pioneering technology and the major innovation advantage achieved by the developers”In 2021, Swabian Instruments received the Stuttgarter Innovationspreis. This prestigious award honors the outstanding companies from Stuttgart that shape the future with their innovative ideas.The distinguished jury led by the mayor of Stuttgart Dr. Frank Nopper included renowned innovation experts and leaders of successful business initiatives from the region.The award appreciates our efforts to develop cutting edge measurement instrumentation for photonic quantum technology that we have been pushing forward together with our international customers over the past few years.Learn more and watch the award ceremony on the official site of Stuttgarter Innovationspreis 2021.In 2019, Swabian Instruments was a Top 3 finalist of the Deutscher Gründerpreis, Germany's most prestigious entrepreneur award.The distinguished jury of the partner companies Porsche, Stern, ZDF, and the Sparkasse selected Swabian Instruments out of more than 600 prominent nominees. The jury was impressed by the "outstanding scientific competence" and the "persuasiveness of the founders".The award recognizes the impact that our technology creates for high precision digital measurements. Have a look at Swabian Instruments' page on the official site of the Deutscher Gründerpreis.“Remarkable economic development that is rarely achieved by an innovative university spin-off”“Measure what can be measured, and make measurable what cannot be measured.”In 2018 the Innovationspreis Baden-Württemberg, the most prestigious innovation award in the state, was awarded to Swabian Instruments by the Ministry of Economic Affairs, Dr. Nicole Hoffmeister-Kraut.In her laudation, Dr. Christine Neuy, Managing Director of the microTEC cluster Südwest, summarized the outstanding achievements of Dr. Helmut Fedder, Dr. Michael Schlagmüller, and Markus Wick with a quote from Galileo Galilei: "Measure what can be measured, and make measurable what cannot be measured." "With the development of the Time Tagger, the three scientists have revolutionized measurement technology and enabled scientists all over the world to perform their measurements in a flexible, scalable, and cost-efficient way", she said.Contact+49 711 400 479 0info -at- swabianinstruments -dot- comAwardsStuttgarter Innovationspreis 2021
+Deutscher GründerpreisInnovation BW 2018Follow us
+Subscribe to our newsletter
+www.CleverReach.com© 2023 Swabian Instruments.All Rights Reserved.Imprint
+|
+Privacy Policy
+|
+Terms & Conditions

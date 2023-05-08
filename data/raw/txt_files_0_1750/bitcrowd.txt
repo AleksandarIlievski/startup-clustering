@@ -1,0 +1,112 @@
+Bitcrowd
+logo
+Home
+Navigation verbergen
+Navigation verbergen
+Leistungen
+Projekte
+Technologien
+Team
+Blog
+Kontakt
+Jobs
+en
+Wir entwickelnWir schreibenWir coden
+außergewöhnlichecoole
+AnwendungenWebapps
+Kontaktiere uns!
+Wir entwickeln Software für Start-Ups
+Start-Hilfe
+Wir helfen Dir mit dem Start Deines Software-Projektes! Unsere erfahrenen Entwickler legen Grundlagen für die Implementierung, bringen Dich über die erste Meile, begleiten Dich bis zum MVP oder zum IPO.
+Rettungs-Missionen
+Wir bringen Dich wieder auf Kurs! Wir helfen, wenn Dein technischer Mitgründer Dich im Stich lässt, die Qualität der Software nachlässt oder Releases ins Stocken geraten. Wir implementieren klar definierte Entwicklungsprozesse mit Testing- und Release-Abläufen in Deinem Unternehmen.
+Software Entwicklung
+Wir machen aus deinem Konzept eine solide Anwendung. Dabei benutzen wir die Werkzeuge, die zu dem Produkt passen. Nach dem Launch Deiner Anwendung übernehmen wir die Wartung, bauen neue Funktionen und helfen Dir zu skalieren. Während Dein Produkt an Zugkraft gewinnt, helfen wir Dir beim Aufbau Deines eigenen Teams.
+Wir helfen Unternehmen
+Feature Booster
+Entwicklungs-Teams sind oft gerade so groß wie der Betrieb der Anwendung es verlangt. Wir helfen Dir, die nächsten Schritte zu gehen. Mit aktiver Unterstützung, unserer Expertise und einem unvoreingenommenen "Blick von außen" entlasten wir Deine Entwickler, räumen Hindernisse aus dem Weg und setzen neue Funktionen und Teilprojekte um.
+Bewährte Lösungen
+Wir starten bis zu zehn Anwendungen jedes Jahr und sind häufig über Jahre für sie verantwortlich. Aus diesen umfangreichen Erfahrungen wissen wir, welche Konzepte und Technologien in Deinem Projekt funktionieren werden. Diese Erfahrungen teilen wir mit Deinem Team und helfen Dir, die richtigen Entscheidungen zu treffen.
+Technology Migration
+Wie kann Deine Anwendung wartbarer und effizienter werden? Wenn Du eine Angular1-Anwendung auf React migrieren musst, auf Elixir wechseln möchtest oder der Wechsel zur Service Oriented Archtitecture ansteht, zeigen wir Dir alternative Upgrademöglichkeiten und Migrationspfade.
+Wir bringen unsere Fähigkeiten, Erfahrung und Leidenschaft in Dein Projekt ein
+Projekte
+Liefery
+In nur drei Jahren ist Liefery zu einer Größe im Same-Day Sektor geworden. Für Kunden wie amazon und Zalando werden täglich über 10.000 Sendungen zugestellt. Wir sind sehr stolz, dass Liefery seit dem ersten Code-Commit unser Kunde ist. Mit unseren agilen Prozessen konnten wir Liefery helfen, die ständig neuen Anforderungen der letzten Jahre zu erfüllen.
+Solarisbank
+Mit ihrer Banking-Plattform schließt die Solarisbank die Lücke zwischen E-Commerce und Bankenwelt. Wir sind sehr begeistert, durch unsere Mitarbeit Teil dieses Wandels zu sein.
+everyworks
+everyworks ist Coworking eine Stufe weitergedacht. Das Projekt der DB Station&Service AG öffnet die Bahnhöfe als Coworking Spaces in minutengenauer Abrechnung oder als maßgeschneiderte Bürolösung auf monatlicher Basis. Die native App der Agentur evenly stützt sich auf das Elixir API und Backend von bitcrowd.
+Grundsätze
+Tests Zuerst!
+Manuelles Testen von Software ist zugleich aufwändig und fehleranfällig. Wie andere monotone Aufgaben automatisieren wir auch Tests. Die Zeit, die wir zum Schreiben eines Tests benötigen, ist jene, welche wir in jeder zukünftigen Iteration als ein Vielfaches einsparen. Durch das Ausführen der Tests vor jedem Commit halten wir die Qualität der Software hoch, Zeiten für QA und Deployments kurz.
+Agile Software-Entwicklung
+Deine Nutzer können ihr Produkt nur wertschätzen, wenn es verfügbar ist. Deswegen legen wir großen Wert darauf, schnell eine erste Fassung fertigzustellen, die von Dir und ersten Nutzern benutzt werden kann. Anschließend erweitern wir Schritt für Schritt bis das Produkt das ist, das Deine Nutzer benötigen. Wir reagieren auf Veränderungen, arbeiten mit Dir zusammen und entwickeln funktionierende Software, mit der Du interagieren kannst.
+Technologien
+Elixir
+Phoenix
+Ruby on Rails
+Typescript
+React
+Javascript
+Unser Team
+Andreas Knöpfle
+Developer
+Assistant code archeology officer
+Peter Nguyen
+Developer
+Hyperspace bug catcher
+Darren Cadwallader
+UX & UI
+Frontend Fairy
+Joe Harrow
+Developer
+Zero-G Regex Wrangler
+Agathe Lenclen
+Developer
+Pattern Matching Sandwich Artist
+Daniela Knöpfle
+Technical Project Manager
+To-do list and coffee addict
+Alfonso Mancilla
+Developer
+You've gotta dance
+Hannah Voget
+Developer
+Time Travelling Mutation Tester
+Sabine Holler
+Developer
+Multiverse Hitchhiker
+Victoria Pradel-Drengner
+Office Management
+Chief Amazement Officer
+Malte Rohde
+Developer
+Runtime optimized Keyboard Yodeler
+Max Mulatz
+Developer
+Whitespace wrestler on a functional fieldtrip
+Jeffrey Arinze
+Developer
+Code Jedi
+Christoph Beck
+Founder, Conceptionist
+Head of Intergalactic Mischief
+You
+Awesome, skilled & curious
+Say hello!
+Neues von unserem Team
+Blog lesen
+Get in touch
+How can we help you? We’d love to hear from you:
+info@bitcrowd.net
+@bitcrowd
+Call us on +49 30 555 77 597
+Come to see us!
+bitcrowd GmbH.
+Köpenicker Straße 126
+10179
+BerlinGermany
+Open in google maps
+© 2023 bitcrowd
+Rechtliches

@@ -1,0 +1,109 @@
+Home - navel
+Skip to content
+ 
+Toggle mobile menu
+Navel – the social robot
+What is a social robot?
+Resources
+About
+Jobs
+News
+Deutsch
+ 
+a robotic being  
+you want to be with 
+navel is a social robot of the next generation 
+–     we are hiring     –  
+What makes navel special? 
+Through the interplay of deep tech and innovative interaction design, navel has unique social capabilities and offers a new form of user experience.Simply enjoy the presence of the sympathetic robot figure navel and don’t worry about how navel has to be “operated”. Because navel communicates with you in a completely natural way. 
+a gaze says more than 1000 words 
+Navel in the press 
+ 
+ 
+ 
+ 
+In which fields can navel be used? 
+As a research robot, navel enables research into new methods in social human-robot interaction.As a service robot, e.g. in retail, navel arouses sympathy and at the same time offers helpful information and services.As a care robot, navel autonomously activates people in need of care, increases their well-being and relieves caregivers. 
+This makes navel different from other social robots 
+Computing power
+Communication
+Eye contact
+Liveliness
+Autonomy
+Privacy
+Computing power
+navel has 10 times the computing power of comparable robots.The latest generation of NVIDIA edge devices, which are also used for autonomous driving, run neural networks and algorithms for computer vision and sound processing in real time.On this platform, navel with its clever software architecture can process twice as many signals at five times the rate of Pepper, for example.The result is a very lively and unique empathic behaviour that makes navel so likeable.
+Communication
+Like other voice assistants, navel understands speech and has a specific, very emotional voice.But what makes navel unique are its non-verbal capabilities: navel detects our non-verbal signals such as facial expressions or the direction of our gaze and body and in turn reacts to them with expressive facial expressions and lively gestures. Instead of an offstage voice, his words become visible with matching emotion and lip movements.This makes communication with navel very human-like, so that anyone can interact with navel quite intuitively – in much the same way as with a small child or a pet.
+Eye contact
+Eye contact is the foundation of all social interaction, which only a few social robots besides navel have mastered.navel has eyes that no other robot has! Special 3D optics are mounted above the displays, giving navel real three-dimensional eyeballs. Because with eyes that are only shown on a planar display, no real eye contact is possible.Because navel uses its camera to recognise where the eyes of its conversation partner are, navel can look exactly into their eyes. And because a static stare is unpleasant, navel has natural eye movements that continuously change the focus, including gaze aversion.
+Liveliness
+Like any living creature, navel continuously detects many signals from its environment and reacts in real time. In this way, navel can also localise sources of noise, among other things, and orient itself to what is happening around it.navel is mobile and moves autonomously in the human environment. With soundless head motors, navel can move its head lively and in all directions.navel‘s variety of mimic expressions is limitless. In addition to the basic emotions, navel can use additional grimaces and gestures and interpolate continuously between all of these. To ensure that facial expressions never remain rigid, navel shows natural fluctuations depending on the situation.
+Autonomy
+In order to be able to interact autonomously in a human environment, it needs social intelligence. navel can process the social signals such as emotion, body and gaze orientation of several people simultaneously in real time. This allows navel to approach and address people in a situationally appropriate, autonomous and proactive way.Navigation in the human environment must be safe and empathetic. navel always maintains an appropriate distance and approaches sensitively from the front.navel has various room sensors so that it can find its way around even in unfamiliar spaces.
+Privacy
+Social robots continuously collect very personal and sensitive data via cameras and microphones in order to be able to act socially intelligent.Due to its powerful computational processor, navel can process all this data itself in real time. Therefore, this personal data does not have to be sent to a cloud for processing, as is usually the case with other social robots. So no personal data leaves navel.In addition, the image and audio data are immediately deleted within fractions of a second after evaluation.
+ 
+Use Cases 
+for your specific requirement 
+navel 
+research 
+Researchers and developers get full access to all navel‘s capabilities:Python SDK to program custom behaviour with direct access to all functions– all high- and low-level data– video and audio streams– all actuators (locomotion, head and arm movement, voice output, …)– RASA Dialog Manager (pre-installed) to control non-verbal behaviourBrowser application to control the robot without programming– for quick Wizard-of-Oz tests– Basic emotions, gestures and sequences– own libraries can be createdFor questions and orders please contact us. 
+navel 
+service 
+In the service and marketing area, navel uses its social skills to win and serve customers for you.You get a simple web application that allows you to easily customise the interactions and content yourself.We work with established distributors who can help you integrate it into your use case.If you are interested in participating in the next pilot projects, please contact us. 
+navel 
+care 
+Due to his high social skills, navel can emotionally and cognitively activate people in need of care. It independently offers interventions such as activating questions, games, jokes and more.With its many sensors and enormous computing power, navel can do this completely autonomously and empathically, without caregivers having to take care of it additionally. In this way, navel relieves caregivers and can offer additional individual interventions in parallel to the caregiver and provide variety.If you are interested in participating in navel care pilot projects from 2023, please contact us. 
+Technology 
+Software 
+OSLinuxComputer Vision (10fps)Face detectionPerson identificationEmotion recognitionHead poseEye gazeSound ProcessingSound source localizationBeam forming 
+Natural Language ProcessingSTT: Google ASRTTS: Acapela (30 languages) Dialog Manager: RASANavigationSLAMSocially aware proxemicsSDKPython SDKGUInavel control studio 
+Hardware 
+SoCNVIDIA® Jetson AGX Xavier™
+CamerasHead: 80° 720P 60 fps Global ShutterBody: 160° 720P 60 fps Global Shutter
+ Microfones3D array comprised of 7 microfones
+3D SensorsIntel® RealSense™ Depth Module D4303x Lidar sensors 4x Sonar sensors
+Displays3x Round displays3x 3d lenses 
+MotorsHead: 3x quiet gimbal motorsDrive: 2x 65 W motorsShoulder: 2x Servo motorsTilt: 2x linear motorsSpeaker2x 4 W Broadband loudspeaker Battery210 Wh Li-Ion BatteriesConnectivityLANWLANSizeHeight 72 cmWeight7.8 kgCapWool 
+ 
+Please contact us for questions or a quote 
+Phone
+Title
+						Mr					
+						Ms					
+						no					
+First Name *
+ 
+Last Name *
+ 
+Email Adresse *
+ 
+Organisation *
+ 
+Your Request *
+ 
+© 2022 navel robotics GmbH
+All rights reserved.
+ 
+ Agnes-Pockels-Bogen 1
+80992 München
+Deutschland
++49 (0) 89 8776 9826
+info@navelrobotics.com
+Raum F 4.10
+ 
+Impressum, Datenschutz
+Navel – the social robot
+What is a social robot?
+Resources
+About Us
+News
+Research Project VIVA
+ 
+ Linkedin
+  
+Proudly powered by WordPress
+ | 
+			Theme: Airi by aThemes.			
+GDPR Cookie Consent with Real Cookie Banner

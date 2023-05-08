@@ -1,0 +1,79 @@
+Visualix
+Technology
+About Us
+Request Demo
+In German
+Visual Mapping and Localization at Scale
+Centimeter-precise AR with no need for beacons or markers
+SCALABLE MAPPING AND LOCALIZATION FOR ROBUST AR
+Our server-side computer vision backend allows robust mapping and localization on an area of 20.000 sqm with commonly used devices. 
+PRIVATE AR CLOUD FOR YOUR SECURITY NEEDS
+Store your point clouds and persistent AR content securely in the cloud or on premise.
+BUILD CUSTOM AR APPS FOR LARGE SPACES
+Fuse together the digital and physical world and build your own custom AR apps for in- and outdoors.
+The Visualix Platform
+3D MAPPING APP
+Scan your space using a phone and generate an actionable 3D model as a base for AR deployment.
+AR CMS APP
+Building on the 3D model of your venue, the browser-based placement app allows user-friendly persistent AR deployment with centimeter precision.
+LOCALIZATION SDK
+Let your visitors view and interact with the content you placed for them. Our viewers app displays AR content instantly and with high accuracy, anywhere in your venue.
+ Industry verticals 
+GAMING
+RETAIL
+MUSEUMS
+AUTONOMOUS VEHICLES
+REAL ESTATE
+Gaming
+Ever wanted to fight a dragon with your friends in a park? Create interactive gaming experience in one continuous AR Session connecting multiple devices.
+Congruent AR
+For the first time, we enable all players to see 3d objects from multiple devices in a congruent way. Our technology enables high angular and position accuracy across one gaming session.
+Create your own experiences
+Build on Visalix Social Gaming API and create the next hit game.
+Retail
+Offer your customers On-spot product information, customer service, in store navigation  and gamified promotions: Visualix`  Retail API, enabling 3D mapping and accurate AR placement, is the foundational technology onto which to build the future of your retail.
+Save costs
+Let augmented reality interface with your customers, offering assistance on the spot, or streamlining booking and payment processes.
+Boost sales
+Augment your shop with promotions such as promotional content, discount coupons and upselling opportunities.
+Improve conversion
+Offer centimeter precise navigation to general area or specific products.
+Museums
+Your visitors are demanding when it comes to detailed information and rich learning experiences, leveraging the newest technological capabilities. Bring your analog exponents into a new 21 century perspective with digital augmented overlays.
+Create content for your exhibits
+Augment your exponents with relevant information and media (graphics, audio, video etc) Let your visitors dive deep into history.
+interactive Q&A
+Create user generated on-spot  Q&A interfaces, which accumulate visitors questions and curated answers.
+Show them around
+Create alternate routes and pathways and bring different narratives to life.
+Autonomous vehicles
+Our 3D reconstruction technology allows large city scale mapping with a stereo camera setup, enabling actionable 3D maps for use cases in autonomous driving.
+Mapping
+Use our stereo camera setup to reconstruct the outside world. Our combination of deep learning and keypoint based reconstruction allows the robust and continuous 3D reconstruction of city-scale maps. We can also reconstruct a space
+Autonomous Navigation and Wayfinding
+Based on the 3D reconstruction, we enable accurate and instant positioning of vehicles such as cars, and drones.
+Conference Venues
+Make people coming to your venue the best experience they’ve had in weeks. Give them instant navigation to their desired meetings rooms, the closest coffee shop or even the quiet room (gibts ein anderes wort für toilette?). Your foreign visitors can see signs with augmented translations. Your app shows them if its raining and they should take an umbrella before going out. Or maybe let them know what company this person to their right is from. All with augmented reality and their own phones.
+Benefit 1
+Create alternate routes and pathways and bring different narratives to life.
+Benefit 2
+Create alternate routes and pathways and bring different narratives to life.
+Benefit 3
+Create alternate routes and pathways and bring different narratives to life.
+Real Estate
+Empty properties require a lot of imagination on how it could be furnished or used in the best way. Make your properties more attractive with additional information and 3D interior designs.
+Enhancing Property Value
+When showing a space to a potential client, give them the freedom to explore the venue with a tablet or phone and view additional augmented information. What is the quality of the window setup? What wood is the floor made of? How does the power supply work?
+Show furnished apartment in 3D
+Display technical details, but also 3D furniture models from other companies.
+Swipe through different styles and upsell these items with the  property purchase.
+HOME
+TECHNOLOGY
+ABOUT US
+CONTACT US
+hello(at)visualix.com 
+© Copyright Visualix 2018. All Rights Reserved.
+Privacy Policy
+Imprint
+Visualix in now an Inpixon solution. Please visit us at www.inpixon.com to learn more.
+X

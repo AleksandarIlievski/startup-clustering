@@ -1,0 +1,106 @@
+fortrabbit | PHP cloud hosting
+  
+•fortrabbit
+Pricing
+Help
+Blog
+Your Account
+Log in
+Sign up free
+PHP hosting for you
+        web developer, agency, startup
+    
+Got sick of wrestling with Linux and Apache so tried out @fortrabbit and very glad I did. Perfect solution.
+                Shealan Forshaw
+             UK
+Founder of beatnode
+    Forget servers
+    focus on PHP, not on PHP hosting
+            PHP as a Service
+        
+            This is not your grandma's hosting. fortrabbit is affordable as shared hosting, powerful as VPS hosting and carefree as managed hosting.
+        
+Compare fortrabbit with VPS ›
+Batteries included
+        Managed OS
+    
+        Git & Composer
+    
+        SSH & SFTP
+    
+        SSD storage
+    
+        Scaling
+    
+        HTTPS
+    
+        Backups
+    
+PHP 8
+            Teamwork
+        
+            Never send passwords by mail again. Collaborate on code development. Securly manage Companies and Apps from the Dashboard. All with one login.
+        
+See how collaboration works ›
+            Powered by AWS
+        
+            Standing on the shoulder of giants: Your Apps are running on enterprise-grade infrastructure provided by Amazon Web Services.
+        
+Read how we use AWS ›
+            Two stacks
+        
+            Choose with each App: The Universal Stack for websites and small web apps; The Professional Stack for modern web applications.
+        
+Explore the stacks ›
+            Fair deal
+        
+            Pay only what you use with precise daily settlement. Monitor costs live and scale up and down in the Dashboard. Cancel at any time.
+        
+Learn how we bill ›
+Check out more features ›
+    Customer quotes
+Just deployed app #38 on @fortrabbit, #PHP PaaS awesomeness, never a problem that couldn't be resolved with their awesome support.
+                Rainer Friederich
+             CH
+Development lead at Wondrous Inc
+@fortrabbit the best PHP cloud hosting platform I have used to date. No downtime and super fast. Scale in seconds.
+                Andrew Smith
+             UK
+Core contributor on Slim Framework
+17yrs of hosting & i've never known a solution/team that have gotten it so right. PHP hosting? Use @fortrabbit
+                Jim Tattersall
+             UK
+Developer/Founder of studiorotate
+See more customers ›
+        Test it for free
+        — join more than 20k developers
+        Go back to the Dashboard ›
+    
+Hosting a new mindset
+Laravel
+Craft CMS
+Symfony
+Hosting you
+Web designer
+Startup
+Digital agency
+Featured clients
+Company
+About us
+Contact
+Compare us
+Laravel Forge
+VPS hosting
+Shared hosting
+Discover
+Specs
+Company plans
+Teamwork
+Policies
+Site notice
+Security
+Terms
+More policies…
+•fortrabbit
+ is made in Berlin & powered by Amazon Web Services.
+Status

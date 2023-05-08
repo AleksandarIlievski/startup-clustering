@@ -1,0 +1,137 @@
+Hardware – Uniki - ELLY
+ 
+Skip to content
+Home
+Software
+Blog
+Kontakt
+ 
+Sie haben ELLY gekauft? Klicken Sie hier, um Ihre persönliche Domain zu registrieren: ELLY registrieren
+sicherster server mit cloud-Komfort
+Einfacher geht's nicht: Der ELLY-Server sorgt für produktive und sichere Zusammenarbeit. Von Datenaustausch über E-Mail, Kalender, Aufgaben- und Projekt-Management bis Passwort-Manager und Zeiterfassung.
+Bekannt aus
+<img src="https://altesodoo.uniki.de/web/image/373/sz_logo_invert.png" class="img img-responsive " style="height: 80px;" alt="Süddeutsche Zeitung" data-original-title="" title="">
+<img src="https://altesodoo.uniki.de/web/image/1426/t3n-logo-press-2018_white_RGB_rechts.png" class="img img-responsive " style="height: 80px;" alt="t3n Magazin" data-original-title="" title="">
+<img src="https://altesodoo.uniki.de/web/image/375/ct_log_invert.png" class="img img-responsive " style="height: 80px;" alt="c't Magazin" data-original-title="" title="">
+<img src="https://altesodoo.uniki.de/web/image/376/ix.png" class="img img-responsive " style="height: 80px;" alt="iX" data-original-title="" title="">
+<img src="https://altesodoo.uniki.de/web/image/378/digitalbusines_invert.png" class="img img-responsive " style="height: 80px;" alt="Digital Business" data-original-title="" title="">
+<img style="height: 200px; width: 200px; border-radius: 50%" class="img img-responsive img-circle center-block mb16" src="https://altesodoo.uniki.de/web/image/1080/square_small_small.jpg" alt="Odoo image and text block" data-original-title="" title="">
+Viele Cloud-Anbieter werben mit Sicherheit. Aber Fakt ist: Nur der Schlüssel bei Ihnen vor Ort garantiert, dass Ihre Daten nicht missbraucht werden. Maximale IT-Sicherheit benötigt konsequente Verschlüsselung von System, Daten und Verbindungen. Und sie muss mindestens so komfortabel sein, wie die Cloud. Deshalb haben wir ELLY entwickelt. Den wahrscheinlich einfachsten vollverschlüsselten Private Cloud Server der Welt.
+ - Roman Leuprecht, Geschäftsführer Uniki GmbH
+<img class="img img-responsive center-block mb16 mt64" style="width: 240px;" src="https://altesodoo.uniki.de/web/image/1216/IT-Security-made-in-Germany_TeleTrusT-Seal.png">
+ELLY ist
+								
+							ONLINE TEAMWORK
+						
+Schneller Datenaustausch im Team und extern
+ ELLY synchronisiert Dateien zwischen Euren Computern und auch mit dem Smartphone habt Ihr jederzeit alles zur Hand. Ihr könnt Dokumente im Team und an Externe freigeben, große Dateien sicher per Freigabe-Link versenden und sogar gleichzeitig an Office-Dokumenten arbeiten.
+										
+E-Mail, gemeinsame Kalender, Aufgaben und Kontakte mit Anbindung an Outlook, Mac und Smartphones
+ ELLY verwaltet Eure Kalender und Adressbücher und schützt auch diese sensiblen Informationen. Teilt verschiedene Kalender und Kontaktlisten im Team und synchronisiert sie direkt mit dem Smartphone und Outlook!
+										
+Team-Chat und Video-Konferenzen
+ Vollkommen private, schnelle Kommunikation im Team? Mit ELLY kein Problem! Bildet Chat-Gruppen für Eure Projekte und haltet Videokonferenzen in hoher Qualität.
+										
+Projektmanagement, Aufgaben und Zeiterfassung
+ Organisiert mit ELLY agile Scrum- und Kanban-Projekte und steigert die Produktivität Eures Teams dank der richtigen Tools! Koordiniert Euer Team und sichert zentral den Arbeitsfortschritt - natürlich mit maximalem Schutz für Eure Ideen.
+										
+Kundenkartei, Website, Online-Shop & Warenwirtschaft
+ Eine schöne Website in kürzester Zeit ohne irgendwelche Programmierkenntnisse erstellen? Mit ELLY kein Problem! Und wenn Ihr Eure Produkte online verkaufen möchtet, binden Ihr ganz einfach Shop, Warenkorb und Zahlungsabwicklung ein. Auch um den Lagerbestand und - ganz wichtig - die Zeiterfassung für Eure Mitarbeiter kümmert sich ELLY gerne!
+										
+Quellcode-Verwaltung
+ Git-Versionskontrolle gehört in jedem IT-Projekt dazu. Mit ELLY verwaltet Ihr bequem den Quellcode Eurer Projekte und könnt ein gutes Gefühl haben, dass Euer geistiges Eigentum maximal geschützt ist.
+										
+ELLY ist
+								
+							EIN DATEN-TRESOR
+						
+Rundum-Schutz vor Datenverlust: Ransomware, versehentliches Löschen, Einbruch, Katastrophen etc.
+ELLY ist der beste Ort für Eure wertvollen Daten! Denn: 
+											
+ELLY legt alle Eure Dokumente redundant ab, um sie Hardware-Ausfall zu schützen.
+ELLY legt alle Eure Dokumente verschlüsselt ab, um sie vor Dieben zu schützen.
+ELLY legt alle Eure Dokumente versioniert ab, um sie vor Malware, Erpressungs-Trojanern, Überschreiben und Löschen zu schützen.
+Details
+Zentraler Backup-Platz für Euer Unternehmen
+ Mit ELLY sichert Ihr ganz bequem alle Ihre Geräte an einem zentralen, geschützten Ort. Egal ob Windows, Mac oder Linux - legt Eure Systemabbilder auf ELLY ab oder wählt einzelne Ordner zur Synchronisation. Smartphone verloren? Kein Problem - ELLY speichert Eure Adressen, Emails und Termine!
+										
+100% private, verschlüsselte Datenübertragung
+ Verschlüsselung ist kompliziert? Nicht mit ELLY! Euer Gerät holt sich ganz automatisch sein eigenes, privates Verschlüsselungs-Zertifikat und sorgt dafür, dass Eure gesamte Kommunikation im Team und Datenübertragung von und zu ELLY zuverlässig verschlüsselt wird.
+										
+100% private, verschlüsselte Datenspeicherung
+ Eure Daten werden nicht nur verschlüsselt übertragen, sondern auch verschlüsselt gespeichert. So seid Ihr auch dann geschützt, wenn das gesamte Gerät oder die Festplatten gestohlen werden. Und das ganz ohne nervige Kennworteingabe beim Startvorgang!
+										
+100% privates, verschlüsseltes Off-Site-Backup
+ Büro abgebrannt? Zumindest um Eure Daten müsst Ihr euch dann keine Sorgen machen! Denn ELLY legt die verschlüsselten Daten auf Wunsch bei uns im Rechenzentrum oder auf anderen Geräten an anderen Standorten doppelt gesichert ab.
+										
+Macht Euch fit für die DSGVO
+ Kunden- oder Mitarbeiterdaten auf fremden Servern zu lagern birgt ein hohes Risiko. Deshalb tritt am 25. Mai 2018 die EU-Datenschutzgrundverordnung in Kraft, die strenge Regeln für die Verarbeitung personenbezogener Daten einführt. Auch deshalb ist ELLY der beste Ort für Eure Daten. Denn mit ELLY entscheidet Ihr alleine, wer zu welcher Zeit Zugang hat und übermittelt Daten sicher und verschlüsselt - z.B. an Euren Steuerberater oder Kooperationspartner.
+										
+ELLY ist
+						
+Vielseitig und Skalierbar
+Jeder ELLY-Server besticht durch Top-Leistung. Und wie die Cloud wächst auch ELLY ganz einfach mit, wenn Ihre Anforderungen steigen. Wir haben für jedes Unternehmen die perfekte Hardware-Lösung: Vom lautlos gekühlten Aluminium-Hingucker im Agentur-Büro bis zum Hochleistungs-Rack im Mittelstands-Rechenzentrum. Haben Sie spezielle Wünsche an die Hardware? Kontaktieren Sie uns, wir finden die Lösung.
+				
+Jetzt anfragen.
+ELLY ist
+						
+Eine Revolution der Cloud
+ELLY ist kein gewöhnlicher Server.ELLY ist "Private Cloud as A Service". Das heißt:Anstecken, einschalten und wie in der Cloud sofort loslegen.
+					ELLY konfiguriert sich ganz von selbst. Über die Wunsch-Domain (z.B. meinname.uniki.cloud) ist ELLY innerhalb weniger Minuten von überall auf der Welt bequem und verschlüsselt erreichbar. Die Web-Oberfläche kann jeder bedienen und Anwendungen sind über den App Store mit einem Klick installiert. Konzentriert euch auf Eure Arbeit statt auf die IT und vermeidet Technik-Frust!
+				
+<img style="height: 200px; width: 200px; border-radius: 50%" class="img img-responsive img-circle center-block mb16" src="https://altesodoo.uniki.de/web/image/1073/profilbild_web.jpg" alt="Odoo image and text block" data-original-title="" title="">
+Unabhängigkeit von amerikanischen Cloud-Konzernen gelingt nur, wenn europäische Lösungen besser und produktiver sind. Unser Ziel ist fortschrittlichste Cloud-Zusammenarbeit mit höchstem Datenschutz.Deshalb haben wir die Uniki Collaboration Suite und den ELLY-Server entwickelt.
+ - Matthias Bollwein, Geschäftsführer Uniki GmbH
+<img class="img img-responsive center-block mb16 mt64" style="width: 240px;" src="https://altesodoo.uniki.de/web/image/1216/IT-Security-made-in-Germany_TeleTrusT-Seal.png">
+CASE STUDIES - Das sagen Kunden über ELLY
+&lt;img style="height:80px;
+									" data-src="https://ellyserver.de/wp-content/uploads/2021/08/SATO-Logo_yellow_300dpi_200512.jpg" class="img-fluid lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="&gt;
+Ich war von der Einfachheit der Installation beeindruckt. Wir haben die Box, den ELLY-Server eingesteckt, online registriert und es lief.Bei rund 60 Mitarbeitern brauche ich für die Verwaltung von ELLY zudem keine externe IT-Ressource. Es ist ein durchgängiges System und das ist schon echt toll.
+&lt;img alt="" data-src="https://ellyserver.de/blog/wp-content/uploads/2021/06/Gingter-Sato-gmbh.png" class="img-fluid w-100 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="&gt;
+Philipp Gingter,Geschäftsführer der Sato GmbH
+Case Study lesen
+&lt;img style="height:80px;
+									" data-src="https://ellyserver.de/wp-content/uploads/2021/08/Logo-Innova-von-Leist1-1.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="&gt;&lt;noscript&gt;&lt;img style="height:80px;
+									" data-src="https://ellyserver.de/wp-content/uploads/2021/08/Logo-Innova-von-Leist1-1.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="&gt;&lt;noscript&gt;&lt;img style="height:80px;
+									" data-src="https://ellyserver.de/wp-content/uploads/2021/08/Logo-Innova-von-Leist1-1.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="&gt;&lt;noscript&gt;&lt;img style="height:80px;
+									" data-src="https://ellyserver.de/wp-content/uploads/2021/08/Logo-Innova-von-Leist1-1.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="&gt;&lt;noscript&gt;&lt;img class="" src="https://ellyserver.de/wp-content/uploads/2021/08/Logo-Innova-von-Leist1-1.jpg" style="height:80px;
+									"&gt;
+Wir wollen nicht nur digital den Anschluss behalten, sondern auch vordenken und das ist dank Uniki als IT-Lösung mit Datenhoheit-Garantie endlich möglich.Wir empfehlen Uniki in unserem Netzwerk fleißig weiter, da es vielfältige Einsatzmöglichkeiten gibt und wir von dieser IT-Lösung mit Datenhoheit absolut überzeugt sind.
+&lt;img alt="" data-src="https://ellyserver.de/blog/wp-content/uploads/2021/04/Innova-Testimonial-Heesen-670.png" class="img-fluid w-100 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="&gt;
+Frank Heesen,inno:va Steuer­beratungs­gesellschaft mbH
+Case Study lesen
+&lt;img style="height:80px;
+									" data-src="https://ellyserver.de/blog/wp-content/uploads/2021/04/logo-final-27-02-2020-300x165-1.png" class="img-fluid pl-2 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="&gt;
+Uniki hat für uns die Grundvoraussetzungen für Remote Work geschaffen.Als Anwenderin kann ich Uniki wegen dem Konzept der privaten Cloud vor Ort und der damit einhergehenden Datenhoheit, der einfachen Bedienung, der Wartungsfreiheit und dem sehr guten Service definitiv weiterempfehlen.
+&lt;img alt="" data-src="https://ellyserver.de/blog/wp-content/uploads/2021/04/Dprotect-Testimonial-Wild-670.png" class="img-fluid w-100 lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="&gt;
+Sigrid Wild,Dprotect Wild Wiesner Rechtsanwältinnen Partnerschaft mbB
+Case Study lesen
+Wir beraten Sie gerne
+Sprechen Sie mit uns unverbindlich über Ihre Anforderungenwir finden für Ihr Business die beste Lösung
+×
+So schützt ELLY Ihre Daten
+Damit Sie den Kopf frei haben für das, was zählt.
+100% VERSCHLüSSELTE SPEICHERUNGELLY speichert ganz automatisch alle Nutzerdaten verschlüsselt. Das Einzigartige: Die Daten bleiben sogar vor uns als Hersteller verborgen.
+							
+100% VERSCHLüSSELTE üBERTRAGUNGAlle Verbindungen von und zu ELLY sind verschlüsselt. Und zwar von Anfang bis Ende, sodass nicht einmal wir als Hersteller mitlesen können.
+							
+KEINE HINTERTüRENAndere Server „glänzen“ immer wieder mit Sicherheitslücken durch versteckte Hintertüren und vergessene Standardpasswörter. ELLY macht damit endlich Schluss.
+							
+REDUNDANTE SPEICHERUNGELLY schützt Deine Daten mit einem intelligenten RAID-System. Wenn eine Festplatte ausfällt, kann ELLY ganz normal weiterlaufen und fordert einen Austausch an.
+							
+DATEN­INTEGRITäTSSCHUTZDas Copy-On-Write-Dateisystem von ELLY garantiert die Integrität der Daten und detektiert und bereinigt automatisch Fehler, die z.B. durch Alterung ent- stehen (Bit-Rot).
+							
+SYSTEMINTEGRITäTS-SCHUTZVerschlüsselte Speicherung ist toll - aber was, wenn ein Hacker gleich die System-Platte modifizieren will? ELLY merkt das und verweigert dem Bösewicht den Dienst!
+							
+AUTOMATISCHE OFF-SITE BACKUPSWas, wenn das ganze Haus abbrennt? Kein Problem mit ELLY! Denn ELLY macht ganz automatisch verschlüsselte Backups an entfernte Orte.
+							
+AUTOMATISCHE VERSIONIERUNGVersehentlich eine Datei überschrieben? Oder hat ein Erpressungstrojaner alle Ihre Daten verschlüsselt? Kein Problem! ELLY ist eine Zeitmaschine!
+							
+ZENTRALE UPDATESWas große Rechenzentren können, kann ELLY schon lange! Zentrale Updates sind bequem und sorgen für immer optimale Sicherheits- Konfiguration.
+							
+Schließen
+Angebot anfordern
+Uniki GmbHFreisinger Landstr. 2880939 München
+				
+KontaktTel: +49 89 215 364 670Email: info@uniki.de
+AGBDatenschutzerklärungImpressumJobs

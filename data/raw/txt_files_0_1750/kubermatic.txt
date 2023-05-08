@@ -1,0 +1,322 @@
+Multi Cloud Kubernetes Management Platform | Kubermatic
+Products
+Products
+Kubermatic Kubernetes Platform
+Automated hybrid & multicloud Kubernetes for enterprise demands
+Kubermatic KubeOne
+Installation and support for your single Kubernetes cluster
+Kubermatic KubeCarrier
+Centrally manage all your applications and services
+Services
+Kubermatic Kubernetes Subscription
+Upstream Kubernetes support
+Managed
+Managed Kubermatic Kubernetes Platform
+Deploy and operate your Kubernetes clusters anywhere with ease and confidence
+Managed Kubermatic KubeOne
+Manage your clusters with ease and confidence
+Managed Custom Kubernetes
+Fully managed Kubernetes services for your business critical applications
+Kubermatic Kubernetes Platform
+Edge
+VMware vSphere
+KubeVirt
+Static BareMetal
+Dynamic BareMetal
+ARM
+On-Prem
+VMware vSphere
+Nutanix
+OpenStack
+KubeVirt
+Static BareMetal
+Dynamic BareMetal
+Cloud
+AWS
+Azure
+Google Cloud
+Open Telekom Cloud
+Alibaba Cloud
+Hetzner Cloud
+DigitalOcean
+Equinix Metal
+KubeVirt
+Accelerate with Kubermatic Kubernetes Platform
+Features
+Why Kubermatic
+Technology Integrations
+Kubermatic KubeOne
+Edge
+VMware vSphere
+Static BareMetal
+ARM
+On-Prem
+VMware vSphere
+OpenStack
+Static BareMetal
+Cloud
+AWS
+Azure
+Google Cloud
+Open Telekom Cloud
+Alibaba Cloud
+Hetzner Cloud
+DigitalOcean
+Equinix Metal
+Kubermatic KubeCarrier
+KubeCarrier is your enterprise cloud native app store. Deliver automatically operated applications to all parts of your business and let your teams become providers and consumers alike.
+Kubermatic Kubernetes Subscription
+Edge
+VMware vSphere
+Nutanix
+On-Prem
+VMware vSphere
+Nutanix
+OpenStack
+Cloud
+AWS
+Azure
+Google Cloud
+Open Telekom Cloud
+Alibaba Cloud
+Managed Kubermatic Kubernetes Platform
+Edge
+VMware vSphere
+Static BareMetal
+Dynamic BareMetal
+ARM
+On-Prem
+VMware vSphere
+Nutanix
+OpenStack
+Static BareMetal
+Dynamic BareMetal
+Cloud
+AWS
+Azure
+Google Cloud
+Open Telekom Cloud
+Alibaba Cloud
+Hetzner Cloud
+DigitalOcean
+Equinix Metal
+Managed Kubermatic KubeOne
+Edge
+VMware vSphere
+Static BareMetal
+ARM
+On-Prem
+VMware vSphere
+OpenStack
+Static BareMetal
+Cloud
+AWS
+Azure
+Google Cloud
+Open Telekom Cloud
+Alibaba Cloud
+Hetzner Cloud
+DigitalOcean
+Equinix Metal
+Managed Custom Kubernetes
+Edge
+VMware vSphere
+Static BareMetal
+Dynamic BareMetal
+ARM
+On-Prem
+VMware vSphere
+Nutanix
+OpenStack
+Static BareMetal
+Dynamic BareMetal
+Cloud
+AWS
+Azure
+Google Cloud
+Open Telekom Cloud
+Alibaba Cloud
+Hetzner
+DigitalOcean
+Equinix Metal
+Services
+Consulting
+Jumpstart cloud native transformation
+Trainings
+Advance your in-house expertise
+Customers
+Resources
+Resource Library
+Events
+Documentation
+Topics
+Community
+Open Source Projects
+Contribution
+Discussions
+Meetups
+Conferences
+Company
+About Us
+Blog
+Newsletter
+Partners
+Careers
+Press
+Contact Us
+Contact Us
+Products
+Products
+Kubermatic Kubernetes Platform
+Features
+Why Kubermatic
+Technology Integrations
+Kubermatic KubeOne
+Kubermatic KubeCarrier
+Services
+Kubermatic Kubernetes Subscription
+Managed
+Managed Kubermatic Kubernetes Platform
+Managed Kubermatic KubeOne
+Managed Custom Kubernetes
+Services
+Consulting
+Trainings
+Customers
+Resources
+Resource Library
+Events
+Documentation
+Topics
+Community
+Open Source Projects
+Contribution
+Discussions
+Meetups
+Conferences
+Company
+About Us
+Blog
+Newsletter
+Partners
+Careers
+Press
+Contact Us
+Contact Us
+Scale Your Business With Automated Kubernetes Deployment
+Reliable. Flexible. Unlimited.
+Product Portfolio
+Consulting Practice
+Why Us?
+Digitalization Brings Challenges
+Increasing User Demand
+Business systems are becoming increasingly complex with users demanding high levels of performance, rapid responsiveness, and zero unplanned downtime.
+Slow and Error Prone
+Performance problems, recurring errors, and the inability to move fast are no longer acceptable.
+Endless Pursuit
+Organizations need to scale operations, reduce downtime in production and deliver a competitive advantage to ensure customer satisfaction.
+Do It AllWith Kubermatic
+Run chemical factories on production edge
+Deliver IoT development and production platform
+On-board 100+ projects without additional manpower
+E-Commerce and Manufacturing Roll outs
+Run Kubernetes as a Managed Service
+Accelerate Your Cloud Native Journey
+The Next Generation Platform
+Automate operations of thousands of Kubernetes clusters across multi-cloud, on-prem, and edge environments with unparalleled density and resilience.
+6000+
+User clusters from one master cluster
+85%
+Less management time needed
+20x
+More efficient use of your resources
+Find the Best Match for You
+Datacenters
+Enterprise Edition
+Kubermatic Kubernetes Platform
+Manage large, complex applications across multiple regions with diverse teams. Experience complete control over risk and policy management while also reducing consumption costs at an exponential pace.
+Explore
+Open Source
+1
+Datacenter
+Community Edition
+Kubermatic Kubernetes Platform
+Expand within a single region with select applications. Save consumption and improve collaboration processes and workflows with self-service and a built in enterprise app store.
+Explore
+Open Source
+1
+Cluster
+Open Source
+Kubermatic KubeOne
+Get started with Kubernetes in a single region. Introduce effective solutions for development and automation that go beyond the standard cloud offering capabilities.
+Explore
+Consulting Practice
+Kubermatic has a reputation for being able to handle highly complex projects with skill and expertise. Consequently, some of the world's most renowned and respected organizations trust us. Our clients, both large and small, rely on us to deliver projects on time and on budget.
+Technology companionship
+We work closely with our clients to understand their technology needs and to ensure that the solutions we provide are tailored to their specific requirements.
+Deep integration with client teams
+Close work with our clients' teams ensures that we are fully integrated with their operations, and that we deliver solutions that align with their goals.
+Implementation of a carefully crafted strategy
+After developing a comprehensive project strategy with our clients, we ensure that the strategy is implemented effectively.
+Take a Look
+Elevate your projects with Germany’s No. 1 Cloud Native Company
+At Vonage, we accelerate the world's ability to connect with one unified cloud communications platform. Scalable, secure, and reliable real time communications require a digital backbone that can live up to that. With Kubermatic Kubernetes Platform, we currently operate hundreds of nodes and will rocket this number to five thousand this year. All reliable, all secure, all open source.
+Eddie Wassef, Vonage
+Before Kubermatic Kubernetes Platform our system would scale, but our staff wouldn’t. We needed a new engineer with every 10th customer, resulting in a bottleneck.Kubermatic Kubernetes Platform helped us get rid of unnecessary work, freeing our engineers to focus on improving our products.
+Simon Pearce, SysEleven
+Modernize IT Infrastructure by Combining Automation and Kubernetes
+In today's fast-paced and constantly evolving landscape, organizations are continuously seeking ways to scale operations and meet the demands of their audience. Kubernetes provides a powerful solution to many of the challenges that come with scaling IT infrastructure. But it also introduces its own set of operational complexities that can be overwhelming to navigate without the right partner.
+Our customers turn to Kubermatic for our ability to drive business outcomes through automation. Our solutions help streamline and optimize operations, allowing organizations to focus on their core goals and objectives.
+Efficiency
+Automate and benefit
+Increase efficiency by leveraging automation across the kubernetes lifecycle, including Day 2 operations
+Minimize to Maximize
+Reduce costs
+Maximize return on investment by best in class cloud resource optimization. Minimize downtime by automated maintenance requiring limited manual supervision
+Unlimited Scale
+Stay flexible
+Experience unparalleled scalability enabling organizations to easily and seamlessly expand operations on demand
+Leading Companies Trust Kubermatic
+Ready to get started?
+Let’s Talk
+Products
+Kubermatic Kubernetes Platform
+Kubermatic KubeOne
+Kubermatic KubeCarrier
+Kubermatic Kubernetes Subscription
+Managed Kubermatic Kubernetes Platform
+Managed Kubermatic KubeOne
+Managed Custom Kubernetes
+Services
+Consulting
+Trainings
+Solutions
+IT Landscape Modernization
+Hybrid and Multi-cloud Kubernetes
+DevOps Automation on Kubernetes
+Edge Computing
+Cloud Native AI & ML
+Kubernetes for 5G
+Resources
+Resource Library
+Events
+Documentation
+Community
+Open Source Projects
+Contribution
+Discussions
+Meetups
+Conferences
+Company
+About Us
+Blog
+Newsletter
+Partners
+Careers
+Press
+Contact Us
+Kubermatic is certified as
+© 2023 Kubermatic GmbH, All Rights Reserved
+Terms of Service
+Privacy Policy
+Imprint

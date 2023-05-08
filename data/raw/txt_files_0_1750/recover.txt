@@ -1,0 +1,61 @@
+recover - sicher ausgehen trotz Corona
+ 
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-HCM7KT2QBZ');
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.data-privacy-src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '536921530796526');
+  fbq('track', 'PageView');
+ Skip to content
+Toggle NavigationFunktionsweiseDas TeamReferenzen
+Startseitetatiiii2022-06-15T09:27:39+00:00 
+TSCHÜSS RECOVERUnsere recover App ist endlich obsolet, wir feiern das Ende unseres Produktes!Liebe Gastronom*innen, liebe Kulturbetriebe und Eventveranstalter*innen,
+Unsere recover App ist endlich obsolet, wir feiern das Ende unseres Produktes!
+Die braucht niemand mehr 😉 Zwei Jahre nachdem wir recover mit der IG Gastro und der Klubkomm gebaut haben, ist jetzt Schluss.
+Unsere QR Codes klebten auf unzähligen Tischen in Restaurants, in Kneipen, auf Messen, bei Konzerten oder auf eurem privaten Event. Euch in der Pandemie mehr Sicherheit zu geben und unser Produkt dank eures Feedbacks ständig anzupassen, war uns eine Freude!
+Auch in Zukunft könnt ihr euch mit uns als Digitalisierungspartner für schnelle Lösungen gerne in Kontakt setzen. Wenn wir was entwickeln, erfahrt ihr davon!
+Wir wünschen euch alles Gute und einen tollen Sommer!
+Euer Recover Team von Railslove aus Köln
+WAS IST RECOVER?Sicher ausgehen trotz CoronaMit recover können Kontaktdaten digital hinterlegt werden.
+Kein App-Download notwendig
+Schnelle Checkins über QR-Codes
+100 % Datenschutz + Open Source
+Sichere Datenweitergabe bis in die Gesundheitsämter
+So sicher ist recoverAnleitung für recover (PDF)WIE FUNKTIONIERT RECOVER?Konto und Betrieb anlegen, QR Code aufkleben, fertig!1. Account erstellen
+Erstelle in nur wenigen Schritten ein Konto und lege deinen Betrieb an.
+3. QR Codes
+Drucke die QR Codes aus und lege oder klebe sie in deine definierten Bereiche.
+5. Daten bereitstellen
+Im Infektionsfall einfach per Knopfdruck die Daten an die IRIS Schnittstelle des Gesundheitsamt senden.
+1. Account erstellen
+Erstelle in nur wenigen Schritten ein Konto und lege deinen Betrieb an.
+2. Bereiche anlegen
+Lege für jeden Betrieb Bereiche an (z.B. Tische), jeder bekommt einen eigenen QR-Code
+3. QR CodesDrucke die QR Codes aus und lege oder klebe sie in deine definierten Bereiche4. Gäste einchecken lassenDeine Gäste können nun einchecken und Ihre Kontaktdaten sicher hinterlassen.5. Daten bereitstellenÜbermittle im Infektionsfall schnell und unkompliziert Daten an das Gesundheitsamt.24/7 Customer Support
+Wir haben den weltbesten Customer Support. Ruft uns an oder schreibt eine Email.
+2. Bereiche anlegenLege für jeden Betrieb Bereiche an (z.B. Tische), jeder bekommt einen eigenen QR-Code4. Gäste einchecken lassen
+Deine Gäste können nun einchecken und Ihre Kontaktdaten sicher hinterlassen.
+Customer SupportWir haben den weltbesten Customer Support. Ruft uns an oder schreibt eine Email.×WIE FUNKTIONIERT RECOVER?
+Checke ein in unser Demo-Restaurant
+Du möchtest recover gleich ausprobieren? Dann fotografiere den QR-Code auf der rechten Seite mit deinem Handy.
+Wir heißen Dich herzlich willkommen in unserem Demo Restaurant!
+CloseFor privacy reasons YouTube needs your permission to be loaded. For more details, please see our Datenschutz.I AcceptWO KOMMT RECOVER ZUM EINSATZ?EinsatzgebieteOb Gastronomie, Sportevent, Kultur, Konferenz, Messe, Friseursalon, Einzelhandel oder im Unternehmen – überall wo viele Menschen aufeinandertreffen, sollten zur Eindämmung der Pandemie Kontaktdaten sicher erfasst werden.
+For privacy reasons YouTube needs your permission to be loaded. For more details, please see our Datenschutz.I AcceptANBINDUNG ANS GESUNDHEITSAMT ÜBER IRIS CONNECTInitiator von “Wir für Digitalisierung” und Mitgestalter der IRIS connect LösungIm Infektionsfall unterstützt recover das zuständige Gesundheitsamt, indem es die angefragten Kontaktdaten in dem erforderlichen Format über die IRIS connect Gateway-Lösung bereitstellt. Diese öffentliche Datenschnittstelle ermöglicht es den Behörden, die Daten direkt von Gastronomen, Einzelhändlern, Kulturbetreibern, Eventveranstaltern, usw. über die recover-App abzufragen.
+IRIS connect wurde mit initiiert von der Initiative von “Wir für Digitalisierung”, die unser recover Gründer Jan Kus im Oktober 2020 ins Leben gerufen hat. In Zusammenarbeit mit dem Innovationsverbund öffentliche Gesundheit (InÖG) und der gemeinnützigen Björn Steiger Stiftung entstand IRIS connect als nachhaltige offene Schnittstelle der Gesundheitsämter . Mehrere Landesregierungen haben sich für IRIS connect entschieden.
+Mehr InformationenFor privacy reasons YouTube needs your permission to be loaded. For more details, please see our Datenschutz.I AcceptEMPFOHLEN VONEntwickelt in Kooperation mit Kölner Gastronom*Innen und KulturschaffendenIm Klubkomm – Verband Kölner Clubs und Veranstalter e.V. und der IG Kölner Gastronomie sind über 320 Gastronomie- und Kulturbetriebe organisiert, die durch die Zwangsschließungen infolge der Corona-Pandemie existentiell bedroht sind. Auch für diejenigen, die nun unter hohen Auflagen wieder eröffnen dürfen, stellt sich meist die Frage, wie sich die geforderten Richtlinien verantwortungsvoll und wirtschaftlich umsetzen lassen. Um hier zu unterstützen wurde recover entwickelt, damit der Alltag mit Besuchern und Gästen einfach funktioniert.
+Weitere Stimmen
+ 
+ 
+Toggle NavigationImpressumDatenschutzPressekitTutorialRuf uns an: +49 221 99 999 708
+Schreibe uns
+ 
+ 
+Go to Top

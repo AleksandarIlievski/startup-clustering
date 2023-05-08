@@ -1,0 +1,90 @@
+Home - Open Bank Project
+ 
+ 
+Skip to content
+ PRODUCTS Open Banking API PlatformBlockchain AirnodeSOLUTIONS PSD2 ComplianceBlockchain FinanceBlockchain BankingBlockchain ConsultingHackathonOpen Banking HackathonBlockchain HackathonAdvisory for Regulatory BodiesOBP TrainingECOSYSTEMSANDBOXESRESOURCES BlogReports & Case StudiesCONTACT US 
+HomeBernat Font2023-01-29T23:19:40+00:00 
+The leading Open API Platform for Banks
+0 APIs0 Developers
+ 
+Δ×
+Kickstart your Open Banking Initiative
+Pioneering Open Banking concepts, standards and technology since 2010, Open Bank Project is the global standard and open source API solution for Open Banking.
+OBP has inspired and supports regional standards and frameworks such as UK Open Banking, STET and Berlin Group.
+Drive fintech innovation
+With over 11,000 developers and fintechs using the Open Bank Project, banks can tap into a global community of innovators who are keen to collaborate. For examples see our ecosystem page here.
+Our technology was built with fintech developers in mind, giving them a superior experience and unparalleled access to tools and documentation to boost their productivity.
+Enhance security & control
+Control third-party relations using access control, monitoring, and authentication in the OBP API Manager. Decide which APIs to expose and to whom, and revoke access at any time.
+The solution is deployed on-site behind the bank’s firewall, ensuring a level of security equal to or better than the bank’s current systems.
+Test new services in the API Sandbox
+Leverage a fully-operational and self-contained sandbox environment deployed in the cloud or on-site using test data. 
+The OBP sandbox enables banks to offer an experimentation facility not connected to production systems (ideal for hackathons and prototyping). Developers can then engage in creative experimentation using a catalogue of over 550 pre-built APIs.
+Simplify integration with your legacy
+Using best-of-breed, functional and scalable technology, the Open Bank Project provides a set of pre-built connectors and adapters that integrate with core banking systems.
+The overall architecture comprises modular building blocks which enable organisations to cherry-pick modules that best fit their requirements.
+Comply with major Open Banking standards
+OBP enables EU PSD2 compliance out-of-the-box, covering everything from payment initiation to Strong Customer Authentication (SCA). The platform also offers the ability to surface major industry standards such as Berlin Group, UK Open Banking, Mexican Open Finance, etc.
+We commit to tracking regulatory changes and enhancing the platform accordingly, making the solution future-proof in terms of future Open Banking regulations in your country.
+Powered by Open Source and a stellar international team
+Open Bank Project is open source. This means organisations can access the latest source code at any time, benefit from the input of third party professionals and other banks and test the solution freely. For commercial use, our customers subscribe to a commercial licence which gives access to hardened security patches, proprietary connectors and enterprise support by the pioneers of the Open Banking movement.
+Source codeOur APIs
+Accounts
+Access the user’s list of accounts and account information such as the balance.
+Branches, ATMs
+Access the list of branches and ATMs for the specified bank including geolocation and opening hours.
+Transactions
+Access the transaction history and metadata of accounts.
+Metadata
+Enrich transaction and counterparties with metadata including geolocations, comments, pictures and tags (e.g. category of spending).
+Counterparties
+Access the payers & payees of an account including metadata such as their aliases, labels, logos and home pages.
+Webhooks
+Enable customer meetings, messages and video conferencing for KYC and CRM operations (uses third party video streaming).
+Onboarding and KYC
+Perform user, customer and account creation. Access Know Your Customer (KYC) documents, media and KYC status.
+API Roles, Metrics and Documentation
+Enable account holders to grant fine-grained access to third-party users and applications, get API metrics and documentation.
+Payments and transaction requests
+Initiate transfers. View and confirm charges (as per PSD2).
+Search Warehouse
+Perform advanced searches and statistics queries on the data warehouse.
+Dynamic Endpoints
+Quickly create endpoints using Swagger / Open API specification files.
+Our Clients
+Start innovating today.
+Contact
+ 
+ 
+ Open Bank Project empowers financial institutions of all sizes to rapidly and securely enhance their digital offerings by leveraging a set of pre-built banking APIs and a global ecosystem of 3rd party applications and services.
+ 
+Professional ServicesOpen Banking API Platform
+PSD2
+Open Banking Hackathon
+Training
+ 
+Our CommunityEvents & News
+Our Partners
+Reports
+FAQ
+ 
+TESOBEAbout
+Imprint
+Privacy Policy
+Brand Assets
+Jobs
+ 
+ 
+ 
+ 
+		© Copyright 2017 -  | All Rights Reserved | Sitemap | Powered by TESOBE 
+FacebookTwitterYouTubeLinkedInGithubVimeo
+ 
+ 
+ 
+ 
+ 
+ 
+Page load link
+ 
+Go to Top

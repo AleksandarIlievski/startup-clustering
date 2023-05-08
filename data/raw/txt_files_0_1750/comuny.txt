@@ -1,0 +1,94 @@
+ comuny – Empower Personal Data
+ 
+Warum comuny
+Produkt
+Use cases
+Unternehmen
+Über uns
+Philosophie
+Team
+Kontakt
+Jobs
+Blog
+Newsroom
+ 
+ Menü
+Warum comuny
+Produkt
+Use cases
+Unternehmen
+Über uns
+Philosophie
+Team
+Kontakt
+Jobs
+Blog
+Newsroom
+ 
+ 
+Mobiles Ausweisen 
+mit Trinity sicher und effizient realisieren
+ 
+ 
+Datenmanagement auf das Mobilgerät verlagern ist sicher und reduziert Kosten 
+Über das Mobilgerät den Zugriff auf die elektronischen Patientenakte erlauben, sich beim Arzt als Versicherter ausweisen oder Zugang zu Gebäuden erhalten – das ist die Zukunft des mobilen Ausweisens.Wir machen App Entwicklung zum mobilen Ausweisen mit unserer Technologie und Expertise sicher, effizient und datensouverän. 
+Mehr erfahren
+ 
+Mit Trinity Entwicklungs- und Betriebskosten massiv reduzieren.  
+Mit unserem White-Label-Produkt Trinity werden persönliche Daten und Passwörter nicht weiter in zentralen Rechenzentren sondern in der App eines Unternehmens und somit auf dem Endgerät des Nutzers gespeichert, organisiert und weitergeben.comuny liefert mit Trinity ein einfach integrierbares technisches Framework (mobiles White-Label-SDK) für die mobile App-Entwicklung. Dieses stellt Entwicklern fertige Funktionen zur Erfüllung von Auflagen zum Datenschutz, IT-Sicherheit und Interoperabilität zur Verfügung.Trinity reduziert damit massiv Komplexität, Entwicklungs- sowie Folgekosten und steigert Komfort sowie Datensouveränität für den Nutzer.Mit Trinity gestalten und betreiben Hersteller von Apps zum mobilen Ausweisen ihre Lösungen kostengünstig, komfortabel und Hand in Hand mit dem Nutzer. 
+Mehr über Trinity erfahren
+ 
+ 
+ 
+Potenzial im digitalen Kundenkontakt heben. 
+						"Ich wünsche mir einen Online-Zugang, den ich für viele unterschiedliche Dienste nutzen kann."					
+						"Ich logge mich easy ohne Passwort ein!"					
+						"Ich komme mit nur einem Klick ins Serviceportal. So schnell ist einfach klasse!"					
+						"Was? Endlich mit meinen Daten digital vorausgefüllt? Pluspunkt von mir!"					
+						"Online Vertrag geschlossen, direkt rechtskräftig, nur Minuten gebraucht. Klare Weiterempfehlung!"					
+						Ohne elektronische Gesundheitskarte in die Telematikinfrastruktur? Wow!					
+ Voriger
+ Nächster
+Mehr Anwendungsmöglichkeiten im Gesundheitswesen 
+Wir engagieren uns 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Neues von comuny 
+Event
+				Webinar “App Security und Nutzung Secure Elements auf Mobilgeräten für mobiles Ausweisen”			
+Immer mehr Apps müssen ihre Nutzer eindeutig erkennen, um ausschließlich autorisierten Personen Zugriff auf Service und Daten zu erlauben. Wird das Smartphone für das mobile Ausweisen benutzt, wird Mobile Security zum Top Thema für Entwickler. Denn mit der Integrität der
+				Weiterlesen »			
+			18. Juli 2022		
+Event
+				Webinar “OpenID Connect und mobiles selbstbestimmtes Ausweisen”			
+Identity – protected und connected?! Experten-Talk über die Frage, ob mobiles Ausweisen mit dem Open ID connect Standard selbstbestimmt umsetzbar ist. Die Herausforderungen für Entwickler und Anbieter von Lösungen rund um elektronische Identitäten und Wallets steigen permanent: Sichere digitale Prozesse,
+				Weiterlesen »			
+			11. Juli 2022		
+Event
+				comuny tritt an beim Pitch Club Frankfurt 06.07.			
+GO BIG OR GO HOME – beim The Pitch Club #25 treten wieder spannende Startups in die Arena. comuny GmbH ist am 6. Juli 2022 live dabei! Unser Pitch Deck überzeugte in der Vorauswahl, wir freuen uns riesig auf das
+				Weiterlesen »			
+			24. Juni 2022		
+News, Events, Webinare 
+Stets auf dem Laufenden bleiben mit den News von comuny: Neuigkeiten und Veranstaltungen zu Themen wie Identity Wallets, eIDAS, Ökosysteme und Privacy. Abonnieren Sie unsere News und Veranstaltungshinweise. 
+Kontakt 
+comuny GmbHBergstraße 92A69469 Weinheim 
+Über uns 
+Einfacher geht modernes Identitätsmanagement inklusive sicherer Datennutzung in Apps nicht: Mit comuny organisieren Unternehmen Registrierung, Anmeldung und übergreifenden Zugriff auf Webseiten und Apps direkt und rechtssicher über das Mobiltelefon ihres Kunden. 
+Unternehmen 
+Über uns
+Philosophie
+Vision
+Team
+Rechtliches 
+Kontakt
+Impressum
+Datenschutz
+				Copyright © 2023 comuny GmbH					

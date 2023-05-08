@@ -1,0 +1,656 @@
+Datarade | Find the right data, effortlessly.
+ðŸ”¥ Popular CategoriesGeospatial DataCommerce DataFinancial Market DataCompany DataReal Estate DataWeb DataAI & ML Training Data
+Explore Categories
+            Geospatial Data
+              Geospatial Data
+            
+Location Data
+Places Data
+Point of Interest (POI) Data
+Map Data
+Satellite Data
+Cell Tower Data
+GIS Data
+Geographic Data
+Mobility Data
+Geodemographic Data
+            Population Data
+              Population Data
+            
+Census Data
+Demographic Data
+Spending Data
+Wealth Data
+            Commerce Data
+              Commerce Data
+            
+Transaction Data
+Retail Data
+Ecommerce Data
+Receipt Data
+Consumer Review Data
+Consumer Spending Data
+Shopper Data
+Seller Data
+Product Data
+In-store Data
+Brand Data
+Sales Data
+Shopping Data
+            Financial Market Data
+              Financial Market Data
+            
+ESG Data
+Alternative Data
+Market Data
+Reference Data
+Commodity Data
+Currency Data
+Fixed Income Data
+Derivatives Data
+Mutual Funds Data
+Interest Rate Data
+Indices Data
+Economic Data
+OTC Data
+            Consumer Data
+              Consumer Data
+            
+Audience Data
+Identity Data
+Ownership Data
+Psychographic Data
+Social Media Data
+Consumer Purchase Data
+Customer Data
+Panel Survey Data
+Email Address Data
+Consumer Credit Rating Data
+Opt-In Consumer Data
+            B2B Data
+              B2B Data
+            
+B2B Contact Data
+B2B Leads Data
+B2B Intent Data
+B2B Marketing Data
+Firmographic Data
+Technographic Data
+Company Data
+Job Postings Data
+Salary Data
+Employee Data
+UK B2B Data
+Prospect Data
+            Transport and Logistics Data
+              Transport and Logistics Data
+            
+Traffic Data
+Trucking Data
+Aviation Data
+Road Data
+Freight Data
+Trade Data
+Maritime Data
+Customs Data
+Supply Chain Data
+Ship Data
+            Environmental Data
+              Environmental Data
+            
+Weather Data
+Pollen Data
+Climate Data
+Fire Data
+Marine Data
+NDVI Data
+Geological Data
+Water Data
+Land Use Data
+Surface Data
+Atmosphere Data
+Precipitation Data
+Solar Data
+            Credit Rating Data
+              Credit Rating Data
+            
+Corporate Credit Rating Data
+Bank Credit Rating Data
+Financial Institution Credit Rating Data
+Sovereign Credit Rating Data
+Bond Credit Rating Data
+Corporate Loan Data
+            Real Estate Data
+              Real Estate Data
+            
+Real Estate Market Data
+Property Data
+Mortgage Data
+Construction Project Leads Data
+Commercial Real Estate Data
+Residential Real Estate Data
+Flexible Workspace Data
+Real Estate Valuation Data
+Public Real Estate Data
+Global Real Estate Data
+Real-Time Real Estate Data
+Real Estate Transaction Data
+Rental Data
+            Web Data
+              Web Data
+            
+IP Address Data
+Web Search Data
+Web Activity Data
+Web Traffic Data
+Web Browsing Data
+News Data
+Web Scraping Data
+Semantic Website Data
+Sentiment Data
+Domain Name Data
+LinkedIn Data
+Reddit Data
+Instagram Data
+            Mobile App Data
+              Mobile App Data
+            
+App Usage Data
+App Store Data
+App Install Data
+App Revenue Data
+App Industry Data
+App Market Data
+App Session Data
+Android App Data
+SDK Data
+App Developer Data
+            Legal Data
+              Legal Data
+            
+Intellectual Property Data
+Patent Data
+Court Data
+Litigation Data
+Bankruptcy Data
+Royalty Rates Data
+Trademark Data
+Attorney Data
+Legal Parties Data
+            Healthcare Data
+              Healthcare Data
+            
+Patient Data
+Electronic Health Record (EHR) Data
+Wearables Data
+Clinical Data
+Healthcare Provider (HCP) Data
+Medical Imagery Data
+Pharma Data
+Drug Data
+Telemedicine Data
+Medical Claims Data
+COVID-19 Data
+Hospital Data
+        Browse all data categories
+        
+ 
+Browse Use Cases
+Post your data request
+Talk to a data expert
+List your data
+Group 9
+Created with Sketch.
+        Hey! Sign in
+      
+        My account
+      
+Group 9
+Created with Sketch.
+        Hey! Sign in
+      
+        My account
+      
+Group 5
+Created with Sketch.
+Explore Categories
+            Geospatial Data
+              Geospatial Data
+            
+Location Data
+Places Data
+Point of Interest (POI) Data
+Map Data
+Satellite Data
+Cell Tower Data
+GIS Data
+Geographic Data
+Mobility Data
+Geodemographic Data
+            Population Data
+              Population Data
+            
+Census Data
+Demographic Data
+Spending Data
+Wealth Data
+            Commerce Data
+              Commerce Data
+            
+Transaction Data
+Retail Data
+Ecommerce Data
+Receipt Data
+Consumer Review Data
+Consumer Spending Data
+Shopper Data
+Seller Data
+Product Data
+In-store Data
+Brand Data
+Sales Data
+Shopping Data
+            Financial Market Data
+              Financial Market Data
+            
+ESG Data
+Alternative Data
+Market Data
+Reference Data
+Commodity Data
+Currency Data
+Fixed Income Data
+Derivatives Data
+Mutual Funds Data
+Interest Rate Data
+Indices Data
+Economic Data
+OTC Data
+            Consumer Data
+              Consumer Data
+            
+Audience Data
+Identity Data
+Ownership Data
+Psychographic Data
+Social Media Data
+Consumer Purchase Data
+Customer Data
+Panel Survey Data
+Email Address Data
+Consumer Credit Rating Data
+Opt-In Consumer Data
+            B2B Data
+              B2B Data
+            
+B2B Contact Data
+B2B Leads Data
+B2B Intent Data
+B2B Marketing Data
+Firmographic Data
+Technographic Data
+Company Data
+Job Postings Data
+Salary Data
+Employee Data
+UK B2B Data
+Prospect Data
+            Transport and Logistics Data
+              Transport and Logistics Data
+            
+Traffic Data
+Trucking Data
+Aviation Data
+Road Data
+Freight Data
+Trade Data
+Maritime Data
+Customs Data
+Supply Chain Data
+Ship Data
+            Environmental Data
+              Environmental Data
+            
+Weather Data
+Pollen Data
+Climate Data
+Fire Data
+Marine Data
+NDVI Data
+Geological Data
+Water Data
+Land Use Data
+Surface Data
+Atmosphere Data
+Precipitation Data
+Solar Data
+            Credit Rating Data
+              Credit Rating Data
+            
+Corporate Credit Rating Data
+Bank Credit Rating Data
+Financial Institution Credit Rating Data
+Sovereign Credit Rating Data
+Bond Credit Rating Data
+Corporate Loan Data
+            Real Estate Data
+              Real Estate Data
+            
+Real Estate Market Data
+Property Data
+Mortgage Data
+Construction Project Leads Data
+Commercial Real Estate Data
+Residential Real Estate Data
+Flexible Workspace Data
+Real Estate Valuation Data
+Public Real Estate Data
+Global Real Estate Data
+Real-Time Real Estate Data
+Real Estate Transaction Data
+Rental Data
+            Web Data
+              Web Data
+            
+IP Address Data
+Web Search Data
+Web Activity Data
+Web Traffic Data
+Web Browsing Data
+News Data
+Web Scraping Data
+Semantic Website Data
+Sentiment Data
+Domain Name Data
+LinkedIn Data
+Reddit Data
+Instagram Data
+            Mobile App Data
+              Mobile App Data
+            
+App Usage Data
+App Store Data
+App Install Data
+App Revenue Data
+App Industry Data
+App Market Data
+App Session Data
+Android App Data
+SDK Data
+App Developer Data
+            Legal Data
+              Legal Data
+            
+Intellectual Property Data
+Patent Data
+Court Data
+Litigation Data
+Bankruptcy Data
+Royalty Rates Data
+Trademark Data
+Attorney Data
+Legal Parties Data
+            Healthcare Data
+              Healthcare Data
+            
+Patient Data
+Electronic Health Record (EHR) Data
+Wearables Data
+Clinical Data
+Healthcare Provider (HCP) Data
+Medical Imagery Data
+Pharma Data
+Drug Data
+Telemedicine Data
+Medical Claims Data
+COVID-19 Data
+Hospital Data
+        Browse all data categories
+        
+ 
+Browse Use Cases
+Post your data request
+Talk to a data expert
+List your data
+          Find the right data, effortlessly.
+        
+          The easy way to find, compare, and access data products from 500+ premium data providers across the globe.
+        
+ 
+        Used Daily By Leading teams across the Globe:
+      
+          Transparent
+        
+          We give you an overview on thousands of data providers. You get the full picture.
+        
+          Convenient
+        
+          Preview data samples instantly and find pricing information that help you to benchmark.
+        
+          Helpful
+        
+          Get complimentary sourcing advice by our team of data acquisition specialists.
+        
+          Free-of-charge
+        
+          Our service is free for you. Weâ€™re paid by the provider in case you make a purchase.
+        
+Explore data by categoryFind the right data from more than 560+ data categories.
+Geospatial Data
+Political Data
+Commerce Data
+Financial Market Data
+Consumer Data
+Population Data
+B2B Data
+Transport and Logistics Data
+Environmental Data
+Credit Rating Data
+Real Estate Data
+Web Data
+Mobile App Data
+Legal Data
+Healthcare Data
+Entertainment Data
+Energy Data
+Industry Data
+Hospitality, Travel & Tourism Data
+View all categories â†’
+Popular data providersFind the right strategic data supplier for your business. Compare more than 2,000+ providers.
+Search all providers â†’
+      Gravy Analytics
+        
+ Based in USA
+        
+    Gravy Analytics is the enterprise location technology company providing actionable intelligence to businesses. The company brings data about people, places, ...
+  
+100%
+deterministic data
+600 MM
+MAUs globally
+2K+ brands
+represented
+      View Provider
+      
+ 
+      QueXopa
+        
+ Based in Panama
+        
+    QueXopaÂ® is an Alternative Data provider that finds, sources and aggregates the data that fuels decision makers in all areas of government, finance and indus...
+  
+LatAm
+Access to Emerging Markets
+100%
+GDPR, LGPD Compliant 
++3 Million
+Users in Brazil & Mexico 
+      View Provider
+      
+ 
+      Quadrant
+        
+ Based in Singapore
+        
+    Our high-quality mobile location data power companies' products, solutions, and services. Our granular datasets (sourced from SDKs) allow organizations to ge...
+  
+Global
+Coverage in over 200 Countries
+150+ 
+Billion Events / Month
+GDPR  CCPA
+Compliant
+      View Provider
+      
+ 
+      Outwardmedia
+        
+ Based in USA
+        
+    Our SMB business contact database is the most comprehensive of its kind, with more than 18 million companies matched to over 78 million contacts, with email ...
+  
+78M+ 
+B2B Contacts with Email
+CCPA
+Compliant
+75M+ 
+Digital IDs
+      View Provider
+      
+ 
+      Factori
+        
+ Based in USA
+        
+    Factori is a flexible and adaptable data provider. We help you make smarter decisions and build better solutions based on real world location data.
+  
+5.2 B
+Event per Day
+1.6 B
+Consumer Profiles
+7000+
+Brands Tracked
+      View Provider
+      
+ 
+      IPinfo
+        
+ Based in USA
+        
+    IPinfo is an IP data provider specializing in IP geolocation, ASN, IP to company, IP to carrier, IP ranges, hosted domains, and other data types.
+IPinfo A...
+  
+46 billion
+API requests per month
+Great team
+doing big things.
+100K+
+businesses use IPinfo services
+      View Provider
+      
+ 
+Search all providers â†’
+Browse data by use caseFind the right data from more than 240+ use cases.
+Algorithmic Trading
+B2B Data Enrichment
+Competitor Analysis
+Credit Scoring
+CRM Data Enrichment
+Customer Insights
+Footfall Analytics
+Lead Generation
+Market Intelligence
+Portfolio Optimization
+View all use cases â†’
+Popular data productsFind the right data product for your use case. Preview data samples and compare pricing options.
+Search all products â†’
+Quadrant Global Raw Location Data - 900+ Million Unique Devices
+          by Quadrant
+900 Million Devices
+249 countries covered
+2 years of historical data
+    Quadrant (An Appen Company) is a global leader in mobile location data, POI data, and corresponding compliance services. Our location data is gathered from a...
+  
+      View Product
+      
+Pricing available upon request
+Factori Mobility/ Raw Location Data | Global mobile location data (1 year history)
+          by Factori
+226B Monthly Location Pings 
+90% Horizontal Accuracy
+248 countries covered
+    We provide high-quality persistent mobility data from our partnered mobile apps & SDKs and this data feed is aggregated from multiple data sources globally a...
+  
+      View Product
+      
+Starts at$5,000$4,500 / month
+Factori_Identity Data ( Hashed email linked to unique Id with UID2.0)
+          by Factori
+1.06B Device to HEM (Hashed Email)
+100% Device to Partner ID Matching
+247 countries covered
+    Our identity graph data can help brands attach identities to their existing first party data in a safe and privacy compliant manner, resulting in the ability...
+  
+      View Product
+      
+Starts at$120,000 / year
+QueXopa Debit & Credit Card Transaction Data (Spain)
+          by QueXopa
+300 Public & Private Companies
+100% GDPR Compliant
+Spain covered
+    QueXopa offers unprecedented access into Spain's emerging markets with our uniquely refined credit/debit card transactions datasets.
+  
+      View Product
+      
+Pricing available upon request
+Area Visitors -- analyze global foot traffic trends for geographic areas via API or batch data delivery
+          by Gravy Analytics
+50B global signals per day 
+100% deterministic data
+247 countries covered
+    Submit your own geographic coordinates and time range and receive the counts and mobile device IDs observed in that area during that time in return.  Ready-m...
+  
+      View Product
+      
+Starts at$1 / API call
+Personas -- enrich 1st-party data with 350+ U.S. consumer personas via on-demand API access or DaaS batch delivery
+          by Gravy Analytics
+250M MAUs in the US
+100% deterministic data used
+USA covered
+    Gravy Personas delivers over 350 psychographic classifications for U.S. consumers built on the places and events they visit in the real world. Use Personas t...
+  
+      View Product
+      
+Starts at$1 / API call
+Search all products â†’
+            Popular Categories
+          
+Geospatial Data
+Commerce Data
+Financial Market Data
+Company Data
+Real Estate Data
+Web Data
+AI & ML Training Data
+            Datarade
+          
+Our Story
+Careers
+Contact Us
+Privacy Policy
+Manage Cookie Preferences
+Terms of Service
+Legal Notice
+            Buyer Solutions
+          
+Datarade for Buyers
+Data Categories
+Use Cases
+Top Lists
+            Vendor Solutions
+          
+Datarade for Vendors
+List your data
+ 

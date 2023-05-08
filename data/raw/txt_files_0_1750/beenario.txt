@@ -1,0 +1,197 @@
+Bugfender | Cloud Remote Logger, Crash Reporter, In-App Feedback
+ 
+Menu
+Features
+Remote Logging
+Crash Reporting
+User Feedback
+Mobile-First SDK
+Integrations
+Security
+Platforms
+Docs
+SDK Documentation
+Resources
+Knowledge Base
+Testimonials
+Pricing
+Blog
+About
+LoginGet Started 
+Learn More
+Crash Reporting
+In-App User Feedback
+Platforms
+Pricing
+Security & Privacy
+About Bugfender
+Blog
+Getting Started
+Login
+Sign Up
+ 
+Remote Logger, Crash Reporter and In-App User Feedback
+ 
+Bugfender is a log storage service for application developers. Bugfender collects everything happening in the application, even if it
+doesn’t crash, in order to reproduce and resolve bugs more effectively and provide better customer support.
+Bugfender respects your user's privacy, is battery and network efficient and keeps logging even if the device is offline.
+JavaScript Error Reporting
+JavaScript Error Reporting
+Unity Error Reporting
+Xamarin Error Monitoring
+Cordova Remote Logger
+ 
+Get Started for FREE
+ Trusted By
+as_cantina
+as_adt_logo
+Airmail
+Airmail Logo
+as_napster
+Intel
+Oracle
+as_vorwerk
+Rakuten
+ 
+Bugfender Helps You...
+feature-graphic-1
+Track and Destroy Bugs Before Users Even Notice
+Bugfender logs all bugs on all devices and sends the results in seconds - enabling you to find and fix bugs before your users even
+get an error message.
+feature-graphic-2
+Achieve 5-Star Ratings 
+Bugfender doesn’t just log bugs and crashes. It logs all the information you’ll ever need so you can build a clear picture of your
+users and earn those crucial five-star ratings.
+feature-graphic-3
+Deliver World-Class Customer Service
+Our logging tool enables you to target individual users and provide personalized customer support - keeping your customers happy,
+and ensuring you retain them.
+Sign Up Now
+What Are the Benefits of Bugfender?
+451B7925-B7D5-40CB-A9D9-CCDC715F55B8
+Device Manager
+Device Management
+Enable or disable the devices you want to debug with our Device Config panel, homing in on the
+users you need to track and offering bespoke, intuitive care.
+BEDA2013-EDD3-4130-9988-BC1061AF179D
+ 
+The Log Viewer
+Bugfender’s log viewer and powerful filters let you drill down by device, OS or even individual
+user. This enables you to identify problems faster than ever, while offering a 360-degree insight into your user base.
+451B7925-B7D5-40CB-A9D9-CCDC715F55B8
+451B7925-B7D5-40CB-A9D9-CCDC715F55B8
+Crash Reports, Crash Reporting
+Bugfender Crash Reporting tool
+Crash Reports
+Our reporting tool won’t just inform you of a crash: it’ll tell you why it happened. You’ll see
+the chain of events that caused the crash, so you can can build a proactive strategy to prevent a repeat.
+Get Started
+Get Your App's Daily Stats Right to Your Inbox
+53B34443-C8F3-4D21-8D17-94D10F9D4064
+ 
+You don't need to log into your Bugfender account to check your app's issues, devices, sessions or logs. Bugfender can
+send all information directly to your email address.
+Start Logging Today
+How Does Bugfender Compare to Other Tools?
+Bugfender
+Bugfender
+Crashlytics
+Crashlytics
+Instabug
+Instabug
+Sentry
+Purpose
+Logs
+Access to your application's logs and crash files.
+Crashes
+Provides reports on app crashes.
+User Feedback
+Obtain feedback from beta testers.
+Application Monitoring and Error Tracking
+Diagnose, fix, and optimize the code.
+Continuous Logging
+Yes
+C9A5CF86-19BF-42D5-B3D8-E9072D674FD0
+ 
+No
+16785E42-4E7C-49BA-B099-65E2AC8CC141
+ 
+No
+16785E42-4E7C-49BA-B099-65E2AC8CC141
+ 
+No
+16785E42-4E7C-49BA-B099-65E2AC8CC141
+ 
+See the Full Comparison
+Built for both Native iOS, Android, Hybrid and Web Development Tools
+iOS
+Mobile
+Get your application logcat & NSLogs files anywhere. See what your users are experiencing and debug your apps faster!
+JavaScript Error Reporting
+JavaScript Error Reporting
+ 
+Web
+View logs and exceptions, debug issues in your Website within minutes. Find, fix and release better products to keep your users
+happy.
+View All Our Platforms
+What Do Our Customers Say?
+Bugfender is helping thousands of developers all over the world to release superb, bug-free applications.
+The ability to look under the hood in realtime gives us a much better and faster way to detect and fix issues for production apps!
+Martin Kovachev from GymNadz
+     
+ 
+Bugfender is very easy to use and offers great support. It's ability to help find silent bugs is invaluable.
+Tudor Watson
+     
+ 
+We wanted to monitor our users behaviour and see the problems they were facing in real-time on our React Native app, and Bugfender allowed us to do that easily.
+Si-Shi Chen from Honestbee
+     
+ 
+To initialize you said it would only take 60 seconds to setup, but damnnnn... it's taken only 20 seconds! Thank you, I love it.
+Prabhakar Thota
+     
+ 
+We leverage a ton of sensor data and having the ability to remotely enable/disable logging for troubleshooting has saved us so much time in guessing what may have caused customer issues.
+Billy Lo from Sidekick-App.com
+     
+ 
+Read our case studies
+Already Trusted by ThousandsBugfender is the best remote logger for mobile and web apps.Get Started for Free, No Credit Card Required
+Platforms
+iOS
+Android
+JavaScript
+React
+Angular
+Unity
+All Platforms
+ 
+Learn More
+Pricing
+Testimonials
+Integrations
+Firebase Crashlytics
+Bugfender Compared to Other Tools
+Newsletter/Mailing List
+Sitemap
+ 
+About
+About
+Security Policy
+Affiliate Program
+Press
+Free Bug Fixing Ebook
+List of iOS, Android and Web Conferences
+ 
+Support
+SDK Documentation
+Knowledge Base
+Contact Us
+Privacy Policy
+Terms of Service
+Legal Notice
+Bugfender White Paper
+Server Status
+ 
+ 

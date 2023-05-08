@@ -1,0 +1,72 @@
+FAMA experts reports GmbH
+ Toggle navigation    
+Home 
+About 
+TASC2020 
+Services
+Committee
+News 
+Contact 
+FAMA expert reports
+Traffic and accident simulation data sets
+learn more
+data platform
+Traffic and accident scenario data platformGenerated from Traffic Accident Scenario Community (TASC)
+get details
+Community
+Traffic Accident Scenario Community (TASC)Unique simulation and analysis database of real accident scenarios
+find out
+About FAMA ER
+Who are we?
+FAMA ER is an international provider of expert report data as well as further special information and operates a data platform based on Big Data and AI technologies. The company trades and buys proprietary data and offers related services based on semantic analyses of structured and unstructured data.
+For the continuous operation of a data landscape based on up-to-date knowledge, FAMA ER invests a considerable part of its revenues in research and development. In this way, FAMA ER ensures the development of the latest and most innovative solutions.
+About TASC2020
+Data set Benefits
+Targeting Setting
+TASC 2020 was developed and created by Fraunhofer. Following the approach of the digitalization of police recorded accident including a “light reconstruction” the database will be compatible to many different countries all over the world.
+TAST teaser
+The main focus of TASC is vehicle and road safety as well as highly automated driving functions (ADAS and AD). With over 11.000 cases, TASC is already one of the largest database of simulatable traffic accidents. TASC is currently looking for partners and users.
+Instant Support
+FAMA ER is always available for advice and offer support for the acquisition of the data set via the data platform.
+Our Services
+Detailed Insights
+01
+scientific cooperation
+Cooperation with the Fraunhofer is launched. FAMA ER has commissioned Fraunhofer with the goal of developing various simulative data sources in a uniform F-JSON format. FAMA ER makes these data available to different users - as well as the information obtained from the sources.
+                        
+02
+survey methodology
+In order to obtain mathematically and physically correct information for the validity of speeds, TASC has made use of various complementary, generally recognised survey methods. Every basis scenario is checked plausibility tests to provide constant quality.
+03
+Pre-Crash scenarios
+In addition to validated speeds, the TASC data set offers an ever-increasing amount of data, which mainly describes the pre-crash behaviour of traffic accidents with personal injury. The data set is compatible to the automotive simulation standards.
+statistical analyzabilityand representativeness
+accident andscenario database
+simulation capabilityand compatibility
+harmonised and intuitive structure
+academically accompanied collaborative
+easyaccessibility 
+About TASC Steering Committee
+Who decides next steps
+The Traffic Accident Scenario Community Steering Committee determines the data pool and the current and future contents. The committee is elected annually and is composed of different members.
+Latest Blog
+Be Aware Of News
+06/2021 | browser-based dynamic analysis tool
+June 2021
+For TASC 2020, it is planned to provide users with a browser-based dynamic analysis tool with a distributed, multi-tenant full-text search engine based on a Big Data capable parallelizable Elasticsearch development environment. This allows all users to get a better overview in the overall dataset. A pre-filter of the necessary accident scenario data can be done quickly and easily and is clearly arranged. The development is currently being commissioned and should be available to all users before the end of 2021.
+05/2021 | TASC2020 available
+May 2021
+The TASC 2020 dataset is available.
+04/2021 | quality improvements codebook
+April 2021
+For the TASC 2020 dataset, extended plausibility checks for quality improvements were introduced and documented in the codebook.
+Contact us
+Get in touch with us
++49-34321-5719870
+Leisnig, Germany
+info2020@fama-er.de
+imprint
+privacy policy
+terms
+                            © 2023 FAMA expert reports GmbH
+                        

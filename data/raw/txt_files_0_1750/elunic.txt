@@ -1,0 +1,832 @@
+elunic - Digitale Lösungen für die Industrie
+ 
+  
+Lösungen
+shopfloor.io – Industrie 4.0-Softwarebaukasten
+shopfloor.io
+Anbindungen und Schnittstellen
+App Builder
+App Hub
+Anomalieerkennung
+Asset Management
+Benutzerverwaltung
+Dokumentverwaltung
+Microsoft Azure IoT
+Wartungsmanager
+Whitelabel Maschinenportal
+Zustandsüberwachung / Condition Monitoring
+AI.SEE™ – Automatisierte Qualitätskontrolle
+AI.SEE™
+AI.SEE™ Line Inspector
+AI.SEE™ Core
+AI.SEE™ Qualitätssicherung im Presswerk
+Automatisierte Anomalieerkennung in der Produktion durch KI
+Dienstleistungen
+IoT-Softwareentwicklung
+Cloud-Architektur- und IoT-Plattformberatung
+IIoT Konzeption, UX & UI Design
+Rolloutbegleitung und Changemanagement
+Digitalisierung im Maschinenbau
+Referenzprojekte
+shopfloor.io-Projekte
+SCHUNK GmbH & Co. KG iTendo-Plattform
+Grob Werke GmbH & Co. KG FactoryChat & FactoryDashboard
+ebm-papst GmbH & Co. KG Meistercockpit
+ILLIG Maschinenbau GmbH & Co. KG Illig Assist
+Güdel Group AG Smart Products & Condition Monitoring
+SweetConnect GmbH – I4.0-Plattform für die Süßwarenindustrie
+ASMPT SMT Solutions – Factory Chat
+Digitalisierung in der Zementindustrie
++
+Digitalisierung in Molkereien
+Kunden- und Maschinenübersicht
+Zustandsüberwachung mit OEE-Dashboards
+Abo-Modelle für Maschinenbauer – Subskription mit IIoT
+Remote Condition Monitoring Software für den Maschinenbau
+Digitaler Zwilling / Digital Twin
+Preventive & Predictive Maintenance
+Anomalieanalyse in Produktionsanlagen
+Energiemonitoring in der Produktion
+AI.SEE™-Projekte
+voestalpine Automotive Components Schwäbisch Gmünd End-to-End Qualitätsprüfung
+Smart Press Shop GmbH & Co. KG. In-Line Qualitätsprüfung
+Qualitätssicherung im Presswerk
+C. Jentner GmbH Oberflächenprüfung
+Batteriezellenprüfung
+Fehlererkennung in der Solarindustrie
+Optische Oberflächenprüfung
+Schweißnahtprüfung
++
+KI-Qualitätskontrolle in der Pharmaindustrie
+Qualitätskontrolle für Filtrationsanlagen
+ECE-Homologation-Automatisierung
+Automatische Lunkererkennung
+Automatisierte Gussfehlererkennung
+OCR-Texterkennung
+Automatische Risserkennung
+Leiterplatteninspektion
+Industrielle Bildverarbeitung
+Unternehmen
+Über Uns
+Referenzen
+News
+Termine
+Presse
+Karriere
+Kontakt
+ 
+  
+Lösungen
+shopfloor.io – Industrie 4.0-Softwarebaukasten
+shopfloor.io
+Anbindungen und Schnittstellen
+App Builder
+App Hub
+Anomalieerkennung
+Asset Management
+Benutzerverwaltung
+Dokumentverwaltung
+Microsoft Azure IoT
+Wartungsmanager
+Whitelabel Maschinenportal
+Zustandsüberwachung / Condition Monitoring
+AI.SEE™ – Automatisierte Qualitätskontrolle
+AI.SEE™
+AI.SEE™ Line Inspector
+AI.SEE™ Core
+AI.SEE™ Qualitätssicherung im Presswerk
+Automatisierte Anomalieerkennung in der Produktion durch KI
+Dienstleistungen
+IoT-Softwareentwicklung
+Cloud-Architektur- und IoT-Plattformberatung
+IIoT Konzeption, UX & UI Design
+Rolloutbegleitung und Changemanagement
+Digitalisierung im Maschinenbau
+Referenzprojekte
+shopfloor.io-Projekte
+SCHUNK GmbH & Co. KG iTendo-Plattform
+Grob Werke GmbH & Co. KG FactoryChat & FactoryDashboard
+ebm-papst GmbH & Co. KG Meistercockpit
+ILLIG Maschinenbau GmbH & Co. KG Illig Assist
+Güdel Group AG Smart Products & Condition Monitoring
+SweetConnect GmbH – I4.0-Plattform für die Süßwarenindustrie
+ASMPT SMT Solutions – Factory Chat
+Digitalisierung in der Zementindustrie
++
+Digitalisierung in Molkereien
+Kunden- und Maschinenübersicht
+Zustandsüberwachung mit OEE-Dashboards
+Abo-Modelle für Maschinenbauer – Subskription mit IIoT
+Remote Condition Monitoring Software für den Maschinenbau
+Digitaler Zwilling / Digital Twin
+Preventive & Predictive Maintenance
+Anomalieanalyse in Produktionsanlagen
+Energiemonitoring in der Produktion
+AI.SEE™-Projekte
+voestalpine Automotive Components Schwäbisch Gmünd End-to-End Qualitätsprüfung
+Smart Press Shop GmbH & Co. KG. In-Line Qualitätsprüfung
+Qualitätssicherung im Presswerk
+C. Jentner GmbH Oberflächenprüfung
+Batteriezellenprüfung
+Fehlererkennung in der Solarindustrie
+Optische Oberflächenprüfung
+Schweißnahtprüfung
++
+KI-Qualitätskontrolle in der Pharmaindustrie
+Qualitätskontrolle für Filtrationsanlagen
+ECE-Homologation-Automatisierung
+Automatische Lunkererkennung
+Automatisierte Gussfehlererkennung
+OCR-Texterkennung
+Automatische Risserkennung
+Leiterplatteninspektion
+Industrielle Bildverarbeitung
+Unternehmen
+Über Uns
+Referenzen
+News
+Termine
+Presse
+Karriere
+Kontakt
+ 
+ 
+中 文 | EN  
+Lösungen
+shopfloor.io – Industrie 4.0-Softwarebaukasten
+shopfloor.io
+Anbindungen und Schnittstellen
+App Builder
+App Hub
+Anomalieerkennung
+Asset Management
+Benutzerverwaltung
+Dokumentverwaltung
+Microsoft Azure IoT
+Wartungsmanager
+Whitelabel Maschinenportal
+Zustandsüberwachung / Condition Monitoring
+AI.SEE™ – Automatisierte Qualitätskontrolle
+AI.SEE™
+AI.SEE™ Line Inspector
+AI.SEE™ Core
+AI.SEE™ Qualitätssicherung im Presswerk
+Automatisierte Anomalieerkennung in der Produktion durch KI
+Dienstleistungen
+IoT-Softwareentwicklung
+Cloud-Architektur- und IoT-Plattformberatung
+IIoT Konzeption, UX & UI Design
+Rolloutbegleitung und Changemanagement
+Digitalisierung im Maschinenbau
+Referenzprojekte
+shopfloor.io-Projekte
+SCHUNK GmbH & Co. KG iTendo-Plattform
+Grob Werke GmbH & Co. KG FactoryChat & FactoryDashboard
+ebm-papst GmbH & Co. KG Meistercockpit
+ILLIG Maschinenbau GmbH & Co. KG Illig Assist
+Güdel Group AG Smart Products & Condition Monitoring
+SweetConnect GmbH – I4.0-Plattform für die Süßwarenindustrie
+ASMPT SMT Solutions – Factory Chat
+Digitalisierung in der Zementindustrie
++
+Digitalisierung in Molkereien
+Kunden- und Maschinenübersicht
+Zustandsüberwachung mit OEE-Dashboards
+Abo-Modelle für Maschinenbauer – Subskription mit IIoT
+Remote Condition Monitoring Software für den Maschinenbau
+Digitaler Zwilling / Digital Twin
+Preventive & Predictive Maintenance
+Anomalieanalyse in Produktionsanlagen
+Energiemonitoring in der Produktion
+AI.SEE™-Projekte
+voestalpine Automotive Components Schwäbisch Gmünd End-to-End Qualitätsprüfung
+Smart Press Shop GmbH & Co. KG. In-Line Qualitätsprüfung
+Qualitätssicherung im Presswerk
+C. Jentner GmbH Oberflächenprüfung
+Batteriezellenprüfung
+Fehlererkennung in der Solarindustrie
+Optische Oberflächenprüfung
+Schweißnahtprüfung
++
+KI-Qualitätskontrolle in der Pharmaindustrie
+Qualitätskontrolle für Filtrationsanlagen
+ECE-Homologation-Automatisierung
+Automatische Lunkererkennung
+Automatisierte Gussfehlererkennung
+OCR-Texterkennung
+Automatische Risserkennung
+Leiterplatteninspektion
+Industrielle Bildverarbeitung
+Unternehmen
+Über Uns
+Referenzen
+News
+Termine
+Presse
+Karriere
+Kontakt
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Digitale Lösungen für die Industrie 
+							elunic entwickelt passgenaue Applikationen für Maschinenhersteller, um das gesamte
+IoT-Potenzial Ihrer Maschinen auszuschöpfen. 
+							
+Digitale Lösungen für die Industrie
+elunic entwickelt passgenaue Applikationen,
+um das gesamte IoT-Potenzial
+Ihrer Maschinen auszuschöpfen.
+Strategieberater und Softwareintegrator für Industrie 4.0-Lösungen (Manufacturing IoT)
+Mit mehr als 15 Jahren Erfahrung unterstützt elunic Maschinenbauer bei der Vernetzung ihrer Maschinen und Produktion,
+der Erfassung und Auswertung von Maschinendaten und der Digitalisierung von Arbeitsprozessen.
+Mit mehr als 15 Jahren Erfahrung unterstützt elunic Maschinenbauer bei der Vernetzung ihrer Maschinen und Produktion,
+der Erfassung und Auswertung von Maschinendaten und der Digitalisierung von Arbeitsprozessen.
+Industrie 4.0 Software­baukasten für Maschinen­hersteller
+Starten Sie die digitale Transformation und schöpfen Sie das gesamte Potential Ihrer Maschinen durch modulare und skalierbare shopfloor.io-IIoT-Softwarebausteine aus.
+App Hub
+Zentraler Einstrittspunkt zur Verwaltung aller verbundenen Applikationen.
+Mehr erfahren
+Condition Monitoring
+Echtzeit-Zustandsüberwachung, Sensordaten- und Prozessanalyse, KPIs und Dashboards.
+Mehr erfahren
+Condition Monitoring
+Echtzeit-Zustandsüberwachung, Sensordaten- und Prozessanalyse, KPIs und Dashboards.
+Mehr erfahren
+Maschinenverwaltung
+Abbildung und Verwaltung von Anlagen- und Assethierarchien.
+Mehr erfahren
+Maschinenverwaltung
+Abbildung und Verwaltung von Anlagen- und Assethierarchien.
+Mehr erfahren
+Anomalieerkennung
+Analyse, Annotation und Erstellung von Machine-Learning-Modellen.
+Mehr erfahren
+Anomalieerkennung
+Analyse, Annotation und Erstellung von Machine-Learning-Modellen.
+Mehr erfahren
+Wartungsmanager
+Planung assetbezogener Wartungen, Reparaturen und Instandhaltungsmaßnahmen.
+Mehr erfahren
+Wartungsmanager
+Planung assetbezogener Wartungen, Reparaturen und Instandhaltungsmaßnahmen.
+Mehr erfahren
+Serviceheft
+Das Digitale Serviceheft als Einstiegspunkt in Ihr eigenes Subskriptions-Modell
+Mehr erfahren
+Serviceheft
+Das Digitale Serviceheft als Einstiegspunkt in Ihr eigenes Subskriptions-Modell
+Mehr erfahren
+Serviceheft
+Das Digitale Serviceheft als Einstiegspunkt in Ihr eigenes Subskriptions-Modell
+Mehr erfahren
+Benutzerverwaltung
+Konfiguration und Authentifizierung von Benutzern mit Schnittstellen zu Übergeordneten Systemen.
+Mehr erfahren
+Dokumenteverwaltung
+Ablage, Verwaltung und Indizierung von Dateien und Anhängen.
+Mehr erfahren
+Mehr erfahren
+Jetzt kostenlos testen
+Industrie 4.0 Software­baukasten für Maschinen­hersteller
+Starten Sie die digitale Transformation und schöpfen Sie das gesamte Potential Ihrer Maschinen durch modulare und skalierbare shopfloor.io-IIoT-Softwarebausteine aus.
+Mehr erfahren
+Jetzt kostenlos testen
+White-Label-Maschinenportal
+mit shopfloor.io
+für Maschinenhersteller
+Entwicklung eines Kunden- und Maschinenportals
+auf Grundlage bestehender shopfloor.io-Software-Bausteine
+um Maschinenbauer zu vernetzen.
+ 
+Mehr erfahren
+White-Label-Maschinenportal mit shopfloor.io für Maschinen­hersteller
+Entwicklung eines Kunden- und Maschinenportals auf Grundlage bestehender shopfloor.io-Software-Bausteine um Maschinenbauer zu vernetzen.
+ 
+Mehr erfahren
+Industrie 4.0-Software­entwicklung
+für den Maschinenbau
+elunic entwickelt gemeinsam mit Ihnen maßgeschneiderte Softwarelösungen für die Industrie 4.0.
+ 
+Mehr erfahren
+Industrie 4.0-Software­­entwicklung für den Maschinenbau
+elunic entwickelt gemeinsam mit Ihnen passgenaue IoT-Softwarelösungen für die Industrie 4.0.
+ 
+Mehr erfahren
+Optische Prüfung
+der Produktionsqualität
+AISEE™ ist ein auf künstlicher Intelligenz
+basierendes, visuelles Qualitätskontrollen- und
+Fehlererkennungssystem für Produzenten.
+ 
+Mehr erfahren
+Optische Prüfung der
+Produktionsqualität
+AI.SEE™ ist ein auf künstlicher Intelligenz basierendes, visuelles Qualitätskontrollen- und Fehlererkennungssystem für Produzenten.
+ 
+Mehr erfahren
+KI macht den Unterschied
+Automatisierte
+Anomaliedetektion
+für die Produktion
+Fehler erkennen, bevor sie auftreten,
+durch Nutzung von KI um Live-Daten aus dem Betrieb
+ohne Data-Science-Expertise zu analysieren.
+ 
+Mehr erfahren
+Automatisierte Anomalie­detektion für die Produktion
+Fehler erkennen, bevor sie auftreten, durch Nutzung von KI um Live-Daten aus dem Betrieb ohne Data-Science-Expertise zu analysieren.
+ 
+Mehr erfahren
+Automatisierte
+Qualitätssicherung
+im Presswerk
+Mit AI.SEE™ zu einem vollumfänglichen Qualitätskontrollen-
+und Fehlererkennungssystem für Produzenten im Presswerk
+ 
+Mehr erfahren
+Automatisierte Qualitätssicherung im Presswerk
+Mit AI.SEE™ zu einem vollumfänglichen Qualitätskontrollen- und Fehlererkennungssystem für Produzenten im Presswerk
+ 
+Mehr erfahren
+	Referenzen. 
+Referenzen
+Mehr Referenzen anzeigen
+	Projekte. 
+Projekte
+ 
+ 
+                            ASMPT SMT Solutions – Factory Chat                        
+ 
+ 
+                            Digitalisierung in der Zementindustrie                        
+ 
+ 
+                            Digitalisierung von Molkereien durch Industrie 4.0-Lösungen                        
+ 
+ 
+                            Illig Assist                        
+ 
+ 
+                            voestalpine – End-zu-End Qualitätsprüfung durch künstliche Intelligenz                        
+ 
+ 
+                            Smart Press Shop – Qualitätssicherung durch KI                        
+ 
+ 
+                            Güdel Group AG – Smart Products: Güdel Hub und Condition Monitoring                        
+ 
+ 
+                            Filtrationsanlagen – Qualitätskontrolle für Industriefilter                        
+ 
+ 
+                            SweetConnect – Industrie 4.0-Plattform für die Süßwarenindustrie                        
+ 
+ 
+                            Automatisierte Erkennung von Gussfehlern in der Produktion durch KI                        
+ 
+ 
+                            Grob Werke GmbH & Co. KG – FactoryChat & FactoryDashboard                        
+ 
+ 
+                            Schunk iTendo-Plattform                        
+ 
+ 
+                            Qualitätssicherung im Presswerk durch künstliche Intelligenz (KI)                        
+ 
+ 
+                            Automatisierte Lunkererkennung                        
+ 
+ 
+                            Kunden- und Maschinenübersicht                        
+ 
+ 
+                            OEE Dashboard                        
+ 
+ 
+                            Qualitätssicherung in der Solarindustrie                        
+ 
+ 
+                            K.I.-basierte Qualitätskontrolle in der Pharmaindustrie                        
+ 
+ 
+                            Anomalie-Analyse in Produktionsanlagen                        
+ 
+ 
+                            Energiemonitoring in der Produktion                        
+Alle Referenzprojekte anzeigen
+	Kundenstimmen. 
+"Letztlich macht es aus meiner Sicht Sinn, keine Stand-Alone-Lösung in seinen Prozess zu integrieren. Aus meiner Sicht hat sich das bei keinem Presswerk, das ich bisher besucht habe, nachhaltig bewährt. Und dementsprechend kann ich nur empfehlen, AI.SEE™ in die bestehende IT-Infrastruktur voll zu integrieren und auch mit den Kollegen entsprechend eigene IT-Prozesse weiterzuentwickeln."
+Mike Ehrhardt  
+Leiter Qualität - Smart Press Shop GmbH & Co. KG
+"Industrie 4.0, Industrial Internet of Things (IIoT) has already been a component at Güdel for several years. With the Rollers Condition Monitoring package, Güdel promises to significantly increase machine availability and anticipate unexpected production downtimes ahead of time. The sensors and evaluation units in the package are optimally matched to each other and form a stable and independently operable functional package. Many thanks for the cooperation #elunic"
+Güdel Group AG
+”Gemeinsam mit elunic konnten wir im Microsoft AI & IoT Insider Lab bereits viele Maschinenhersteller bei dem Start und Ausbau ihrer Konnektivität im produktiven Einsatz voranbringen.”
+Kresimir Galic
+Azure Cloud Engineer - Microsoft Azure
+„Mit dem FactoryChat und dem FactoryDashboard schließen wir die letzten Lücken zwischen dem Bediener der Anlage, dem Problem und der Lösung. Eine Vielzahl von Anwendungsfällen kann abgedeckt werden und das System ist zudem frei konfigurierbar. Mit unserem Partner elunic haben wir die richtige Wahl getroffen. Die Zusammenarbeit ist wie man es sich nur wünschen kann – offen, zielgerichtet und fachlich immer auf einem Top-Niveau. So entstehen Lösungen, die Mehrwerte erzeugen“
+Emil Nigl 
+Product Sales Manager - GROB-WERKE GmbH & Co. KG
+“elunic hat unsere Hardware- und Prozessexpertise durch ihre Erfahrung in der Entwicklung von IIoT-Software und -Architekturen erweitert. Durch das Zusammenführen dieser verschiedenen Komponenten und Fachwissen konnte eine Plattform geschaffen werden, die als Grundlage für weitere intelligente Produkte und digitale Dienstleistungen von Schunk genutzt wird.”
+Martin May
+Director Innovation Center - SCHUNK GmbH & Co. KG
+"elunic begleitete uns von der Ideation über den Prototypen bis hin zum fertigen Produkt und überzeugte stets mit hohem Engagement, sehr effizienter Umsetzung und Industrie 4.0 Kompetenz."
+Alexander Burk
+Leiter Software - Weber Maschinenbau GmbH
+"Durch den besonderen Fokus auf Agilität schafft es elunic, innerhalb kürzester Zeit einsatzfähige Applikationen zu entwickeln und so echte Mehrwerte zu realisieren"
+Brian Lau
+Vice President Business Development - ASM Assembly Systems GmbH & Co. KG
+"Mit frischen Denkansätzen, fundiertem Know-how und industriellem Branchenwissen ist elunic für uns ein wertvoller Partner, mit dem wir in kurzer Zeit einen großen Schritt in Richtung Smarte Produkte machen konnten."
+Urs Truttmann
+R&D Project Management - Güdel AG
+	Unverbindliches Angebot anfragen. 
+	Partnerschaften. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	Messen & Events. 
+15.09.2021
+Fachtagung: Mehr Effizienz im Presswerk 2021
+Details
+ 
+05.10.2021 – 07.10.2021
+Vision 2021
+Details
+ 
+26.10.2021 – 27.10.2021
+Deutscher Maschinenbau Gipfel
+Details
+ 
+Alle Termine
+	Jobs & Karriere. 
+IT-Projektmanager (m/w/d)
+Details
+ 
+Software-Entwickler für JavaScript / Node.js Applikationen (m/w/d)
+Details
+ 
+Werkstudent JavaScript & Node.js Programmierung – IIoT Projekte (m/w/d)
+Details
+ 
+Alle Jobs
+	Blog & News. 
+ 
+										elunic auf der Control 2023									
+Automatisierte Qualitätssicherung mittels K.I.-betriebene Bilderkennung
+Die Welt der künstlichen Intelligenz entwickelt sich in atemberaubendem Tempo. Auch im Bereich der Qualitätskontrolle stehen wir vor den spannendsten neuen Entwicklungen seit Jahren. Verantwortliche für die Qualitätskontrolle müssen stets auf dem Laufenden bleiben, die aktuellen Trends im Auge behalten und die... 
+ 
+	by    
+		Joanna Parker    
+ 
+										TICK Stack, Grafana® & InfluxDB – Wie IoT Dienstleister Sensor- und Maschinendaten visualisieren									
+Eine der wichtigsten Schnittstellen eines IoT Projektes sind die Benutzeroberflächen. Systemzustände können zu jedem Zeitpunkt der Integration mittels Dashboards effizient und übersichtlich dargestellt werden. InfluxData und Grafana® bieten hierfür Open-Source Lösungen, die beide auf Grundlage der Datenbank InfluxDB Visualisierungen für IoT Daten ermöglichen.
+ 
+Update: Der Begriff... 
+ 
+	by    
+		Ines Zuckschwerdt    
+ 
+										Teambuilding Event									
+Frische Bergluft in 1.200 Metern Höhe, ein phantastisches Alpenpanorama und im Tal der malerische Spitzingsee – eine bessere Kulisse hätten wir für unser Teambuilding-Event nicht wählen können. Das intensive Wochenende sollte uns ganz dicht an die Core Values von elunic bringen, den Teamgeist stärken und... 
+ 
+	by    
+		Ines Zuckschwerdt    
+ 
+										elunic auf der SPS									
+Industrielle Anomaliedetektion durch künstliche Intelligenz mit elunic
+vom 8. bis 10. November 2022 auf der Smart Production Solutions in Nürnberg
+Als internationale Fachmesse im Bereich industrielle Automation ist die SPS in Nürnberg ein besonderes Highlight. Mehr als 1.600 nationale und internationale Aussteller geben auf der leitenden Automatisierungsmesse einen... 
+ 
+	by    
+		Ines Zuckschwerdt    
+ 
+										elunic auf der Aluminium 2022									
+Mit AI.SEE™ die optische Qualitätsprüfung in Produktionen und Presswerken optimieren
+Vom 27. bis 29. September 2022 ist elunic auf der Aluminium auf dem Messegelände Düsseldorf
+Die Münchner elunic AG zeigt auf der Aluminium 2022 vom 27. bis 29. September in Düsseldorf an ihrem Stand 5L38 in Halle... 
+ 
+	by    
+		Ines Zuckschwerdt    
+ 
+										elunic auf dem Produktionsleiter Forum 2022									
+Produktionsleiter Forum in Würzburg: "Ihre Produktion kann mehr!"
+Am 21. & 22. September 2022 ist elunic auf dem Produktionsleiter Forum in Würzburg
+ 
+Potentiale neben Automatisierung und Digitalisierung in Ihrer Produktion entdecken, Kosten sparen und selbst in Krisenzeiten Innovationen voranbringen - diese und weitere interessante Themen erwarten Sie... 
+ 
+	by    
+		Ines Zuckschwerdt    
+ 
+										elunic auf dem Maschinenbau-Gipfel 2022									
+13. Maschinenbau-Gipfel in Berlin
+elunic ist mit dabei: am 11. & 12. Oktober 2022 auf dem 13. Maschinenbau-Gipfel in Berlin 
+ 
+Perspektiven und Zukunftsfähigkeit durch gemeinsames Handeln schaffen – das ist die Maxime des Deutschen Maschinenbau-Gipfels 2022. Das wichtigste Branchentreffen bietet eine tolle Gelegenheit, sich mit Experten aus... 
+ 
+	by    
+		Ines Zuckschwerdt    
+ 
+										elunic auf der automatica 2022									
+Auf einfachem Weg zum Whitelabel IIoT-Maschinenportal
+elunic stellt seinen Software-Baukasten shopfloor.io vom 21. bis 24. Juni 2022 auf der automatica 2022 in München vor 
+In Halle B6, Stand 408 des Trade Fair Centers Messe München zeigt die Münchner elunic AG vom 21. bis 24. Juni, wie Maschinenhersteller... 
+ 
+	by    
+		Ines Zuckschwerdt    
+ 
+										elunic auf dem Handelsblatt KI Summit 2022									
+Der Handelsblatt KI Summit lädt am 8. und 9. Juni ein weiteres Mal eine Vielzahl von Referenten zum Austausch ein.
+Als Teil der KI Biennale findet dieses Jahr am 8. und 9. Juni der Handelsblatt KI Summit in Essen statt. Jonas Schaub, Vorstand der elunic AG,... 
+ 
+	by    
+		Ines Zuckschwerdt    
+ 
+										elunic auf der Hannover Messe 2022									
+Vom 30. Mai bis 2. Juni 2022 öffnen sich wieder die Tore der Hannover Messe auf dem größten Messegelände der Welt. Und elunic ist in Halle 5 an Stand B52 mit dabei.
+Die elunic AG zeigt vom 30. Mai bis 2. Juni 2022 wieder ihre Softwarelösungen... 
+ 
+	by    
+		Ines Zuckschwerdt    
+Alle Einträge
+	elunic auf LinkedIn. 
+Eine der wichtigsten Schnittstellen zwischen Maschinen-/Anlagenbauern und ihren Kunden sind die Benutzeroberflächen ihrer Anwendungen und Plattformen. Für diese Schnittstellen bieten Technologien wie #InfluxDBv2 und Grafana® zur Visualisierung von Sensor- und Maschinendaten viele Vorteile.
+#shopfloorio #maschinenbau #iiot #iot #digitalisierung
+➜ zum Post
+„Digital macht den Unterschied. Die Anreicherung des Serviceangebots mit Software und insbesondere datenbasierten Mehrwerten sind für den Anlagen- und Maschinenbau der Weg, sich weiterzuentwickeln und radikale Differenzierungen zu ermöglichen.“
+Jonas Schaub – Vorstand elunic AG
+#shopfloorio #maschinenbau #anlagenbau #iiot #iot #digitalisierung
+➜ zum Post
+Der Begriff „Digitaler Zwilling“ wird sehr vielseitig genutzt und ist nicht immer eindeutig definiert. Er geht häufig fließend in andere Begriffe und Bedeutungen wie dem Digitalen Modell und Digitalen Schatten über. Wobei Digitale Modelle reale Objekte und deren physische Eigenschaften virtuell abbilden, allerdings durch den rein manuellen Datenfluss nur einen begrenzten Mehrwert im Bereich der stetig wachsenden Möglichkeiten des Industrial IoT bieten. Diese Möglichkeiten können durch den Einsatz von Digitalen Schatten und derer semi-automatisierten Datenflüsse weiter ausgebaut werden.
+#shopfloorio #digitaltwin digitalerschatten #digitalerzwilling #aas
+➜ zum Post
+Durch das von elunic gemeinsam mit ASMPT SMT Solutions entwickelte Factory Chat wurde ein System zur Kommunikation und standortübergreifenden, intelligenten Fehlererfassung und Lösungsfindung für smarte Produktionen geschaffen.
+#shopfloorio #azure #iot #microsoft #produktion
+➜ zum Post
+KI-gestützte Anomaliedetektion kann Abweichungen in der Fertigung erkennen, bevor sie sich zu Produktionsfehlern entwickeln 🛑. Die Entstehung von Ausschuss und ungeplanten Stillständen unterbindet sie somit schon im Ansatz durch frühzeitiges und automatisches Erkennen von Anomalien und Trends.
+#KI #produktion #shopfloorio
+➜ zum Post
+🎄 Weihnachten steht vor der Tür und ein ereignisreiches Jahr geht zu Ende. Wir möchten die Gelegenheit nutzen, um uns bei unseren Mitarbeitenden, Kund:innen und Partnern ❤-lich für die gute Zusammenarbeit und das entgegengebrachte Vertrauen zu bedanken.
+#christmas #newyear #elunicteam
+➜ zum Post
+ 🏅 AI.SEE™ ist eine der Top 3 Innovationen 2022 🏅
+Im Rahmen des Best of Industry Awards haben Sie für unsere #KI-basierte Qualitätsprüfung AI.SEE™ abgestimmt und uns unter die Top 3 Innovationen des Jahres 2022 in der Kategorie “Mess- und Prüftechnik” gewählt.
+#bestofindustry #award #innovation #aisee
+➜ zum Post
+Die #KI-basierte Qualitätsprüfung AI.SEE™ ist Teil der im Batterie-Atlas von Battery-News.de akkreditierten Unternehmen, da sie genau dort ansetzt und durch die optische Inspektion von Produktionsteilen direkt an der Linie und in Echtzeit dazu beitragen kann, den Ausschuss sowie die Zeit für die optische Prüfung nachhaltig zu minimieren. #battery #aisee
+➜ zum Post
+Was ist eigentlich ein Vorprojekt bei AI.SEE™?
+Vor dem eifrigen Start in ein großes Projekt ist es empfehlenswert ein kleineres Vorprojekt unter realen Bedingungen durchzuführen. Auf diese Weise kann kosteneffizient und schnell ermittelt werden, ob die Problemstellung in der #Produktion mit elunics #KI-basierter Qualitätsprüfung AI.SEE™ lösbar ist. Dadurch können langfristig
+• Kosten reduziert,
+• Risiken minimiert und
+• Ressourcen nachhaltig geschont werden.
+Erfahren Sie in unserem Quickstarter zum downloaden, wie Sie Ihr eigenes Vorprojekt in 4 einfachen Schritten realisieren können: https://www.elunic.com/de/ai-see/#vorprojekt
+#aisee #qualityassurance
+➜ zum Post
+Viele weitere Inhalte auf LinkedIn abrufen
+FOLLOW US
+	elunic in den Medien. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alle anzeigen
+	Kontakt. 
+Sie haben eine Projektanfrage oder wollen einfach nur Hallo sagen? Zögern Sie nicht, Kontakt mit uns aufzunehmen – wir antworten Ihnen gerne und umgehend.
+ 
+Please leave this field empty.
+Please leave this field empty.
+Sie sind:*MaschinenbauerMaschinenbetreiberAnderes
+ 
+*Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Website einverstanden.
+ 
+ 
+ elunic AG
+ 
+ Erika-Mann-Str. 23
+ 
+ 80636 München
+ 
+ Deutschland
+ 
+ 089 / 4161737 - 30
+ 
+ info@elunic.com
+ 
+ 
+elunic AG
+Erika-Mann-Str. 23
+80636 München
+T: 089 / 4161 737 - 30
+F: 089 / 4161 737 - 39
+E: info@elunic.comSprachauswahlDeutsch
+English
+中文
+Social MediaLinkedin
+Facebook
+Twitter
+ 
+Home
+Unternehmen
+Karriere
+Werkstudent Remote (m/w/d) [100% remote]
+News
+Termine
+Presse
+Referenzprojekte
+Industrie 4.0 IoT Software-Entwicklungsbaukasten – shopfloor.io
+AISEE™ – Visuelle Qualitätskontrolle und Fehlererkennungssystem
+Industrial IoT Dienstleister
+AWS Dienstleister für das industrielle IoT in München
+Machine LearningMachine Learning für die Qualitätssicherung in der Industrie 4.0
+Industrielle Bildverarbeitung in der Produktion
+Automatische Qualitätsprüfung in der Industrie
+Bildverarbeitungssoftware in der Qualitätskontrolle
+Automatisierte Bilderkennung
+Predictive Quality – Qualitätssteigerung durch gute Entscheidungen
+Automatische Oberflächenanalyse in der Qualitätskontrolle
+Visuelle Inspektion mit AI.SEE™ von elunic
+Automatische Qualitätssicherung in der Industrie
+Inline-Qualitätskontrolle mit AI.SEE™
+Automatische Qualitätskontrolle in der Produktion
+Qualitätskontrolle mittels Bildverarbeitungssystem in der Industrie
+Industrielle Qualitätssicherung durch AI.SEE™
+End-of-Line (EoL) Qualitätskontrolle am Prüfstand
+Synthetische Bilddaten für bessere KI-Modelle
+Visuelle Prüfung von Oberflächen
+Standortunabhängige Qualitätssicherung
+Automatisierte Anomalieerkennung in der Produktion durch KI
+ 
+Industrie 4.0Remote Condition Monitoring Software für den Maschinenbau
+Asset Management & Equipment Efficiency
+Maschinendatenvisualisierung
+Digitalisierung im Maschinenbau
+Digitaler Schatten
+Digitaler Zwilling
+Edge-Computing
+Microservices
+Manufacturing X
+Predictive Maintenance
+Equipment-as-a-Service und Pay-per-Use
+Industrial IoT Plattformen
+AWS
+IoT Microsoft Azure
+Cumulocity
+Mindsphere
+Industrial IoT Dienstleister
+shopfloor.io-Module
+White Label Maschinenportal und IoT-Kundenportal
+App Hub
+Asset Management
+Benutzerverwaltung
+Dokumentenverwaltung
+Condition Monitoring
+Wartungsmanager
+Anomalieerkennung
+ 
+ 
+ © elunic AG - All Rights Reserved | Impressum & Datenschutz | AGB | Datenschutzinformationen für Bewerber  
+ 
+ 
+ 
+Jetzt für kostenlose Demo registrieren
+ 
+Please leave this field empty.
+Please leave this field empty.
+*Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Website einverstanden.
+Jetzt für kostenlose Demo registrieren
+ 
+Please leave this field empty.
+Please leave this field empty.
+*Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Website einverstanden.
+Jetzt für kostenlose Demo registrieren
+ 
+Please leave this field empty.
+Please leave this field empty.
+*Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Website einverstanden.
+Nach dem ersten Screening senden wir dir eine Einladung zu unserem Tool Talentcube. Wir haben 3-5 kurze Fragen vorbereitet, die du in einem persönlichen Video beantworten kannst (auch wir haben ein kurzes Vorstellungsvideo vorbereitet). Solltest du dich damit nicht wohlfühlen, gib uns gerne Bescheid - wir finden eine Alternative!
+Wir möchten dadurch einen authentischen Ersteindruck von dir erhalten und haben gleichzeitig die Möglichkeit dein Video mit unserem Team zu sichten und schnell richtige Entscheidungen zu treffen.
+Jetzt für kostenlose Demo registrieren
+ 
+Please leave this field empty.
+Please leave this field empty.
+*Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Website einverstanden.
+Jetzt für kostenlose Demo registrieren
+ 
+Please leave this field empty.
+Please leave this field empty.
+*Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Website einverstanden.
+Jetzt für kostenlose Demo registrieren
+ 
+Please leave this field empty.
+Please leave this field empty.
+*Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Website einverstanden.
+Jetzt für kostenlose Demo registrieren
+ 
+Please leave this field empty.
+Please leave this field empty.
+*Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Website einverstanden.
+Jetzt für kostenlose Demo registrieren
+ 
+Please leave this field empty.
+Please leave this field empty.
+*Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Website einverstanden.
+Jetzt für kostenlose Demo registrieren
+ 
+Please leave this field empty.
+Please leave this field empty.
+*Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Website einverstanden.
+Jetzt für kostenlose Demo registrieren
+ 
+Please leave this field empty.
+Please leave this field empty.
+*Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Website einverstanden.
+Jetzt für kostenlose Demo registrieren
+ 
+Please leave this field empty.
+Please leave this field empty.
+*Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Website einverstanden.
+Mit dem shopfloor.io-Asset Ping können Sie Bestandsmaschinen im Feld anbinden, erfassen und Maschinendaten visualisieren, digitale Services vertreiben und Ihren After-Sales erhöhen.
+Jetzt für kostenlose Demo registrieren
+ 
+Please leave this field empty.
+Please leave this field empty.
+*Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Website einverstanden.
+Jetzt für kostenlose Demo registrieren
+ 
+Please leave this field empty.
+Please leave this field empty.
+*Mit der Nutzung dieses Formulars erklären Sie sich mit der Speicherung und Verarbeitung Ihrer Daten durch diese Website einverstanden.

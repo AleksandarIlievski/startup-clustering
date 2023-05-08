@@ -1,0 +1,72 @@
+RetroBrain R&D | Spielend körperlich und geistig aktiv sein
+Über uns
+Was wir machen
+Motivation
+Team
+Technologie
+Auszeichnungen
+Philosophie
+Partner
+Meilensteine
+Karriere
+Jetzt bewerben
+Benefits
+Standort
+Kontakt
+Home
+Karriere
+Kontakt
+ 
+Spielend körperlich und geistig aktiv sein
+RetroBrain R&D ist ein junges Unternehmen mitten im Herzen von Hamburg. Seit 2014 entwickeln wir präventiv-therapeutisch wirksame Videospiele für Seniorinnen und Senioren.
+Bereits zu Beginn stellten wir uns eine Frage: Wie können die Charakteristiken des Spiels, moderne Technologien und Wissenschaft gemeinsam eingesetzt werden, um die Gesundheit von älteren und erkrankten Menschen positiv zu beeinflussen?
+Als Antwort darauf entwickelten und etablierten wir unser Hauptprodukt, die eHealth Lösung memore. Bereits 2015 als „a benchmark in the therapeutic gamification industry“ (LIFT Basel) geehrt, sind wir heute deutschlandweit vertreten, als Medizinprodukt der Klasse I zertifiziert und werden regelhaft von Pflegekassen vollständig erstattet.
+zu memore
+
+Gestengesteuerte Videospiele
+Mit Hilfe einer 3D-Kamera werden die Bewegungen der Spieler:innen erfasst und ins Spiel übertragen. Durch intuitive und aus der Ergotherapie entwickelte Bewegungen wird auf diesem Wege durch 6 Spielmodule navigiert. So kann unter anderem virtuell gekegelt, Motorrad gefahren oder Tischtennis gespielt werden.
+
+Klinisch bestätigte Wirksamkeit 
+Im Zuge von Evaluationsprojekten mit der BARMER konnte der positive Effekt von memore auf verschiedene Bereiche mentaler und körperlicher Gesundheit nachgewiesen werden. Das umfasst sowohl die Förderung von Koordination, Gleichgewicht, Aufmerksamkeit und Gedächtnis als auch die Förderung der sozialen Einbindung und empfundenen Lebensqualität.
+
+Senior:innen und Gaming?
+Was für einige erst einmal ungewohnt klingt, ist eigentlich ganz normal. Denn auch ältere Menschen haben Spaß am Spiel und Lust, Neues zu entdecken. Dabei sind schon die unterschiedlichsten Geschichten entstanden: Manch einer lässt über die Konsole seine Liebe zum Motorradfahren wieder aufleben und auch memore Kegelclubs wurden schon gegründet.
+Motivation
+“​Das eigene Leben auch im Alter noch selbstbestimmt und aktiv gestalten zu können, ist nicht selbstverständlich. Hier möchten wir einen Beitrag leisten und älteren Menschen spielerisch die Möglichkeit geben, die eigene Gesundheit zu fördern und gleichzeitig Spaß zu haben. Unser Team hat sich der Idee verschrieben, Menschen insbesondere in der teil- und vollstationären Pflege, die immer noch viele Gesundheitspotentiale haben, zu mehr Lebensqualität zu verhelfen. Digitale Technologien geben uns die Möglichkeiten, diese Perspektiven in der Pflege und somit für viele Einzelne zu schaffen. Der Weg von der Idee zur Erfolgsgeschichte war lang, aber hat gezeigt: Es funktioniert und es lohnt sich. Dieses Wissen beweist uns, dass wichtig ist, Visionen zu haben und treibt uns an, diese tagtäglich in unserer Arbeit zu verfolgen.“​
+Timm WitteGeschäftsführer
+über0Mitarbeiter
+über0zufriedene Kunden
+Team
+Wir sind eine Gruppe von smarten Vorausdenker:innen, passionierten (Video-) Spieler:innen, kreativen Köpfen und strukturierten Denker:innen, die…
+
+…modernes Gamedesign mit hochaktueller medizinischer Forschung verknüpfen.
+
+…jeden Tag an ihre Grenzen gehen, um RetroBrain R&D zu einem Leuchtturm im Digital Health Bereich zu machen.
+
+…davon überzeugt sind, dass “Briefe austragen” in einem Videospiel nicht nur Spaß machen kann, sondern auch präventiv-therapeutisch wirkt.
+Unser stetig wachsendes Team hat eine klare Vision: Wir wollen mit unserem Konzept spielerisch dazu beizutragen, Gesundheit und Lebensfreude bis ins hohe Alter für so viele Menschen wie möglich zu gewährleisten. Gemeinsam kommen wir dieser Vision täglich ein Stück näher. Dabei ist uns insbesondere die Zusammenarbeit als Team zentral und der wertschätzende ebenso wichtig wie der humorvolle Umgang miteinander. Nicht nur unser Produkt, sondern auch unsere Firmenkultur orientiert sich am Prinzip des Homo Ludens: Der Mensch ist nur da ganz Mensch ist, wo er spielt. Also spielen wir! Xbox und Nintendo Switch , Online Game-Events nach Feierabend oder Brettspiele mit einem kalten Getränk vor Ort sind bei uns kein Feelgood Gimmick, sondern gehören schlicht zum guten RetroBrain – Ton und sind Bestandteil unserer Firmenidentität. Flache Hierarchien bedeuten bei uns gleichzeitig Teamleads, Partner:innen und Austausch auf Augenhöhe zu haben. Uns ist wichtig, dass jeder sich mit seinen Ideen und Fähigkeiten einbringen und somit nicht nur unser Unternehmen, sondern auch sich ganz persönlich jeden Tag weiterentwickeln kann.
+Jetzt Bewerben
+Technologie
+ 
+Am Standort Hamburg entwickeln wir nun seit 2015 unsere Software nah an den Bedürfnissen der Nutzer:innen und den Anforderungen von Wissenschaft und Pflege. Dies kann nur mit einem phantastischen Team gelingen, welches nicht nur mit State-of-the-Art Technologien arbeitet (C++ und C# in Unity, Python, Docker, Jenkins), sondern auch die Emphatie und das Verständnis für die Zielgruppe mitbringt – denn unsere präventiv-therapeutischen Videospiele sollen am Ende älteren Menschen Freude bereiten! Unser memore „Universum“ mit seinem „Look and Feel“ wird ebenfalls bei uns erstellt und weiterentwickelt – unsere 3D-Artists arbeiten dafür mit Maya, ZBrush, Substance 3D Painter, Substance 3D Designer, Affinity Photo und Affinity Designer. Wenn Du Dich hier mit Deinem Profil wiederfindest, kontaktiere uns gern, wir stellen für jeden Job die richtige Hardware zur Verfügung, um sowohl im Office, als auch Remote jederzeit volle Leistung bringen zu können.
+Auszeichnungen
+ 
+Für unser Engagement und unsere Leistungen im Kampf gegen demenzielle Erkrankungen sowie Entwicklungen im Bereich Digital Health, durften wir bereits eine Vielzahl an Auszeichnungen entgegennehmen. Dazu zählen u.a. der „Digital Health Germany Award“ von CISCO, der „Social Business Award SensAbility“ der WHU und der „Rudi Assauer Preis“.
+Philosophie
+ 
+Im Vordergrund steht bei uns immer der Mensch, egal ob wir für ihn oder er mit uns arbeitet. In der Konzeption unserer Spiele gehen wir daher nutzerzentriert vor. Das heißt: Durch ständigen und engen Austausch mit den Nutzer:innen unserer memoreBox, versuchen wir unser Produkt so weiterzuentwickeln, dass es immer optimal auf die jeweiligen Bedürfnisse zugeschnitten ist. Dazu gehört eine leserfreundliche Bedienungsanleitung und One-Button Bedienung der Box ebenso wie persönliche Betreuung der Senior:innen und des Pflegepersonals vor Ort.Unsere memoreBox bringt Freude in den Alltag der Pflege, fördert die Gemeinschaft und ist lebensnah und vielseitig – und genau diese Werte spiegeln sich auch in unseren Unternehmenswerten wider.Das Arbeitsumfeld gestalten wir so, dass Jede:r sich darin wohlfühlen und in seinem Arbeitsbereich flexibel uns selbstbestimmt tätig sein kann. Wir legen dabei besonderen Wert auf Inklusion und Gleichberechtigung. Hierfür bieten wir beispielsweise Arbeitsmodelle, in denen sowohl Mütter und Väter als auch Studierende und Menschen mit anderweitigen Verpflichtungen oder Einschränkungen bestmöglich arbeiten können. Darüber hinaus gibt es die Möglichkeit, sich in unserem CultureWork Team einzubringen und die Firmenkultur aktiv zu prägen.
+Was dich außerdem erwartet?
+Hier geht es zu weiteren Benefits
+Partner
+ 
+Auf unserem Weg haben uns eine Vielzahl unterschiedlichster Partner:innen begleitet, die unsere Mission mit ihrer Unterstützung, Expertise und ihrer Begeisterung bereichert haben. Heute können wir auf ein stabiles Netzwerk langjähriger verlässlicher Partner:innen zurückgreifen. Gleichzeitig freuen wir uns auch immer wieder neue spannende Kontakte knüpfen und gemeinsame Wege beschreiten zu können.
+Kooperationen
+Unterstützer
+Mitgliedschaften
+ 
+Sie haben Fragen?
+Wir beraten Sie gerne.
+ +49 (0) 40 40 110 101 info@retrobrain.de
+Impressum   |   Datenschutz   |  © 2022
+ 
+ 
