@@ -48,10 +48,14 @@ PyYAML==6.0
 pyzmq==25.0.2
 regex==2023.5.5
 requests==2.31.0
+scikit-learn==1.2.2
+scipy==1.10.1
 setuptools==66.0.0
 six==1.16.0
+sklearn==0.0.post5
 soupsieve==2.4.1
 stack-data==0.6.2
+threadpoolctl==3.1.0
 tomli==2.0.1
 tornado==6.3.2
 tqdm==4.63.1
