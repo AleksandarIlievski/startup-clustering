@@ -35,7 +35,7 @@ def keepAlpha(sentence):
 def removeStopWords(sentence, stopwords):
     # define stopwords
     stop_words = set(stopwords.words('german'))
-    stop_words.update(['null','eins','zwei','drei','vier','fünf','sechs','sieben','acht','neun','zehn'])
+    stop_words.update(['null','eins','zwei','drei','vier','fünf','sechs','sieben','acht','neun','zehn', 'Impressum', 'Cookies', 'Datenschutzerklärung', 'AGB', 'Mail', 'Blog', 'Kontakt', 'Unternehmen', 'Lösungen'])
     re_stop_words = re.compile(r"\b(" + "|".join(stop_words) + ")\\W", re.I)   
     return re_stop_words.sub(" ", sentence)
 
@@ -50,12 +50,17 @@ def stemming(sentence):
     stemSentence = stemSentence.strip()
     return stemSentence
 
-def preprocess_data(data):
+def preprocess_data(data, clean:bool = 1, punc:bool = 1, alpha:bool = 1, stopword:bool = 1, stemmer:bool = 1):
     # apply functions
     data = data.str.lower()
-    data = data.apply(cleanHtml)
-    data = data.apply(cleanPunc)
-    data = data.apply(keepAlpha)
-    data = data.apply(removeStopWords, stopwords=stopwords)
-    data = data.apply(stemming)
+    if clean == 1:
+        data = data.apply(cleanHtml)
+    if punc == 1:
+        data = data.apply(cleanPunc)
+    if alpha == 1:
+        data = data.apply(keepAlpha)
+    if stopword == 1:
+        data = data.apply(removeStopWords, stopwords=stopwords)
+    if stemmer == 1:
+        data = data.apply(stemming)
     return data
