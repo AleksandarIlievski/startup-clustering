@@ -1,80 +1,97 @@
 import unittest
-from src.demo import say_hello
-import unittest
-import pandas as pd
-from pandas.testing import assert_frame_equal
-from src.scraper import scrape_website
+import requests
+import re
+from unittest.mock import patch, MagicMock
+from bs4 import BeautifulSoup
+from src.Web_Scraping.basic_functions import (is_scraping_allowed, remove_cookie_banners, getWebsiteText,
+                                              getWebsiteText_v2, format_string, remove_sentence_with_keyword)
 
-
-class TestDemo(unittest.TestCase):
-
-    def setUp(self):
-
-        # defining input shared across tests
-        self.dummy_name = 'dummy'
-
-    def test_say_hello(self):
-
-        # get output of say_hello
-        output = say_hello(name=self.dummy_name)
-
-        # check output
-        self.assertEqual(output, 'hello dummy')
-
-    def tearDown(self):
-
-        # define actions that are carried out after each test
-        pass
 
 class TestScraper(unittest.TestCase):
 
-    def test_scrape_website_allowed(self):
-        # Test that the scrape_website function returns the expected text when scraping is allowed
-        url = 'http://books.toscrape.com/'
-        expected_text = 'Books to Scrape - Sandbox'
+    def test_is_scraping_allowed(self):
+        url = "http://example.com"
+        with patch('requests.get') as mock_get:
+            # Simulate the response
+            mock_resp = MagicMock()
+            mock_resp.status_code = 200
+            mock_resp.text = "User-agent: *\nDisallow: /test"
+            mock_get.return_value = mock_resp
 
-        actual_text = scrape_website(url)
-        self.assertEqual(actual_text.strip(), expected_text)
+            self.assertTrue(is_scraping_allowed(url))
 
-    def test_scrape_website_not_allowed(self):
-        # Test that the scrape_website function returns the expected text when scraping is not allowed
-        url = 'http://httpbin.org/deny'
-        expected_text = 'Scraping not allowed'
+            # Change the mock to simulate a disallowed URL.
+            mock_resp.text = f"User-agent: *\nDisallow: {url}"
+            self.assertFalse(is_scraping_allowed(url))
 
-        actual_text = scrape_website(url)
-        self.assertEqual(actual_text.strip(), expected_text)
+            # Test case where requests.get() raises an exception.
+            mock_get.side_effect = Exception()
+            self.assertFalse(is_scraping_allowed(url))
 
-    def test_scrape_website_error(self):
-        # Test that the scrape_website function returns the expected text when an error occurs
-        url = 'http://thiswebsitedoesnotexist.com'
-        expected_text = 'Error scraping'
+            # Test case where status code is not 200.
+            mock_resp.status_code = 404
+            mock_get.side_effect = None
+            mock_get.return_value = mock_resp
+            self.assertFalse(is_scraping_allowed(url))
 
-        actual_text = scrape_website(url)
-        self.assertEqual(actual_text.strip(), expected_text)
+    def test_remove_cookie_banners(self):
+        soup = BeautifulSoup('<div class="cookie-banner">Hello, world!</div>', 'html.parser')
+        remove_cookie_banners(soup)
+        self.assertFalse(soup.find(class_="cookie-banner"))
 
-    def test_scrape_website_remove_html_elements(self):
-        # Test that the scrape_website function removes unimportant HTML elements from the scraped text
-        url = 'http://books.toscrape.com/'
-        expected_text = 'Books to Scrape - Sandbox'
+    def test_getWebsiteText(self):
+        url = "http://example.com"
+        with patch('requests.get') as mock_get:
+            mock_resp = MagicMock()
+            mock_resp.status_code = 200
+            mock_resp.content = b"<html><body><p>Hello, world!</p></body></html>"
+            mock_get.return_value = mock_resp
 
-        actual_text = scrape_website(url)
-        self.assertNotIn('<nav', actual_text)
-        self.assertNotIn('<header', actual_text)
-        self.assertNotIn('<footer', actual_text)
+            self.assertEqual(getWebsiteText(url), "Hello, world!")
 
-    def test_scrape_website_adds_to_dataframe(self):
-        # Test that the scrape_website function adds the scraped data to the new dataframe correctly
-        url = 'http://books.toscrape.com/'
-        expected_df = pd.DataFrame({'website_url': [url], 'text': ['Books to Scrape - Sandbox']})
+            # Test case where requests.get() raises an exception.
+            mock_get.side_effect = Exception()
+            self.assertEqual(getWebsiteText(url), "Error: Failed to get response")
 
-        df = pd.DataFrame({'website_url': [url]})
-        new_df = pd.DataFrame(columns=['website_url', 'text'])
+            # Test case where status code is not 200.
+            mock_resp.status_code = 404
+            mock_get.side_effect = None
+            mock_get.return_value = mock_resp
+            self.assertEqual(getWebsiteText(url), "Error: 404")
 
-        for url in df['website_url']:
-            text = scrape_website(url)
-            new_df = pd.concat([new_df, pd.DataFrame([[url, text]], columns=new_df.columns)], ignore_index=True)
+    def test_getWebsiteText_v2(self):
+        url = "http://example.com"
+        with patch('requests.get') as mock_get:
+            mock_resp = MagicMock()
+            mock_resp.status_code = 200
+            mock_resp.content = b"<html><body><p>Hello, world!</p></body></html>"
+            mock_get.return_value = mock_resp
 
-        assert_frame_equal(new_df, expected_df)
+            self.assertEqual(getWebsiteText_v2(url), "Hello, world!")
+
+            # Test case where requests.get() raises an exception.
+            mock_get.side_effect = Exception()
+            self.assertEqual(getWebsiteText_v2(url), "Error: Failed to get response")
+
+            # Test case where status code is not 200.
+            mock_resp.status_code = 404
+            mock_get.side_effect = None
+            mock_get.return_value = mock_resp
+            self.assertEqual(getWebsiteText_v2(url), "Error: 404")
+
+    def test_format_string(self):
+        input_string = "  Hello,  world!  "
+        self.assertEqual(format_string(input_string), "Hello, world!")
+
+    def test_remove_sentence_with_keyword(self):
+        text = "Hello, world! This is a test."
+        keyword = "test"
+        self.assertEqual(remove_sentence_with_keyword(text, keyword), "Hello, world!")
+
+        # Test case with no match
+        keyword = "no-match"
+        self.assertEqual(remove_sentence_with_keyword(text, keyword), text)
+
 
 if __name__ == '__main__':
     unittest.main()
