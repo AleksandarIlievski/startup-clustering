@@ -6,6 +6,15 @@ from nltk.stem.snowball import SnowballStemmer
 def cleanHtml(sentence):
     cleanr = re.compile('<.*?>')
     cleantext = re.sub(cleanr, ' ', str(sentence))
+    cleantext = cleantext.replace("\n"," ")
+    cleantext = cleantext.replace("√ú","Ü")
+    cleantext = cleantext.replace("√ü","ß")
+    cleantext = cleantext.replace("√∂", "ö")
+    cleantext = cleantext.replace("√º", "ü")
+    cleantext = cleantext.replace("√§", "ä")
+    cleantext = cleantext.replace("&", "und")
+    cleantext = cleantext.replace("‚Äú", " ")
+    cleantext = cleantext.replace("¬†", " ")
     return cleantext
 
 #function to clean text of any punctuation or special characters
