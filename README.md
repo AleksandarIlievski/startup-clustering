@@ -33,9 +33,9 @@ So your task is to use natural language processing (NLP), and unsupervised learn
 - Surname: Dude
 - Matriculation Number: XXXXXX
 
-- Forename: Another
-- Surname: Dude
-- Matriculation Number: XXXXXX
+- Forename: Patrick
+- Surname: Müller
+- Matriculation Number: 2421690
 
 - Forename: Franz   
 - Surname: Muszarsky
