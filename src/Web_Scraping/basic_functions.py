@@ -50,6 +50,7 @@ def is_scraping_allowed(url):
 
     # If none of the above conditions are met, assume scraping is allowed.
     return True
+
 def remove_cookie_banners(soup):
     """
         Removes elements related to cookie consent banners from the given BeautifulSoup object.
@@ -83,6 +84,7 @@ def remove_cookie_banners(soup):
     tags_with_cookie = soup.find_all(attrs={"class": pattern, "id": pattern})
     for tag in tags_with_cookie:
         tag.extract()
+
 def getWebsiteText(url):
     """
         Retrieves the text content of the webpage at the given URL.
@@ -120,6 +122,7 @@ def getWebsiteText(url):
         if 'response' not in locals():
             return "Error: Failed to get response"
         return f"Error: {response.status_code}"
+    
 def getWebsiteText_v2(url):
     """
         Retrieves the text content of the webpage at the given URL and removes cookie banners.
@@ -159,6 +162,7 @@ def getWebsiteText_v2(url):
         if 'response' not in locals():
             return "Error: Failed to get response"
         return f"Error: {response.status_code}"
+    
 def format_string(input_string):
     """
         Formats the input string by replacing multiple whitespaces with a single space.
@@ -177,6 +181,7 @@ def format_string(input_string):
     formatted_string = re.sub(r'\s+', ' ', input_string)
 
     return formatted_string.strip()
+
 def remove_sentence_with_keyword(text, keyword):
     """
         Removes sentences that contain the specified keyword from the text.
@@ -198,5 +203,52 @@ def remove_sentence_with_keyword(text, keyword):
     modified_text = ' '.join(filtered_sentences)
 
     return modified_text
+
+def get_text_and_json(input_df):
+    """
+        Retrieves the text content of webpages based on the provided DataFrame and creates a dictionary of processed data.
+
+        Args:
+            input_df (pandas.DataFrame): The DataFrame containing the input data.
+                                         It should have columns named 'name', 'original_idx', 'check_robots', and 'website_url'.
+
+        Returns:
+            dict: A dictionary where the keys are row indices from the input DataFrame, and the values are dictionaries
+                  containing processed data for each row. The dictionaries have the following keys:
+                  - 'name': The name from the input DataFrame.
+                  - 'original_idx': The original index from the input DataFrame.
+                  - 'website_url': The URL from the input DataFrame.
+                  - 'website_text': The processed text content of the webpage.
+    """
+    data = input_df
+    data['original_idx'] = data.index
+    data = data.loc[data["check_robots"] == True]
+
+    data_dict = {}
+    # Iterate over the rows of the DataFrame
+    for index, row in data.iterrows():
+        print(index)
+        name = row['name']
+        id = row['original_idx']
+        url = row['website_url']
+
+        text = getWebsiteText_v2(url)
+        
+        # Remove empty lines
+        lines = text.splitlines()
+        new_lines = [line for line in lines if line]
+        new_text = "\n".join(new_lines)
+        website_text = format_string(new_text)
+
+        # Create a dictionary for the current row and add it to the data_dict
+        row_dict = {
+            'name': name,
+            'original_idx': id,
+            'website_url': url,
+            'website_text': website_text
+        }
+        data_dict[index] = row_dict
+    
+    return data_dict
 
 
