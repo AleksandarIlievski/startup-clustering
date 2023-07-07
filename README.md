@@ -12,6 +12,30 @@ Please only submit code and no datasets or models because the storage capacities
 - Surname: Dude
 - Matriculation Number: XXXXXX
 
+- Forename: Another
+- Surname: Dude
+- Matriculation Number: XXXXXX
+
+- Forename: Another
+- Surname: Dude
+- Matriculation Number: XXXXXX
+
+- Forename: Another
+- Surname: Dude
+- Matriculation Number: XXXXXX
+
+- Forename: Another
+- Surname: Dude
+- Matriculation Number: XXXXXX
+
+- Forename: Another
+- Surname: Dude
+- Matriculation Number: XXXXXX
+
+- Forename: Franz   
+- Surname: Muszarsky
+- Matriculation Number: 2111400
+
 ## Reproducibility
 Please explain each step to reproduce your results and also include key information about your Python environment. 
 It is your responsibility to test the reproducibility. Please keep in mind that we can only test your code on a 
