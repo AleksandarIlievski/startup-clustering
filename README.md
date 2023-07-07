@@ -3,6 +3,11 @@
 Please use this template for submitting your case challenge. 
 Please only submit code and no datasets or models because the storage capacities are limited.
 
+## Task Description
+The start-up ecosystem is always changing and evolving. Getting an overview of existing start-ups and categorizing them into sectors is hard to do. The founding of new start-ups (with often low visibility), the abandonment of others, and new business ideas that do not fit in conventional business fields make this task even harder.
+
+So your task is to use natural language processing (NLP), and unsupervised learning to categorize a list of start-ups based on the text that is found on the landing page of their website.
+
 ## Group Members: 
 - Forename: Random
 - Surname: Dude
@@ -11,6 +16,31 @@ Please only submit code and no datasets or models because the storage capacities
 - Forename: Another
 - Surname: Dude
 - Matriculation Number: XXXXXX
+
+- Forename: Another
+- Surname: Dude
+- Matriculation Number: XXXXXX
+
+- Forename: Another
+- Surname: Dude
+- Matriculation Number: XXXXXX
+
+- Forename: Another
+- Surname: Dude
+- Matriculation Number: XXXXXX
+
+- Forename: Another
+- Surname: Dude
+- Matriculation Number: XXXXXX
+
+- Forename: Another
+- Surname: Dude
+- Matriculation Number: XXXXXX
+
+- Forename: Franz   
+- Surname: Muszarsky
+- Matriculation Number: 2111400
+
 
 ## Reproducibility
 Please explain each step to reproduce your results and also include key information about your Python environment. 
