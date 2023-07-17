@@ -51,11 +51,11 @@ You can use the following template to document the necessary steps for executing
 
 **Operating System**: Windows
 
-**Python Version**: 3.8.4
+**Python Version**: 3.10.9
 
 **Environment Setup**: 
 ````
-conda create –n bda python=3.8.4
+conda create –n bda python=3.10.9
 conda activate bda
 pip install –r requirements.txt
 pip install .
