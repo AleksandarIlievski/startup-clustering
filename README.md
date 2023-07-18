@@ -58,7 +58,6 @@ You can use the following template to document the necessary steps for executing
 conda create –n bda python=3.10.9
 conda activate bda
 pip install –r requirements.txt
-pip install .
 ````
 
 **Main Entry Point**
