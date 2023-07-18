@@ -63,7 +63,8 @@ docstr-coverage src -i -f
     ├── README.md 							
     ├── .gitignore 						    
     │   ├── preprocessed 					
-    │   └── raw								
+    │   └── raw		
+    │   └── final							
     ├── models								
     ├── presentation                        
     ├── notebooks							
