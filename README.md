@@ -1,7 +1,4 @@
-# bda-analytics-challenge-template  
-
-Please use this template for submitting your case challenge. 
-Please only submit code and no datasets or models because the storage capacities are limited.
+# bda-analytics-challenge
 
 ## Task Description
 The start-up ecosystem is always changing and evolving. Getting an overview of existing start-ups and categorizing them into sectors is hard to do. The founding of new start-ups (with often low visibility), the abandonment of others, and new business ideas that do not fit in conventional business fields make this task even harder.
@@ -42,13 +39,6 @@ So your task is to use natural language processing (NLP), and unsupervised learn
 - Matriculation Number: 2111400
 
 
-## Reproducibility
-Please explain each step to reproduce your results and also include key information about your Python environment. 
-It is your responsibility to test the reproducibility. Please keep in mind that we can only test your code on a 
-Windows or Linux machine. 
-
-You can use the following template to document the necessary steps for executing your program:
-
 **Operating System**: Windows
 
 **Python Version**: 3.10.9
@@ -58,11 +48,6 @@ You can use the following template to document the necessary steps for executing
 conda create –n bda python=3.10.9
 conda activate bda
 pip install –r requirements.txt
-````
-
-**Main Entry Point**
-````
-python main.py --dataset dummy.csv
 ````
 
 **Unittest & docstring coverage**:
@@ -75,29 +60,26 @@ docstr-coverage src -i -f
 ## Project Organization
 ------------
 ```
-    ├── README.md 							<-- this file. insert group members here
-    ├── .gitignore 						    <-- prevents you from submitting several clutter files
-    ├── data
-    │   ├── modeling
-    │   │   ├── dev 						<-- your development set goes here
-    │   │   ├── test 						<-- your test set goes here
-    │   │   └── train 						<-- your train set goes here goes here
-    │   ├── preprocessed 					<-- your preprocessed data goes here
-    │   └── raw								<-- the provided raw data for modeling goes here
-    ├── docs								<-- provided explanation of raw input data goes here
-    │
-    ├── models								<-- dump models here
-    ├── presentation                        <-- please submit your presentation in this folder
-    ├── notebooks							<-- your playground for juptyer notebooks
-    ├── requirements.txt 					<-- required packages to run your submission (use a virtualenv!)
+    ├── README.md 							
+    ├── .gitignore 						    
+    │   ├── preprocessed 					
+    │   └── raw								
+    ├── models								
+    ├── presentation                        
+    ├── notebooks							
+    ├── requirements.txt 					
     ├── src
-           ├── additional_features.py 			<-- your creation of additional features/data goes here
-           ├── predict.py 						<-- your prediction script goes here
-           ├── preprocessing.py 				<-- your preprocessing script goes here
-           ├── train.py 						<-- your training script goes here
-           └── demo.py                       <-- demo script
+    │   ├── Clustering 			
+    │   |   ├── HierachicalCluster.py 						
+    │   |   └── LDA.py      
+    │   ├── DataPreprocessing						
+    │   |   └── Preprocessing_en.py 						
+    │   └── Web_Scraping 				
+    │       ├── basic_functions.py 						
+    │       └── ScrapingMain.py                       
     └── tests
-           └── test_demo.py                  <-- demo script for unittest                
+         ├── test_preprocessing_en.py                  
+         └── test_scraping.py                               
 	
 ```
 ## Code evaluation
