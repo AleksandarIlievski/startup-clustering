@@ -9,25 +9,25 @@ The start-up ecosystem is always changing and evolving. Getting an overview of e
 So your task is to use natural language processing (NLP), and unsupervised learning to categorize a list of start-ups based on the text that is found on the landing page of their website.
 
 ## Group Members: 
-- Forename: Random
-- Surname: Dude
-- Matriculation Number: XXXXXX
+- Forename: Yuanchen
+- Surname: Zhong
+- Matriculation Number: 1950498
 
 - Forename: Another
 - Surname: Dude
 - Matriculation Number: XXXXXX
 
-- Forename: Another
-- Surname: Dude
-- Matriculation Number: XXXXXX
+- Forename: Aleksandar
+- Surname: Ilievski
+- Matriculation Number: 1954763
 
-- Forename: Another
-- Surname: Dude
-- Matriculation Number: XXXXXX
+- Forename: Fabian
+- Surname: Röckel
+- Matriculation Number: 1970907
 
-- Forename: Another
-- Surname: Dude
-- Matriculation Number: XXXXXX
+- Forename: Meriton
+- Surname: Duraki
+- Matriculation Number: 2506665
 
 - Forename: Philipp
 - Surname: Jäger
