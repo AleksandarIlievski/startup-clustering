@@ -41,11 +41,11 @@ So your task is to use natural language processing (NLP), and unsupervised learn
 
 **Operating System**: Windows
 
-**Python Version**: 3.10.9
+**Python Version**: 3.9.13
 
 **Environment Setup**: 
 ````
-conda create –n bda python=3.10.9
+conda create –n bda python=3.9.13
 conda activate bda
 pip install –r requirements.txt
 ````
